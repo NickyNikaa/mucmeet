@@ -228,6 +228,7 @@ const CATS = [
   {id:"padel",  name:"🎾 Padel",          c1:"#84cc16",c2:"#eab308"},
   {id:"tennis", name:"🟡 Tennis",         c1:"#65a30d",c2:"#16a34a"},
   {id:"biz",    name:"💼 Business",        c1:"#7c5cff",c2:"#4338ca"},
+  {id:"gastro", name:"🍽 Gastro & Genuss", c1:"#fb923c",c2:"#e11d48"},
   {id:"popup",  name:"🎪 Pop-up & Markt",  c1:"#f59e0b",c2:"#ef4444"},
   {id:"date",   name:"💘 Dating",          c1:"#ff5a5f",c2:"#db2777"},
   {id:"music",  name:"🎵 Musik & Open Air",c1:"#8b5cf6",c2:"#ec4899"},
@@ -354,6 +355,51 @@ const EVENTS = [
    loc:"München",ig:"",igUrl:"https://teammuenchen.de/en/summer-sports-festival/",
    desc:"Drei Tage Sport, Socialising & gute Stimmung über viele Disziplinen — von Tennis bis Mannschaftssport.",
    seed:["festi.flo","sporty.silke","paul","kathi_m"]},
+
+  /* ---- Business (ausgebaut) ---- */
+  {id:30,cat:"biz",title:"Tech Soirée MCSC — Munich Cyber AI Startup Night",date:"2026-07-14",time:"Di 18:30",
+   loc:"München (Security Network Munich)",ig:"",igUrl:"https://security-network-munich.org/tech-soiree-mcsc-munich-cyber-ai-startup-night/",
+   desc:"TED-Style Pitch-Night mit AI- & Cyber-Foundern, danach Flying Dinner, Drinks & DJ-Set. Demo-first, audience-driven."},
+  {id:31,cat:"biz",title:"Munich Startup Founder 101",date:"2026-07-07",time:"Di 19:00",
+   loc:"München (Meetup)",ig:"",igUrl:"https://www.meetup.com/munich-startup-founder-101/",
+   desc:"Offener Meetup für (angehende) Gründer:innen — Stories, Austausch & Networking. Newcomer ausdrücklich willkommen."},
+  {id:32,cat:"biz",title:"BVMID Unternehmer:Sommerfest München",date:"2026-07-11",time:"Sa 16:00",
+   loc:"München",ig:"",igUrl:"https://www.eventbrite.de/d/germany--m%C3%BCnchen/networking/",
+   desc:"Sommerfest des Mittelstands: Business-Networking, gute Gespräche & entspannte Atmosphäre."},
+  {id:33,cat:"biz",title:"Startup Pitch Night München",date:"2026-07-21",time:"Di 19:00",
+   loc:"München",ig:"",igUrl:"https://www.eventbrite.com/d/germany--m%C3%BCnchen/startup-pitch/",
+   desc:"Frühphasen-Startups pitchen vor Investor:innen & Community. Voting, Feedback und Drinks danach."},
+  {id:34,cat:"biz",title:"Business Vibes — Sommer-Networking 2026",date:"2026-07-25",time:"Fr 18:00",
+   loc:"München",ig:"",igUrl:"https://www.eventbrite.de/d/germany--m%C3%BCnchen/business--networking/",
+   desc:"Lockeres After-Work-Networking für Selbstständige & Unternehmer:innen aus verschiedensten Branchen."},
+
+  /* ---- Gastro & Genuss ---- */
+  {id:35,cat:"gastro",title:"Sundowner im Königlichen Hirschgarten",date:"2026-06-30",time:"Di & Do 18–20",
+   loc:"Königlicher Hirschgarten",ig:"",igUrl:"https://hirschgarten.de/en/events",
+   desc:"Feierabend-Drinks im größten Biergarten der Welt — Di & Do im Sommer, nur bei gutem Wetter. Treffpunkt zum Ausklang."},
+  {id:36,cat:"gastro",title:"Restaurant 1804 Hirschau — Sommer-Dinner",date:"2026-07-03",time:"ab 18:00",
+   loc:"1804 Hirschau, Englischer Garten",ig:"",igUrl:"https://www.opentable.com/r/1804-hirschau-munchen",
+   desc:"Bayerisch-modernes Dinner am Kleinhesseloher See, lauschig im Biergarten. Tisch bequem über OpenTable reservieren."},
+  {id:37,cat:"gastro",title:"Magdalenenfest am Hirschgarten",date:"2026-07-10",time:"Fr–So",
+   loc:"Hirschgarten, Neuhausen",ig:"",igUrl:"https://www.muenchen.de/veranstaltungen/top-events-2026-muenchen",
+   desc:"Traditionelles Volksfest im Grünen über zwei Wochen im Juli — Schmankerl, Musik & Münchner Sommerflair."},
+  {id:38,cat:"gastro",title:"Supper Club München — Dinner & Party",date:"2026-07-04",time:"Sa 19:30",
+   loc:"Filmcasino am Hofgarten",ig:"",igUrl:"http://www.supperclubmunich.de/",
+   desc:"Exklusives Dinner trifft Party an einem besonderen Ort — neue Leute kennenlernen über mehrere Gänge hinweg."},
+  {id:39,cat:"gastro",title:"Naturwein-Supperclub — 5 Gänge, 5 Naturweine",date:"2026-07-17",time:"Fr 19:00",
+   loc:"München (wechselnde Location)",ig:"",igUrl:"https://www.bisweilenfulminant.de/supper-clubs",
+   desc:"Intimer Supper Club in kleiner Runde: fünf Gänge, fünf Naturweine und gute Gespräche mit Fremden, die Freunde werden."},
+  {id:40,cat:"gastro",title:"Rooftop Sommerabend — Upside East",date:"2026-07-09",time:"Do 18:00",
+   loc:"Upside East, Werksviertel",ig:"",igUrl:"https://www.upside-east.com/",
+   desc:"Saisonale Küche & kuratierte Weinauswahl über den Dächern Münchens — Sundowner mit Skyline-Blick."},
+  {id:41,cat:"gastro",title:"Weinverkostung München — Sommer-Edition",date:"2026-07-23",time:"Do 19:00",
+   loc:"München (Rindchen)",ig:"",igUrl:"https://www.rindchen.de/angebote/aktuelle-events/weinevents-muenchen/",
+   desc:"Geführte Weinverkostung mit ausgesuchten Tropfen — locker, lehrreich und gesellig. Ideal zum Leute treffen."},
+
+  /* ---- Musik (ergänzt) ---- */
+  {id:42,cat:"music",title:"Münchner Sommernachtstraum",date:"2026-07-18",time:"Sa 20:00",
+   loc:"Olympiapark",ig:"",igUrl:"https://www.muenchen.de/veranstaltungen/top-events-2026-muenchen",
+   desc:"Lichtshow, Live-Musik & großes Feuerwerk über dem Olympiasee — einer der Sommer-Höhepunkte Münchens."},
 ];
 
 /* ---------- State ---------- */
@@ -379,7 +425,7 @@ function attendeesOf(ev){
 function isGoing(ev){return me && !!myRsvps[ev.id]}
 function profileUrl(h){return "https://www.instagram.com/"+encodeURIComponent((h||"").replace(/^@/,""))+"/"}
 const CATKW={run:"running",walk:"walking,park",cycle:"cycling,bicycle",yoga:"yoga",pilates:"pilates,fitness",
-  padel:"padel,tennis",tennis:"tennis",biz:"conference,networking",popup:"market,festival",
+  padel:"padel,tennis",tennis:"tennis",biz:"conference,networking",gastro:"restaurant,dinner",popup:"market,festival",
   date:"party,people",music:"concert,festival"};
 function imgFor(ev){return ev.img ? ev.img : "https://loremflickr.com/640/360/"+(CATKW[ev.cat]||"munich")+"?lock="+ev.id}
 
