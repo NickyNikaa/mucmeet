@@ -776,10 +776,14 @@ function renderOrte(){
   list.sort((a,b)=>(b.curated?1:0)-(a.curated?1:0) || (b.rating||0)-(a.rating||0));
   document.getElementById("orteCount").textContent=`${list.length} Orte`;
   document.getElementById("orteGrid").innerHTML=list.slice(0,150).map(p=>{
-    const grad=p.type==="bar"?"linear-gradient(160deg,#7c5cff,#4338ca)":"linear-gradient(160deg,#fb923c,#e11d48)";
+    const tint=p.type==="bar"?"#7c5cff":"#fb923c";
+    const kw=p.type==="bar"
+      ? (((p.cuisine||[])[0]||"cocktail").split("-")[0]+",bar")
+      : (((p.cuisine||[])[0]||"restaurant").split("-")[0]+",food");
+    const img="https://loremflickr.com/640/360/"+encodeURIComponent(kw)+"?lock="+hashCode(p.id);
     const tags=[...(p.cuisine||[]).slice(0,2),...(p.mood||[]).slice(0,2)].map(t=>`<span class="tag">${t}</span>`).join("");
     return `<div class="card">
-      <div class="cbanner" style="background:${grad}">
+      <div class="cbanner" style="background-image:linear-gradient(160deg,${tint}66 0%,rgba(12,13,24,.85) 80%),url('${img}');background-size:cover;background-position:center">
         <div class="cat">${p.type==="bar"?"🍸 Bar":"🍽 Restaurant"}</div>
         ${p.rating?`<div class="date"><small>★</small><b>${p.rating}</b></div>`:""}
       </div>
@@ -826,8 +830,11 @@ function renderComm(){
     if(c.strava)    links.push(`<a href="${c.strava}" target="_blank">🏃 Strava</a>`);
     if(c.whatsapp)  links.push(`<a href="${c.whatsapp}" target="_blank">💬 WhatsApp</a>`);
     const grad=COMM_GRADS[hashCode(c.category||c.id)%COMM_GRADS.length];
+    const tint=grad.split(",")[0];
+    const kw=((c.tags||[])[0]||c.category||"community");
+    const img="https://loremflickr.com/640/360/"+encodeURIComponent(kw)+"?lock="+hashCode(c.id);
     return `<div class="card">
-      <div class="cbanner" style="background:linear-gradient(160deg,${grad})">
+      <div class="cbanner" style="background-image:linear-gradient(160deg,${tint}66 0%,rgba(12,13,24,.85) 80%),url('${img}');background-size:cover;background-position:center">
         <div class="cat">${c.category||"community"}</div>
       </div>
       <div class="cbody">
