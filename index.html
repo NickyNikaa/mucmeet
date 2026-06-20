@@ -588,10 +588,29 @@ let toastT;
 function toast(msg){const t=document.getElementById("toast");t.textContent=msg;t.classList.add("show");
   clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("show"),2600)}
 
+/* ---------- Live-Daten laden (events.json vom täglichen GitHub-Action-Cron) ---------- */
+async function loadRemote(){
+  try{
+    const r=await fetch("events.json?ts="+Date.now(),{cache:"no-store"});
+    if(!r.ok) return 0;
+    const data=await r.json();
+    if(!Array.isArray(data)||!data.length) return 0;
+    const ids=new Set(EVENTS.map(e=>String(e.id)));
+    let added=0;
+    data.forEach(e=>{
+      if(e && e.id!=null && e.title && e.date && !ids.has(String(e.id))){
+        EVENTS.push(e); ids.add(String(e.id)); added++;
+      }
+    });
+    return added;
+  }catch(e){ return 0; } // lokal geöffnet / offline → nur kuratierte Events
+}
+
 /* ---------- Init ---------- */
 document.querySelectorAll(".ov").forEach(o=>o.addEventListener("click",e=>{if(e.target===o)o.classList.remove("show")}));
 document.getElementById("handleInput").addEventListener("keydown",e=>{if(e.key==="Enter")saveLogin()});
 renderFilters(); refreshMe(); render();
+loadRemote().then(n=>{ if(n){ calMonth=null; render(); } });
 </script>
 </body>
 </html>
