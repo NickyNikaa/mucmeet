@@ -111,6 +111,32 @@
   .att.you{outline:1.5px solid var(--green)}
   .badgeY{margin-left:auto;font-size:11px;font-weight:700;color:var(--green);background:rgba(52,211,153,.13);
     padding:4px 9px;border-radius:20px}
+  /* View switch + calendar */
+  .viewrow{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:16px 0 4px;flex-wrap:wrap}
+  .vswitch{display:flex;gap:4px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px}
+  .vbtn{border:none;background:none;color:var(--muted);font-weight:700;font-size:13px;padding:7px 13px;border-radius:8px;cursor:pointer}
+  .vbtn.active{background:var(--grad);color:#fff}
+  .calhead{display:flex;align-items:center;justify-content:space-between;margin:10px 0 12px}
+  .calhead h3{font-size:18px;text-transform:capitalize}
+  .calnav{display:flex;gap:8px}
+  .calnav button{background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:10px;width:38px;height:38px;cursor:pointer;font-size:16px}
+  .calnav button:hover{border-color:var(--accent2)}
+  .calgrid{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
+  .caldow{text-align:center;color:var(--muted);font-size:12px;font-weight:700;padding-bottom:4px}
+  .calcell{min-height:76px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:6px;
+    font-size:12px;display:flex;flex-direction:column;gap:3px}
+  .calcell.empty{background:transparent;border:none}
+  .calcell .dnum{font-weight:700;color:var(--muted)}
+  .calcell.has{cursor:pointer}
+  .calcell.has:hover{border-color:var(--accent2)}
+  .calcell.sel{outline:2px solid var(--accent2);outline-offset:-1px}
+  .calcell.today .dnum{color:var(--accent)}
+  .calev{font-size:10.5px;font-weight:700;color:#fff;border-radius:5px;padding:2px 6px;overflow:hidden;
+    text-overflow:ellipsis;white-space:nowrap}
+  .calmore{font-size:10px;color:var(--muted);font-weight:600}
+  .calhint{color:var(--muted);font-size:14px;padding:18px 2px}
+  @media(max-width:560px){.calcell{min-height:48px;padding:4px}.calev{font-size:0;padding:3px}.calmore{display:none}
+    .calcell.has{background:var(--card2)}}
   footer{border-top:1px solid var(--line);padding:26px 0;color:var(--muted);font-size:13px;text-align:center}
   footer b{color:var(--txt)}
   .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(120px);background:var(--card2);
@@ -142,7 +168,14 @@
   <div class="searchbar" style="margin-top:10px">
     🔍<input id="search" placeholder="Such nach Event, Ort oder @handle…" oninput="render()">
   </div>
-  <div class="countline" id="countline"></div>
+  <div class="viewrow">
+    <div class="countline" id="countline" style="margin:0"></div>
+    <div class="vswitch">
+      <button id="vList" class="vbtn active" onclick="setView('list')">🗓 Liste</button>
+      <button id="vCal" class="vbtn" onclick="setView('cal')">📅 Kalender</button>
+    </div>
+  </div>
+  <div id="calwrap" style="display:none"></div>
   <div class="grid" id="grid"></div>
 </div>
 
@@ -329,6 +362,7 @@ let me = load(STORE_USER, null);
 let myRsvps = load(STORE_RSVP, {}); // {eventId:true}
 let activeCat="all";
 let attEventId=null;
+let view="list", calMonth=null, selectedDate=null;
 
 function load(k,def){try{const v=localStorage.getItem(k);return v?JSON.parse(v):def}catch(e){return def}}
 function save(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
@@ -339,12 +373,15 @@ function fmtDate(iso){const d=new Date(iso+"T00:00:00");
 function initials(h){return (h||"?").replace(/[^a-zA-Z0-9]/g,"").slice(0,2).toUpperCase()||"?"}
 function catObj(id){return CATS.find(c=>c.id===id)||CATS[0]}
 function attendeesOf(ev){
-  let list=[...ev.seed];
-  if(me && myRsvps[ev.id] && !list.includes(me)) list=[me,...list];
-  return list;
+  // Nur echte Zusagen — keine Fake-Teilnehmer mehr
+  return (me && myRsvps[ev.id]) ? [me] : [];
 }
 function isGoing(ev){return me && !!myRsvps[ev.id]}
 function profileUrl(h){return "https://www.instagram.com/"+encodeURIComponent((h||"").replace(/^@/,""))+"/"}
+const CATKW={run:"running",walk:"walking,park",cycle:"cycling,bicycle",yoga:"yoga",pilates:"pilates,fitness",
+  padel:"padel,tennis",tennis:"tennis",biz:"conference,networking",popup:"market,festival",
+  date:"party,people",music:"concert,festival"};
+function imgFor(ev){return ev.img ? ev.img : "https://loremflickr.com/640/360/"+(CATKW[ev.cat]||"munich")+"?lock="+ev.id}
 
 /* ---------- Render ---------- */
 function renderFilters(){
@@ -353,22 +390,37 @@ function renderFilters(){
 }
 function setCat(id){activeCat=id;renderFilters();render()}
 
-function render(){
+function fmtFull(iso){return new Date(iso+"T00:00:00").toLocaleDateString("de-DE",{weekday:"short",day:"numeric",month:"long"})}
+function currentList(){
   const q=document.getElementById("search").value.trim().toLowerCase();
   let list=EVENTS.filter(e=>activeCat==="all"||e.cat===activeCat);
   if(q) list=list.filter(e=>(e.title+" "+e.loc+" "+e.ig+" "+e.desc).toLowerCase().includes(q));
-  list.sort((a,b)=>a.date.localeCompare(b.date));
+  return list.sort((a,b)=>a.date.localeCompare(b.date));
+}
 
-  document.getElementById("countline").textContent =
-    `${list.length} Event${list.length!==1?"s":""}${activeCat!=="all"?" in "+catObj(activeCat).name:""}`;
+function render(){
+  const list=currentList();
+  document.getElementById("calwrap").style.display = view==="cal"?"block":"none";
+  if(view==="cal") renderCalendar();
 
-  document.getElementById("grid").innerHTML = list.map(ev=>{
+  let gridList=list;
+  if(view==="cal") gridList = selectedDate ? list.filter(e=>e.date===selectedDate) : [];
+
+  const cl=document.getElementById("countline");
+  if(view==="cal" && !selectedDate) cl.textContent="Wähle einen Tag im Kalender";
+  else if(view==="cal") cl.textContent=`${gridList.length} Event${gridList.length!==1?"s":""} am ${fmtFull(selectedDate)}`;
+  else cl.textContent=`${list.length} Event${list.length!==1?"s":""}${activeCat!=="all"?" · "+catObj(activeCat).name:""}`;
+
+  renderGrid(gridList);
+}
+
+function renderGrid(list){
+  const html=list.map(ev=>{
     const c=catObj(ev.cat), dt=fmtDate(ev.date), atts=attendeesOf(ev), going=isGoing(ev);
-    const shown=atts.slice(0,4);
-    const avs=shown.map(h=>`<span style="background:linear-gradient(135deg,${c.c1},${c.c2})">${initials(h)}</span>`).join("");
+    const avs=atts.slice(0,4).map(h=>`<span style="background:linear-gradient(135deg,${c.c1},${c.c2})">${initials(h)}</span>`).join("");
     const more=atts.length>4?`+${atts.length-4}`:"";
     return `<div class="card">
-      <div class="cbanner" style="background:linear-gradient(135deg,${c.c1},${c.c2})">
+      <div class="cbanner" style="background-image:linear-gradient(160deg,${c.c1}40 0%,rgba(12,13,24,.82) 78%),url('${imgFor(ev)}');background-size:cover;background-position:center">
         <div class="cat">${c.name}</div>
         <div class="date"><small>${dt.m}</small><b>${dt.d}</b></div>
       </div>
@@ -383,14 +435,52 @@ function render(){
         <div class="desc">${ev.desc}</div>
         <div class="cfoot">
           <div class="going" onclick="openAtt(${ev.id})" style="cursor:pointer">
-            <div class="avs">${avs||'<span style="background:#333">·</span>'}</div>
-            <div class="cnt"><b>${atts.length}</b> gehen hin ${more}</div>
+            ${atts.length
+              ? `<div class="avs">${avs}</div><div class="cnt"><b>${atts.length}</b> ${atts.length===1?'geht':'gehen'} hin ${more}</div>`
+              : `<div class="cnt">Sei die/der Erste 👀</div>`}
           </div>
           <button class="goBtn ${going?'on':''}" onclick="toggleGo(${ev.id})">${going?'✓ Du gehst':'Ich geh hin'}</button>
         </div>
       </div>
     </div>`;
   }).join("");
+  document.getElementById("grid").innerHTML = html ||
+    (view==="cal" && !selectedDate ? `<div class="calhint">👆 Klick auf einen markierten Tag, um die Events dort zu sehen.</div>` : "");
+}
+
+/* ---------- Kalender ---------- */
+function setView(v){view=v;
+  document.getElementById("vList").classList.toggle("active",v==="list");
+  document.getElementById("vCal").classList.toggle("active",v==="cal");
+  if(v==="list") selectedDate=null;
+  render();}
+function calShift(n){calMonth=new Date(calMonth.getFullYear(),calMonth.getMonth()+n,1);render();}
+function selectDay(iso){selectedDate=(selectedDate===iso?null:iso);render();}
+function renderCalendar(){
+  const all=currentList();
+  if(!calMonth){const ds=(all[0]&&all[0].date)||EVENTS.map(e=>e.date).sort()[0]||"2026-06-01";
+    const d=new Date(ds+"T00:00:00"); calMonth=new Date(d.getFullYear(),d.getMonth(),1);}
+  const y=calMonth.getFullYear(), m=calMonth.getMonth();
+  const byDate={}; all.forEach(e=>{(byDate[e.date]=byDate[e.date]||[]).push(e)});
+  const startDow=(new Date(y,m,1).getDay()+6)%7;      // Montag = 0
+  const days=new Date(y,m+1,0).getDate();
+  const dows=["Mo","Di","Mi","Do","Fr","Sa","So"];
+  let cells="";
+  for(let i=0;i<startDow;i++) cells+=`<div class="calcell empty"></div>`;
+  for(let d=1;d<=days;d++){
+    const iso=`${y}-${String(m+1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
+    const evs=byDate[iso]||[], has=evs.length>0;
+    const chips=evs.slice(0,2).map(e=>{const c=catObj(e.cat);
+      return `<div class="calev" style="background:linear-gradient(135deg,${c.c1},${c.c2})" title="${e.title}">${e.title.split("—")[0].trim()}</div>`}).join("");
+    const moreN=evs.length>2?`<div class="calmore">+${evs.length-2} mehr</div>`:"";
+    cells+=`<div class="calcell ${has?'has':''} ${iso===selectedDate?'sel':''}" ${has?`onclick="selectDay('${iso}')"`:""}>
+      <div class="dnum">${d}</div>${chips}${moreN}</div>`;
+  }
+  const monthName=calMonth.toLocaleDateString("de-DE",{month:"long",year:"numeric"});
+  document.getElementById("calwrap").innerHTML=`
+    <div class="calhead"><h3>${monthName}</h3>
+      <div class="calnav"><button onclick="calShift(-1)" aria-label="zurück">‹</button><button onclick="calShift(1)" aria-label="weiter">›</button></div></div>
+    <div class="calgrid">${dows.map(d=>`<div class="caldow">${d}</div>`).join("")}${cells}</div>`;
 }
 
 /* ---------- RSVP ---------- */
@@ -436,15 +526,15 @@ function fillAtt(id){
   gb.style.border=going?"1px solid var(--line)":"none";
   const ig=document.getElementById("attIg");
   if(ev.ig){ig.style.display="flex";ig.href=profileUrl(ev.ig)}else ig.style.display="none";
-  document.getElementById("attCount").textContent=`${atts.length} Profile gehen hin`;
-  document.getElementById("attList").innerHTML=atts.map(h=>{
+  document.getElementById("attCount").textContent = atts.length?`${atts.length} Profil${atts.length===1?'':'e'} ${atts.length===1?'geht':'gehen'} hin`:"Noch keine Zusagen";
+  document.getElementById("attList").innerHTML = atts.length ? atts.map(h=>{
     const you=h===me;
     return `<a class="att ${you?'you':''}" href="${profileUrl(h)}" target="_blank" style="text-decoration:none;color:inherit">
       <div class="av">${initials(h)}</div>
       <div class="h">@${h}<small>${you?'das bist du · dein Profil ↗':'geht hin · Profil ansehen ↗'}</small></div>
       ${you?'<span class="badgeY">DU</span>':'<span class="ig" style="margin-left:auto;font-size:13px">↗</span>'}
     </a>`;
-  }).join("");
+  }).join("") : `<div class="calhint" style="padding:12px 2px">Noch niemand hat zugesagt — mach den Anfang und andere sehen, dass du hingehst. 👀</div>`;
 }
 
 /* ---------- Toast ---------- */
