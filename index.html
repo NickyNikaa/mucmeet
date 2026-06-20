@@ -732,7 +732,7 @@ async function loadOrte(){
   document.getElementById("orteGrid").innerHTML=`<div class="calhint">Lade Münchens Orte… 🍽</div>`;
   try{
     const [c,o]=await Promise.all([
-      fetch(PICKY+"/places-curated").then(r=>r.json()).catch(()=>({places:[]})),
+      fetch(PICKY+"/places-curated?ts="+Date.now()).then(r=>r.json()).catch(()=>({places:[]})),
       fetch(PICKY+"/places-osm?city=munich").then(r=>r.json()).catch(()=>({places:[]}))
     ]);
     const seen=new Set(); orteData=[];
