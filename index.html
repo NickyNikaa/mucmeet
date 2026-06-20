@@ -780,8 +780,11 @@ function renderOrte(){
     const kw=p.type==="bar"
       ? (((p.cuisine||[])[0]||"cocktail").split("-")[0]+",bar")
       : (((p.cuisine||[])[0]||"restaurant").split("-")[0]+",food");
-    const img="https://loremflickr.com/640/360/"+encodeURIComponent(kw)+"?lock="+hashCode(p.id);
+    const img=p.image ? p.image : "https://loremflickr.com/640/360/"+encodeURIComponent(kw)+"?lock="+hashCode(p.id);
     const tags=[...(p.cuisine||[]).slice(0,2),...(p.mood||[]).slice(0,2)].map(t=>`<span class="tag">${t}</span>`).join("");
+    const igH=p.instagram?String(p.instagram).replace(/^@/,""):"";
+    const igUrl=igH?("https://instagram.com/"+igH):("https://www.instagram.com/explore/search/keyword/?q="+encodeURIComponent(p.name+" münchen"));
+    const otUrl=(p.bookingUrl&&/opentable/i.test(p.bookingUrl))?p.bookingUrl:("https://www.opentable.de/s?term="+encodeURIComponent(p.name+" München"));
     return `<div class="card">
       <div class="cbanner" style="background-image:linear-gradient(160deg,${tint}66 0%,rgba(12,13,24,.85) 80%),url('${img}');background-size:cover;background-position:center">
         <div class="cat">${p.type==="bar"?"🍸 Bar":"🍽 Restaurant"}</div>
@@ -792,6 +795,10 @@ function renderOrte(){
         <div class="meta"><div>📍 ${p.neighborhood||"München"}</div><div>💶 <span class="price">${"€".repeat(p.price||2)}</span></div></div>
         ${p.pitch?`<div class="desc">${p.pitch}</div>`:""}
         <div>${tags}</div>
+        <div class="linkrow">
+          <a href="${igUrl}" target="_blank">📷 Instagram</a>
+          ${p.type!=="bar"?`<a href="${otUrl}" target="_blank">🍽 OpenTable</a>`:""}
+        </div>
         <div class="cfoot"><span></span>
           <a class="goBtn" href="${p.bookingUrl||"#"}" target="_blank" style="text-decoration:none">Karte / Reservieren ↗</a></div>
       </div></div>`;
