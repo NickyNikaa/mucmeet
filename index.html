@@ -137,6 +137,19 @@
   .calhint{color:var(--muted);font-size:14px;padding:18px 2px}
   @media(max-width:560px){.calcell{min-height:48px;padding:4px}.calev{font-size:0;padding:3px}.calmore{display:none}
     .calcell.has{background:var(--card2)}}
+  /* Modus-Wechsler + Orte/Communities */
+  .modes{display:flex;gap:8px;margin:6px 0 2px;flex-wrap:wrap}
+  .modebtn{border:1px solid var(--line);background:var(--card);color:var(--muted);font-weight:800;font-size:15px;
+    padding:11px 18px;border-radius:14px;cursor:pointer;transition:.15s}
+  .modebtn:hover{color:var(--txt);border-color:var(--accent2)}
+  .modebtn.active{background:var(--grad);color:#fff;border-color:transparent}
+  .tag{display:inline-block;font-size:11px;font-weight:600;color:var(--muted);background:var(--card2);
+    border:1px solid var(--line);padding:3px 8px;border-radius:20px;margin:3px 4px 0 0}
+  .price{color:var(--gold);font-weight:700}
+  .linkrow{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}
+  .linkrow a{font-size:12.5px;font-weight:700;color:var(--accent2);text-decoration:none;background:var(--card2);
+    border:1px solid var(--line);padding:6px 10px;border-radius:9px}
+  .linkrow a:hover{border-color:var(--accent2)}
   footer{border-top:1px solid var(--line);padding:26px 0;color:var(--muted);font-size:13px;text-align:center}
   footer b{color:var(--txt)}
   .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(120px);background:var(--card2);
@@ -159,24 +172,50 @@
 
 <div class="wrap">
   <section class="hero">
-    <div class="pill"><b>●</b>&nbsp;Live in München · täglich neue Events</div>
+    <div class="pill"><b>●</b>&nbsp;Live in München · Events, Orte & Communities</div>
     <h1>Place <span>to be.</span></h1>
-    <p>Run-Clubs, Pop-ups, Business-Meetups, Dating-Abende & mehr — aus ganz München, automatisch gesammelt. Hinterlege dein Insta, sag zu, und sieh welche Profile sonst noch dabei sind.</p>
+    <p>Events, Restaurants, Bars & Communities in München — automatisch gesammelt aus vielen Quellen. Sag bei Events zu und sieh, welche Insta-Profile sonst noch dabei sind.</p>
   </section>
 
-  <div class="filters" id="filters"></div>
-  <div class="searchbar" style="margin-top:10px">
-    🔍<input id="search" placeholder="Such nach Event, Ort oder @handle…" oninput="render()">
+  <div class="modes" id="modes">
+    <button class="modebtn active" data-m="events" onclick="setMode('events')">🎉 Events</button>
+    <button class="modebtn" data-m="orte" onclick="setMode('orte')">🍽 Orte</button>
+    <button class="modebtn" data-m="comm" onclick="setMode('comm')">👥 Communities</button>
   </div>
-  <div class="viewrow">
-    <div class="countline" id="countline" style="margin:0"></div>
-    <div class="vswitch">
-      <button id="vList" class="vbtn active" onclick="setView('list')">🗓 Liste</button>
-      <button id="vCal" class="vbtn" onclick="setView('cal')">📅 Kalender</button>
+
+  <div id="m-events">
+    <div class="filters" id="filters"></div>
+    <div class="searchbar" style="margin-top:10px">
+      🔍<input id="search" placeholder="Such nach Event, Ort oder @handle…" oninput="render()">
     </div>
+    <div class="viewrow">
+      <div class="countline" id="countline" style="margin:0"></div>
+      <div class="vswitch">
+        <button id="vList" class="vbtn active" onclick="setView('list')">🗓 Liste</button>
+        <button id="vCal" class="vbtn" onclick="setView('cal')">📅 Kalender</button>
+      </div>
+    </div>
+    <div id="calwrap" style="display:none"></div>
+    <div class="grid" id="grid"></div>
   </div>
-  <div id="calwrap" style="display:none"></div>
-  <div class="grid" id="grid"></div>
+
+  <div id="m-orte" style="display:none">
+    <div class="filters" id="orteFilters"></div>
+    <div class="searchbar" style="margin-top:10px">
+      🔍<input id="orteSearch" placeholder="Such nach Restaurant, Bar, Küche, Viertel…" oninput="renderOrte()">
+    </div>
+    <div class="countline" id="orteCount"></div>
+    <div class="grid" id="orteGrid"></div>
+  </div>
+
+  <div id="m-comm" style="display:none">
+    <div class="filters" id="commFilters"></div>
+    <div class="searchbar" style="margin-top:10px">
+      🔍<input id="commSearch" placeholder="Such nach Community, Thema, Viertel…" oninput="renderComm()">
+    </div>
+    <div class="countline" id="commCount"></div>
+    <div class="grid" id="commGrid"></div>
+  </div>
 </div>
 
 <footer class="wrap">
@@ -638,11 +677,179 @@ async function loadRemote(){
   }catch(e){ return 0; } // lokal geöffnet / offline → nur kuratierte Events
 }
 
+/* ====================================================================
+   PICKY-INTEGRATION — Events / Orte / Communities aus picky-app
+   ==================================================================== */
+const PICKY="https://picky-app-puce.vercel.app/api";
+function hashCode(s){s=String(s);let h=0;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))|0;return Math.abs(h)}
+function weekdayShort(iso){try{return ["So","Mo","Di","Mi","Do","Fr","Sa"][new Date(iso+"T00:00:00").getDay()]}catch(e){return ""}}
+
+/* ---- Modus-Wechsler ---- */
+let appMode="events", orteLoaded=false, commLoaded=false;
+function setMode(m){
+  appMode=m;
+  document.querySelectorAll(".modebtn").forEach(b=>b.classList.toggle("active",b.dataset.m===m));
+  document.getElementById("m-events").style.display = m==="events"?"block":"none";
+  document.getElementById("m-orte").style.display   = m==="orte"  ?"block":"none";
+  document.getElementById("m-comm").style.display   = m==="comm"  ?"block":"none";
+  if(m==="orte" && !orteLoaded) loadOrte();
+  if(m==="comm" && !commLoaded) loadComm();
+}
+
+/* ---- Picky-Events in den Events-Feed mischen ---- */
+const PCAT_EV={ "live-music":"music","dj-club":"music","underground":"music","karaoke":"music","open-mic":"music",
+ "silent-disco":"music","party":"music","themed-night":"music",
+ "wine-tasting":"gastro","popup-dinner":"gastro","themed-dinner":"gastro","chef-table":"gastro","brunch":"gastro",
+ "sober":"gastro","rooftop-sundown":"gastro",
+ "popup":"popup","market":"popup","vernissage":"popup","workshop":"popup","book-reading":"popup","community":"popup",
+ "flinta-queer":"date","wellness":"yoga","sports-watch":"popup","gaming":"popup" };
+async function loadPickyEvents(){
+  try{
+    const r=await fetch(PICKY+"/events?city=munich",{cache:"no-store"});
+    if(!r.ok) return 0;
+    const j=await r.json();
+    const list=(j.events||[]).filter(e=>e&&e.title&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||""));
+    const ids=new Set(EVENTS.map(e=>String(e.id)));
+    let n=0;
+    list.forEach(e=>{
+      const id="pk-"+(e.id||hashCode(e.title+e.date));
+      if(ids.has(id)) return;
+      EVENTS.push({ id, cat:PCAT_EV[e.category]||"popup", title:e.title, date:e.date,
+        time:e.time?(weekdayShort(e.date)+" "+e.time):"Termin siehe Link",
+        loc:e.venueName||"München", ig:"", igUrl:e.sourceUrl||"#",
+        desc:(e.pitch||"")+(e.price?` · ${e.price}`:""), img:e.imageUrl||"" });
+      ids.add(id); n++;
+    });
+    return n;
+  }catch(e){ return 0; }
+}
+
+/* ---- ORTE (Restaurants & Bars von Picky) ---- */
+let orteData=[], orteType="all", orteOcc="", orteMood="", ortePrice=0;
+const OCC=[["date","💘 Date"],["business","💼 Business"],["family","👨‍👩‍👧 Familie"],["group","👥 Gruppe"],["celebration","🎉 Feiern"],["casual","😎 Casual"]];
+const MOOD=[["romantic","Romantisch"],["elegant","Elegant"],["chic","Chic"],["trendy","Trendy"],["lively","Lebhaft"],["cozy","Gemütlich"],["traditional","Traditionell"]];
+async function loadOrte(){
+  document.getElementById("orteGrid").innerHTML=`<div class="calhint">Lade Münchens Orte… 🍽</div>`;
+  try{
+    const [c,o]=await Promise.all([
+      fetch(PICKY+"/places-curated").then(r=>r.json()).catch(()=>({places:[]})),
+      fetch(PICKY+"/places-osm?city=munich").then(r=>r.json()).catch(()=>({places:[]}))
+    ]);
+    const seen=new Set(); orteData=[];
+    [...(c.places||[]),...(o.places||[])].forEach(p=>{
+      const k=(p.name||"").toLowerCase().trim();
+      if(p.name && !seen.has(k)){ seen.add(k); orteData.push(p); }
+    });
+    orteLoaded=true; renderOrteFilters(); renderOrte();
+  }catch(e){ document.getElementById("orteGrid").innerHTML=`<div class="calhint">Orte konnten gerade nicht geladen werden.</div>`; }
+}
+function orteChip(active,label,onclick){return `<div class="chip ${active?'active':''}" onclick="${onclick}">${label}</div>`}
+function renderOrteFilters(){
+  let h=orteChip(orteType==="all","Alle","setOrte('type','all')")
+       +orteChip(orteType==="restaurant","🍽 Restaurant","setOrte('type','restaurant')")
+       +orteChip(orteType==="bar","🍸 Bar","setOrte('type','bar')");
+  h+='<span style="flex-basis:100%"></span>';
+  OCC.forEach(([v,l])=>h+=orteChip(orteOcc===v,l,`setOrte('occ','${v}')`));
+  h+='<span style="flex-basis:100%"></span>';
+  MOOD.forEach(([v,l])=>h+=orteChip(orteMood===v,l,`setOrte('mood','${v}')`));
+  h+='<span style="flex-basis:100%"></span>';
+  [1,2,3,4].forEach(p=>h+=orteChip(ortePrice===p,"€".repeat(p),`setOrte('price',${p})`));
+  document.getElementById("orteFilters").innerHTML=h;
+}
+function setOrte(k,v){
+  if(k==="type") orteType=v;
+  if(k==="occ")  orteOcc=(orteOcc===v?"":v);
+  if(k==="mood") orteMood=(orteMood===v?"":v);
+  if(k==="price")ortePrice=(ortePrice===v?0:v);
+  renderOrteFilters(); renderOrte();
+}
+function renderOrte(){
+  const q=document.getElementById("orteSearch").value.trim().toLowerCase();
+  let list=orteData.filter(p=>{
+    if(orteType!=="all" && p.type!==orteType) return false;
+    if(orteOcc && !(p.occasion||[]).includes(orteOcc)) return false;
+    if(orteMood && !(p.mood||[]).includes(orteMood)) return false;
+    if(ortePrice && p.price!==ortePrice) return false;
+    if(q && !((p.name+" "+(p.cuisine||[]).join(" ")+" "+(p.neighborhood||"")+" "+(p.pitch||"")).toLowerCase().includes(q))) return false;
+    return true;
+  });
+  list.sort((a,b)=>(b.curated?1:0)-(a.curated?1:0) || (b.rating||0)-(a.rating||0));
+  document.getElementById("orteCount").textContent=`${list.length} Orte`;
+  document.getElementById("orteGrid").innerHTML=list.slice(0,150).map(p=>{
+    const grad=p.type==="bar"?"linear-gradient(160deg,#7c5cff,#4338ca)":"linear-gradient(160deg,#fb923c,#e11d48)";
+    const tags=[...(p.cuisine||[]).slice(0,2),...(p.mood||[]).slice(0,2)].map(t=>`<span class="tag">${t}</span>`).join("");
+    return `<div class="card">
+      <div class="cbanner" style="background:${grad}">
+        <div class="cat">${p.type==="bar"?"🍸 Bar":"🍽 Restaurant"}</div>
+        ${p.rating?`<div class="date"><small>★</small><b>${p.rating}</b></div>`:""}
+      </div>
+      <div class="cbody">
+        <h3>${p.name}</h3>
+        <div class="meta"><div>📍 ${p.neighborhood||"München"}</div><div>💶 <span class="price">${"€".repeat(p.price||2)}</span></div></div>
+        ${p.pitch?`<div class="desc">${p.pitch}</div>`:""}
+        <div>${tags}</div>
+        <div class="cfoot"><span></span>
+          <a class="goBtn" href="${p.bookingUrl||"#"}" target="_blank" style="text-decoration:none">Karte / Reservieren ↗</a></div>
+      </div></div>`;
+  }).join("") || `<div class="calhint">Keine Orte für diese Filter — setz mal einen zurück.</div>`;
+}
+
+/* ---- COMMUNITIES (von Picky) ---- */
+let commData=[], commCat="all";
+async function loadComm(){
+  document.getElementById("commGrid").innerHTML=`<div class="calhint">Lade Communities… 👥</div>`;
+  try{
+    const j=await fetch(PICKY+"/communities").then(r=>r.json());
+    commData=j.communities||[];
+    commLoaded=true; renderCommFilters(); renderComm();
+  }catch(e){ document.getElementById("commGrid").innerHTML=`<div class="calhint">Communities konnten gerade nicht geladen werden.</div>`; }
+}
+function renderCommFilters(){
+  const cats=["all",...Array.from(new Set(commData.map(c=>c.category).filter(Boolean))).sort()];
+  document.getElementById("commFilters").innerHTML=cats.map(c=>
+    `<div class="chip ${commCat===c?'active':''}" onclick="setComm('${c}')">${c==="all"?"Alle":c}</div>`).join("");
+}
+function setComm(c){commCat=c;renderCommFilters();renderComm()}
+const COMM_GRADS=["#7c5cff,#4338ca","#ff5a5f,#db2777","#34d399,#0ea5e9","#fb923c,#e11d48","#10b981,#84cc16","#8b5cf6,#ec4899"];
+function renderComm(){
+  const q=document.getElementById("commSearch").value.trim().toLowerCase();
+  let list=commData.filter(c=>{
+    if(commCat!=="all" && c.category!==commCat) return false;
+    if(q && !((c.name+" "+(c.tags||[]).join(" ")+" "+(c.neighborhood||"")+" "+(c.pitch||"")).toLowerCase().includes(q))) return false;
+    return true;
+  });
+  document.getElementById("commCount").textContent=`${list.length} Communities`;
+  document.getElementById("commGrid").innerHTML=list.slice(0,200).map(c=>{
+    const links=[];
+    if(c.instagram) links.push(`<a href="https://instagram.com/${String(c.instagram).replace(/^@/,"")}" target="_blank">📷 Instagram</a>`);
+    if(c.website)   links.push(`<a href="${c.website}" target="_blank">🌐 Web</a>`);
+    if(c.strava)    links.push(`<a href="${c.strava}" target="_blank">🏃 Strava</a>`);
+    if(c.whatsapp)  links.push(`<a href="${c.whatsapp}" target="_blank">💬 WhatsApp</a>`);
+    const grad=COMM_GRADS[hashCode(c.category||c.id)%COMM_GRADS.length];
+    return `<div class="card">
+      <div class="cbanner" style="background:linear-gradient(160deg,${grad})">
+        <div class="cat">${c.category||"community"}</div>
+      </div>
+      <div class="cbody">
+        <h3>${c.name}</h3>
+        <div class="meta">
+          <div>📍 ${c.neighborhood||"München"}</div>
+          ${c.meetup?`<div>🗓 ${c.meetup}</div>`:""}
+          ${(c.frequency||c.size)?`<div>🔁 ${[c.frequency,c.size?("👥 "+c.size):""].filter(Boolean).join(" · ")}</div>`:""}
+        </div>
+        ${c.pitch?`<div class="desc">${c.pitch}</div>`:""}
+        ${links.length?`<div class="linkrow">${links.join("")}</div>`:""}
+      </div></div>`;
+  }).join("") || `<div class="calhint">Keine Communities für diese Filter.</div>`;
+}
+
 /* ---------- Init ---------- */
 document.querySelectorAll(".ov").forEach(o=>o.addEventListener("click",e=>{if(e.target===o)o.classList.remove("show")}));
 document.getElementById("handleInput").addEventListener("keydown",e=>{if(e.key==="Enter")saveLogin()});
 renderFilters(); refreshMe(); render();
-loadRemote().then(n=>{ if(n){ calMonth=null; render(); } });
+Promise.all([loadRemote(), loadPickyEvents()]).then(([a,b])=>{
+  if((a||0)+(b||0)>0){ calMonth=null; if(appMode==="events") render(); }
+});
 </script>
 </body>
 </html>
