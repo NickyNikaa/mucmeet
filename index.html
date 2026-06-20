@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MUCmeet · Münchens Events & wer hingeht</title>
+<style>
+  :root{
+    --bg:#0e0f1a; --bg2:#15172a; --card:#1b1e36; --card2:#222648;
+    --txt:#eef0ff; --muted:#9aa0c4; --line:#2c3057;
+    --accent:#ff5a5f; --accent2:#7c5cff; --green:#34d399; --gold:#ffd166;
+    --grad:linear-gradient(135deg,#ff5a5f 0%,#7c5cff 100%);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:radial-gradient(1200px 600px at 80% -10%,#241a3e 0%,transparent 60%),var(--bg);
+    color:var(--txt);min-height:100vh;line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 18px}
+
+  /* Header */
+  header{position:sticky;top:0;z-index:40;backdrop-filter:blur(14px);
+    background:rgba(14,15,26,.78);border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;gap:14px;padding:14px 0}
+  .logo{font-weight:800;font-size:22px;letter-spacing:-.5px;display:flex;align-items:center;gap:9px}
+  .logo .dot{width:13px;height:13px;border-radius:50%;background:var(--grad);box-shadow:0 0 16px #7c5cff}
+  .logo small{font-weight:600;color:var(--muted);font-size:12px;margin-left:2px}
+  .nav .spacer{flex:1}
+  .me{display:flex;align-items:center;gap:9px;background:var(--card);border:1px solid var(--line);
+    padding:6px 12px 6px 6px;border-radius:30px;cursor:pointer;font-size:14px;font-weight:600}
+  .me .av{width:30px;height:30px;border-radius:50%;background:var(--grad);display:flex;align-items:center;
+    justify-content:center;font-size:13px;font-weight:800;color:#fff}
+  .btn{border:none;cursor:pointer;font-weight:700;border-radius:12px;font-size:14px;
+    padding:11px 18px;background:var(--grad);color:#fff;transition:transform .12s,filter .12s}
+  .btn:hover{transform:translateY(-1px);filter:brightness(1.07)}
+  .btn.ghost{background:var(--card);border:1px solid var(--line);color:var(--txt)}
+  .btn.sm{padding:9px 14px;font-size:13px;border-radius:10px}
+
+  /* Hero */
+  .hero{padding:46px 0 26px}
+  .hero h1{font-size:38px;line-height:1.1;letter-spacing:-1px;font-weight:800;max-width:760px}
+  .hero h1 span{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero p{color:var(--muted);font-size:17px;margin-top:14px;max-width:620px}
+  .hero .pill{display:inline-flex;align-items:center;gap:7px;background:var(--card);border:1px solid var(--line);
+    padding:6px 13px;border-radius:30px;font-size:13px;color:var(--muted);margin-bottom:18px}
+  .hero .pill b{color:var(--green)}
+
+  /* Filters */
+  .filters{display:flex;flex-wrap:wrap;gap:9px;align-items:center;margin:26px 0 8px}
+  .chip{border:1px solid var(--line);background:var(--card);color:var(--muted);padding:9px 15px;
+    border-radius:30px;font-size:14px;font-weight:600;cursor:pointer;white-space:nowrap;transition:.15s}
+  .chip:hover{border-color:var(--accent2);color:var(--txt)}
+  .chip.active{background:var(--grad);color:#fff;border-color:transparent}
+  .searchbar{flex:1;min-width:200px;display:flex;align-items:center;gap:9px;background:var(--card);
+    border:1px solid var(--line);border-radius:12px;padding:0 14px}
+  .searchbar input{flex:1;background:none;border:none;color:var(--txt);font-size:15px;padding:12px 0;outline:none}
+  .searchbar input::placeholder{color:var(--muted)}
+  .countline{color:var(--muted);font-size:13px;margin:18px 0 6px}
+
+  /* Grid */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px;padding:8px 0 60px}
+  .card{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);
+    border-radius:18px;overflow:hidden;display:flex;flex-direction:column;transition:.18s}
+  .card:hover{transform:translateY(-3px);border-color:var(--accent2);box-shadow:0 16px 40px -18px #000}
+  .cbanner{height:118px;position:relative;display:flex;align-items:flex-end;padding:12px}
+  .cbanner .cat{font-size:12px;font-weight:700;background:rgba(0,0,0,.42);backdrop-filter:blur(6px);
+    padding:5px 11px;border-radius:30px}
+  .cbanner .date{position:absolute;top:12px;right:12px;background:#fff;color:#15172a;border-radius:11px;
+    text-align:center;padding:6px 9px;line-height:1;font-weight:800;min-width:46px}
+  .cbanner .date small{display:block;font-size:10px;font-weight:700;color:#ff5a5f;margin-bottom:3px;text-transform:uppercase}
+  .cbanner .date b{font-size:19px}
+  .cbody{padding:15px 16px 16px;display:flex;flex-direction:column;gap:9px;flex:1}
+  .cbody h3{font-size:18px;letter-spacing:-.3px;line-height:1.25}
+  .meta{display:flex;flex-direction:column;gap:5px;color:var(--muted);font-size:13.5px}
+  .meta div{display:flex;align-items:center;gap:7px}
+  .ig{color:var(--accent2);font-weight:600;text-decoration:none}
+  .desc{color:var(--muted);font-size:13.5px}
+  .cfoot{margin-top:auto;padding-top:6px;display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .going{display:flex;align-items:center}
+  .going .avs{display:flex}
+  .going .avs span{width:28px;height:28px;border-radius:50%;border:2px solid var(--card);margin-left:-9px;
+    display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:800;color:#fff}
+  .going .avs span:first-child{margin-left:0}
+  .going .cnt{font-size:12.5px;color:var(--muted);margin-left:9px}
+  .going .cnt b{color:var(--txt)}
+  .goBtn{border:1px solid var(--line);background:var(--card2);color:var(--txt);font-weight:700;font-size:13px;
+    padding:9px 14px;border-radius:10px;cursor:pointer;white-space:nowrap;transition:.15s}
+  .goBtn:hover{border-color:var(--green)}
+  .goBtn.on{background:var(--green);color:#08130d;border-color:transparent}
+
+  /* Modal */
+  .ov{position:fixed;inset:0;background:rgba(6,7,15,.72);backdrop-filter:blur(6px);z-index:60;
+    display:none;align-items:center;justify-content:center;padding:18px}
+  .ov.show{display:flex}
+  .modal{background:var(--bg2);border:1px solid var(--line);border-radius:20px;max-width:460px;width:100%;
+    padding:26px;position:relative;max-height:88vh;overflow:auto}
+  .modal h2{font-size:22px;margin-bottom:4px}
+  .modal .x{position:absolute;top:16px;right:18px;font-size:24px;color:var(--muted);cursor:pointer;background:none;border:none}
+  .field{margin-top:16px}
+  .field label{display:block;font-size:13px;color:var(--muted);margin-bottom:7px;font-weight:600}
+  .field .inp{display:flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);
+    border-radius:12px;padding:0 14px}
+  .field .inp span{color:var(--muted);font-weight:700}
+  .field input{flex:1;background:none;border:none;color:var(--txt);font-size:16px;padding:13px 0;outline:none}
+  .hint{font-size:12px;color:var(--muted);margin-top:12px;line-height:1.5}
+  .att-list{margin-top:14px;display:flex;flex-direction:column;gap:9px}
+  .att{display:flex;align-items:center;gap:11px;padding:9px;border-radius:12px;background:var(--card)}
+  .att .av{width:38px;height:38px;border-radius:50%;background:var(--grad);display:flex;align-items:center;
+    justify-content:center;font-weight:800;font-size:15px;color:#fff}
+  .att .h{font-weight:600}.att .h small{display:block;color:var(--muted);font-weight:400;font-size:12px}
+  .att.you{outline:1.5px solid var(--green)}
+  .badgeY{margin-left:auto;font-size:11px;font-weight:700;color:var(--green);background:rgba(52,211,153,.13);
+    padding:4px 9px;border-radius:20px}
+  footer{border-top:1px solid var(--line);padding:26px 0;color:var(--muted);font-size:13px;text-align:center}
+  footer b{color:var(--txt)}
+  .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(120px);background:var(--card2);
+    border:1px solid var(--line);padding:13px 20px;border-radius:14px;font-weight:600;z-index:80;transition:.3s;font-size:14px}
+  .toast.show{transform:translateX(-50%) translateY(0)}
+  @media(max-width:560px){.hero h1{font-size:30px}.logo small{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <div class="logo"><span class="dot"></span>MUCmeet <small>· München lebt</small></div>
+    <div class="spacer"></div>
+    <div id="meChip" class="me" style="display:none" onclick="openLogin()">
+      <span class="av" id="meAv">?</span><span id="meHandle">@du</span>
+    </div>
+    <button id="loginBtn" class="btn sm" onclick="openLogin()">Mit Instagram anmelden</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero">
+    <div class="pill"><b>●</b>&nbsp;Live in München · täglich neue Events</div>
+    <h1>Finde raus, <span>wer wohin geht.</span></h1>
+    <p>Run-Clubs, Pop-ups, Business-Meetups, Dating-Abende & mehr — aus ganz München, automatisch gesammelt. Hinterlege dein Insta, sag zu, und sieh welche Profile sonst noch dabei sind.</p>
+  </section>
+
+  <div class="filters" id="filters"></div>
+  <div class="searchbar" style="margin-top:10px">
+    🔍<input id="search" placeholder="Such nach Event, Ort oder @handle…" oninput="render()">
+  </div>
+  <div class="countline" id="countline"></div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<footer class="wrap">
+  <p><b>MUCmeet</b> · Prototyp · Events automatisch aus Instagram, TikTok & Google zusammengetragen.<br>
+  Anmeldung & Zusagen sind in dieser Demo lokal gespeichert (kein echter Server).</p>
+</footer>
+
+<!-- Login modal -->
+<div class="ov" id="loginOv">
+  <div class="modal">
+    <button class="x" onclick="closeLogin()">×</button>
+    <h2>Mit Instagram „anmelden"</h2>
+    <p style="color:var(--muted);font-size:14px;margin-top:4px">Hinterlege deinen Handle. Andere sehen dann, dass du zu einem Event gehst.</p>
+    <div class="field">
+      <label>Dein Instagram-Handle</label>
+      <div class="inp"><span>@</span><input id="handleInput" placeholder="dein_username" maxlength="30"></div>
+    </div>
+    <button class="btn" style="width:100%;margin-top:18px" onclick="saveLogin()">Speichern & loslegen</button>
+    <p class="hint">🔒 Demo-Hinweis: Im echten Produkt läuft hier ein offizieller Instagram-Login (Meta OAuth) mit Profilbild & Verifizierung. Im Prototyp reicht der Handle.</p>
+  </div>
+</div>
+
+<!-- Attendees modal -->
+<div class="ov" id="attOv">
+  <div class="modal">
+    <button class="x" onclick="closeAtt()">×</button>
+    <h2 id="attTitle"></h2>
+    <p id="attSub" style="color:var(--muted);font-size:14px"></p>
+    <div style="margin-top:18px;display:flex;gap:10px">
+      <button id="attGoBtn" class="btn" style="flex:1" onclick="toggleFromModal()"></button>
+      <a id="attIg" class="btn ghost" target="_blank" style="text-decoration:none;display:flex;align-items:center">Instagram ↗</a>
+    </div>
+    <p style="margin-top:20px;font-weight:700;font-size:14px" id="attCount"></p>
+    <div class="att-list" id="attList"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+/* ---------- Daten: echte Münchner Events (Recherche Juni 2026) ---------- */
+const CATS = [
+  {id:"all",  name:"Alle",            c1:"#ff5a5f",c2:"#7c5cff"},
+  {id:"run",  name:"🏃 Sport & Run",  c1:"#34d399",c2:"#0ea5e9"},
+  {id:"biz",  name:"💼 Business",      c1:"#7c5cff",c2:"#4338ca"},
+  {id:"popup",name:"🎪 Pop-up & Markt",c1:"#f59e0b",c2:"#ef4444"},
+  {id:"date", name:"💘 Dating",        c1:"#ff5a5f",c2:"#db2777"},
+  {id:"music",name:"🎵 Musik & Open Air",c1:"#8b5cf6",c2:"#ec4899"},
+  {id:"yoga", name:"🧘 Yoga & Wellness",c1:"#10b981",c2:"#84cc16"},
+];
+const EVENTS = [
+  {id:1,cat:"run",title:"Munich Run Collective — Weekly Run",date:"2026-06-25",time:"Do 19:00",
+   loc:"Franz-Joseph-Straße 18, Schwabing",ig:"munichruncollective",igUrl:"https://www.instagram.com/munichruncollective/",
+   desc:"Lockerer Social Run quer durch Schwabing, danach gemeinsames Auslaufen & Drink. Alle Tempos willkommen.",
+   seed:["lena.laeuft","maxi_mucruns","sophie.k","tomruns"]},
+  {id:2,cat:"run",title:"Run & Chill München",date:"2026-06-27",time:"Sa 10:00",
+   loc:"Englischer Garten, Monopteros",ig:"runandchill.munich",igUrl:"https://www.instagram.com/runandchill.munich/",
+   desc:"Social Running Club — entspanntes Tempo, Fokus auf Community & Café-Stopp danach.",
+   seed:["chill.runner","annika_m","felix.runs"]},
+  {id:3,cat:"run",title:"KRAFT Runners — Sunrise Lauf mit Alpenblick",date:"2026-07-02",time:"Do 06:30",
+   loc:"Flaucher / Isarufer",ig:"kraftrunners",igUrl:"https://kraftrunners.de/muenchen",
+   desc:"Früher Lauf an der Isar mit Attitüde. Gute Energy, gemeinsames Frühstück im Anschluss.",
+   seed:["kraft.julia","morningmiles","theo_l","nina.runs","paul"]},
+  {id:4,cat:"biz",title:"Munich Startup Festival 2026",date:"2026-07-22",time:"Mi ab 12:00",
+   loc:"Backstage München",ig:"munichstartup",igUrl:"https://festival.munich-startup.de/",
+   desc:"Der Treffpunkt der Münchner Startup-Szene: Founder, Investoren & Tech. Matchmaking-Desk & Networking-Wall.",
+   seed:["startup.clara","vc_jonas","buildwithme","mia.founder","leon_tech","greta"]},
+  {id:5,cat:"biz",title:"Rednerabend — Munich Media Speakers",date:"2026-07-08",time:"Mi 18:45",
+   loc:"München (Entrepreneurship)",ig:"",igUrl:"https://www.meetup.com/de-de/unternehmertreffen-start-up-event-munchen/",
+   desc:"Networking & Speaking-Abend für Unternehmer:innen und alle, die ihre Bühnen-Präsenz schärfen wollen.",
+   seed:["speak.up.anna","markus_m"]},
+  {id:6,cat:"biz",title:"Bits & Pretzels — Founders Meetup",date:"2026-07-15",time:"Di 18:00",
+   loc:"Werksviertel, München",ig:"bitsandpretzels",igUrl:"https://www.bitsandpretzels.com/",
+   desc:"Pre-Festival Founders-Mixer: Brezn, Bier & echte Connections aus dem Münchner Gründer-Ökosystem.",
+   seed:["founderfran","valentina.b","oskar_w","helena"]},
+  {id:7,cat:"popup",title:"Tollwood Sommerfestival — Markt der Ideen",date:"2026-07-05",time:"tägl. ab 11:00",
+   loc:"Olympiapark Süd",ig:"tollwoodfestival",igUrl:"https://www.muenchen.de/veranstaltungen/tollwood-sommerfestival-2026",
+   desc:"Kunsthandwerk, Upcycling, Bio-Gastro & freie Performances. Der zentrale Treffpunkt des Festivals.",
+   seed:["tollwood.fan","kreativ.kim","jonas","mara_m","lui"]},
+  {id:8,cat:"popup",title:"Pop-up Sommerkino & Handarbeit",date:"2026-07-12",time:"So 20:00",
+   loc:"München (wechselnder Ort)",ig:"",igUrl:"https://www.1000thingsmagazine.com/de/a/2207408/veranstaltung-muenchen-juli/",
+   desc:"Open-Air-Film gucken und dabei stricken, häkeln oder nähen — cozy Community-Abend unter freiem Himmel.",
+   seed:["strickliesl","cinema.kat","ben_h"]},
+  {id:9,cat:"popup",title:"Studentischer Kunstmarkt — Pop-up",date:"2026-07-18",time:"Fr–So",
+   loc:"München Innenstadt",ig:"",igUrl:"https://www.muenchen.travel/artikel/veranstaltungskalender/juli-muenchen",
+   desc:"Dreitägige Pop-up-Ausstellung bringt zeitgenössische Kunst von Studierenden direkt in die Stadt.",
+   seed:["art.student.mia","gallerina","tim_zeichnet"]},
+  {id:10,cat:"date",title:"Münchens großes Speed Dating (35–49)",date:"2026-07-09",time:"Do 19:30",
+   loc:"Bar in der Innenstadt",ig:"",igUrl:"https://www.meetup.com/de-de/meetup-group-czwkqogx/",
+   desc:"Bis zu 15 Dates an einem Abend, lockere Atmosphäre. Anmeldung nötig, Location nach Buchung.",
+   seed:["claudia_m","single.in.muc","robert"]},
+  {id:11,cat:"date",title:"Matching Night München — 250 Singles",date:"2026-07-11",time:"Sa 20:00",
+   loc:"Club / Lounge München",ig:"",igUrl:"https://speeddating-xxl.de/matching-night/muenchen",
+   desc:"Große Single-Party mit wissenschaftlichem Persönlichkeits-Matching. Entspannt Leute kennenlernen.",
+   seed:["partyfinder.lea","datemuc","nico_88","valeria","sam.k"]},
+  {id:12,cat:"date",title:"Socialmatch — Spielerische Single Party",date:"2026-07-16",time:"Do 19:00",
+   loc:"München",ig:"socialmatch",igUrl:"https://socialmatch.de/single-party-muenchen",
+   desc:"Single-Party mit Spielen statt Smalltalk-Stress — locker ins Gespräch kommen über gemeinsame Challenges.",
+   seed:["playful.paula","matchme.muc","david_r","ronja"]},
+  {id:13,cat:"music",title:"Brass Wiesn Festival",date:"2026-07-30",time:"Do–So",
+   loc:"Eching bei München",ig:"brasswiesn",igUrl:"https://www.in-muenchen.de/nightlife/die-besten-open-airs-und-festivals.html",
+   desc:"Vier Tage Blasmusik trifft moderne Beats & Biergarten-Vibes. Tradition meets Open-Air-Party.",
+   seed:["blasmusik.bea","festi.flo","kathi_m","jan"]},
+  {id:14,cat:"music",title:"Klassik Open Air — Odeonsplatz",date:"2026-07-19",time:"So 20:00",
+   loc:"Odeonsplatz",ig:"",igUrl:"https://www.muenchen.travel/artikel/veranstaltungskalender/juli-muenchen",
+   desc:"Die Münchner Philharmoniker unter Sternen — kostenfreies Klassik-Erlebnis mitten in der Stadt.",
+   seed:["klassik.kai","philharmonie.fan","ute_m"]},
+  {id:15,cat:"music",title:"Münchner Open Air Sommer — Brunnenhof",date:"2026-08-07",time:"diverse",
+   loc:"Brunnenhof der Residenz",ig:"",igUrl:"https://muenchneropenairsommer.de/",
+   desc:"Buntes Programm aus Rock, Pop, Weltmusik & Klassik im stimmungsvollen Brunnenhof der Residenz.",
+   seed:["openair.olli","residenz.romy","franzi"]},
+  {id:16,cat:"yoga",title:"POP UP YOGA München — Sunset Session",date:"2026-06-28",time:"So 19:30",
+   loc:"Wechselnde Spots (Park / Rooftop)",ig:"popupyogamuc",igUrl:"https://www.popupyogamuc.com/stundenevents",
+   desc:"Yoga an überraschenden Orten in der Stadt — Sunset-Flow & Community. Spot wird per Insta verraten.",
+   seed:["yoga.yara","flowmuc","helen_b","sina.yoga"]},
+  {id:17,cat:"yoga",title:"Wannda Yoga Circus — Solstice Opening",date:"2026-06-21",time:"So 10:00",
+   loc:"Zirkuszelt, München",ig:"wanndacircus",igUrl:"https://www.muenchen.de/veranstaltungen/tollwood-sommerfestival-2026",
+   desc:"Warm, community-orientiert: Embodiment & Somatics im magischen Zirkuszelt zur Sommersonnenwende.",
+   seed:["soma.sophie","circus.cara","mika"]},
+  {id:18,cat:"yoga",title:"Yoga Beach Festival München",date:"2026-09-12",time:"Sa–So",
+   loc:"Urban Beach, München",ig:"namaste.united",igUrl:"https://www.eventbrite.de/d/germany--m%C3%BCnchen/yoga/",
+   desc:"Urban-Beach-Vibes mitten in der Stadt: Yoga, Community & Summer-Flow von Namaste United.",
+   seed:["beach.yoga.bina","namaste.nora","leo_m","tessa","jul"]},
+];
+
+/* ---------- State ---------- */
+const STORE_USER="mucmeet_user", STORE_RSVP="mucmeet_rsvp";
+let me = load(STORE_USER, null);
+let myRsvps = load(STORE_RSVP, {}); // {eventId:true}
+let activeCat="all";
+let attEventId=null;
+
+function load(k,def){try{const v=localStorage.getItem(k);return v?JSON.parse(v):def}catch(e){return def}}
+function save(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+
+/* ---------- Helpers ---------- */
+function fmtDate(iso){const d=new Date(iso+"T00:00:00");
+  return {d:d.getDate(), m:d.toLocaleDateString("de-DE",{month:"short"}).replace(".","")}}
+function initials(h){return (h||"?").replace(/[^a-zA-Z0-9]/g,"").slice(0,2).toUpperCase()||"?"}
+function catObj(id){return CATS.find(c=>c.id===id)||CATS[0]}
+function attendeesOf(ev){
+  let list=[...ev.seed];
+  if(me && myRsvps[ev.id] && !list.includes(me)) list=[me,...list];
+  return list;
+}
+function isGoing(ev){return me && !!myRsvps[ev.id]}
+
+/* ---------- Render ---------- */
+function renderFilters(){
+  document.getElementById("filters").innerHTML = CATS.map(c=>
+    `<div class="chip ${c.id===activeCat?'active':''}" onclick="setCat('${c.id}')">${c.name}</div>`).join("");
+}
+function setCat(id){activeCat=id;renderFilters();render()}
+
+function render(){
+  const q=document.getElementById("search").value.trim().toLowerCase();
+  let list=EVENTS.filter(e=>activeCat==="all"||e.cat===activeCat);
+  if(q) list=list.filter(e=>(e.title+" "+e.loc+" "+e.ig+" "+e.desc).toLowerCase().includes(q));
+  list.sort((a,b)=>a.date.localeCompare(b.date));
+
+  document.getElementById("countline").textContent =
+    `${list.length} Event${list.length!==1?"s":""}${activeCat!=="all"?" in "+catObj(activeCat).name:""}`;
+
+  document.getElementById("grid").innerHTML = list.map(ev=>{
+    const c=catObj(ev.cat), dt=fmtDate(ev.date), atts=attendeesOf(ev), going=isGoing(ev);
+    const shown=atts.slice(0,4);
+    const avs=shown.map(h=>`<span style="background:linear-gradient(135deg,${c.c1},${c.c2})">${initials(h)}</span>`).join("");
+    const more=atts.length>4?`+${atts.length-4}`:"";
+    return `<div class="card">
+      <div class="cbanner" style="background:linear-gradient(135deg,${c.c1},${c.c2})">
+        <div class="cat">${c.name}</div>
+        <div class="date"><small>${dt.m}</small><b>${dt.d}</b></div>
+      </div>
+      <div class="cbody">
+        <h3>${ev.title}</h3>
+        <div class="meta">
+          <div>🕒 ${ev.time}</div>
+          <div>📍 ${ev.loc}</div>
+          ${ev.ig?`<div>📷 <a class="ig" href="${ev.igUrl}" target="_blank">@${ev.ig}</a></div>`:''}
+        </div>
+        <div class="desc">${ev.desc}</div>
+        <div class="cfoot">
+          <div class="going" onclick="openAtt(${ev.id})" style="cursor:pointer">
+            <div class="avs">${avs||'<span style="background:#333">·</span>'}</div>
+            <div class="cnt"><b>${atts.length}</b> gehen hin ${more}</div>
+          </div>
+          <button class="goBtn ${going?'on':''}" onclick="toggleGo(${ev.id})">${going?'✓ Du gehst':'Ich geh hin'}</button>
+        </div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+/* ---------- RSVP ---------- */
+function toggleGo(id){
+  if(!me){openLogin();return}
+  myRsvps[id]=!myRsvps[id];
+  if(!myRsvps[id]) delete myRsvps[id];
+  save(STORE_RSVP,myRsvps);
+  const ev=EVENTS.find(e=>e.id===id);
+  toast(myRsvps[id]?`Du gehst zu „${ev.title.split("—")[0].trim()}" 🎉`:"Zusage zurückgezogen");
+  render(); if(attEventId===id) fillAtt(id);
+}
+
+/* ---------- Login ---------- */
+function openLogin(){document.getElementById("handleInput").value=me?me:"";document.getElementById("loginOv").classList.add("show");
+  setTimeout(()=>document.getElementById("handleInput").focus(),50)}
+function closeLogin(){document.getElementById("loginOv").classList.remove("show")}
+function saveLogin(){
+  let h=document.getElementById("handleInput").value.trim().replace(/^@/,"").replace(/[^a-zA-Z0-9._]/g,"");
+  if(!h){toast("Bitte einen Handle eingeben");return}
+  me=h; save(STORE_USER,me); refreshMe(); closeLogin(); render();
+  toast(`Angemeldet als @${h} 👋`);
+}
+function refreshMe(){
+  document.getElementById("loginBtn").style.display = me?"none":"inline-block";
+  const chip=document.getElementById("meChip");
+  if(me){chip.style.display="flex";document.getElementById("meHandle").textContent="@"+me;
+    document.getElementById("meAv").textContent=initials(me)}
+  else chip.style.display="none";
+}
+
+/* ---------- Attendees modal ---------- */
+function openAtt(id){attEventId=id;document.getElementById("attOv").classList.add("show");fillAtt(id)}
+function closeAtt(){document.getElementById("attOv").classList.remove("show");attEventId=null}
+function toggleFromModal(){toggleGo(attEventId)}
+function fillAtt(id){
+  const ev=EVENTS.find(e=>e.id===id), atts=attendeesOf(ev), going=isGoing(ev);
+  document.getElementById("attTitle").textContent=ev.title;
+  document.getElementById("attSub").textContent=`${ev.time} · ${ev.loc}`;
+  const gb=document.getElementById("attGoBtn");
+  gb.textContent=going?"✓ Du gehst hin — abmelden":"Ich geh auch hin";
+  gb.style.background=going?"var(--card)":"var(--grad)";
+  gb.style.border=going?"1px solid var(--line)":"none";
+  const ig=document.getElementById("attIg");
+  if(ev.ig){ig.style.display="flex";ig.href=ev.igUrl}else ig.style.display="none";
+  document.getElementById("attCount").textContent=`${atts.length} Profile gehen hin`;
+  document.getElementById("attList").innerHTML=atts.map(h=>{
+    const you=h===me;
+    return `<div class="att ${you?'you':''}">
+      <div class="av">${initials(h)}</div>
+      <div class="h">@${h}<small>${you?'das bist du':'geht hin'}</small></div>
+      ${you?'<span class="badgeY">DU</span>':`<a class="ig" href="https://instagram.com/${h}" target="_blank" style="margin-left:auto;font-size:13px">Profil ↗</a>`}
+    </div>`;
+  }).join("");
+}
+
+/* ---------- Toast ---------- */
+let toastT;
+function toast(msg){const t=document.getElementById("toast");t.textContent=msg;t.classList.add("show");
+  clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("show"),2600)}
+
+/* ---------- Init ---------- */
+document.querySelectorAll(".ov").forEach(o=>o.addEventListener("click",e=>{if(e.target===o)o.classList.remove("show")}));
+document.getElementById("handleInput").addEventListener("keydown",e=>{if(e.key==="Enter")saveLogin()});
+renderFilters(); refreshMe(); render();
+</script>
+</body>
+</html>
