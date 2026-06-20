@@ -15,6 +15,17 @@ Sport, Bühne – mit echten Fotos) zu importieren, einmalig Folgendes tun:
 2. Name: `TICKETMASTER_API_KEY`
    Value: *(den kopierten Key einfügen)* → **Add secret**
 
+## 1b. (Optional) Zweite Quelle: SerpAPI „Google Events"
+Deckt zusätzlich Community-/Business-/Gastro-Events ab (inkl. Eventbrite/Meetup,
+die Google listet) – die Ticketmaster nicht hat.
+1. Auf <https://serpapi.com/> registrieren (kostenlos, 100 Abrufe/Monat).
+2. Den **API Key** aus dem Dashboard kopieren.
+3. Als zweites GitHub-Secret hinterlegen (gleicher Weg wie unten),
+   Name: `SERPAPI_KEY`.
+
+Beide Quellen sind unabhängig – du kannst nur Ticketmaster, nur SerpAPI
+oder beide nutzen. Das Skript mischt und dedupliziert automatisch.
+
 ## 3. Fertig
 - Der Workflow `Update events (täglich)` läuft danach jede Nacht (~06:00 München),
   holt die Events und schreibt sie in `events.json`. Die Seite zeigt sie

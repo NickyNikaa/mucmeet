@@ -23,6 +23,7 @@ jobs:
       - name: Events holen
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python scripts/fetch_events.py
 
       - name: events.json committen (falls geändert)
