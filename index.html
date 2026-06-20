@@ -134,7 +134,7 @@
 <div class="wrap">
   <section class="hero">
     <div class="pill"><b>●</b>&nbsp;Live in München · täglich neue Events</div>
-    <h1>Finde raus, <span>wer wohin geht.</span></h1>
+    <h1>Place <span>to be.</span></h1>
     <p>Run-Clubs, Pop-ups, Business-Meetups, Dating-Abende & mehr — aus ganz München, automatisch gesammelt. Hinterlege dein Insta, sag zu, und sieh welche Profile sonst noch dabei sind.</p>
   </section>
 
@@ -186,13 +186,18 @@
 <script>
 /* ---------- Daten: echte Münchner Events (Recherche Juni 2026) ---------- */
 const CATS = [
-  {id:"all",  name:"Alle",            c1:"#ff5a5f",c2:"#7c5cff"},
-  {id:"run",  name:"🏃 Sport & Run",  c1:"#34d399",c2:"#0ea5e9"},
-  {id:"biz",  name:"💼 Business",      c1:"#7c5cff",c2:"#4338ca"},
-  {id:"popup",name:"🎪 Pop-up & Markt",c1:"#f59e0b",c2:"#ef4444"},
-  {id:"date", name:"💘 Dating",        c1:"#ff5a5f",c2:"#db2777"},
-  {id:"music",name:"🎵 Musik & Open Air",c1:"#8b5cf6",c2:"#ec4899"},
-  {id:"yoga", name:"🧘 Yoga & Wellness",c1:"#10b981",c2:"#84cc16"},
+  {id:"all",    name:"Alle",             c1:"#ff5a5f",c2:"#7c5cff"},
+  {id:"run",    name:"🏃 Running",        c1:"#34d399",c2:"#0ea5e9"},
+  {id:"walk",   name:"🚶 Walking",        c1:"#22c55e",c2:"#14b8a6"},
+  {id:"cycle",  name:"🚴 Cycling",        c1:"#06b6d4",c2:"#3b82f6"},
+  {id:"yoga",   name:"🧘 Yoga",           c1:"#10b981",c2:"#84cc16"},
+  {id:"pilates",name:"🤸 Pilates",        c1:"#f472b6",c2:"#a855f7"},
+  {id:"padel",  name:"🎾 Padel",          c1:"#84cc16",c2:"#eab308"},
+  {id:"tennis", name:"🟡 Tennis",         c1:"#65a30d",c2:"#16a34a"},
+  {id:"biz",    name:"💼 Business",        c1:"#7c5cff",c2:"#4338ca"},
+  {id:"popup",  name:"🎪 Pop-up & Markt",  c1:"#f59e0b",c2:"#ef4444"},
+  {id:"date",   name:"💘 Dating",          c1:"#ff5a5f",c2:"#db2777"},
+  {id:"music",  name:"🎵 Musik & Open Air",c1:"#8b5cf6",c2:"#ec4899"},
 ];
 const EVENTS = [
   {id:1,cat:"run",title:"Munich Run Collective — Weekly Run",date:"2026-06-25",time:"Do 19:00",
@@ -267,6 +272,55 @@ const EVENTS = [
    loc:"Urban Beach, München",ig:"namaste.united",igUrl:"https://www.eventbrite.de/d/germany--m%C3%BCnchen/yoga/",
    desc:"Urban-Beach-Vibes mitten in der Stadt: Yoga, Community & Summer-Flow von Namaste United.",
    seed:["beach.yoga.bina","namaste.nora","leo_m","tessa","jul"]},
+
+  {id:19,cat:"walk",title:"Isar Social Walk & Talk",date:"2026-06-26",time:"Fr 18:30",
+   loc:"Treffpunkt Reichenbachbrücke, Isar",ig:"",igUrl:"https://www.munich.travel/en/topics/sports-leisure/sports-events-and-sports-activities",
+   desc:"Entspannter Feierabend-Walk an der Isar — neue Leute kennenlernen ohne Leistungsdruck, danach Drinks am Kulturstrand.",
+   seed:["walk.with.mia","isar.steffi","ben_h","carla"]},
+  {id:20,cat:"walk",title:"Sunday Power-Walk — Englischer Garten",date:"2026-07-05",time:"So 10:00",
+   loc:"Englischer Garten, Kleinhesseloher See",ig:"",igUrl:"https://www.munich.travel/en/topics/sports-leisure/sports-events-and-sports-activities",
+   desc:"Zügiger Walk im Grünen für alle Fitnesslevel — moderates Tempo, gute Gespräche, Kaffee zum Abschluss.",
+   seed:["powerwalk.paula","greta","sandra.m"]},
+
+  {id:21,cat:"cycle",title:"Gravel Club München — Social Ride",date:"2026-06-28",time:"So 09:00",
+   loc:"Start Innenstadt → Isartal",ig:"",igUrl:"https://gravel-club.com/ausfahrten/muenchen/",
+   desc:"Offene Gravel-Community: gemeinsame Tour, die Stadt & Natur entlang der Isar verbindet. Auch FLINTA*-Rides.",
+   seed:["gravel.gustav","dirtroad.dani","theo_l","mara_m"]},
+  {id:22,cat:"cycle",title:"RUNDEDREHEN Cycling Club — Group Ride",date:"2026-07-03",time:"Fr 18:00",
+   loc:"Treffpunkt München-Ost",ig:"",igUrl:"https://rundedrehen.de/grouprides/muenchen",
+   desc:"Social Ride auf dem Rennrad in netter Gruppe — feste Routen, alle Tempi, Fokus auf Miteinander.",
+   seed:["roadie.rosa","watt.willi","jan"]},
+  {id:23,cat:"cycle",title:"Rapha Cycling Club — Weekly Ride",date:"2026-07-08",time:"Di 18:30",
+   loc:"Rapha Clubhouse München",ig:"",igUrl:"https://content.rapha.cc/de/de/clubhouses/munich",
+   desc:"Wöchentliche Ausfahrt ab dem Clubhouse, danach Coffee & Community. Treffpunkt der Münchner RCC-Chapter.",
+   seed:["rapha.rik","clubhouse.cleo","oskar_w","helena","franzi"]},
+
+  {id:24,cat:"pilates",title:"Reformer Room — Community Class & Café",date:"2026-06-27",time:"Sa 11:00",
+   loc:"Reformer Room, München",ig:"reformer_room_muenchen",igUrl:"https://reformer-room.de/",
+   desc:"Reformer-Pilates in der Kleingruppe plus lockeres Get-together — Equipment-Training & neue Gesichter.",
+   seed:["pilates.pia","core.cara","sina.yoga"]},
+  {id:25,cat:"pilates",title:"PURITÉ Pilates — Sunset Reformer",date:"2026-07-04",time:"Sa 19:00",
+   loc:"PURITÉ Studio, Schwabing",ig:"puritepilatesmunich",igUrl:"https://www.instagram.com/puritepilatesmunich/",
+   desc:"Reformer- & Tower-Session am Abend in stylischem Schwabinger Studio. Im Anschluss Community-Smoothies.",
+   seed:["puri.lena","reformer.romy","tessa"]},
+
+  {id:26,cat:"padel",title:"Padel Club München — Anfänger-Turnier",date:"2026-06-29",time:"So 14:00",
+   loc:"Padel Club München",ig:"padelclubmuenchen",igUrl:"https://www.instagram.com/padelclubmuenchen/",
+   desc:"Lockeres Turnier für Einsteiger:innen — Schläger gibt's vor Ort, danach gemeinsames Hangout am Court.",
+   seed:["padel.pedro","smash.sara","leon_tech","nico_88"]},
+  {id:27,cat:"padel",title:"Padel & Social (Indoor)",date:"2026-07-10",time:"Fr 19:30",
+   loc:"Socialhood Munich",ig:"",igUrl:"https://socialhood-munich.com/events/padel-social-indoor-1",
+   desc:"Padel-Event extra zum Leute-Kennenlernen: gemischte Teams, lockere Atmosphäre, neue Connections garantiert.",
+   seed:["social.sam","court.kim","valeria","david_r"]},
+
+  {id:28,cat:"tennis",title:"Münchner Sportclub — Tennis Schnupperabend",date:"2026-07-02",time:"Do 18:00",
+   loc:"Münchner Sportclub (MSC)",ig:"",igUrl:"https://www.muenchner-sportclub.de/",
+   desc:"Offener Tennis-Abend zum Reinschnuppern & Mitspielen — Plätze, Bälle und nette Leute auf der Anlage.",
+   seed:["tennis.tom","ace.anna","robert"]},
+  {id:29,cat:"tennis",title:"Team München — Summer Sports Festival",date:"2026-07-24",time:"Fr–So",
+   loc:"München",ig:"",igUrl:"https://teammuenchen.de/en/summer-sports-festival/",
+   desc:"Drei Tage Sport, Socialising & gute Stimmung über viele Disziplinen — von Tennis bis Mannschaftssport.",
+   seed:["festi.flo","sporty.silke","paul","kathi_m"]},
 ];
 
 /* ---------- State ---------- */
@@ -290,6 +344,7 @@ function attendeesOf(ev){
   return list;
 }
 function isGoing(ev){return me && !!myRsvps[ev.id]}
+function profileUrl(h){return "https://www.instagram.com/"+encodeURIComponent((h||"").replace(/^@/,""))+"/"}
 
 /* ---------- Render ---------- */
 function renderFilters(){
@@ -322,7 +377,8 @@ function render(){
         <div class="meta">
           <div>🕒 ${ev.time}</div>
           <div>📍 ${ev.loc}</div>
-          ${ev.ig?`<div>📷 <a class="ig" href="${ev.igUrl}" target="_blank">@${ev.ig}</a></div>`:''}
+          ${ev.ig?`<div>📷 <a class="ig" href="${profileUrl(ev.ig)}" target="_blank">@${ev.ig}</a></div>`:''}
+          <div>🔗 <a class="ig" href="${ev.igUrl}" target="_blank" style="color:var(--muted)">Quelle / Anmeldung ↗</a></div>
         </div>
         <div class="desc">${ev.desc}</div>
         <div class="cfoot">
@@ -379,15 +435,15 @@ function fillAtt(id){
   gb.style.background=going?"var(--card)":"var(--grad)";
   gb.style.border=going?"1px solid var(--line)":"none";
   const ig=document.getElementById("attIg");
-  if(ev.ig){ig.style.display="flex";ig.href=ev.igUrl}else ig.style.display="none";
+  if(ev.ig){ig.style.display="flex";ig.href=profileUrl(ev.ig)}else ig.style.display="none";
   document.getElementById("attCount").textContent=`${atts.length} Profile gehen hin`;
   document.getElementById("attList").innerHTML=atts.map(h=>{
     const you=h===me;
-    return `<div class="att ${you?'you':''}">
+    return `<a class="att ${you?'you':''}" href="${profileUrl(h)}" target="_blank" style="text-decoration:none;color:inherit">
       <div class="av">${initials(h)}</div>
-      <div class="h">@${h}<small>${you?'das bist du':'geht hin'}</small></div>
-      ${you?'<span class="badgeY">DU</span>':`<a class="ig" href="https://instagram.com/${h}" target="_blank" style="margin-left:auto;font-size:13px">Profil ↗</a>`}
-    </div>`;
+      <div class="h">@${h}<small>${you?'das bist du · dein Profil ↗':'geht hin · Profil ansehen ↗'}</small></div>
+      ${you?'<span class="badgeY">DU</span>':'<span class="ig" style="margin-left:auto;font-size:13px">↗</span>'}
+    </a>`;
   }).join("");
 }
 
