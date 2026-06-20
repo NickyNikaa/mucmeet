@@ -1,5 +1,65 @@
 [
  {
+  "id": "se-e93717783a",
+  "cat": "popup",
+  "title": "Social Sculpt Community Event",
+  "date": "2026-06-20",
+  "time": "Heute, 10:00–14:00 Uhr",
+  "loc": "Wagnerdrei., Atelier, Wagnerstraße 3, Schwabing-Freimann, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/social-sculpt-community-event-tickets-1989337349564",
+  "desc": "Ein kuratiertes Pilates Community Event in München, hosted by Julie & Angi.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCihwO0GUE21BI_88blZjhm9ChB16RBQWL6siCvASKhW5kN6QZL-J2XdA&s"
+ },
+ {
+  "id": "se-1d1e97f601",
+  "cat": "walk",
+  "title": "Osprey Community Hike mit Annika Schenk",
+  "date": "2026-06-20",
+  "time": "Heute, 09:45–15:00 Uhr",
+  "loc": "Globetrotter München, Isartorpl. 8-10, Altstadt-Lehel, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/osprey-community-hike-mit-annika-schenk-0/",
+  "desc": "Annika Schenk, die Outdoor-Frau mit Leidenschaft für Bikepacking und Wanderungen, nimmt dich mit auf eine entspannte Tour durch die Natur. Hier zählt mehr als die Strecke",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bTyq_lWqqy6ksWSYXqtBL1MP6Ry1Gs-RwzNSMFGy_knNkgdeHHnFD2A&s"
+ },
+ {
+  "id": "se-d0feb7aa34",
+  "cat": "music",
+  "title": "Gymnation Fitness Festival",
+  "date": "2026-06-20",
+  "time": "Heute, 12:00–22:00 Uhr",
+  "loc": "Pineapple Park München, Paketposthalle, München",
+  "ig": "",
+  "igUrl": "https://www.pineapplepark-munich.com/event-details/gymnation-fitness-festival",
+  "desc": "Münchens erstes Fitness Open Air Festival – Power, Community und Festival-Feeling unter freiem Himmel.",
+  "img": "https://www.google.com/maps/vt/data=7II39Xg2-lPYk3kPv6XERzFzUVsieBFeXoqps0g3p1pKOQmoCEgensfyzAvtNbLWx0jt_fSk7IN2WiYEnAwY-rTpMBWJqF0RmfBf8u03rjhNjq7ZAWs"
+ },
+ {
+  "id": "se-866744a122",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour ALTGIESING! | Munich Wine Rebels",
+  "date": "2026-06-20",
+  "time": "Heute, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-8/",
+  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
+ },
+ {
+  "id": "se-1850ef7c67",
+  "cat": "biz",
+  "title": "General Business Networking - Munich",
+  "date": "2026-06-24",
+  "time": "Mi, 18:00–20:00 Uhr",
+  "loc": "The Keg Bar, Trautenwolfstraße 1, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/actingproduction-business-networking-elevating-your-potential-munich-tickets-1988636494287",
+  "desc": "Strive welcomes you to 'Acting, Production and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Strive welcomes you to 'Acting, Producti",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWNaH1HJnhxH1xlhetvF7RYCJGCYkViISb70_J05Ea273icwaxU1Oygk&s"
+ },
+ {
   "id": "tm-Z698xZC2Z1kF3uxbS",
   "cat": "music",
   "title": "The Weeknd: After Hours Til Dawn Tour",
@@ -10,6 +70,102 @@
   "igUrl": "https://www.ticketmaster.de/event/the-weeknd-after-hours-til-dawn-tour-tickets/212362633?language=en-us",
   "desc": "Music · Hip-Hop/Rap in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/966/779d1731-4094-4a97-bc16-1341dcb41966_SOURCE"
+ },
+ {
+  "id": "se-ab473bce81",
+  "cat": "pilates",
+  "title": "FS8 Pilates & Business Networking",
+  "date": "2026-06-25",
+  "time": "Do, 09:00–11:00 Uhr",
+  "loc": "FS8 Munich Theresienwiese, Theresienhöhe 40, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/fs8-pilates-business-networking-tickets-1990111176100",
+  "desc": "Join FS8 for Pilates, chill vibes & great networking with studio owner Jessica. Bring grip socks or grab a pair at the studio!",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yve9gwx8KzlTMl4M379vi-uYWtllVsY8D4BGqrPo1hNA6y43fSm6KcY&s"
+ },
+ {
+  "id": "se-d7c4047680",
+  "cat": "popup",
+  "title": "Munich | HOWL LIKE WOLVES - 5 YEARS ANNIVERSARY SHOW 2026",
+  "date": "2026-06-27",
+  "time": "Sa, 18:00–23:30 Uhr",
+  "loc": "Hansa39, Hansastraße 39-41, Sendling-Westpark, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/munich-howl-like-wolves-5-years-anniversary-show-2026-tickets-1977086527024",
+  "desc": "Die Münchner Metalcore-Szene darf sich auf ein gewaltiges Highlight freuen: HOWL LIKE WOLVES kommen am 27. Juni 2026, in der Kranhalle! Die Münchner Metalcore-Szene darf ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUV2BdSxHWsZf751Wj4KyDX5_xVsgg_6ESLrKhDjE9RIAKxLwWT_9wcM&s"
+ },
+ {
+  "id": "se-8030744a2e",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
+  "date": "2026-06-27",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-21/",
+  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
+ },
+ {
+  "id": "se-28d9f26112",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
+  "date": "2026-06-27",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Maxmonument, Maximilianstraße, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-lehel-munich-wine-rebels-tickets-1982572226900",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood... durch Münchens schönste Viertel! Wine & Food Walking Tour München LEHEL ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmLAcvY4ZypmWz7QCfHsZovCZfIeTRRD5vMHORRdeSSvq9clyCEogRmo&s"
+ },
+ {
+  "id": "se-62698c8ef4",
+  "cat": "biz",
+  "title": "Business-Abend für Unternehmer:innen südlich von München.",
+  "date": "2026-06-30",
+  "time": "Di, 19:30–21:30 Uhr",
+  "loc": "Restaurant La Ruotas Ristoro Italiano, Münchener Str. 2, Sauerlach",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/business-abend-fur-unternehmerinnen-sudlich-von-munchen-tickets-1991356018457?aff=ebdssbcategorybrowse",
+  "desc": "Lust auf Networking? Der Business-Abend für Unternehmer:innen zum spannenden Austausch, Networking und Inspiration.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuVdhGl1gTjWasOxcHrW1n-rBdwcy-0kJdy_bFJj4NBeGCEr5uHgqOvw&s"
+ },
+ {
+  "id": "se-ed326bcaae",
+  "cat": "popup",
+  "title": "Community Nähen",
+  "date": "2026-06-30",
+  "time": "Di, 18:30–21:30 Uhr",
+  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
+  "ig": "",
+  "igUrl": "https://www.komuenchen.de/veranstaltung/zusammen-naehen-ohne-anleitung-30062026",
+  "desc": "Zusammen Nähen - ohne Anleitung Ihr seid mit dem Nähen vertraut und kennt euch mit Nadel, Faden und Nähmaschinen aus? Ihr habt Lust, auf Austausch in der Community, wollt",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPUnpS0IH4rM2cS2p6fsZHugPSYNay6DWzQCDxvpkva7PmA_G-SuqOUY&s"
+ },
+ {
+  "id": "se-a5d7b073a8",
+  "cat": "popup",
+  "title": "steidle architekten - Community Happens Here",
+  "date": "2026-07-01",
+  "time": "Mi., 1. – So., 5. Juli",
+  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
+  "ig": "",
+  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-469894/",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
+ },
+ {
+  "id": "se-f9552e0556",
+  "cat": "music",
+  "title": "Festival der Zukunft",
+  "date": "2026-07-02",
+  "time": "Do., 2. – So., 5. Juli",
+  "loc": "Deutsches Museum, Museumsinsel 1, München",
+  "ig": "",
+  "igUrl": "https://www.munich-startup.de/veranstaltung/festival-der-zukunft-2026/",
+  "desc": "Vom 2. bis 5. Juli 2026 ist es wieder so weit: Das Festival der Zukunft, veranstaltet von 1E9 und dem Deutschen Museum, öffnet in München seine Türen. Unter dem Motto „Jo",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYphKaeerXIPBh7UwmNkh_GIUJa_v0o0AjzzFe_n3ZBb8dRtYkHvS5W-A&s"
  },
  {
   "id": "tm-Z698xZC2Z1kbk44pa",
@@ -24,6 +180,30 @@
   "img": "https://s1.ticketm.net/dam/a/98e/09c095d4-714f-4d02-9243-83365d5ac98e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-376616c2fd",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour WERKSVIERTEL! | Munich Wine Rebels",
+  "date": "2026-07-03",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "Werksviertel-Mitte, Atelierstraße 1, Berg am Laim, München",
+  "ig": "",
+  "igUrl": "https://munichwinerebels.de/event/wine-food-walking-tour-werksviertel-munich-wine-rebels-10/",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood… durch Münchens schönste Viertel! Wine & Food Walking Tour München WERKSVIE",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh1BiJiTIfbN_U37cYvJsvuNvyAmw9_7T6-6-Q9iNZ5zCKyWJoeIuiXts&s"
+ },
+ {
+  "id": "se-ddf53474e8",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
+  "date": "2026-07-04",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-9/",
+  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
+ },
+ {
   "id": "tm-Z698xZC2Z1kF41abo",
   "cat": "music",
   "title": "Ali Wong - Ali Wong Live",
@@ -34,6 +214,18 @@
   "igUrl": "https://www.ticketmaster.de/event/ali-wong-ali-wong-live-tickets/215289611?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/253/e03b01e0-2f00-4b0e-be33-7c89a92f3253_SOURCE"
+ },
+ {
+  "id": "se-8fd2d46e95",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
+  "date": "2026-07-10",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-18/",
+  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
  },
  {
   "id": "tm-Z698xZC2Z1koNbaqf",
@@ -48,6 +240,18 @@
   "img": "https://s1.ticketm.net/dam/a/5e7/fa0366e1-2e3d-44aa-be0e-d76b2ca775e7_SOURCE"
  },
  {
+  "id": "se-e7b77f59df",
+  "cat": "popup",
+  "title": "Community Night",
+  "date": "2026-07-11",
+  "time": "Sa., 11. – So., 12. Juli",
+  "loc": "Rote Sonne, Maximilianspl. 5, Altstadt-Lehel, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/community-night-14/",
+  "desc": "+ + SATURDAY 11.07.2026+ + COMMUNITY NIGHT START 23:00 + + TICKETS VIA ROTE-SONNE.COM + + + + + + + + + + + + + + + + + + + + Sa. 11.07.2026 **unannounced Line-Up** + + +",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjpSTK-rV0h71DKHINYt1ZbmKyAuZG_OJfxbBBf3udwNZuR3nEYowsDg&s"
+ },
+ {
   "id": "tm-Z698xZC2Z16evN707d",
   "cat": "music",
   "title": "Don West - EU & UK TOUR 2026\t",
@@ -58,6 +262,18 @@
   "igUrl": "https://www.ticketmaster.de/event/don-west-eu--uk-tour-2026-tickets/2063124103?language=en-us",
   "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5ab/bbaa2013-0dcf-4895-8072-678806e435ab_SOURCE"
+ },
+ {
+  "id": "se-e2ec271510",
+  "cat": "popup",
+  "title": "Ops & Friends Commerce Community",
+  "date": "2026-07-16",
+  "time": "Do, 18:30–22:30 Uhr",
+  "loc": "AlphaPet Ventures GmbH, Landsberger Str. 234/2. OG, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/ops-friends-commerce-community-tickets-1984910412476",
+  "desc": "Dörte und Kristina laden zum zweiten Ops & Friends Stammtisch nach München ein. Impuls, Sparring & Networking bei Food/Drinks. Ohne Sales. Dörte und Kristina laden zum zw",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3lhFE8TC5pOCTSr0urg0hhMhA4kSmMwhmlUV6Puzb7eDjq-4TjYNYTQ&s"
  },
  {
   "id": "tm-Z698xZC2Z174eZ6",
@@ -82,6 +298,42 @@
   "igUrl": "https://www.ticketmaster.de/event/helene-fischer-360-stadion-tour-2026-tickets/541809?language=en-us",
   "desc": "Music · World in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/9ab/0ee831e1-534b-4053-a9f8-cb35fce849ab_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-c2309f5b6b",
+  "cat": "biz",
+  "title": "Business Vibes Sommerevent 2026",
+  "date": "2026-07-21",
+  "time": "Di, 15:30–21:30 Uhr",
+  "loc": "FLUX, Barer Str. 40, Maxvorstadt, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/business-vibes-sommerevent-2026-tickets-1507826362239",
+  "desc": "Netzwerk-Event für Solopreneurinnen & Frauen im Business. Höhepunkt bildet ein sommerliches 3-Gänge-Menü mit Weinbegleitung von Eva C.Müller",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkDSwcwyYa8yfZiu3QQTHMLt_012sa48rMrGqPm1p0Dwob9pYVoz4GE&s"
+ },
+ {
+  "id": "se-d363af8a8e",
+  "cat": "popup",
+  "title": "FEMALE*ONLY BarNight",
+  "date": "2026-07-23",
+  "time": "Do, 18:00–23:00 Uhr",
+  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/femaleonly-barnight-7/",
+  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
+ },
+ {
+  "id": "se-c3763f06fe",
+  "cat": "biz",
+  "title": "Blockchain and Business Networking | Elevating Your Potential - Munich",
+  "date": "2026-08-05",
+  "time": "Mi, 18:00–20:00 Uhr",
+  "loc": "The Keg Bar, Trautenwolfstraße 1, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-munich-tickets-1988636491278",
+  "desc": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Limited Tickets. Strive welcomes you to 'Blockch",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgH3UWOlUkUkfS8N6SIud5ePlzS-m2NeQI4qEc-WVOukvzvgiF-jdYqvc&s"
  },
  {
   "id": "tm-Z698xZC2Z16vrdus8o",
