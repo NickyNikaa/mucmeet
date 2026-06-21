@@ -1,51 +1,27 @@
 [
  {
-  "id": "se-e93717783a",
+  "id": "se-b00bf848c2",
   "cat": "popup",
-  "title": "Social Sculpt Community Event",
-  "date": "2026-06-20",
-  "time": "Heute, 10:00–14:00 Uhr",
-  "loc": "Wagnerdrei., Atelier, Wagnerstraße 3, Schwabing-Freimann, München",
+  "title": "Community Dance",
+  "date": "2026-06-21",
+  "time": "Heute, 11:00–13:00 Uhr",
+  "loc": "Gasteig HP8, Hans-Preißinger-Straße 8, München",
   "ig": "",
-  "igUrl": "https://www.eventbrite.de/e/social-sculpt-community-event-tickets-1989337349564",
-  "desc": "Ein kuratiertes Pilates Community Event in München, hosted by Julie & Angi.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCihwO0GUE21BI_88blZjhm9ChB16RBQWL6siCvASKhW5kN6QZL-J2XdA&s"
+  "igUrl": "https://muenchenmitkind.de/veranstaltungskalender/community-dance-2026-06-21/",
+  "desc": "Community Dance Alle tanzen zusammen – alt und jung, Tanzfans und Laien, Menschen mit und ohne Behinderung. Der Fokus liegt dabei nicht auf dem Erlernen von Techniken, so",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUtYUmQHGZtN5BvHhuIzUGxqt2ouZDXMloM8Agq-PVPqLy9CeuiAPGoI&s"
  },
  {
-  "id": "se-1d1e97f601",
-  "cat": "walk",
-  "title": "Osprey Community Hike mit Annika Schenk",
-  "date": "2026-06-20",
-  "time": "Heute, 09:45–15:00 Uhr",
-  "loc": "Globetrotter München, Isartorpl. 8-10, Altstadt-Lehel, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/osprey-community-hike-mit-annika-schenk-0/",
-  "desc": "Annika Schenk, die Outdoor-Frau mit Leidenschaft für Bikepacking und Wanderungen, nimmt dich mit auf eine entspannte Tour durch die Natur. Hier zählt mehr als die Strecke",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bTyq_lWqqy6ksWSYXqtBL1MP6Ry1Gs-RwzNSMFGy_knNkgdeHHnFD2A&s"
- },
- {
-  "id": "se-d0feb7aa34",
+  "id": "se-83da3df7bb",
   "cat": "music",
   "title": "Gymnation Fitness Festival",
-  "date": "2026-06-20",
-  "time": "Heute, 12:00–22:00 Uhr",
+  "date": "2026-06-21",
+  "time": "Sa, 12:00–22:00 Uhr",
   "loc": "Pineapple Park München, Paketposthalle, München",
   "ig": "",
   "igUrl": "https://www.pineapplepark-munich.com/event-details/gymnation-fitness-festival",
   "desc": "Münchens erstes Fitness Open Air Festival – Power, Community und Festival-Feeling unter freiem Himmel.",
   "img": "https://www.google.com/maps/vt/data=7II39Xg2-lPYk3kPv6XERzFzUVsieBFeXoqps0g3p1pKOQmoCEgensfyzAvtNbLWx0jt_fSk7IN2WiYEnAwY-rTpMBWJqF0RmfBf8u03rjhNjq7ZAWs"
- },
- {
-  "id": "se-866744a122",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour ALTGIESING! | Munich Wine Rebels",
-  "date": "2026-06-20",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-8/",
-  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
  },
  {
   "id": "se-1850ef7c67",
@@ -55,9 +31,9 @@
   "time": "Mi, 18:00–20:00 Uhr",
   "loc": "The Keg Bar, Trautenwolfstraße 1, München",
   "ig": "",
-  "igUrl": "https://www.eventbrite.com/e/actingproduction-business-networking-elevating-your-potential-munich-tickets-1988636494287",
-  "desc": "Strive welcomes you to 'Acting, Production and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Strive welcomes you to 'Acting, Producti",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWNaH1HJnhxH1xlhetvF7RYCJGCYkViISb70_J05Ea273icwaxU1Oygk&s"
+  "igUrl": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-munich-tickets-1988636486263",
+  "desc": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Limited Tickets. Strive welcomes you to 'Healthc",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnDlQkq_EqgakunazQhi1i2AHXwhLujFyvekwfsztgrIzgOfK84bz4z8&s"
  },
  {
   "id": "tm-Z698xZC2Z1kF3uxbS",
@@ -214,6 +190,18 @@
   "igUrl": "https://www.ticketmaster.de/event/ali-wong-ali-wong-live-tickets/215289611?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/253/e03b01e0-2f00-4b0e-be33-7c89a92f3253_SOURCE"
+ },
+ {
+  "id": "se-a8239b8b30",
+  "cat": "popup",
+  "title": "#CLC089 - Regio-Treff der Corporate Learning Community München",
+  "date": "2026-07-09",
+  "time": "Do, 18:30–21:00 Uhr",
+  "loc": "freiraum - Zentrum für Seminare und Coaching, Saarstraße 5/1. Stock, Schwabing-West, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/clc089-regio-treff-der-corporate-learning-community-munchen-tickets-1989779637459",
+  "desc": "Thema: Zukunftstrends in Learning&Development Mit Hilfe der Methode future backwards werden wir verschiedene Zukunftsszenarien entwickeln und überlegen, was Schlüsselsitu",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtfH01euvmgnxKkp8PLmH89KJ905esFiFS-gGmVD246aD3oxWsx-TR8k&s"
  },
  {
   "id": "se-8fd2d46e95",
