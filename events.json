@@ -1,29 +1,5 @@
 [
  {
-  "id": "se-b00bf848c2",
-  "cat": "popup",
-  "title": "Community Dance",
-  "date": "2026-06-21",
-  "time": "Heute, 11:00–13:00 Uhr",
-  "loc": "Gasteig HP8, Hans-Preißinger-Straße 8, München",
-  "ig": "",
-  "igUrl": "https://muenchenmitkind.de/veranstaltungskalender/community-dance-2026-06-21/",
-  "desc": "Community Dance Alle tanzen zusammen – alt und jung, Tanzfans und Laien, Menschen mit und ohne Behinderung. Der Fokus liegt dabei nicht auf dem Erlernen von Techniken, so",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUtYUmQHGZtN5BvHhuIzUGxqt2ouZDXMloM8Agq-PVPqLy9CeuiAPGoI&s"
- },
- {
-  "id": "se-83da3df7bb",
-  "cat": "music",
-  "title": "Gymnation Fitness Festival",
-  "date": "2026-06-21",
-  "time": "Sa, 12:00–22:00 Uhr",
-  "loc": "Pineapple Park München, Paketposthalle, München",
-  "ig": "",
-  "igUrl": "https://www.pineapplepark-munich.com/event-details/gymnation-fitness-festival",
-  "desc": "Münchens erstes Fitness Open Air Festival – Power, Community und Festival-Feeling unter freiem Himmel.",
-  "img": "https://www.google.com/maps/vt/data=7II39Xg2-lPYk3kPv6XERzFzUVsieBFeXoqps0g3p1pKOQmoCEgensfyzAvtNbLWx0jt_fSk7IN2WiYEnAwY-rTpMBWJqF0RmfBf8u03rjhNjq7ZAWs"
- },
- {
   "id": "se-1850ef7c67",
   "cat": "biz",
   "title": "General Business Networking - Munich",
@@ -34,6 +10,18 @@
   "igUrl": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-munich-tickets-1988636486263",
   "desc": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Limited Tickets. Strive welcomes you to 'Healthc",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnDlQkq_EqgakunazQhi1i2AHXwhLujFyvekwfsztgrIzgOfK84bz4z8&s"
+ },
+ {
+  "id": "se-018fd0e8a0",
+  "cat": "yoga",
+  "title": "FLUX Community Yoga",
+  "date": "2026-06-24",
+  "time": "Mi, 18:30–19:30 Uhr",
+  "loc": "FLUX, Barer Str. 40, Maxvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/flux-community-yoga-36/",
+  "desc": "FLUX Community Yoga on 24.06.2026 in München ► All info on Rausgegangen!",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVhz76Hbde4sQSWcc4GH4qNyXtQyjp3KAqRjEWQDkuhJTJ7_811Al554&s"
  },
  {
   "id": "tm-Z698xZC2Z1kF3uxbS",
@@ -60,6 +48,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yve9gwx8KzlTMl4M379vi-uYWtllVsY8D4BGqrPo1hNA6y43fSm6KcY&s"
  },
  {
+  "id": "se-43cdefd4a7",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
+  "date": "2026-06-26",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-17/",
+  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
+ },
+ {
   "id": "se-d7c4047680",
   "cat": "popup",
   "title": "Munich | HOWL LIKE WOLVES - 5 YEARS ANNIVERSARY SHOW 2026",
@@ -70,6 +70,18 @@
   "igUrl": "https://www.eventbrite.com/e/munich-howl-like-wolves-5-years-anniversary-show-2026-tickets-1977086527024",
   "desc": "Die Münchner Metalcore-Szene darf sich auf ein gewaltiges Highlight freuen: HOWL LIKE WOLVES kommen am 27. Juni 2026, in der Kranhalle! Die Münchner Metalcore-Szene darf ",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUV2BdSxHWsZf751Wj4KyDX5_xVsgg_6ESLrKhDjE9RIAKxLwWT_9wcM&s"
+ },
+ {
+  "id": "se-8a5240be4b",
+  "cat": "music",
+  "title": "Unterwelt live on stage- das dark electro/industrial/ techno festival",
+  "date": "2026-06-27",
+  "time": "Sa, 18:30–23:00 Uhr",
+  "loc": "Hansa39, Hansastraße 39-41, Sendling-Westpark, München",
+  "ig": "",
+  "igUrl": "https://prinz.de/muenchen/events/unterwelt-live-on-stage/",
+  "desc": "Das Dark Electro/Industrial/Techno Festival in München/Süddeutschland Zur Jahresfeier der UNTERWELT Partys und zur Premiere des UNTERWELT on stage Festivals präsentieren ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruQt33PMUW4Xdccl2o_95ig-td-9Bxy7kCPHbIeMRkccC6PQCVcBzA0w&s"
  },
  {
   "id": "se-8030744a2e",
@@ -168,6 +180,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh1BiJiTIfbN_U37cYvJsvuNvyAmw9_7T6-6-Q9iNZ5zCKyWJoeIuiXts&s"
  },
  {
+  "id": "se-570b091120",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
+  "date": "2026-07-03",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "U-Bahnhof Rotkreuzplatz, ",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515009897",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
+ },
+ {
   "id": "se-ddf53474e8",
   "cat": "walk",
   "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
@@ -202,18 +226,6 @@
   "igUrl": "https://www.eventbrite.com/e/clc089-regio-treff-der-corporate-learning-community-munchen-tickets-1989779637459",
   "desc": "Thema: Zukunftstrends in Learning&Development Mit Hilfe der Methode future backwards werden wir verschiedene Zukunftsszenarien entwickeln und überlegen, was Schlüsselsitu",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtfH01euvmgnxKkp8PLmH89KJ905esFiFS-gGmVD246aD3oxWsx-TR8k&s"
- },
- {
-  "id": "se-8fd2d46e95",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
-  "date": "2026-07-10",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-18/",
-  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
  },
  {
   "id": "tm-Z698xZC2Z1koNbaqf",
@@ -754,6 +766,18 @@
   "igUrl": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/1219578185?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/41d/e6ab6fd7-dda8-4c06-898d-cb31026ed41d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kPvJ9Fb",
+  "cat": "music",
+  "title": "THIZZY52 - BLOCKKIDS TOUR 2026",
+  "date": "2026-10-17",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/thizzy52-blockkids-tour-2026-tickets/941997218?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/a74/02870094-4252-4cb6-9873-76b8a1f7ea74_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kr3-KZ0",
