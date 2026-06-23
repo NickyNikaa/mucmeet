@@ -1,27 +1,27 @@
 [
  {
+  "id": "se-11395df62b",
+  "cat": "popup",
+  "title": "Codex Community Meetup Munich",
+  "date": "2026-06-23",
+  "time": "Mo, 18:00–22:00 Uhr",
+  "loc": "Reply, Luise-Ullrich-Straße 14, München",
+  "ig": "",
+  "igUrl": "https://somo.social/de/e/codex-community-meetup-munich-622",
+  "desc": "Join us for an inspiring gathering of like-minded individuals at the **Codex Community Meetup in Munich**! This is a perfect opportunity to connect, share ideas, and expl",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7ibw4Q1JfcV2jHOLcJrN5iWj99Y61EBlu8slJP8&s"
+ },
+ {
   "id": "se-1850ef7c67",
   "cat": "biz",
   "title": "General Business Networking - Munich",
   "date": "2026-06-24",
-  "time": "Mi, 18:00–20:00 Uhr",
+  "time": "Morgen, 18:00–20:00 Uhr",
   "loc": "The Keg Bar, Trautenwolfstraße 1, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-munich-tickets-1988636486263",
   "desc": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Limited Tickets. Strive welcomes you to 'Healthc",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnDlQkq_EqgakunazQhi1i2AHXwhLujFyvekwfsztgrIzgOfK84bz4z8&s"
- },
- {
-  "id": "se-018fd0e8a0",
-  "cat": "yoga",
-  "title": "FLUX Community Yoga",
-  "date": "2026-06-24",
-  "time": "Mi, 18:30–19:30 Uhr",
-  "loc": "FLUX, Barer Str. 40, Maxvorstadt, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/flux-community-yoga-36/",
-  "desc": "FLUX Community Yoga on 24.06.2026 in München ► All info on Rausgegangen!",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVhz76Hbde4sQSWcc4GH4qNyXtQyjp3KAqRjEWQDkuhJTJ7_811Al554&s"
  },
  {
   "id": "tm-Z698xZC2Z1kF3uxbS",
@@ -72,18 +72,6 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUV2BdSxHWsZf751Wj4KyDX5_xVsgg_6ESLrKhDjE9RIAKxLwWT_9wcM&s"
  },
  {
-  "id": "se-8a5240be4b",
-  "cat": "music",
-  "title": "Unterwelt live on stage- das dark electro/industrial/ techno festival",
-  "date": "2026-06-27",
-  "time": "Sa, 18:30–23:00 Uhr",
-  "loc": "Hansa39, Hansastraße 39-41, Sendling-Westpark, München",
-  "ig": "",
-  "igUrl": "https://prinz.de/muenchen/events/unterwelt-live-on-stage/",
-  "desc": "Das Dark Electro/Industrial/Techno Festival in München/Süddeutschland Zur Jahresfeier der UNTERWELT Partys und zur Premiere des UNTERWELT on stage Festivals präsentieren ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruQt33PMUW4Xdccl2o_95ig-td-9Bxy7kCPHbIeMRkccC6PQCVcBzA0w&s"
- },
- {
   "id": "se-8030744a2e",
   "cat": "walk",
   "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
@@ -115,7 +103,7 @@
   "time": "Di, 19:30–21:30 Uhr",
   "loc": "Restaurant La Ruotas Ristoro Italiano, Münchener Str. 2, Sauerlach",
   "ig": "",
-  "igUrl": "https://www.eventbrite.com/e/business-abend-fur-unternehmerinnen-sudlich-von-munchen-tickets-1991356018457?aff=ebdssbcategorybrowse",
+  "igUrl": "https://www.eventbrite.com/e/business-abend-fur-unternehmerinnen-sudlich-von-munchen-tickets-1991356018457",
   "desc": "Lust auf Networking? Der Business-Abend für Unternehmer:innen zum spannenden Austausch, Networking und Inspiration.",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuVdhGl1gTjWasOxcHrW1n-rBdwcy-0kJdy_bFJj4NBeGCEr5uHgqOvw&s"
  },
@@ -168,18 +156,6 @@
   "img": "https://s1.ticketm.net/dam/a/98e/09c095d4-714f-4d02-9243-83365d5ac98e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-376616c2fd",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour WERKSVIERTEL! | Munich Wine Rebels",
-  "date": "2026-07-03",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "Werksviertel-Mitte, Atelierstraße 1, Berg am Laim, München",
-  "ig": "",
-  "igUrl": "https://munichwinerebels.de/event/wine-food-walking-tour-werksviertel-munich-wine-rebels-10/",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood… durch Münchens schönste Viertel! Wine & Food Walking Tour München WERKSVIE",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh1BiJiTIfbN_U37cYvJsvuNvyAmw9_7T6-6-Q9iNZ5zCKyWJoeIuiXts&s"
- },
- {
   "id": "se-570b091120",
   "cat": "walk",
   "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
@@ -190,6 +166,18 @@
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515009897",
   "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
+ },
+ {
+  "id": "se-20c91ab10c",
+  "cat": "music",
+  "title": "MÜNCHEN - THE COTTAGE - HEATED RIVALRY TOUR - FAST AUSVERKAUFT",
+  "date": "2026-07-04",
+  "time": "Sa, 19:00–23:00 Uhr",
+  "loc": "Mint Club, Leopoldstraße 25, München",
+  "ig": "",
+  "igUrl": "https://www.eventim.de/event/the-cottage-heated-rivalry-party-tour-mint-club-21402305/",
+  "desc": "Die Heated Rivalry Party Tour kommt in deine Stadt! JETZT Tickets sichern – bevor sie AUSVERKAUFT sind!",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt2ptbX0H--1MQOp2juAUxTPCNLzFnF5RNWWsSM9ofPT1l9lVGlu9NrY&s"
  },
  {
   "id": "se-ddf53474e8",
@@ -324,9 +312,9 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
  {
-  "id": "se-c3763f06fe",
+  "id": "se-7b2d6e7921",
   "cat": "biz",
-  "title": "Blockchain and Business Networking | Elevating Your Potential - Munich",
+  "title": "Law and Business Networking | Elevating Your Potential - Munich",
   "date": "2026-08-05",
   "time": "Mi, 18:00–20:00 Uhr",
   "loc": "The Keg Bar, Trautenwolfstraße 1, München",
@@ -502,6 +490,18 @@
   "igUrl": "https://www.ticketmaster.de/event/aap-rocky-dont-be-dumb-world-tour-tickets/1377074670?language=en-us",
   "desc": "Music · Hip-Hop/Rap in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/9a8/27ed6a92-1b9a-4a2b-af2d-99c447f939a8_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kqboPOJ",
+  "cat": "music",
+  "title": "PARTY 101 with Matt Bennett",
+  "date": "2026-09-12",
+  "time": "Sa 19:00",
+  "loc": "Nachtwerk, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/party-101-with-matt-bennett-tickets/758465826?language=en-us",
+  "desc": "Music · Dance/Electronic in Nachtwerk. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/4ae/146c9c28-38b8-46cd-ba65-0e4a9cbea4ae_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1k_bfNux",
@@ -1236,6 +1236,18 @@
   "img": "https://s1.ticketm.net/dam/a/498/7c364c9f-31fb-45ff-a009-fb9cff250498_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-LvZ18QN1J8h94LOvO0VkR",
+  "cat": "music",
+  "title": "MÜNCHEN | Old but Gold Ü30 Hip Hop Party on 3 Floors w/ Shai (USA) & Denyo",
+  "date": "2026-12-12",
+  "time": "Sa 22:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.universe.com/events/munchen-old-but-gold-u30-hip-hop-party-on-3-floors-w-shai-usa-denyo-tickets-7ZQ8P9?ref=ticketmaster",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/a0f/74015971-c3dc-4b13-a489-5251ff7a8a0f_SOURCE"
+ },
+ {
   "id": "tm-LvZ18QqSVcaIjNYvqc7P9",
   "cat": "popup",
   "title": "Ariana Baborie - Toll die Energie!",
@@ -1498,29 +1510,5 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kFeAA4E",
-  "cat": "music",
-  "title": "Dieter Bohlen - Cheri Cheri Lady Tour 2027",
-  "date": "2027-05-26",
-  "time": "Mi 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z16vpd83rZ",
-  "cat": "music",
-  "title": "Delil & Avie - 2ORTAKS TOUR 2027 | Premium Package",
-  "date": "2027-06-05",
-  "time": "Sa 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/delil--avie-2ortaks-tour-2027-%7C-premium-package-tickets/1583412780?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/b73/ebb46d5b-0442-45a6-8430-76abf0971b73_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
