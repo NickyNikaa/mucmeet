@@ -1,27 +1,27 @@
 [
  {
-  "id": "se-11395df62b",
-  "cat": "popup",
-  "title": "Codex Community Meetup Munich",
-  "date": "2026-06-23",
-  "time": "Mo, 18:00–22:00 Uhr",
-  "loc": "Reply, Luise-Ullrich-Straße 14, München",
-  "ig": "",
-  "igUrl": "https://somo.social/de/e/codex-community-meetup-munich-622",
-  "desc": "Join us for an inspiring gathering of like-minded individuals at the **Codex Community Meetup in Munich**! This is a perfect opportunity to connect, share ideas, and expl",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7ibw4Q1JfcV2jHOLcJrN5iWj99Y61EBlu8slJP8&s"
- },
- {
   "id": "se-1850ef7c67",
   "cat": "biz",
   "title": "General Business Networking - Munich",
   "date": "2026-06-24",
-  "time": "Morgen, 18:00–20:00 Uhr",
+  "time": "Heute, 18:00–20:00 Uhr",
   "loc": "The Keg Bar, Trautenwolfstraße 1, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-munich-tickets-1988636486263",
   "desc": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Limited Tickets. Strive welcomes you to 'Healthc",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnDlQkq_EqgakunazQhi1i2AHXwhLujFyvekwfsztgrIzgOfK84bz4z8&s"
+ },
+ {
+  "id": "se-55a2d5997a",
+  "cat": "popup",
+  "title": "steidle architekten - Community Happens Here. 20 Years of Encounters in Architecture",
+  "date": "2026-06-24",
+  "time": "3.–28. Juni",
+  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
+  "ig": "",
+  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-20-years-of-encounters-in-architecture-469893/",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
  },
  {
   "id": "tm-Z698xZC2Z1kF3uxbS",
@@ -40,7 +40,7 @@
   "cat": "pilates",
   "title": "FS8 Pilates & Business Networking",
   "date": "2026-06-25",
-  "time": "Do, 09:00–11:00 Uhr",
+  "time": "Morgen, 09:00–11:00 Uhr",
   "loc": "FS8 Munich Theresienwiese, Theresienhöhe 40, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.de/e/fs8-pilates-business-networking-tickets-1990111176100",
@@ -494,12 +494,12 @@
  {
   "id": "tm-Z698xZC2Z1kqboPOJ",
   "cat": "music",
-  "title": "PARTY 101 with Matt Bennett",
+  "title": "Party101 with Matt Bennett",
   "date": "2026-09-12",
   "time": "Sa 19:00",
   "loc": "Nachtwerk, Munich",
   "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/party-101-with-matt-bennett-tickets/758465826?language=en-us",
+  "igUrl": "https://www.ticketmaster.de/event/party101-with-matt-bennett-tickets/758465826?language=en-us",
   "desc": "Music · Dance/Electronic in Nachtwerk. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/4ae/146c9c28-38b8-46cd-ba65-0e4a9cbea4ae_SOURCE"
  },
@@ -898,6 +898,18 @@
   "igUrl": "https://www.ticketmaster.de/event/jero19-tour-von-seite-tickets/894424175?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/4c9/d50cc2df-148c-4e11-8f33-a55eee4864c9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1ku70AbI",
+  "cat": "music",
+  "title": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
+  "date": "2026-10-29",
+  "time": "Do 20:00",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/don-toliver-nitrous-octane-world-tour-leg-2-tickets/344905628?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kaaofap",
@@ -1474,18 +1486,6 @@
   "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/555368718?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1kCeFbqY",
-  "cat": "music",
-  "title": "Ian Hooper - On Tour April 2027",
-  "date": "2027-04-16",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/382218770?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/2e9/f692a854-2c28-41e0-bb37-e1b768f632e9_SOURCE"
  },
  {
   "id": "tm-LvZ18QQ4DCkgDsYZw559c",
