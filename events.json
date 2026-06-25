@@ -1,29 +1,5 @@
 [
  {
-  "id": "se-1850ef7c67",
-  "cat": "biz",
-  "title": "General Business Networking - Munich",
-  "date": "2026-06-24",
-  "time": "Heute, 18:00–20:00 Uhr",
-  "loc": "The Keg Bar, Trautenwolfstraße 1, München",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-munich-tickets-1988636486263",
-  "desc": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Limited Tickets. Strive welcomes you to 'Healthc",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnDlQkq_EqgakunazQhi1i2AHXwhLujFyvekwfsztgrIzgOfK84bz4z8&s"
- },
- {
-  "id": "se-55a2d5997a",
-  "cat": "popup",
-  "title": "steidle architekten - Community Happens Here. 20 Years of Encounters in Architecture",
-  "date": "2026-06-24",
-  "time": "3.–28. Juni",
-  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
-  "ig": "",
-  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-20-years-of-encounters-in-architecture-469893/",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
- },
- {
   "id": "tm-Z698xZC2Z1kF3uxbS",
   "cat": "music",
   "title": "The Weeknd: After Hours Til Dawn Tour",
@@ -40,7 +16,7 @@
   "cat": "pilates",
   "title": "FS8 Pilates & Business Networking",
   "date": "2026-06-25",
-  "time": "Morgen, 09:00–11:00 Uhr",
+  "time": "Heute, 09:00–11:00 Uhr",
   "loc": "FS8 Munich Theresienwiese, Theresienhöhe 40, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.de/e/fs8-pilates-business-networking-tickets-1990111176100",
@@ -48,11 +24,23 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yve9gwx8KzlTMl4M379vi-uYWtllVsY8D4BGqrPo1hNA6y43fSm6KcY&s"
  },
  {
+  "id": "se-17ec4b38e2",
+  "cat": "popup",
+  "title": "steidle architekten - Community Happens Here. 20 Years of Encounters in Architecture",
+  "date": "2026-06-25",
+  "time": "3.–28. Juni",
+  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
+  "ig": "",
+  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-20-years-of-encounters-in-architecture-469893/",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
+ },
+ {
   "id": "se-43cdefd4a7",
   "cat": "walk",
   "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
   "date": "2026-06-26",
-  "time": "Fr, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-17/",
@@ -60,11 +48,11 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
  },
  {
-  "id": "se-d7c4047680",
-  "cat": "popup",
-  "title": "Munich | HOWL LIKE WOLVES - 5 YEARS ANNIVERSARY SHOW 2026",
+  "id": "se-8a5240be4b",
+  "cat": "music",
+  "title": "Unterwelt live on stage- das dark electro/industrial/ techno festival",
   "date": "2026-06-27",
-  "time": "Sa, 18:00–23:30 Uhr",
+  "time": "Sa, 18:00–22:00 Uhr",
   "loc": "Hansa39, Hansastraße 39-41, Sendling-Westpark, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.com/e/munich-howl-like-wolves-5-years-anniversary-show-2026-tickets-1977086527024",
@@ -1054,6 +1042,18 @@
   "igUrl": "https://www.ticketmaster.de/event/the-script-man-in-the-arena-tour-2026-tickets/505709333?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/3a5/ce7517c6-e784-465e-88c7-ea54c2c063a5_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vf4kdxb",
+  "cat": "music",
+  "title": "re6ce",
+  "date": "2026-11-26",
+  "time": "Do 20:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/re6ce-tickets/1515183898?language=en-us",
+  "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b2c/1c10e6c0-fe1d-4477-892f-cd87be8b8b2c_SOURCE"
  },
  {
   "id": "tm-LvZ18QQe5eKPq2OZw5XS2",
