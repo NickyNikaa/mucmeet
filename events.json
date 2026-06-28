@@ -1,63 +1,27 @@
 [
  {
-  "id": "tm-Z698xZC2Z1kAvoSr3",
-  "cat": "music",
-  "title": "The Weeknd: After Hours Til Dawn Tour",
-  "date": "2026-06-27",
-  "time": "Sa 18:30",
-  "loc": "Allianz Arena, Munich",
+  "id": "se-be72254922",
+  "cat": "popup",
+  "title": "Munich Pride Ball 2026",
+  "date": "2026-06-28",
+  "time": "Sa., 27. – So., 28. Juni",
+  "loc": "Muffathalle, Zellstraße 4, Au-Haidhausen, München",
   "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/the-weeknd-after-hours-til-dawn-tour-tickets/141473792?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in Allianz Arena. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/966/779d1731-4094-4a97-bc16-1341dcb41966_SOURCE"
+  "igUrl": "https://qrushapp.de/en/eventfinder/munich/events/munich-pride-ball-2026-270626",
+  "desc": "Munich Pride Ball 2026 🌈✨ ‌ Das POP Event am Pride Wochenende. 💖 ‌ POP DIVAS only. 👑🎤 FOMO-Alert: Fear Of Missing Out ‌Dieses Event wollt ihr definitiv nicht verpassen! ‌",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0aojdzNPsVpzyHse0Xk-tWDC5Ou5oMY_ZGiE-ft9aHvXEq26DoiYV5A&s"
  },
  {
-  "id": "se-30de511b97",
+  "id": "se-68fa735d17",
   "cat": "popup",
   "title": "steidle architekten - Community Happens Here. 20 Years of Encounters in Architecture",
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "time": "3.–28. Juni",
   "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
   "ig": "",
   "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-20-years-of-encounters-in-architecture-469893/",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
- },
- {
-  "id": "se-8030744a2e",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
-  "date": "2026-06-27",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-21/",
-  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
- },
- {
-  "id": "se-28d9f26112",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
-  "date": "2026-06-27",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Maxmonument, Maximilianstraße, München",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-lehel-munich-wine-rebels-tickets-1982572226900",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood... durch Münchens schönste Viertel! Wine & Food Walking Tour München LEHEL ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmLAcvY4ZypmWz7QCfHsZovCZfIeTRRD5vMHORRdeSSvq9clyCEogRmo&s"
- },
- {
-  "id": "se-62698c8ef4",
-  "cat": "biz",
-  "title": "Business-Abend für Unternehmer:innen südlich von München.",
-  "date": "2026-06-30",
-  "time": "Di, 19:30–21:30 Uhr",
-  "loc": "Restaurant La Ruotas Ristoro Italiano, Münchener Str. 2, Sauerlach",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.com/e/business-abend-fur-unternehmerinnen-sudlich-von-munchen-tickets-1991356018457",
-  "desc": "Lust auf Networking? Der Business-Abend für Unternehmer:innen zum spannenden Austausch, Networking und Inspiration.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuVdhGl1gTjWasOxcHrW1n-rBdwcy-0kJdy_bFJj4NBeGCEr5uHgqOvw&s"
  },
  {
   "id": "se-ed326bcaae",
@@ -204,6 +168,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjpSTK-rV0h71DKHINYt1ZbmKyAuZG_OJfxbBBf3udwNZuR3nEYowsDg&s"
  },
  {
+  "id": "se-16188d6c31",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
+  "date": "2026-07-11",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-lehel-munich-wine-rebels-10/",
+  "desc": "Wine & Food Walking Tour München LEHEL Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Das Le",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
+ },
+ {
   "id": "se-eb389799bb",
   "cat": "popup",
   "title": "Community Dachgarten",
@@ -264,40 +240,16 @@
   "img": "https://s1.ticketm.net/dam/a/9ab/0ee831e1-534b-4053-a9f8-cb35fce849ab_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-c2309f5b6b",
-  "cat": "biz",
-  "title": "Business Vibes Sommerevent 2026",
-  "date": "2026-07-21",
-  "time": "Di, 15:30–21:30 Uhr",
-  "loc": "FLUX, Barer Str. 40, Maxvorstadt, München",
+  "id": "se-6b6e028f73",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
+  "date": "2026-07-25",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
-  "igUrl": "https://www.eventbrite.de/e/business-vibes-sommerevent-2026-tickets-1507826362239",
-  "desc": "Netzwerk-Event für Solopreneurinnen & Frauen im Business. Höhepunkt bildet ein sommerliches 3-Gänge-Menü mit Weinbegleitung von Eva C.Müller",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkDSwcwyYa8yfZiu3QQTHMLt_012sa48rMrGqPm1p0Dwob9pYVoz4GE&s"
- },
- {
-  "id": "se-d363af8a8e",
-  "cat": "popup",
-  "title": "FEMALE*ONLY BarNight",
-  "date": "2026-07-23",
-  "time": "Do, 18:00–23:00 Uhr",
-  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/femaleonly-barnight-7/",
-  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
- },
- {
-  "id": "se-7b2d6e7921",
-  "cat": "biz",
-  "title": "Law and Business Networking | Elevating Your Potential - Munich",
-  "date": "2026-08-05",
-  "time": "Mi, 18:00–20:00 Uhr",
-  "loc": "The Keg Bar, Trautenwolfstraße 1, München",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-munich-tickets-1988636491278",
-  "desc": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Limited Tickets. Strive welcomes you to 'Blockch",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgH3UWOlUkUkfS8N6SIud5ePlzS-m2NeQI4qEc-WVOukvzvgiF-jdYqvc&s"
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-22/",
+  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
  },
  {
   "id": "tm-Z698xZC2Z16vrdus8o",
@@ -1510,5 +1462,17 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kFeAA4E",
+  "cat": "music",
+  "title": "Dieter Bohlen - Cheri Cheri Lady Tour 2027",
+  "date": "2027-05-26",
+  "time": "Mi 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
