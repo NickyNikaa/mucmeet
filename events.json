@@ -1,22 +1,10 @@
 [
  {
-  "id": "se-9fd8f0b943",
-  "cat": "popup",
-  "title": "Cloud Native Summit 2026",
-  "date": "2026-06-29",
-  "time": "Mo., 29. – Di., 30. Juni",
-  "loc": "smartvillage Bogenhausen, Rosenkavalierpl. 13, München",
-  "ig": "",
-  "igUrl": "https://www.stellwerk18.de/events/cloud-native-summit-munich/",
-  "desc": "Beim Cloud Native Summit Munich dreht sich am 29. und 30. Juni 2026 alles um moderne Softwarearchitekturen, skalierbare Anwendungen und die Zukunft cloud-nativer Technolo",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP6mMkN3qCevy9CZ_ULLg4Bv6Dzq8NRfL1Bh3Oxkde9p2_ISDnXywtV6I&s"
- },
- {
   "id": "se-62698c8ef4",
   "cat": "biz",
   "title": "Business-Abend für Unternehmer:innen südlich von München.",
   "date": "2026-06-30",
-  "time": "Morgen, 19:30–21:30 Uhr",
+  "time": "Heute, 19:30–21:30 Uhr",
   "loc": "Restaurant La Ruotas Ristoro Italiano, Münchener Str. 2, Sauerlach",
   "ig": "",
   "igUrl": "https://www.eventbrite.com/e/business-abend-fur-unternehmerinnen-sudlich-von-munchen-tickets-1991356018457",
@@ -28,12 +16,24 @@
   "cat": "popup",
   "title": "Community Nähen",
   "date": "2026-06-30",
-  "time": "Morgen, 18:30–21:30 Uhr",
+  "time": "Heute, 18:30–21:30 Uhr",
   "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
   "ig": "",
   "igUrl": "https://www.komuenchen.de/veranstaltung/zusammen-naehen-ohne-anleitung-30062026",
   "desc": "Zusammen Nähen - ohne Anleitung Ihr seid mit dem Nähen vertraut und kennt euch mit Nadel, Faden und Nähmaschinen aus? Ihr habt Lust, auf Austausch in der Community, wollt",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPUnpS0IH4rM2cS2p6fsZHugPSYNay6DWzQCDxvpkva7PmA_G-SuqOUY&s"
+ },
+ {
+  "id": "se-b4afc3859a",
+  "cat": "popup",
+  "title": "Cloud Native Summit 2026",
+  "date": "2026-06-30",
+  "time": "Mo., 29. – Di., 30. Juni",
+  "loc": "smartvillage Bogenhausen, Rosenkavalierpl. 13, München",
+  "ig": "",
+  "igUrl": "https://www.stellwerk18.de/events/cloud-native-summit-munich/",
+  "desc": "Beim Cloud Native Summit Munich dreht sich am 29. und 30. Juni 2026 alles um moderne Softwarearchitekturen, skalierbare Anwendungen und die Zukunft cloud-nativer Technolo",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP6mMkN3qCevy9CZ_ULLg4Bv6Dzq8NRfL1Bh3Oxkde9p2_ISDnXywtV6I&s"
  },
  {
   "id": "se-a5d7b073a8",
@@ -52,7 +52,7 @@
   "cat": "popup",
   "title": "Community Music",
   "date": "2026-07-01",
-  "time": "Mi, 18:30–20:00 Uhr",
+  "time": "Morgen, 18:30–20:00 Uhr",
   "loc": "Kulturhaus Milbertshofen, Curt-Mezger-Platz 1, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/community-music-72/",
@@ -84,30 +84,6 @@
   "img": "https://s1.ticketm.net/dam/a/98e/09c095d4-714f-4d02-9243-83365d5ac98e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-570b091120",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
-  "date": "2026-07-03",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "U-Bahnhof Rotkreuzplatz, ",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515009897",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
- },
- {
-  "id": "se-3b355a6df1",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
-  "date": "2026-07-03",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
-  "ig": "",
-  "igUrl": "https://munichwinerebels.de/event/wine-food-walking-tour-dreimuehlenviertel-munich-wine-rebels-28/",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood… durch Münchens schönste Viertel! Wine & Food Walking Tour München DREIMÜHL",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWzWP5bmiEXiYsA9r8iYphKh80d0byxRqcmrj6_Ay4QTVuMWmgiE2JJA&s"
- },
- {
   "id": "se-20c91ab10c",
   "cat": "music",
   "title": "MÜNCHEN - THE COTTAGE - HEATED RIVALRY TOUR - FAST AUSVERKAUFT",
@@ -118,18 +94,6 @@
   "igUrl": "https://www.eventim.de/event/the-cottage-heated-rivalry-party-tour-mint-club-21402305/",
   "desc": "Die Heated Rivalry Party Tour kommt in deine Stadt! JETZT Tickets sichern – bevor sie AUSVERKAUFT sind!",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt2ptbX0H--1MQOp2juAUxTPCNLzFnF5RNWWsSM9ofPT1l9lVGlu9NrY&s"
- },
- {
-  "id": "se-ddf53474e8",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
-  "date": "2026-07-04",
-  "time": "Sa, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-9/",
-  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
  },
  {
   "id": "tm-Z698xZC2Z1kF41abo",
@@ -156,18 +120,6 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtfH01euvmgnxKkp8PLmH89KJ905esFiFS-gGmVD246aD3oxWsx-TR8k&s"
  },
  {
-  "id": "se-8fd2d46e95",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
-  "date": "2026-07-10",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-18/",
-  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
- },
- {
   "id": "tm-Z698xZC2Z1koNbaqf",
   "cat": "music",
   "title": "BTS WORLD TOUR ‘ARIRANG’ IN MUNICH",
@@ -190,18 +142,6 @@
   "igUrl": "https://rausgegangen.de/en/events/community-night-14/",
   "desc": "+ + SATURDAY 11.07.2026+ + COMMUNITY NIGHT START 23:00 + + TICKETS VIA ROTE-SONNE.COM + + + + + + + + + + + + + + + + + + + + Sa. 11.07.2026 **unannounced Line-Up** + + +",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjpSTK-rV0h71DKHINYt1ZbmKyAuZG_OJfxbBBf3udwNZuR3nEYowsDg&s"
- },
- {
-  "id": "se-16188d6c31",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
-  "date": "2026-07-11",
-  "time": "Sa, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-lehel-munich-wine-rebels-10/",
-  "desc": "Wine & Food Walking Tour München LEHEL Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Das Le",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
  },
  {
   "id": "se-eb389799bb",
@@ -274,18 +214,6 @@
   "igUrl": "https://www.eventbrite.de/e/business-vibes-sommerevent-2026-tickets-1507826362239",
   "desc": "Netzwerk-Event für Solopreneurinnen & Frauen im Business. Höhepunkt bildet ein sommerliches 3-Gänge-Menü mit Weinbegleitung von Eva C.Müller",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkDSwcwyYa8yfZiu3QQTHMLt_012sa48rMrGqPm1p0Dwob9pYVoz4GE&s"
- },
- {
-  "id": "se-6b6e028f73",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
-  "date": "2026-07-25",
-  "time": "Sa, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-22/",
-  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
  },
  {
   "id": "se-7b2d6e7921",
@@ -1400,7 +1328,7 @@
   "loc": "Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/melrose-avenue-uk-eu-tour-2027-tickets/1996583055?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "desc": "Music · Metal in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/785/bfb40035-e524-42df-a3c7-754b79145785_SOURCE"
  },
  {
@@ -1426,6 +1354,18 @@
   "igUrl": "https://www.ticketmaster.de/event/bobby--max-der-mythos-des-goldenen-drachen-i-live-horspiel-tickets/251567954?language=en-us",
   "desc": "Arts & Theatre · Multimedia in Alte Kongresshalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/1d5/755dfa92-2e02-46ca-b217-5e5bd6f001d5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vQko9qK",
+  "cat": "music",
+  "title": "KALEO - Way Down We Go Tour",
+  "date": "2027-03-22",
+  "time": "Mo 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/kaleo-way-down-we-go-tour-tickets/1686457753?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/30a/5487e2b4-e616-4d76-a8cf-32a5bda3e30a_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1k03Ps8s",
@@ -1486,18 +1426,6 @@
   "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/555368718?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1kCeFbqY",
-  "cat": "music",
-  "title": "Ian Hooper - On Tour April 2027",
-  "date": "2027-04-16",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/382218770?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/2e9/f692a854-2c28-41e0-bb37-e1b768f632e9_SOURCE"
  },
  {
   "id": "tm-LvZ18QQ4DCkgDsYZw559c",
