@@ -1,29 +1,5 @@
 [
  {
-  "id": "se-a5d7b073a8",
-  "cat": "popup",
-  "title": "steidle architekten - Community Happens Here",
-  "date": "2026-07-01",
-  "time": "Mi., 1. – So., 5. Juli",
-  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
-  "ig": "",
-  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-469894/",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
- },
- {
-  "id": "se-0f355e011c",
-  "cat": "popup",
-  "title": "Community Music",
-  "date": "2026-07-01",
-  "time": "Heute, 18:30–20:00 Uhr",
-  "loc": "Kulturhaus Milbertshofen, Curt-Mezger-Platz 1, München",
-  "ig": "",
-  "igUrl": "https://eventfrog.de/fr/p/cours-seminaires/loisirs-hobby/community-music-7447593370799591724.html",
-  "desc": "Du spielst schon ein Instrument oder möchtest alte Kenntnisse auffrischen? Dann komm zu uns! Du hast noch keine Erfahrung? Dann komm trotzdem und probier' dich aus an Tro",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFX5FKFFqoqxDp4E1IPAKfCT9FvNE1WvlEM1rgfUOXd0EHzN81yPLvZhY&s"
- },
- {
   "id": "se-f9552e0556",
   "cat": "music",
   "title": "Festival der Zukunft",
@@ -34,6 +10,18 @@
   "igUrl": "https://www.tum.de/aktuelles/veranstaltungen/details/festival-der-zukunft-2026",
   "desc": "Auf dem Festival der Zukunft vom 2.-5. Juli 2026 wird thematisiert, wie die Zukunft durch Technologie, Wissenschaft und Kreativität gestaltet werden kann.",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYphKaeerXIPBh7UwmNkh_GIUJa_v0o0AjzzFe_n3ZBb8dRtYkHvS5W-A&s"
+ },
+ {
+  "id": "se-525d768a5d",
+  "cat": "popup",
+  "title": "steidle architekten - Community Happens Here",
+  "date": "2026-07-02",
+  "time": "Mi., 1. – So., 5. Juli",
+  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
+  "ig": "",
+  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-469894/",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
  },
  {
   "id": "tm-Z698xZC2Z1kbk44pa",
@@ -48,11 +36,23 @@
   "img": "https://s1.ticketm.net/dam/a/98e/09c095d4-714f-4d02-9243-83365d5ac98e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-fa92adebe3",
+  "cat": "biz",
+  "title": "MM Community Summer Pitch Night",
+  "date": "2026-07-03",
+  "time": "Morgen, 18:30–21:30 Uhr",
+  "loc": "KUNSTLABOR 2 - Kunst- & Kulturzentrum München, Dachauer Str. 90, München",
+  "ig": "",
+  "igUrl": "https://somo.social/de/e/mm-community-summer-pitch-703",
+  "desc": "The Munich student startup ecosystem is booming, and it’s time to bring everyone under one roof. manage and more is thrilled to open the doors of our brand-new office spa",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7ibw4Q1JfcV2jHOLcJrN5iWj99Y61EBlu8slJP8&s"
+ },
+ {
   "id": "se-570b091120",
   "cat": "walk",
   "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
   "date": "2026-07-03",
-  "time": "Fr, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "U-Bahnhof Rotkreuzplatz, ",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515009897",
@@ -64,7 +64,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
   "date": "2026-07-03",
-  "time": "Fr, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982572363308",
@@ -82,6 +82,18 @@
   "igUrl": "https://www.eventim.de/event/the-cottage-heated-rivalry-party-tour-mint-club-21402305/",
   "desc": "Die Heated Rivalry Party Tour kommt in deine Stadt! JETZT Tickets sichern – bevor sie AUSVERKAUFT sind!",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt2ptbX0H--1MQOp2juAUxTPCNLzFnF5RNWWsSM9ofPT1l9lVGlu9NrY&s"
+ },
+ {
+  "id": "se-bc2d18ca7d",
+  "cat": "popup",
+  "title": "Hy Lab | Hydraid® Pop-Up Experience",
+  "date": "2026-07-04",
+  "time": "Sa., 4. – So., 5. Juli",
+  "loc": "fancyrosi studio – eventlocation münchen, Rosental 5, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/house-of-hy-1/",
+  "desc": "Hy Munich! Drei Tage Hydration, Performance & Community mitten in München. Whoop whoop – es ist soweit: neues Design, gleiches geiles Produkt. Wir öffnen die Türen zu ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bI7_UTUSVD6jgt2hRr3b8hIuiO3V8_BYdWEgpCuS_97waJ7GkSAtrSE&s"
  },
  {
   "id": "se-ddf53474e8",
@@ -247,7 +259,7 @@
   "time": "Do, 18:00–23:00 Uhr",
   "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
   "ig": "",
-  "igUrl": "https://rausgegangen.de/events/femaleonly-barnight-7/",
+  "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
   "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
@@ -910,6 +922,18 @@
   "igUrl": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/659/0d293f1b-6f2f-4d03-aadc-c8cd6fa92659_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vaE__7o",
+  "cat": "music",
+  "title": "KING NO-ONE - The Burden Of Empathy Tour 2026",
+  "date": "2026-11-11",
+  "time": "Mi 20:00",
+  "loc": "Kranhalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/king-no-one-the-burden-of-empathy-tour-2026-tickets/1267659111?language=en-us",
+  "desc": "Music · Alternative in Kranhalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/f9c/24c291a8-655d-41c2-82ec-83f6a336cf9c_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kC970pZ",
