@@ -1,29 +1,5 @@
 [
  {
-  "id": "se-f9552e0556",
-  "cat": "music",
-  "title": "Festival der Zukunft",
-  "date": "2026-07-02",
-  "time": "Do., 2. – So., 5. Juli",
-  "loc": "Deutsches Museum, Museumsinsel 1, München",
-  "ig": "",
-  "igUrl": "https://www.tum.de/aktuelles/veranstaltungen/details/festival-der-zukunft-2026",
-  "desc": "Auf dem Festival der Zukunft vom 2.-5. Juli 2026 wird thematisiert, wie die Zukunft durch Technologie, Wissenschaft und Kreativität gestaltet werden kann.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYphKaeerXIPBh7UwmNkh_GIUJa_v0o0AjzzFe_n3ZBb8dRtYkHvS5W-A&s"
- },
- {
-  "id": "se-525d768a5d",
-  "cat": "popup",
-  "title": "steidle architekten - Community Happens Here",
-  "date": "2026-07-02",
-  "time": "Mi., 1. – So., 5. Juli",
-  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
-  "ig": "",
-  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-469894/",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
- },
- {
   "id": "tm-Z698xZC2Z1kbk44pa",
   "cat": "music",
   "title": "Anastacia - #NTK26 Summer Tour",
@@ -36,11 +12,35 @@
   "img": "https://s1.ticketm.net/dam/a/98e/09c095d4-714f-4d02-9243-83365d5ac98e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-037db7bcac",
+  "cat": "music",
+  "title": "Festival der Zukunft",
+  "date": "2026-07-03",
+  "time": "Do., 2. – So., 5. Juli",
+  "loc": "Deutsches Museum, Museumsinsel 1, München",
+  "ig": "",
+  "igUrl": "https://www.tum.de/aktuelles/veranstaltungen/details/festival-der-zukunft-2026",
+  "desc": "Auf dem Festival der Zukunft vom 2.-5. Juli 2026 wird thematisiert, wie die Zukunft durch Technologie, Wissenschaft und Kreativität gestaltet werden kann.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYphKaeerXIPBh7UwmNkh_GIUJa_v0o0AjzzFe_n3ZBb8dRtYkHvS5W-A&s"
+ },
+ {
+  "id": "se-40748bfd81",
+  "cat": "popup",
+  "title": "steidle architekten - Community Happens Here",
+  "date": "2026-07-03",
+  "time": "Mi., 1. – So., 5. Juli",
+  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
+  "ig": "",
+  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-469894/",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
+ },
+ {
   "id": "se-fa92adebe3",
   "cat": "biz",
   "title": "MM Community Summer Pitch Night",
   "date": "2026-07-03",
-  "time": "Morgen, 18:30–21:30 Uhr",
+  "time": "Heute, 18:30–21:30 Uhr",
   "loc": "KUNSTLABOR 2 - Kunst- & Kulturzentrum München, Dachauer Str. 90, München",
   "ig": "",
   "igUrl": "https://somo.social/de/e/mm-community-summer-pitch-703",
@@ -52,7 +52,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
   "date": "2026-07-03",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "U-Bahnhof Rotkreuzplatz, ",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515009897",
@@ -64,7 +64,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
   "date": "2026-07-03",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982572363308",
@@ -76,7 +76,7 @@
   "cat": "music",
   "title": "MÜNCHEN - THE COTTAGE - HEATED RIVALRY TOUR - FAST AUSVERKAUFT",
   "date": "2026-07-04",
-  "time": "Sa, 19:00–23:00 Uhr",
+  "time": "Morgen, 19:00–23:00 Uhr",
   "loc": "Mint Club, Leopoldstraße 25, München",
   "ig": "",
   "igUrl": "https://www.eventim.de/event/the-cottage-heated-rivalry-party-tour-mint-club-21402305/",
@@ -84,28 +84,16 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt2ptbX0H--1MQOp2juAUxTPCNLzFnF5RNWWsSM9ofPT1l9lVGlu9NrY&s"
  },
  {
-  "id": "se-bc2d18ca7d",
-  "cat": "popup",
-  "title": "Hy Lab | Hydraid® Pop-Up Experience",
-  "date": "2026-07-04",
-  "time": "Sa., 4. – So., 5. Juli",
-  "loc": "fancyrosi studio – eventlocation münchen, Rosental 5, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/house-of-hy-1/",
-  "desc": "Hy Munich! Drei Tage Hydration, Performance & Community mitten in München. Whoop whoop – es ist soweit: neues Design, gleiches geiles Produkt. Wir öffnen die Türen zu ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bI7_UTUSVD6jgt2hRr3b8hIuiO3V8_BYdWEgpCuS_97waJ7GkSAtrSE&s"
- },
- {
   "id": "se-ddf53474e8",
   "cat": "walk",
   "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
   "date": "2026-07-04",
-  "time": "Sa, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-9/",
   "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTmr8QzTOV3mPsuANf3PZ7JiI7DqGRpT2w618MFm64JNPB5gl-b8FAgg&s"
  },
  {
   "id": "tm-Z698xZC2Z1kF41abo",
