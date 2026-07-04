@@ -1,21 +1,9 @@
 [
  {
-  "id": "tm-Z698xZC2Z1kbk44pa",
-  "cat": "music",
-  "title": "Anastacia - #NTK26 Summer Tour",
-  "date": "2026-07-03",
-  "time": "Fr 19:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/anastacia-ntk26-summer-tour-tickets/606555589?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/98e/09c095d4-714f-4d02-9243-83365d5ac98e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-037db7bcac",
+  "id": "se-8fe09d4d71",
   "cat": "music",
   "title": "Festival der Zukunft",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "time": "Do., 2. – So., 5. Juli",
   "loc": "Deutsches Museum, Museumsinsel 1, München",
   "ig": "",
@@ -24,10 +12,10 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYphKaeerXIPBh7UwmNkh_GIUJa_v0o0AjzzFe_n3ZBb8dRtYkHvS5W-A&s"
  },
  {
-  "id": "se-40748bfd81",
+  "id": "se-78ef4ca12e",
   "cat": "popup",
   "title": "steidle architekten - Community Happens Here",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "time": "Mi., 1. – So., 5. Juli",
   "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
   "ig": "",
@@ -36,47 +24,11 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
  },
  {
-  "id": "se-fa92adebe3",
-  "cat": "biz",
-  "title": "MM Community Summer Pitch Night",
-  "date": "2026-07-03",
-  "time": "Heute, 18:30–21:30 Uhr",
-  "loc": "KUNSTLABOR 2 - Kunst- & Kulturzentrum München, Dachauer Str. 90, München",
-  "ig": "",
-  "igUrl": "https://somo.social/de/e/mm-community-summer-pitch-703",
-  "desc": "The Munich student startup ecosystem is booming, and it’s time to bring everyone under one roof. manage and more is thrilled to open the doors of our brand-new office spa",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7ibw4Q1JfcV2jHOLcJrN5iWj99Y61EBlu8slJP8&s"
- },
- {
-  "id": "se-570b091120",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
-  "date": "2026-07-03",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "U-Bahnhof Rotkreuzplatz, ",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515009897",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
- },
- {
-  "id": "se-3b355a6df1",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
-  "date": "2026-07-03",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982572363308",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood... durch Münchens schönste Viertel! Wine & Food Walking Tour München DREIMÜ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTOZSS1MHFadNXAfq7qwEFyZZ3diekqIUQzx93QmDlVgISOi3m3Bz2Ik&s"
- },
- {
   "id": "se-20c91ab10c",
   "cat": "music",
   "title": "MÜNCHEN - THE COTTAGE - HEATED RIVALRY TOUR - FAST AUSVERKAUFT",
   "date": "2026-07-04",
-  "time": "Morgen, 19:00–23:00 Uhr",
+  "time": "Heute, 19:00–23:00 Uhr",
   "loc": "Mint Club, Leopoldstraße 25, München",
   "ig": "",
   "igUrl": "https://www.eventim.de/event/the-cottage-heated-rivalry-party-tour-mint-club-21402305/",
@@ -84,11 +36,23 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt2ptbX0H--1MQOp2juAUxTPCNLzFnF5RNWWsSM9ofPT1l9lVGlu9NrY&s"
  },
  {
+  "id": "se-bc2d18ca7d",
+  "cat": "popup",
+  "title": "Hy Lab | Hydraid® Pop-Up Experience",
+  "date": "2026-07-04",
+  "time": "Sa., 4. – So., 5. Juli",
+  "loc": "fancyrosi studio – eventlocation münchen, Rosental 5, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/house-of-hy-1/",
+  "desc": "Hy Munich! Drei Tage Hydration, Performance & Community mitten in München. Whoop whoop – es ist soweit: neues Design, gleiches geiles Produkt. Wir öffnen die Türen zu ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bI7_UTUSVD6jgt2hRr3b8hIuiO3V8_BYdWEgpCuS_97waJ7GkSAtrSE&s"
+ },
+ {
   "id": "se-ddf53474e8",
   "cat": "walk",
   "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
   "date": "2026-07-04",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-9/",
@@ -168,18 +132,6 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
  },
  {
-  "id": "se-1c0ab7ef1c",
-  "cat": "popup",
-  "title": "mit Ulrike Zieher",
-  "date": "2026-07-12",
-  "time": "So, 14:00–18:00 Uhr",
-  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
-  "ig": "",
-  "igUrl": "https://www.komuenchen.de/veranstaltung/mit-ulrike-zieher-12072026",
-  "desc": "Gemeinsam in der Erde wühlen, säen, pflanzen, ernten, verarbeiten, kochen und konservieren. WAS IST DER COMMUNITY DACHGARTEN? Unsere Community Dachgarten-Beauftragte Ulri",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCRKKw4MW3Ubqw2U8bhVe2HDHKnb-OR_BsyEcVpwGf6A3Zk1CddVoSTk&s"
- },
- {
   "id": "tm-Z698xZC2Z16evN707d",
   "cat": "music",
   "title": "Don West - EU & UK TOUR 2026\t",
@@ -228,6 +180,18 @@
   "img": "https://s1.ticketm.net/dam/a/9ab/0ee831e1-534b-4053-a9f8-cb35fce849ab_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-d8950db3e7",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
+  "date": "2026-07-17",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "U-Bahnhof Rotkreuzplatz, ",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515075092",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
+ },
+ {
   "id": "se-7348441842",
   "cat": "music",
   "title": "Biz Vibes Sommerparty für Solopreneurinnen",
@@ -238,18 +202,6 @@
   "igUrl": "https://rausgegangen.de/en/events/biz-vibes-sommerparty-fur-solopreneurinnen-0/",
   "desc": "BIZLOVE SOMMERPARTY 2026Dienstag, 21. Juli 2026 | ab 15.30 Uhr FLUX, MünchenBusiness. Begegnung. Leichtigkeit. Ein Sommerfest für Frauen, die was bewegen. Lass dich tre",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEZ_t3PRo8ONpCS1sK7otlIop4zzMpiKcNuuDAeTMHbvI5cxN1zWhJ64&s"
- },
- {
-  "id": "se-d363af8a8e",
-  "cat": "popup",
-  "title": "FEMALE*ONLY BarNight",
-  "date": "2026-07-23",
-  "time": "Do, 18:00–23:00 Uhr",
-  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
-  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
  {
   "id": "se-6b6e028f73",
@@ -912,6 +864,18 @@
   "img": "https://s1.ticketm.net/dam/a/659/0d293f1b-6f2f-4d03-aadc-c8cd6fa92659_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-7a8867246e",
+  "cat": "popup",
+  "title": "FEMALE*ONLY BarNight",
+  "date": "2026-11-10",
+  "time": "Di, 18:00–23:00 Uhr",
+  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-9/",
+  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
+ },
+ {
   "id": "tm-Z698xZC2Z16vaE__7o",
   "cat": "music",
   "title": "KING NO-ONE - The Burden Of Empathy Tour 2026",
@@ -1048,7 +1012,7 @@
   "cat": "music",
   "title": "Polyphia Tour MMXXVI",
   "date": "2026-11-27",
-  "time": "Fr 19:00",
+  "time": "Fr 19:30",
   "loc": "Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/polyphia-tour-mmxxvi-tickets/93131551?language=en-us",
