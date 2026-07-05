@@ -1,9 +1,9 @@
 [
  {
-  "id": "se-8fe09d4d71",
+  "id": "se-61a19ceb68",
   "cat": "music",
   "title": "Festival der Zukunft",
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "time": "Do., 2. – So., 5. Juli",
   "loc": "Deutsches Museum, Museumsinsel 1, München",
   "ig": "",
@@ -12,10 +12,10 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYphKaeerXIPBh7UwmNkh_GIUJa_v0o0AjzzFe_n3ZBb8dRtYkHvS5W-A&s"
  },
  {
-  "id": "se-78ef4ca12e",
+  "id": "se-314385e930",
   "cat": "popup",
   "title": "steidle architekten - Community Happens Here",
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "time": "Mi., 1. – So., 5. Juli",
   "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
   "ig": "",
@@ -24,11 +24,11 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
  },
  {
-  "id": "se-20c91ab10c",
+  "id": "se-c710c3577e",
   "cat": "music",
   "title": "MÜNCHEN - THE COTTAGE - HEATED RIVALRY TOUR - FAST AUSVERKAUFT",
-  "date": "2026-07-04",
-  "time": "Heute, 19:00–23:00 Uhr",
+  "date": "2026-07-05",
+  "time": "Sa, 19:00–23:00 Uhr",
   "loc": "Mint Club, Leopoldstraße 25, München",
   "ig": "",
   "igUrl": "https://www.eventim.de/event/the-cottage-heated-rivalry-party-tour-mint-club-21402305/",
@@ -36,28 +36,16 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt2ptbX0H--1MQOp2juAUxTPCNLzFnF5RNWWsSM9ofPT1l9lVGlu9NrY&s"
  },
  {
-  "id": "se-bc2d18ca7d",
+  "id": "se-b64bb6ba8e",
   "cat": "popup",
   "title": "Hy Lab | Hydraid® Pop-Up Experience",
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "time": "Sa., 4. – So., 5. Juli",
   "loc": "fancyrosi studio – eventlocation münchen, Rosental 5, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/house-of-hy-1/",
   "desc": "Hy Munich! Drei Tage Hydration, Performance & Community mitten in München. Whoop whoop – es ist soweit: neues Design, gleiches geiles Produkt. Wir öffnen die Türen zu ",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bI7_UTUSVD6jgt2hRr3b8hIuiO3V8_BYdWEgpCuS_97waJ7GkSAtrSE&s"
- },
- {
-  "id": "se-ddf53474e8",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
-  "date": "2026-07-04",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-9/",
-  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTmr8QzTOV3mPsuANf3PZ7JiI7DqGRpT2w618MFm64JNPB5gl-b8FAgg&s"
  },
  {
   "id": "tm-Z698xZC2Z1kF41abo",
@@ -192,6 +180,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
  },
  {
+  "id": "se-6fdbc25f29",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
+  "date": "2026-07-18",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-10/",
+  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
+ },
+ {
   "id": "se-7348441842",
   "cat": "music",
   "title": "Biz Vibes Sommerparty für Solopreneurinnen",
@@ -202,6 +202,18 @@
   "igUrl": "https://rausgegangen.de/en/events/biz-vibes-sommerparty-fur-solopreneurinnen-0/",
   "desc": "BIZLOVE SOMMERPARTY 2026Dienstag, 21. Juli 2026 | ab 15.30 Uhr FLUX, MünchenBusiness. Begegnung. Leichtigkeit. Ein Sommerfest für Frauen, die was bewegen. Lass dich tre",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEZ_t3PRo8ONpCS1sK7otlIop4zzMpiKcNuuDAeTMHbvI5cxN1zWhJ64&s"
+ },
+ {
+  "id": "se-d363af8a8e",
+  "cat": "popup",
+  "title": "FEMALE*ONLY BarNight",
+  "date": "2026-07-23",
+  "time": "Do, 18:00–23:00 Uhr",
+  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
+  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
  {
   "id": "se-6b6e028f73",
@@ -862,18 +874,6 @@
   "igUrl": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/659/0d293f1b-6f2f-4d03-aadc-c8cd6fa92659_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-7a8867246e",
-  "cat": "popup",
-  "title": "FEMALE*ONLY BarNight",
-  "date": "2026-11-10",
-  "time": "Di, 18:00–23:00 Uhr",
-  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-9/",
-  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
  {
   "id": "tm-Z698xZC2Z16vaE__7o",
