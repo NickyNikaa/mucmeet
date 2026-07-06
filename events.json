@@ -1,53 +1,5 @@
 [
  {
-  "id": "se-61a19ceb68",
-  "cat": "music",
-  "title": "Festival der Zukunft",
-  "date": "2026-07-05",
-  "time": "Do., 2. – So., 5. Juli",
-  "loc": "Deutsches Museum, Museumsinsel 1, München",
-  "ig": "",
-  "igUrl": "https://www.tum.de/aktuelles/veranstaltungen/details/festival-der-zukunft-2026",
-  "desc": "Auf dem Festival der Zukunft vom 2.-5. Juli 2026 wird thematisiert, wie die Zukunft durch Technologie, Wissenschaft und Kreativität gestaltet werden kann.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYphKaeerXIPBh7UwmNkh_GIUJa_v0o0AjzzFe_n3ZBb8dRtYkHvS5W-A&s"
- },
- {
-  "id": "se-314385e930",
-  "cat": "popup",
-  "title": "steidle architekten - Community Happens Here",
-  "date": "2026-07-05",
-  "time": "Mi., 1. – So., 5. Juli",
-  "loc": "Architekturgalerie im Bunker, Blumenstraße 22, München",
-  "ig": "",
-  "igUrl": "https://www.muenchen-online.de/veranstaltung/steidle-architekten-community-happens-here-469894/",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfcrv8xptvY9AM9EtOlkNcclgxK1y0SoGouE1hGoWZUsk0Vw1hBEVDqU&s"
- },
- {
-  "id": "se-c710c3577e",
-  "cat": "music",
-  "title": "MÜNCHEN - THE COTTAGE - HEATED RIVALRY TOUR - FAST AUSVERKAUFT",
-  "date": "2026-07-05",
-  "time": "Sa, 19:00–23:00 Uhr",
-  "loc": "Mint Club, Leopoldstraße 25, München",
-  "ig": "",
-  "igUrl": "https://www.eventim.de/event/the-cottage-heated-rivalry-party-tour-mint-club-21402305/",
-  "desc": "Die Heated Rivalry Party Tour kommt in deine Stadt! JETZT Tickets sichern – bevor sie AUSVERKAUFT sind!",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt2ptbX0H--1MQOp2juAUxTPCNLzFnF5RNWWsSM9ofPT1l9lVGlu9NrY&s"
- },
- {
-  "id": "se-b64bb6ba8e",
-  "cat": "popup",
-  "title": "Hy Lab | Hydraid® Pop-Up Experience",
-  "date": "2026-07-05",
-  "time": "Sa., 4. – So., 5. Juli",
-  "loc": "fancyrosi studio – eventlocation münchen, Rosental 5, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/house-of-hy-1/",
-  "desc": "Hy Munich! Drei Tage Hydration, Performance & Community mitten in München. Whoop whoop – es ist soweit: neues Design, gleiches geiles Produkt. Wir öffnen die Türen zu ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bI7_UTUSVD6jgt2hRr3b8hIuiO3V8_BYdWEgpCuS_97waJ7GkSAtrSE&s"
- },
- {
   "id": "tm-Z698xZC2Z1kF41abo",
   "cat": "music",
   "title": "Ali Wong - Ali Wong Live",
@@ -70,6 +22,18 @@
   "igUrl": "https://www.eventbrite.com/e/clc089-regio-treff-der-corporate-learning-community-munchen-tickets-1989779637459",
   "desc": "Thema: Zukunftstrends in Learning&Development Mit Hilfe der Methode future backwards werden wir verschiedene Zukunftsszenarien entwickeln und überlegen, was Schlüsselsitu",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtfH01euvmgnxKkp8PLmH89KJ905esFiFS-gGmVD246aD3oxWsx-TR8k&s"
+ },
+ {
+  "id": "se-9e6caa7d2a",
+  "cat": "popup",
+  "title": "Open Decks & Dance",
+  "date": "2026-07-10",
+  "time": "Fr, 18:00–22:00 Uhr",
+  "loc": "Schauburg Labor, Rosenheimer Str. 192, Ramersdorf-Perlach, München",
+  "ig": "",
+  "igUrl": "https://muenchenmitkind.de/veranstaltungskalender/open-decks-dance-2026-07-10/",
+  "desc": "Offenes Community-Format. Die Schauburg öffnet ihre Räume für HipHop & Contemporary. Hier könnt ihr tanzen, euch bewegen oder ein eigenes DJ-Set auflegen. Ob Freestyle, B",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgstCIhlPF8CnzNgMnnmQ3jv7lfrXJ9wdQH15udDH7HEweCN3i7k1aKVg&s"
  },
  {
   "id": "se-8fd2d46e95",
@@ -108,6 +72,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjpSTK-rV0h71DKHINYt1ZbmKyAuZG_OJfxbBBf3udwNZuR3nEYowsDg&s"
  },
  {
+  "id": "se-3ade79eae1",
+  "cat": "music",
+  "title": "MÜNCHEN - Asian Sensation Party - 11. JULI 2026",
+  "date": "2026-07-11",
+  "time": "Sa., 11. – So., 12. Juli",
+  "loc": "LUMA CLUB, Neuhauser Str. 47, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/munchen-asian-sensation-party-11-juli-2026-tickets-1988010724593",
+  "desc": "Your new favorite Asian Party in Germany!",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KDHDO84u-D1Pk81C-q-U2eyWTJ_75vb4rjIBthK3mwfxrZZStRUcMP8&s"
+ },
+ {
   "id": "se-16188d6c31",
   "cat": "walk",
   "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
@@ -118,6 +94,42 @@
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-lehel-munich-wine-rebels-10/",
   "desc": "Wine & Food Walking Tour München LEHEL Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Das Le",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
+ },
+ {
+  "id": "se-c6dc9b1d40",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
+  "date": "2026-07-11",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982573008237",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood... durch Münchens schönste Viertel! Wine & Food Walking Tour München DREIMÜ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTOZSS1MHFadNXAfq7qwEFyZZ3diekqIUQzx93QmDlVgISOi3m3Bz2Ik&s"
+ },
+ {
+  "id": "se-1c0ab7ef1c",
+  "cat": "popup",
+  "title": "mit Ulrike Zieher",
+  "date": "2026-07-12",
+  "time": "So, 14:00–18:00 Uhr",
+  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
+  "ig": "",
+  "igUrl": "https://www.komuenchen.de/veranstaltung/mit-ulrike-zieher-12072026",
+  "desc": "Gemeinsam in der Erde wühlen, säen, pflanzen, ernten, verarbeiten, kochen und konservieren. WAS IST DER COMMUNITY DACHGARTEN? Unsere Community Dachgarten-Beauftragte Ulri",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCRKKw4MW3Ubqw2U8bhVe2HDHKnb-OR_BsyEcVpwGf6A3Zk1CddVoSTk&s"
+ },
+ {
+  "id": "se-5235179203",
+  "cat": "popup",
+  "title": "Magic Sunday",
+  "date": "2026-07-12",
+  "time": "So, 14:00–18:00 Uhr",
+  "loc": "Pepe Dome im Theatron im Ostpark, Ramersdorf-Perlach, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/magic-sunday-2/",
+  "desc": "Magic Sunday am 12.07.2026 in München ► Alle Infos & Tickets auf Rausgegangen!",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgatGG16geXYZAt3BsnaSbw2fZeqwO_SoZCAs-lXIL-CocGmpfpSYQos&s"
  },
  {
   "id": "tm-Z698xZC2Z16evN707d",
