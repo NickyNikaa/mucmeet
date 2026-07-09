@@ -4,7 +4,7 @@
   "cat": "popup",
   "title": "#CLC089 - Regio-Treff der Corporate Learning Community München",
   "date": "2026-07-09",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "freiraum - Zentrum für Seminare und Coaching, Saarstraße 5/1. Stock, Schwabing-West, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.com/e/clc089-regio-treff-der-corporate-learning-community-munchen-tickets-1989779637459",
@@ -16,7 +16,7 @@
   "cat": "popup",
   "title": "Open Decks & Dance",
   "date": "2026-07-10",
-  "time": "Fr, 18:00–22:00 Uhr",
+  "time": "Morgen, 18:00–22:00 Uhr",
   "loc": "Schauburg Labor, Rosenheimer Str. 192, Ramersdorf-Perlach, München",
   "ig": "",
   "igUrl": "https://muenchenmitkind.de/veranstaltungskalender/open-decks-dance-2026-07-10/",
@@ -28,7 +28,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
   "date": "2026-07-10",
-  "time": "Fr, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-18/",
@@ -214,18 +214,6 @@
   "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
   "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
- },
- {
-  "id": "se-6b6e028f73",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
-  "date": "2026-07-25",
-  "time": "Sa, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-22/",
-  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
  },
  {
   "id": "se-6ef87f7d9a",
@@ -732,6 +720,18 @@
   "img": "https://s1.ticketm.net/dam/a/657/c7c49c0d-d7ce-4dc5-af7b-c95053ea5657_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-LvZ18QxniTIVIaZZz250c",
+  "cat": "popup",
+  "title": "Kristina Bogansky - Play hard",
+  "date": "2026-10-19",
+  "time": "Mo 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.universe.com/events/kristina-bogansky-play-hard-tickets-VCL4FD?ref=ticketmaster",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/8ea/b5058896-2e8a-4abd-a469-875dbaba98ea_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16v0JPskb",
   "cat": "music",
   "title": "Simple Plan - Bigger Than You Think! Europe Tour 2026",
@@ -838,6 +838,18 @@
   "igUrl": "https://www.ticketmaster.de/event/uche-yara-bodyscanner-tour-2026-tickets/694912111?language=en-us",
   "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/54d/df386aad-7f05-4ebe-b376-2e490e58454d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16v4zGV47",
+  "cat": "music",
+  "title": "Ulle & Rick - Live auf Tour 2026",
+  "date": "2026-11-05",
+  "time": "Do 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/ulle--rick-live-auf-tour-2026-tickets/1578334544?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/a78/0827453e-6fe6-426b-9703-830a86c6ca78_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vfJ8FuI",
@@ -1092,6 +1104,18 @@
   "img": "https://s1.ticketm.net/dam/a/b3c/3d9839bb-d067-44ad-90da-d9a96edffb3c_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1kfJQeCv",
+  "cat": "popup",
+  "title": "ALEX STOLDT - QUASI NICHTS",
+  "date": "2026-12-05",
+  "time": "Sa 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/alex-stoldt-quasi-nichts-tickets/526682381?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/a93/30d54e2d-64c0-4ba4-8ed4-da8e9c2f1a93_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z16vO308vf",
   "cat": "music",
   "title": "Sace6",
@@ -1164,6 +1188,18 @@
   "img": "https://s1.ticketm.net/dam/a/a0f/74015971-c3dc-4b13-a489-5251ff7a8a0f_SOURCE"
  },
  {
+  "id": "tm-LvZ18QqSVcaIjNYvqc7P9",
+  "cat": "popup",
+  "title": "Ariana Baborie - Toll die Energie!",
+  "date": "2026-12-12",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.universe.com/events/ariana-baborie-toll-die-energie-tickets-V0JBPD?ref=ticketmaster",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/f15/1c07ade4-23ff-4be4-a193-231a1e0acf15_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z1kkbov--",
   "cat": "music",
   "title": "NIMO: Home Sweet Home Arena Tour 2026",
@@ -1209,7 +1245,7 @@
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/b4b/9940614f-d67f-4d2f-80fe-6642a4ba2b4b_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z16v4JueZS",
@@ -1222,6 +1258,18 @@
   "igUrl": "https://www.ticketmaster.de/event/levin-liam-pech-tour-2027-tickets/1566342033?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8d6/7f34a68f-04f6-4f13-bdaf-b43c84cb18d6_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vfkaxuV",
+  "cat": "popup",
+  "title": "Cirque du Soleil - OVO",
+  "date": "2027-01-27",
+  "time": "Mi 20:00",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/cirque-du-soleil-ovo-tickets/1506262374?language=en-us",
+  "desc": "Arts & Theatre · Spectacular in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/dd5/188d996a-b39d-4a01-a659-eb587e1afdd5_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kbg_ov0",
@@ -1272,6 +1320,18 @@
   "img": "https://s1.ticketm.net/dam/a/3b2/786a8fbe-6234-42d7-9a6e-e4a07690a3b2_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1k4MuAof",
+  "cat": "music",
+  "title": "BLUE MAN GROUP - World Tour",
+  "date": "2027-02-24",
+  "time": "Mi 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/blue-man-group-world-tour-tickets/577345454?language=en-us",
+  "desc": "Arts & Theatre · Spectacular in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/a30/855bbdbe-7466-447b-a847-6c731c3e4a30_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16vJppdv4",
   "cat": "music",
   "title": "Melrose Avenue - UK / EU Tour 2027",
@@ -1282,6 +1342,30 @@
   "igUrl": "https://www.ticketmaster.de/event/melrose-avenue-uk-eu-tour-2027-tickets/1996583055?language=en-us",
   "desc": "Music · Metal in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/785/bfb40035-e524-42df-a3c7-754b79145785_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kCKQffZ",
+  "cat": "music",
+  "title": "RAED - POV: Ladi geht auf Tour | Premium Package",
+  "date": "2027-03-15",
+  "time": "Mo 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/raed-pov-ladi-geht-auf-tour-%7C-premium-package-tickets/393694500?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/f5e/b7997394-7a30-4ae8-84ef-53a961644f5e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kao4EPf",
+  "cat": "music",
+  "title": "Bobby & Max - Der Mythos des goldenen Drachen I Live-Hörspiel",
+  "date": "2027-03-21",
+  "time": "So 12:30",
+  "loc": "Alte Kongresshalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/bobby--max-der-mythos-des-goldenen-drachen-i-live-horspiel-tickets/251567954?language=en-us",
+  "desc": "Arts & Theatre · Multimedia in Alte Kongresshalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/1d5/755dfa92-2e02-46ca-b217-5e5bd6f001d5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z16vQko9qK",
@@ -1320,6 +1404,18 @@
   "img": "https://s1.ticketm.net/dam/a/4e1/ca96dd03-8def-46ae-b6d3-9441e992c4e1_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z16vx7opAI",
+  "cat": "popup",
+  "title": "MAMMA MIA! - Das Original-Musical",
+  "date": "2027-04-07",
+  "time": "Mi 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/mamma-mia-das-original-musical-tickets/1884456168?language=en-us",
+  "desc": "Arts & Theatre · Theatre in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/4be/293e23c3-421a-4af4-87e8-1ebc8caaf4be_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16vGdq9Av",
   "cat": "music",
   "title": "Thirty Seconds to Mars Presents A Beautiful Lie vs This Is War | VIP",
@@ -1330,6 +1426,30 @@
   "igUrl": "https://www.ticketmaster.de/event/thirty-seconds-to-mars-presents-a-beautiful-lie-vs-this-is-war-%7C-vip-tickets/1303757141?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/445/8a27f7b3-5be4-43a2-a852-12a5b9d11445_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1k44uIjb",
+  "cat": "music",
+  "title": "Morgan Jay: La Dolce Vita Tour",
+  "date": "2027-04-13",
+  "time": "Di 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/555368718?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
+ },
+ {
+  "id": "tm-LvZ18QQ4DCkgDsYZw559c",
+  "cat": "popup",
+  "title": "Yorick Thiede - Polygon",
+  "date": "2027-04-17",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.universe.com/events/yorick-thiede-polygon-tickets-J9506C?ref=ticketmaster",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/115/da490844-4d73-482f-8b65-f70c71cb6115_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1ku-q-38",
