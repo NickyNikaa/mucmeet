@@ -1,21 +1,21 @@
 [
  {
-  "id": "tm-Z698xZC2Z1koNbaqf",
+  "id": "tm-Z698xZC2Z1kFJ7MGy",
   "cat": "music",
   "title": "BTS WORLD TOUR ‘ARIRANG’ IN MUNICH",
-  "date": "2026-07-11",
-  "time": "Sa 20:00",
+  "date": "2026-07-12",
+  "time": "So 20:00",
   "loc": "Allianz Arena, Munich",
   "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/bts-world-tour-arirang-in-munich-tickets/463609754?language=en-us",
+  "igUrl": "https://www.ticketmaster.de/event/bts-world-tour-arirang-in-munich-tickets/226137339?language=en-us",
   "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5e7/fa0366e1-2e3d-44aa-be0e-d76b2ca775e7_SOURCE"
  },
  {
-  "id": "se-e7b77f59df",
+  "id": "se-260e19af00",
   "cat": "popup",
   "title": "Community Night",
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "time": "Sa., 11. – So., 12. Juli",
   "loc": "Rote Sonne, Maximilianspl. 5, Altstadt-Lehel, München",
   "ig": "",
@@ -24,10 +24,22 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjpSTK-rV0h71DKHINYt1ZbmKyAuZG_OJfxbBBf3udwNZuR3nEYowsDg&s"
  },
  {
-  "id": "se-3ade79eae1",
+  "id": "se-1c0ab7ef1c",
+  "cat": "popup",
+  "title": "mit Ulrike Zieher",
+  "date": "2026-07-12",
+  "time": "Heute, 14:00–18:00 Uhr",
+  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
+  "ig": "",
+  "igUrl": "https://www.komuenchen.de/veranstaltung/mit-ulrike-zieher-12072026",
+  "desc": "Gemeinsam in der Erde wühlen, säen, pflanzen, ernten, verarbeiten, kochen und konservieren. WAS IST DER COMMUNITY DACHGARTEN? Unsere Community Dachgarten-Beauftragte Ulri",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCRKKw4MW3Ubqw2U8bhVe2HDHKnb-OR_BsyEcVpwGf6A3Zk1CddVoSTk&s"
+ },
+ {
+  "id": "se-4840644549",
   "cat": "music",
   "title": "MÜNCHEN - Asian Sensation Party - 11. JULI 2026",
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "time": "Sa., 11. – So., 12. Juli",
   "loc": "LUMA CLUB, Neuhauser Str. 47, München",
   "ig": "",
@@ -36,76 +48,28 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KDHDO84u-D1Pk81C-q-U2eyWTJ_75vb4rjIBthK3mwfxrZZStRUcMP8&s"
  },
  {
-  "id": "se-139f6a192b",
+  "id": "se-5235179203",
   "cat": "popup",
-  "title": "Open Decks & Dance",
-  "date": "2026-07-11",
-  "time": "Fr, 18:00–22:00 Uhr",
-  "loc": "Schauburg Labor, Rosenheimer Str. 192, Ramersdorf-Perlach, München",
+  "title": "Magic Sunday",
+  "date": "2026-07-12",
+  "time": "Heute, 14:00–18:00 Uhr",
+  "loc": "Pepe Dome im Theatron im Ostpark, Ramersdorf-Perlach, München",
   "ig": "",
-  "igUrl": "https://muenchenmitkind.de/veranstaltungskalender/open-decks-dance-2026-07-10/",
-  "desc": "Offenes Community-Format. Die Schauburg öffnet ihre Räume für HipHop & Contemporary. Hier könnt ihr tanzen, euch bewegen oder ein eigenes DJ-Set auflegen. Ob Freestyle, B",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgstCIhlPF8CnzNgMnnmQ3jv7lfrXJ9wdQH15udDH7HEweCN3i7k1aKVg&s"
+  "igUrl": "https://rausgegangen.de/events/magic-sunday-2/",
+  "desc": "Magic Sunday am 12.07.2026 in München ► Alle Infos & Tickets auf Rausgegangen!",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgatGG16geXYZAt3BsnaSbw2fZeqwO_SoZCAs-lXIL-CocGmpfpSYQos&s"
  },
  {
-  "id": "se-abab6179ee",
+  "id": "se-68b3c3dd71",
   "cat": "popup",
   "title": "Painting & Fitis",
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "time": "Sa., 11. – So., 12. Juli",
   "loc": "Mucca, Schwere-Reiter-Str. 2, Neuhausen-Nymphenburg, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/painting-fitis-0/",
   "desc": "Painting mixt Punk, Techno, Free-Jazz und Math-Rock in einem überraschend frischen Avant Pop Sound, der auf dem neuen Album \"Snapshot of Pure Attention\" richtig lebendig ",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9IxgqfT9sESO5sjmriqMwsAx0McmKGbmg9ic5u5FCn7x1I3I822HpjC4&s"
- },
- {
-  "id": "se-16188d6c31",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
-  "date": "2026-07-11",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-lehel-munich-wine-rebels-10/",
-  "desc": "Wine & Food Walking Tour München LEHEL Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Das Le",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
- },
- {
-  "id": "se-c6dc9b1d40",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
-  "date": "2026-07-11",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982573008237",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood... durch Münchens schönste Viertel! Wine & Food Walking Tour München DREIMÜ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTOZSS1MHFadNXAfq7qwEFyZZ3diekqIUQzx93QmDlVgISOi3m3Bz2Ik&s"
- },
- {
-  "id": "se-1c0ab7ef1c",
-  "cat": "popup",
-  "title": "mit Ulrike Zieher",
-  "date": "2026-07-12",
-  "time": "Morgen, 14:00–18:00 Uhr",
-  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
-  "ig": "",
-  "igUrl": "https://www.komuenchen.de/veranstaltung/mit-ulrike-zieher-12072026",
-  "desc": "Gemeinsam in der Erde wühlen, säen, pflanzen, ernten, verarbeiten, kochen und konservieren. WAS IST DER COMMUNITY DACHGARTEN? Unsere Community Dachgarten-Beauftragte Ulri",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCRKKw4MW3Ubqw2U8bhVe2HDHKnb-OR_BsyEcVpwGf6A3Zk1CddVoSTk&s"
- },
- {
-  "id": "se-5235179203",
-  "cat": "popup",
-  "title": "Magic Sunday",
-  "date": "2026-07-12",
-  "time": "Morgen, 14:00–18:00 Uhr",
-  "loc": "Pepe Dome im Theatron im Ostpark, Ramersdorf-Perlach, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/magic-sunday-2/",
-  "desc": "Magic Sunday am 12.07.2026 in München ► Alle Infos & Tickets auf Rausgegangen!",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgatGG16geXYZAt3BsnaSbw2fZeqwO_SoZCAs-lXIL-CocGmpfpSYQos&s"
  },
  {
   "id": "tm-Z698xZC2Z16evN707d",
@@ -216,6 +180,30 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
  },
  {
+  "id": "se-5980d18b6e",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
+  "date": "2026-07-25",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-lehel-munich-wine-rebels-11/",
+  "desc": "Wine & Food Walking Tour München LEHEL Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Das Le",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
+ },
+ {
+  "id": "se-fe46371f89",
+  "cat": "music",
+  "title": "5Rhythms DANCE with Oliver Euchner: COMMUNITY DANCE",
+  "date": "2026-07-30",
+  "time": "Do, 19:30–22:00 Uhr",
+  "loc": "Rote Fabrik, Brunhamstraße 19 A, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/5rhythms-dance-with-oliver-euchner-community-dance-tickets-1990195261602?aff=ebdssbcategorybrowse",
+  "desc": "Oliver regularly hosts 5 Rhythms events in Germany, the US, Poland and Italy.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGFaIoTh6_PBPTEFbkMBmDu3AxxcFTN9EjVfyexiJLpOQvN2OvyVrBtRI&s"
+ },
+ {
   "id": "se-6ef87f7d9a",
   "cat": "biz",
   "title": "General Business Networking - Munich",
@@ -238,6 +226,18 @@
   "igUrl": "https://www.ticketmaster.de/event/david-garrett-millennium-symphony-open-air-tour-2026-tickets/1783371411?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/c87/7e282b6f-5ae2-4311-bdf0-71845c3d3c87_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-29f95e05cf",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
+  "date": "2026-08-22",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-24/",
+  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
  },
  {
   "id": "tm-Z698xZC2Z16vja7fp7",
@@ -1462,5 +1462,17 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vfZvK0v",
+  "cat": "music",
+  "title": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
+  "date": "2027-05-23",
+  "time": "So 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
