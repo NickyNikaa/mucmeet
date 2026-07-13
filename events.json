@@ -1,77 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1kFJ7MGy",
-  "cat": "music",
-  "title": "BTS WORLD TOUR ‘ARIRANG’ IN MUNICH",
-  "date": "2026-07-12",
-  "time": "So 20:00",
-  "loc": "Allianz Arena, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/bts-world-tour-arirang-in-munich-tickets/226137339?language=en-us",
-  "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/5e7/fa0366e1-2e3d-44aa-be0e-d76b2ca775e7_SOURCE"
- },
- {
-  "id": "se-260e19af00",
-  "cat": "popup",
-  "title": "Community Night",
-  "date": "2026-07-12",
-  "time": "Sa., 11. – So., 12. Juli",
-  "loc": "Rote Sonne, Maximilianspl. 5, Altstadt-Lehel, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/community-night-14/",
-  "desc": "Bei der Community Night geht’s nicht darum, wer auflegt, sondern dass alle zusammen feiern können. Mit dem „Zahl was du kannst“ Ansatz bleibt die Nacht offen für alle Tec",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjpSTK-rV0h71DKHINYt1ZbmKyAuZG_OJfxbBBf3udwNZuR3nEYowsDg&s"
- },
- {
-  "id": "se-1c0ab7ef1c",
-  "cat": "popup",
-  "title": "mit Ulrike Zieher",
-  "date": "2026-07-12",
-  "time": "Heute, 14:00–18:00 Uhr",
-  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
-  "ig": "",
-  "igUrl": "https://www.komuenchen.de/veranstaltung/mit-ulrike-zieher-12072026",
-  "desc": "Gemeinsam in der Erde wühlen, säen, pflanzen, ernten, verarbeiten, kochen und konservieren. WAS IST DER COMMUNITY DACHGARTEN? Unsere Community Dachgarten-Beauftragte Ulri",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCRKKw4MW3Ubqw2U8bhVe2HDHKnb-OR_BsyEcVpwGf6A3Zk1CddVoSTk&s"
- },
- {
-  "id": "se-4840644549",
-  "cat": "music",
-  "title": "MÜNCHEN - Asian Sensation Party - 11. JULI 2026",
-  "date": "2026-07-12",
-  "time": "Sa., 11. – So., 12. Juli",
-  "loc": "LUMA CLUB, Neuhauser Str. 47, München",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.de/e/munchen-asian-sensation-party-11-juli-2026-tickets-1988010724593",
-  "desc": "Your new favorite Asian Party in Germany!",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KDHDO84u-D1Pk81C-q-U2eyWTJ_75vb4rjIBthK3mwfxrZZStRUcMP8&s"
- },
- {
-  "id": "se-5235179203",
-  "cat": "popup",
-  "title": "Magic Sunday",
-  "date": "2026-07-12",
-  "time": "Heute, 14:00–18:00 Uhr",
-  "loc": "Pepe Dome im Theatron im Ostpark, Ramersdorf-Perlach, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/magic-sunday-2/",
-  "desc": "Magic Sunday am 12.07.2026 in München ► Alle Infos & Tickets auf Rausgegangen!",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgatGG16geXYZAt3BsnaSbw2fZeqwO_SoZCAs-lXIL-CocGmpfpSYQos&s"
- },
- {
-  "id": "se-68b3c3dd71",
-  "cat": "popup",
-  "title": "Painting & Fitis",
-  "date": "2026-07-12",
-  "time": "Sa., 11. – So., 12. Juli",
-  "loc": "Mucca, Schwere-Reiter-Str. 2, Neuhausen-Nymphenburg, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/painting-fitis-0/",
-  "desc": "Painting mixt Punk, Techno, Free-Jazz und Math-Rock in einem überraschend frischen Avant Pop Sound, der auf dem neuen Album \"Snapshot of Pure Attention\" richtig lebendig ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9IxgqfT9sESO5sjmriqMwsAx0McmKGbmg9ic5u5FCn7x1I3I822HpjC4&s"
- },
- {
   "id": "tm-Z698xZC2Z16evN707d",
   "cat": "music",
   "title": "Don West - EU & UK TOUR 2026\t",
@@ -94,6 +22,18 @@
   "igUrl": "https://www.eventbrite.de/e/ops-friends-commerce-community-tickets-1984910412476",
   "desc": "Dörte und Kristina laden zum zweiten Ops & Friends Stammtisch nach München ein. Impuls, Sparring & Networking bei Food/Drinks. Ohne Sales. Dörte und Kristina laden zum zw",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3lhFE8TC5pOCTSr0urg0hhMhA4kSmMwhmlUV6Puzb7eDjq-4TjYNYTQ&s"
+ },
+ {
+  "id": "se-f4f9906373",
+  "cat": "popup",
+  "title": "SQUER Brainfood Event: mAIkers meetup with SQUER",
+  "date": "2026-07-16",
+  "time": "Do, 18:00–21:00 Uhr",
+  "loc": "SQUER Munich, August-Everding-Straße 25, München",
+  "ig": "",
+  "igUrl": "https://www.meetup.com/de-de/squer-brainfood-talks/",
+  "desc": "Staying ahead of the competition in the fast-changing environment of technology and cooperation models is a never-ending process of improving and learning. In our brainfo",
+  "img": "https://www.google.com/maps/vt/data=7pvvziXqCKNgwXRvhI2guyudUVrftVDN8OVaRBPto91V4FU6arvmkWGdBSrN-r8Gs_eG-JmzxAiGVJly8SK1MJK8DkAzREafX3WIk0ws3UQf-zmFPRo"
  },
  {
   "id": "tm-Z698xZC2Z174eZ6",
@@ -120,6 +60,18 @@
   "img": "https://s1.ticketm.net/dam/a/9ab/0ee831e1-534b-4053-a9f8-cb35fce849ab_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-ebe8fec927",
+  "cat": "popup",
+  "title": "SCHOLLI SOMMERFEST w. VICTOR RUIZ",
+  "date": "2026-07-17",
+  "time": "Fr., 17. – Sa., 18. Juli",
+  "loc": "lieberscholli - space for art, club and culture, Landsberger Str. 212, München",
+  "ig": "",
+  "igUrl": "https://lieberscholli.ticket.io/bNuGRDcI/",
+  "desc": "No big introduction needed: VICTOR RUIZ is coming to Scholli for our Sommerfest! Supported by Tommahawk, Human Rias and Rad.lez this will be a day and night going into ou",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHaC6KDVlTnPhWiCANIrOE7nn0Rfs909YalJVJcFd3z9IVrKESSN6yya0&s"
+ },
+ {
   "id": "se-d8950db3e7",
   "cat": "walk",
   "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
@@ -130,6 +82,30 @@
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515075092",
   "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
+ },
+ {
+  "id": "se-b61c7b962e",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
+  "date": "2026-07-17",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982573102519",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood... durch Münchens schönste Viertel! Wine & Food Walking Tour München DREIMÜ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTOZSS1MHFadNXAfq7qwEFyZZ3diekqIUQzx93QmDlVgISOi3m3Bz2Ik&s"
+ },
+ {
+  "id": "se-8ac47274ac",
+  "cat": "popup",
+  "title": "Community Dance",
+  "date": "2026-07-18",
+  "time": "Sa, 12:30–14:00 Uhr",
+  "loc": "Münchner Kammerspiele, Maximilianstraße 26, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/community-dance-14/",
+  "desc": "Community Dance bringt dich mit seinem offenen Ansatz ganz entspannt in Bewegung – ganz egal, ob du schon Erfahrung hast oder spontan mitmachen willst. Die erfahrenen Tan",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeXPrsAlz3z0UMMrFmZO_XIYe0b8yqSklaY-U_nIlUCeuNGtzeua5Qr0&s"
  },
  {
   "id": "se-6fdbc25f29",
@@ -214,6 +190,18 @@
   "igUrl": "https://www.eventbrite.com/e/actingproduction-business-networking-elevating-your-potential-munich-tickets-1988636494287",
   "desc": "Strive welcomes you to 'Acting, Production and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Strive welcomes you to 'Acting, Producti",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMV9w7LffVolOFQOCIGO27fznK5ctxo9_ERM3XJ6YtRIrhn6YdgHMvoeE&s"
+ },
+ {
+  "id": "se-7ea5474895",
+  "cat": "popup",
+  "title": "Community Dachgarten",
+  "date": "2026-08-09",
+  "time": "So, 14:00–18:00 Uhr",
+  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/community-dachgarten-26/",
+  "desc": "Ulrike Zieher lädt ein, gemeinsam auf dem Dachgarten in München Erde unter den Fingern zu spüren, Pflanzen zu hegen und sich beim Ernten oder Verarbeiten auszutauschen. O",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDeV0v5U4_nDpdeEbh9vOZ2bjtkrJUm04ZBvTrWmQlsnvlQYluRCw3Cw&s"
  },
  {
   "id": "tm-Z698xZC2Z16vrdus8o",
@@ -1474,5 +1462,17 @@
   "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kFeAA4E",
+  "cat": "music",
+  "title": "Dieter Bohlen - Cheri Cheri Lady Tour 2027",
+  "date": "2027-05-26",
+  "time": "Mi 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
