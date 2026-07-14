@@ -36,6 +36,18 @@
   "img": "https://www.google.com/maps/vt/data=7pvvziXqCKNgwXRvhI2guyudUVrftVDN8OVaRBPto91V4FU6arvmkWGdBSrN-r8Gs_eG-JmzxAiGVJly8SK1MJK8DkAzREafX3WIk0ws3UQf-zmFPRo"
  },
  {
+  "id": "se-d8eb30a680",
+  "cat": "popup",
+  "title": "OPEN DECKS (Eintritt frei)",
+  "date": "2026-07-16",
+  "time": "Do., 16. – Fr., 17. Juli",
+  "loc": "SENATORE - Pizza & Bar, Sendlinger-Tor-Platz 5, Ludwigsvorstadt-Isarvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/open-decks-eintritt-frei-53/",
+  "desc": "Jeden Donnerstag öffnet OPEN DECKS die Bühne für alle, die Musik jenseits von Grenzen lieben – ob live, digital oder auf Vinyl. Hier trifft Vielfalt von Jazz bis Techno a",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZrwzQueiI9oxmEUwq7gOCtzr7RR9QQtM2Y5kOUzAdhRs8R5apgYsNwk&s"
+ },
+ {
   "id": "tm-Z698xZC2Z174eZ6",
   "cat": "music",
   "title": "Helene Fischer - 360° Stadion Tour 2026 - VIP Packages",
@@ -586,6 +598,18 @@
   "igUrl": "https://www.ticketmaster.de/event/stvw-punk-rave-europe-tour-2026-tickets/1760892861?language=en-us",
   "desc": "Music · Dance/Electronic in Nachtwerk. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/41a/897fa482-db47-4d0d-9559-367ab0d2841a_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16v-E-IbE",
+  "cat": "music",
+  "title": "bleood - Kill Your Idols Europe Tour",
+  "date": "2026-10-05",
+  "time": "Mo 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/bleood-kill-your-idols-europe-tour-tickets/1867868627?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/12c/9fd3f127-dc90-4c36-a36a-f89f325e912c_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kfeOKk3",
@@ -1296,6 +1320,18 @@
   "img": "https://s1.ticketm.net/dam/a/3b2/786a8fbe-6234-42d7-9a6e-e4a07690a3b2_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1Ay0z7K",
+  "cat": "music",
+  "title": "KNOX - Midwest Best Tour",
+  "date": "2027-02-19",
+  "time": "Fr 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/knox-midwest-best-tour-tickets/39938113?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/3b8/68508f11-f20d-4ac5-8053-4fa37f6563b8_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z1k4MuAof",
   "cat": "music",
   "title": "BLUE MAN GROUP - World Tour",
@@ -1450,29 +1486,5 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z16vfZvK0v",
-  "cat": "music",
-  "title": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
-  "date": "2027-05-23",
-  "time": "So 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kFeAA4E",
-  "cat": "music",
-  "title": "Dieter Bohlen - Cheri Cheri Lady Tour 2027",
-  "date": "2027-05-26",
-  "time": "Mi 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
