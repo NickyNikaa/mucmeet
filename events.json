@@ -1,22 +1,10 @@
 [
  {
-  "id": "tm-Z698xZC2Z16evN707d",
-  "cat": "music",
-  "title": "Don West - EU & UK TOUR 2026\t",
-  "date": "2026-07-15",
-  "time": "Mi 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/don-west-eu--uk-tour-2026-tickets/2063124103?language=en-us",
-  "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/5ab/bbaa2013-0dcf-4895-8072-678806e435ab_SOURCE"
- },
- {
   "id": "se-e2ec271510",
   "cat": "popup",
   "title": "Ops & Friends Commerce Community",
   "date": "2026-07-16",
-  "time": "Morgen, 18:30–22:30 Uhr",
+  "time": "Heute, 18:30–22:30 Uhr",
   "loc": "AlphaPet Ventures GmbH, Landsberger Str. 234/2. OG, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.de/e/ops-friends-commerce-community-tickets-1984910412476",
@@ -28,7 +16,7 @@
   "cat": "popup",
   "title": "SQUER Brainfood Event: mAIkers meetup with SQUER",
   "date": "2026-07-16",
-  "time": "Morgen, 18:00–21:00 Uhr",
+  "time": "Heute, 18:00–21:00 Uhr",
   "loc": "SQUER Munich, August-Everding-Straße 25, München",
   "ig": "",
   "igUrl": "https://www.meetup.com/de-de/squer-brainfood-talks/",
@@ -76,7 +64,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
   "date": "2026-07-17",
-  "time": "Fr, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "U-Bahnhof Rotkreuzplatz, ",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515075092",
@@ -88,7 +76,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
   "date": "2026-07-17",
-  "time": "Fr, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982573102519",
@@ -1474,5 +1462,17 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vfZvK0v",
+  "cat": "music",
+  "title": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
+  "date": "2027-05-23",
+  "time": "So 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
