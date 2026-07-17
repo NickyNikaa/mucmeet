@@ -1,29 +1,5 @@
 [
  {
-  "id": "se-e2ec271510",
-  "cat": "popup",
-  "title": "Ops & Friends Commerce Community",
-  "date": "2026-07-16",
-  "time": "Heute, 18:30–22:30 Uhr",
-  "loc": "AlphaPet Ventures GmbH, Landsberger Str. 234/2. OG, München",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.de/e/ops-friends-commerce-community-tickets-1984910412476",
-  "desc": "Dörte und Kristina laden zum zweiten Ops & Friends Stammtisch nach München ein. Impuls, Sparring & Networking bei Food/Drinks. Ohne Sales. Dörte und Kristina laden zum zw",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3lhFE8TC5pOCTSr0urg0hhMhA4kSmMwhmlUV6Puzb7eDjq-4TjYNYTQ&s"
- },
- {
-  "id": "se-f4f9906373",
-  "cat": "popup",
-  "title": "SQUER Brainfood Event: mAIkers meetup with SQUER",
-  "date": "2026-07-16",
-  "time": "Heute, 18:00–21:00 Uhr",
-  "loc": "SQUER Munich, August-Everding-Straße 25, München",
-  "ig": "",
-  "igUrl": "https://www.meetup.com/de-de/squer-brainfood-talks/",
-  "desc": "Staying ahead of the competition in the fast-changing environment of technology and cooperation models is a never-ending process of improving and learning. In our brainfo",
-  "img": "https://www.google.com/maps/vt/data=7pvvziXqCKNgwXRvhI2guyudUVrftVDN8OVaRBPto91V4FU6arvmkWGdBSrN-r8Gs_eG-JmzxAiGVJly8SK1MJK8DkAzREafX3WIk0ws3UQf-zmFPRo"
- },
- {
   "id": "tm-Z698xZC2Z174eZ6",
   "cat": "music",
   "title": "Helene Fischer - 360° Stadion Tour 2026 - VIP Packages",
@@ -48,6 +24,18 @@
   "img": "https://s1.ticketm.net/dam/a/9ab/0ee831e1-534b-4053-a9f8-cb35fce849ab_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-9d9a3204a6",
+  "cat": "popup",
+  "title": "Ops & Friends Commerce Community",
+  "date": "2026-07-17",
+  "time": "Do, 18:30–22:30 Uhr",
+  "loc": "AlphaPet Ventures GmbH, Landsberger Str. 234/2. OG, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/ops-friends-commerce-community-tickets-1984910412476",
+  "desc": "Dörte und Kristina laden zum zweiten Ops & Friends Stammtisch nach München ein. Impuls, Sparring & Networking bei Food/Drinks. Ohne Sales. Dörte und Kristina laden zum zw",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3lhFE8TC5pOCTSr0urg0hhMhA4kSmMwhmlUV6Puzb7eDjq-4TjYNYTQ&s"
+ },
+ {
   "id": "se-ebe8fec927",
   "cat": "popup",
   "title": "SCHOLLI SOMMERFEST w. VICTOR RUIZ",
@@ -60,11 +48,23 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHaC6KDVlTnPhWiCANIrOE7nn0Rfs909YalJVJcFd3z9IVrKESSN6yya0&s"
  },
  {
+  "id": "se-9f676a45e9",
+  "cat": "popup",
+  "title": "OPEN DECKS (Eintritt frei)",
+  "date": "2026-07-17",
+  "time": "Do., 16. – Fr., 17. Juli",
+  "loc": "SENATORE - Pizza & Bar, Sendlinger-Tor-Platz 5, Ludwigsvorstadt-Isarvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/open-decks-eintritt-frei-53/",
+  "desc": "Jeden Donnerstag öffnet OPEN DECKS die Bühne für alle, die Musik jenseits von Grenzen lieben – ob live, digital oder auf Vinyl. Hier trifft Vielfalt von Jazz bis Techno a",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZrwzQueiI9oxmEUwq7gOCtzr7RR9QQtM2Y5kOUzAdhRs8R5apgYsNwk&s"
+ },
+ {
   "id": "se-d8950db3e7",
   "cat": "walk",
   "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
   "date": "2026-07-17",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "U-Bahnhof Rotkreuzplatz, ",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515075092",
@@ -76,7 +76,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour DREIMÜHLENVIERTEL! | Munich Wine Rebels",
   "date": "2026-07-17",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "Roecklbrunnen, Roecklpl 3, Ludwigsvorstadt-Isarvorstadt, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-dreimuhlenviertel-munich-wine-rebels-tickets-1982573102519",
@@ -88,7 +88,7 @@
   "cat": "popup",
   "title": "Community Dance",
   "date": "2026-07-18",
-  "time": "Sa, 12:30–14:00 Uhr",
+  "time": "Morgen, 12:30–14:00 Uhr",
   "loc": "Münchner Kammerspiele, Maximilianstraße 26, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/community-dance-14/",
@@ -100,7 +100,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
   "date": "2026-07-18",
-  "time": "Sa, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-10/",
@@ -900,6 +900,18 @@
   "img": "https://s1.ticketm.net/dam/a/826/8240ec8d-8c56-43db-8cc0-51a3f09f0826_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z1kqt8Au9",
+  "cat": "music",
+  "title": "Bob Dylan",
+  "date": "2026-11-15",
+  "time": "So 20:00",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/bob-dylan-tickets/769405357?language=en-us",
+  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/352/feae62d0-316a-4b51-863c-96c198c43352_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16vFO4tkp",
   "cat": "music",
   "title": "SON MIEUX - 24 Hours – EU Album Tour",
@@ -1416,6 +1428,18 @@
   "img": "https://s1.ticketm.net/dam/a/445/8a27f7b3-5be4-43a2-a852-12a5b9d11445_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z16vadjxuZ",
+  "cat": "music",
+  "title": "Cave - Tour de Porz",
+  "date": "2027-04-13",
+  "time": "Di 19:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/1243722340?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/dba/5d685801-9b85-4fc9-9ec3-e8ae62f7edba_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z1k44uIjb",
   "cat": "music",
   "title": "Morgan Jay: La Dolce Vita Tour",
@@ -1426,18 +1450,6 @@
   "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/555368718?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1kCeFbqY",
-  "cat": "music",
-  "title": "Ian Hooper - On Tour April 2027",
-  "date": "2027-04-16",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/382218770?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/2e9/f692a854-2c28-41e0-bb37-e1b768f632e9_SOURCE"
  },
  {
   "id": "tm-LvZ18QQ4DCkgDsYZw559c",
@@ -1462,17 +1474,5 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z16vfZvK0v",
-  "cat": "music",
-  "title": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
-  "date": "2027-05-23",
-  "time": "So 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
