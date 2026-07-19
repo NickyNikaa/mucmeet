@@ -1,51 +1,15 @@
 [
  {
-  "id": "se-8ac47274ac",
-  "cat": "popup",
-  "title": "Community Dance",
-  "date": "2026-07-18",
-  "time": "Heute, 12:30–14:00 Uhr",
-  "loc": "Münchner Kammerspiele, Maximilianstraße 26, München",
+  "id": "se-5850068c66",
+  "cat": "run",
+  "title": "DJ Sunset Run",
+  "date": "2026-07-19",
+  "time": "Heute, 17:00–23:45 Uhr",
+  "loc": "Gasteig HP8, Hans-Preißinger-Straße 8, München",
   "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/community-dance-14/",
-  "desc": "Community Dance bringt dich mit seinem offenen Ansatz ganz entspannt in Bewegung – ganz egal, ob du schon Erfahrung hast oder spontan mitmachen willst. Die erfahrenen Tan",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeXPrsAlz3z0UMMrFmZO_XIYe0b8yqSklaY-U_nIlUCeuNGtzeua5Qr0&s"
- },
- {
-  "id": "se-e27a758a2a",
-  "cat": "popup",
-  "title": "SCHOLLI SOMMERFEST w. VICTOR RUIZ",
-  "date": "2026-07-18",
-  "time": "Fr., 17. – Sa., 18. Juli",
-  "loc": "lieberscholli - space for art, club and culture, Landsberger Str. 212, München",
-  "ig": "",
-  "igUrl": "https://lieberscholli.ticket.io/bNuGRDcI/",
-  "desc": "No big introduction needed: VICTOR RUIZ is coming to Scholli for our Sommerfest! Supported by Tommahawk, Human Rias and Rad.lez this will be a day and night going into ou",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHaC6KDVlTnPhWiCANIrOE7nn0Rfs909YalJVJcFd3z9IVrKESSN6yya0&s"
- },
- {
-  "id": "se-956fab8ca7",
-  "cat": "popup",
-  "title": "POSTPRO STAMMTISCH - 1st Edition",
-  "date": "2026-07-18",
-  "time": "Fr, 18:00–23:00 Uhr",
-  "loc": "PIXEL - Raum für Medien, Kultur und Partizipation, Rosenheimer Str. 5, München",
-  "ig": "",
-  "igUrl": "https://somo.social/en/e/postpro-stammtisch-1st-edition-717",
-  "desc": "Der PostPro Stammtisch ist ein Netzwerktreffen für alle aus der Postproduktion – vom Schnitt über Color und VFX bis hin zu Sound und Motion Design. Die Idee ist simpel: W",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbA6eGEA9YI8I5UENZZGmcp0rNEWMGjmAFUCwjkbQ&s"
- },
- {
-  "id": "se-6fdbc25f29",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
-  "date": "2026-07-18",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-10/",
-  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
+  "igUrl": "https://rausgegangen.de/en/events/dj-sunset-run-0/",
+  "desc": "We bring massive beats, endless energy and the best community together by the Isar! ⚡ Join the biggest Run & Rave through the Flaucher this summer 🎶 and vibe to the sizzl",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThofKIswHBR5xciePvgT_Ph8rJ6OI6c5xeZ4YzdciXwT6ctotnzFfPbw8&s"
  },
  {
   "id": "se-240357b912",
@@ -58,6 +22,18 @@
   "igUrl": "https://rausgegangen.de/en/events/biz-vibes-sommerparty-fur-solopreneurinnen-0/",
   "desc": "BIZLOVE SOMMERPARTY 2026Dienstag, 21. Juli 2026 | ab 15.30 Uhr FLUX, MünchenBusiness. Begegnung. Leichtigkeit. Ein Sommerfest für Frauen, die was bewegen. Lass dich tre",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEZ_t3PRo8ONpCS1sK7otlIop4zzMpiKcNuuDAeTMHbvI5cxN1zWhJ64&s"
+ },
+ {
+  "id": "se-11c4febc51",
+  "cat": "popup",
+  "title": "The Queers + Support: The 66ers",
+  "date": "2026-07-22",
+  "time": "Mi, 20:00",
+  "loc": "Theater Drehleier & Theatergaststätte \"Szenerie\", Rosenheimer Str. 123, Au-Haidhausen, München",
+  "ig": "",
+  "igUrl": "https://www.eventim.de/artist/the-queers/muftconcerts-praesentiert-the-queers-4186712/",
+  "desc": "THE QUEERS: Formed in Portsmouth, New Hampshire in 1982 by guitarist and frontman Joe Queer, The Queers are seminal figures in the pop-punk and Ramonescore genres. They a",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxMKEO7AUnDr2niZXxuCrtWb5Zorei8gxvPpUHjt8&s"
  },
  {
   "id": "se-d363af8a8e",
@@ -108,6 +84,30 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGFaIoTh6_PBPTEFbkMBmDu3AxxcFTN9EjVfyexiJLpOQvN2OvyVrBtRI&s"
  },
  {
+  "id": "se-ededb76c7e",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
+  "date": "2026-07-31",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "U-Bahnhof Rotkreuzplatz, ",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515120227",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
+ },
+ {
+  "id": "se-4c756e8279",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
+  "date": "2026-08-01",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-11/",
+  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
+ },
+ {
   "id": "se-6ef87f7d9a",
   "cat": "biz",
   "title": "General Business Networking - Munich",
@@ -130,6 +130,18 @@
   "igUrl": "https://rausgegangen.de/en/events/community-dachgarten-26/",
   "desc": "Ulrike Zieher lädt ein, gemeinsam auf dem Dachgarten in München Erde unter den Fingern zu spüren, Pflanzen zu hegen und sich beim Ernten oder Verarbeiten auszutauschen. O",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDeV0v5U4_nDpdeEbh9vOZ2bjtkrJUm04ZBvTrWmQlsnvlQYluRCw3Cw&s"
+ },
+ {
+  "id": "se-4bb5982ee5",
+  "cat": "popup",
+  "title": "YE – Art, Fashion & House",
+  "date": "2026-08-15",
+  "time": "Sa, 11:00–23:00 Uhr",
+  "loc": "Galopprennbahn München, Graf-Lehndorff-Straße 36, München",
+  "ig": "",
+  "igUrl": "https://www.in-muenchen.de/events/ye-art-fashion-house.html",
+  "desc": "YE ist eine Eventmarke aus München, die Kunst, Mode und House Music zu einzigartigen Erlebnissen verbindet. Mit energiegeladenen Day-to-Night-Events, stilvollen Club- und",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3Lj2xr9zaqRY2iAFsWacEcnZ0rOwB-Va7HW-xVIGHNsKnYPlMgy8Jl4&s"
  },
  {
   "id": "tm-Z698xZC2Z16vrdus8o",
