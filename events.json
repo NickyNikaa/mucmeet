@@ -1,22 +1,10 @@
 [
  {
-  "id": "se-5850068c66",
-  "cat": "run",
-  "title": "DJ Sunset Run",
-  "date": "2026-07-19",
-  "time": "Heute, 17:00–23:45 Uhr",
-  "loc": "Gasteig HP8, Hans-Preißinger-Straße 8, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/dj-sunset-run-0/",
-  "desc": "We bring massive beats, endless energy and the best community together by the Isar! ⚡ Join the biggest Run & Rave through the Flaucher this summer 🎶 and vibe to the sizzl",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThofKIswHBR5xciePvgT_Ph8rJ6OI6c5xeZ4YzdciXwT6ctotnzFfPbw8&s"
- },
- {
   "id": "se-240357b912",
   "cat": "biz",
   "title": "Business Vibes Sommerparty 2026",
   "date": "2026-07-21",
-  "time": "Di, 15:30–21:30 Uhr",
+  "time": "Morgen, 15:30–21:30 Uhr",
   "loc": "FLUX, Barer Str. 40, Maxvorstadt, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/biz-vibes-sommerparty-fur-solopreneurinnen-0/",
@@ -48,6 +36,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
  {
+  "id": "se-516fe8a31c",
+  "cat": "popup",
+  "title": "OPEN DECKS (Eintritt frei)",
+  "date": "2026-07-23",
+  "time": "Do., 23. – Fr., 24. Juli",
+  "loc": "SENATORE - Pizza & Bar, Sendlinger-Tor-Platz 5, Ludwigsvorstadt-Isarvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/open-decks-eintritt-frei-54/",
+  "desc": "Jeden Donnerstag öffnet OPEN DECKS die Bühne für alle, die Musik jenseits von Grenzen lieben – ob live, digital oder auf Vinyl. Hier trifft Vielfalt von Jazz bis Techno a",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZrwzQueiI9oxmEUwq7gOCtzr7RR9QQtM2Y5kOUzAdhRs8R5apgYsNwk&s"
+ },
+ {
   "id": "se-216ce39152",
   "cat": "walk",
   "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
@@ -58,6 +58,18 @@
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-19/",
   "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
+ },
+ {
+  "id": "se-186e1b7b54",
+  "cat": "popup",
+  "title": "Let's Play Together",
+  "date": "2026-07-25",
+  "time": "Sa, 10:00–19:00 Uhr",
+  "loc": "glore München, Weißenburger Str. 22, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/play-together-glore-munchen-0/",
+  "desc": "Ready for a round of ping pong?This July, glore Munich will transform into a playful meeting point where conversations start around the ping pong table, and sustainable f",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Monuann035Kig1TR7u8_gCYIfU3Kx-mCEwvPfigNyYXqlbQmrgQ2rx8&s"
  },
  {
   "id": "se-5980d18b6e",
@@ -130,18 +142,6 @@
   "igUrl": "https://rausgegangen.de/en/events/community-dachgarten-26/",
   "desc": "Ulrike Zieher lädt ein, gemeinsam auf dem Dachgarten in München Erde unter den Fingern zu spüren, Pflanzen zu hegen und sich beim Ernten oder Verarbeiten auszutauschen. O",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDeV0v5U4_nDpdeEbh9vOZ2bjtkrJUm04ZBvTrWmQlsnvlQYluRCw3Cw&s"
- },
- {
-  "id": "se-4bb5982ee5",
-  "cat": "popup",
-  "title": "YE – Art, Fashion & House",
-  "date": "2026-08-15",
-  "time": "Sa, 11:00–23:00 Uhr",
-  "loc": "Galopprennbahn München, Graf-Lehndorff-Straße 36, München",
-  "ig": "",
-  "igUrl": "https://www.in-muenchen.de/events/ye-art-fashion-house.html",
-  "desc": "YE ist eine Eventmarke aus München, die Kunst, Mode und House Music zu einzigartigen Erlebnissen verbindet. Mit energiegeladenen Day-to-Night-Events, stilvollen Club- und",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3Lj2xr9zaqRY2iAFsWacEcnZ0rOwB-Va7HW-xVIGHNsKnYPlMgy8Jl4&s"
  },
  {
   "id": "tm-Z698xZC2Z16vrdus8o",
