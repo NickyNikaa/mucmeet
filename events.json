@@ -1,34 +1,10 @@
 [
  {
-  "id": "se-240357b912",
-  "cat": "biz",
-  "title": "Business Vibes Sommerparty 2026",
-  "date": "2026-07-21",
-  "time": "Heute, 15:30–21:30 Uhr",
-  "loc": "FLUX, Barer Str. 40, Maxvorstadt, München",
-  "ig": "",
-  "igUrl": "https://www.google.com/goto?url=CAEShwEB7keqTQzL28oPfdRr5XMhr9EsCpgZgDc8DMFfwiEctUA9f-fykRtXom7YNHxROclByuRPUPeMcngOokrLQjgMR5S9UGQGwiTekegF7vaDlRQfrk2bdajUab-p1qqiNFk4dn79jIrweTJ-gLfpyGwpnW2GRji1p6KpYbGak8I7jnpAPW0o72I=",
-  "desc": "BIZLOVE SOMMERPARTY 2026Dienstag, 21. Juli 2026 | ab 15.30 Uhr FLUX, MünchenBusiness. Begegnung. Leichtigkeit. Ein Sommerfest für Frauen, die was bewegen. Lass dich tre",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEZ_t3PRo8ONpCS1sK7otlIop4zzMpiKcNuuDAeTMHbvI5cxN1zWhJ64&s"
- },
- {
-  "id": "se-11c4febc51",
-  "cat": "popup",
-  "title": "The Queers + Support: The 66ers",
-  "date": "2026-07-22",
-  "time": "Morgen, 20:00",
-  "loc": "Theater Drehleier & Theatergaststätte \"Szenerie\", Rosenheimer Str. 123, Au-Haidhausen, München",
-  "ig": "",
-  "igUrl": "https://www.eventim.de/artist/the-queers/muftconcerts-praesentiert-the-queers-4186712/",
-  "desc": "THE QUEERS: Formed in Portsmouth, New Hampshire in 1982 by guitarist and frontman Joe Queer, The Queers are seminal figures in the pop-punk and Ramonescore genres. They a",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxMKEO7AUnDr2niZXxuCrtWb5Zorei8gxvPpUHjt8&s"
- },
- {
   "id": "se-d363af8a8e",
   "cat": "popup",
   "title": "FEMALE*ONLY BarNight",
   "date": "2026-07-23",
-  "time": "Do, 18:00–23:00 Uhr",
+  "time": "Morgen, 18:00–23:00 Uhr",
   "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
@@ -108,6 +84,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
  },
  {
+  "id": "se-3b43a63d27",
+  "cat": "popup",
+  "title": "Mammutmarsch München (75/100 KM) 2026",
+  "date": "2026-08-01",
+  "time": "Sa., 1. – So., 2. Aug.",
+  "loc": "Planegg, München",
+  "ig": "",
+  "igUrl": "https://spoferan.com/en/events/mammutmarsch-muenchen-100-km",
+  "desc": "Erlebe die Herausforderung deines Lebens beim Mammutmarsch München 2026! Diese spannende Ultrahiking-Veranstaltung findet am Wochenende vom 1. bis 2. August 2026 rund um ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaqFdNqXF3rKDMjbEoNuCGPyF3V977pp3CK67yACBdDPBKu9qQIzsFZA&s"
+ },
+ {
   "id": "se-4c756e8279",
   "cat": "walk",
   "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
@@ -127,7 +115,7 @@
   "time": "Mi, 18:00–20:00 Uhr",
   "loc": "The Keg Bar, Trautenwolfstraße 1, München",
   "ig": "",
-  "igUrl": "https://www.google.com/goto?url=CAESrwEB7keqTdhiPQczfyAxTph1yoqA5mdvESgUjH7xttU60jg6f21tP3hQTO1qLxOMhkc_TjKkoluxpPdTIBfXsNVDD9nEu9lbCd7-Q5gzryPuX6ZTrlIwZivwM_cOP8Shq2DeoaloHY9u1hjfHkq-oi61ex7yxvgLKQKSBtQtgSsJ6a-tCsA2FekJ4FneUTPKrRYWothiqB3wCxE4H54CUlwbysdgeJwUUsOUuyn6xqxm",
+  "igUrl": "https://www.eventbrite.com/e/actingproduction-business-networking-elevating-your-potential-munich-tickets-1988636494287",
   "desc": "Strive welcomes you to 'Acting, Production and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Strive welcomes you to 'Acting, Producti",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMV9w7LffVolOFQOCIGO27fznK5ctxo9_ERM3XJ6YtRIrhn6YdgHMvoeE&s"
  },
@@ -1296,6 +1284,18 @@
   "img": "https://s1.ticketm.net/dam/a/785/bfb40035-e524-42df-a3c7-754b79145785_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z1k_ap30U",
+  "cat": "music",
+  "title": "Delta Goodrem - PURE World Tour",
+  "date": "2027-03-12",
+  "time": "Fr 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/delta-goodrem-pure-world-tour-tickets/649592936?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/340/343eb8e3-e2f7-42d7-abcb-53319f765340_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z1kCKQffZ",
   "cat": "music",
   "title": "RAED - POV: Ladi geht auf Tour | Premium Package",
@@ -1438,17 +1438,5 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z16vfZvK0v",
-  "cat": "music",
-  "title": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
-  "date": "2027-05-23",
-  "time": "So 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
