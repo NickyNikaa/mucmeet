@@ -4,7 +4,7 @@
   "cat": "popup",
   "title": "FEMALE*ONLY BarNight",
   "date": "2026-07-23",
-  "time": "Morgen, 18:00–23:00 Uhr",
+  "time": "Heute, 18:00–23:00 Uhr",
   "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
@@ -28,7 +28,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
   "date": "2026-07-24",
-  "time": "Fr, 18:30–21:00 Uhr",
+  "time": "Morgen, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-19/",
@@ -226,30 +226,6 @@
   "igUrl": "https://www.ticketmaster.de/event/superbloom-2026-concert-lewis-capaldi--bastille--jessie-murph-tickets/1867310429?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/e/676/89be1ce9-7e55-431b-b8d2-209cc224e676_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1k88GJJA",
-  "cat": "music",
-  "title": "SUPERBLOOM 2026 Concert - AYLIVA + NICO SANTOS",
-  "date": "2026-09-03",
-  "time": "Do 19:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/superbloom-2026-concert-ayliva--nico-santos-tickets/410326985?language=en-us",
-  "desc": "Miscellaneous · Fairs & Festivals in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/e/4b8/4bf593f8-f659-4dd1-850d-3762defa74b8_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1k_djdjk",
-  "cat": "music",
-  "title": "SUPERBLOOM 2026 Concert - PAUL KALKBRENNER + MONOLINK",
-  "date": "2026-09-04",
-  "time": "Fr 17:30",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/superbloom-2026-concert-paul-kalkbrenner--monolink-tickets/643703706?language=en-us",
-  "desc": "Miscellaneous · Fairs & Festivals in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/076/21ee33c8-7d53-44dd-83bd-d10bba81b076_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z16vO-u9_S",
@@ -1438,5 +1414,29 @@
   "igUrl": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-2027-tickets/361761490?language=en-us",
   "desc": "Sports · Motorsports/Racing in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5b5/ff41f8c3-acc2-42de-934d-8fa31223d5b5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vfZvK0v",
+  "cat": "music",
+  "title": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
+  "date": "2027-05-23",
+  "time": "So 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kFeAA4E",
+  "cat": "music",
+  "title": "Dieter Bohlen - Cheri Cheri Lady Tour 2027",
+  "date": "2027-05-26",
+  "time": "Mi 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
