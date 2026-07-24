@@ -1,10 +1,10 @@
 [
  {
-  "id": "se-d363af8a8e",
+  "id": "se-2d8e264fce",
   "cat": "popup",
   "title": "FEMALE*ONLY BarNight",
-  "date": "2026-07-23",
-  "time": "Heute, 18:00–23:00 Uhr",
+  "date": "2026-07-24",
+  "time": "Do, 18:00–23:00 Uhr",
   "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
@@ -12,10 +12,10 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
  {
-  "id": "se-516fe8a31c",
+  "id": "se-7e36bb5a4f",
   "cat": "popup",
   "title": "OPEN DECKS (Eintritt frei)",
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "time": "Do., 23. – Fr., 24. Juli",
   "loc": "SENATORE - Pizza & Bar, Sendlinger-Tor-Platz 5, Ludwigsvorstadt-Isarvorstadt, München",
   "ig": "",
@@ -28,7 +28,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
   "date": "2026-07-24",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-19/",
@@ -40,7 +40,7 @@
   "cat": "popup",
   "title": "Let's Play Together",
   "date": "2026-07-25",
-  "time": "Sa, 10:00–19:00 Uhr",
+  "time": "Morgen, 10:00–19:00 Uhr",
   "loc": "glore München, Weißenburger Str. 22, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/play-together-glore-munchen-0/",
@@ -48,16 +48,40 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Monuann035Kig1TR7u8_gCYIfU3Kx-mCEwvPfigNyYXqlbQmrgQ2rx8&s"
  },
  {
+  "id": "se-545076807e",
+  "cat": "popup",
+  "title": "La GRAN Noche Latina - ALL AREAS Fiesta MUFFATWERK!",
+  "date": "2026-07-25",
+  "time": "Sa., 25. – So., 26. Juli",
+  "loc": "Muffathalle, Zellstraße 4, Au-Haidhausen, München",
+  "ig": "",
+  "igUrl": "https://www.muenchenticket.de/event/gran-noche-latina-38114/",
+  "desc": "Gran Noche LatinaLive: Charlie Segura y su Orquesta La Sucursal Party Ab 23 Uhr Party all area: Muffathalle: Reggaeton & Perreo by Latin Scene: DJ Yenny & Tori Segura Amp",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2RiDlREKHNMMJvYL8Rrl52D5Eazxw8DloGJw5vkz7UMDcPSaHQqbbKYc&s"
+ },
+ {
+  "id": "se-6b6e028f73",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
+  "date": "2026-07-25",
+  "time": "Morgen, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-22/",
+  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
+ },
+ {
   "id": "se-5980d18b6e",
   "cat": "walk",
   "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
   "date": "2026-07-25",
-  "time": "Sa, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "time": "Morgen, 18:30–21:00 Uhr",
+  "loc": "Maxmonument, Maximilianstraße, München",
   "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-lehel-munich-wine-rebels-11/",
-  "desc": "Wine & Food Walking Tour München LEHEL Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Das Le",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
+  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-lehel-munich-wine-rebels-tickets-1982573847748",
+  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood... durch Münchens schönste Viertel! Wine & Food Walking Tour München LEHEL ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmLAcvY4ZypmWz7QCfHsZovCZfIeTRRD5vMHORRdeSSvq9clyCEogRmo&s"
  },
  {
   "id": "se-fe46371f89",
@@ -120,18 +144,6 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMV9w7LffVolOFQOCIGO27fznK5ctxo9_ERM3XJ6YtRIrhn6YdgHMvoeE&s"
  },
  {
-  "id": "se-7ea5474895",
-  "cat": "popup",
-  "title": "Community Dachgarten",
-  "date": "2026-08-09",
-  "time": "So, 14:00–18:00 Uhr",
-  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/community-dachgarten-26/",
-  "desc": "Ulrike Zieher lädt ein, gemeinsam auf dem Dachgarten in München Erde unter den Fingern zu spüren, Pflanzen zu hegen und sich beim Ernten oder Verarbeiten auszutauschen. O",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDeV0v5U4_nDpdeEbh9vOZ2bjtkrJUm04ZBvTrWmQlsnvlQYluRCw3Cw&s"
- },
- {
   "id": "tm-Z698xZC2Z16vrdus8o",
   "cat": "music",
   "title": "David Garrett - Millennium Symphony Open Air Tour 2026",
@@ -142,18 +154,6 @@
   "igUrl": "https://www.ticketmaster.de/event/david-garrett-millennium-symphony-open-air-tour-2026-tickets/1783371411?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/c87/7e282b6f-5ae2-4311-bdf0-71845c3d3c87_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-29f95e05cf",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
-  "date": "2026-08-22",
-  "time": "Sa, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-24/",
-  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
  },
  {
   "id": "tm-Z698xZC2Z16vja7fp7",
@@ -178,6 +178,18 @@
   "igUrl": "https://www.universe.com/events/superbloom-2026-experience-day-samstag-tickets-LVQSWF?ref=ticketmaster",
   "desc": "Music · Undefined in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/076/21ee33c8-7d53-44dd-83bd-d10bba81b076_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-d92e8857d6",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour ALTGIESING! | Munich Wine Rebels",
+  "date": "2026-08-29",
+  "time": "Sa, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-altgiesing-munich-wine-rebels-13/",
+  "desc": "Wine & Food Walking Tour München ALTGIESING Egal ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! A",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
  },
  {
   "id": "tm-LvZ18Qpz8oKu0POZyE61A",
@@ -382,6 +394,18 @@
   "igUrl": "https://www.ticketmaster.de/event/drug-church-tickets/1797139328?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/65f/5202d130-dac1-48f0-beb3-c54b8406f65f_SOURCE"
+ },
+ {
+  "id": "se-573ca6bf30",
+  "cat": "popup",
+  "title": "Community Dachgarten",
+  "date": "2026-09-20",
+  "time": "So, 14:00–18:00 Uhr",
+  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/community-dachgarten-27/",
+  "desc": "Ulrike Zieher lädt ein, gemeinsam auf dem Dachgarten in München Erde unter den Fingern zu spüren, Pflanzen zu hegen und sich beim Ernten oder Verarbeiten auszutauschen. O",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDeV0v5U4_nDpdeEbh9vOZ2bjtkrJUm04ZBvTrWmQlsnvlQYluRCw3Cw&s"
  },
  {
   "id": "tm-Z698xZC2Z1k8Jef-3",
