@@ -1,46 +1,10 @@
 [
  {
-  "id": "se-2d8e264fce",
-  "cat": "popup",
-  "title": "FEMALE*ONLY BarNight",
-  "date": "2026-07-24",
-  "time": "Do, 18:00–23:00 Uhr",
-  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-7/",
-  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
- },
- {
-  "id": "se-7e36bb5a4f",
-  "cat": "popup",
-  "title": "OPEN DECKS (Eintritt frei)",
-  "date": "2026-07-24",
-  "time": "Do., 23. – Fr., 24. Juli",
-  "loc": "SENATORE - Pizza & Bar, Sendlinger-Tor-Platz 5, Ludwigsvorstadt-Isarvorstadt, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/open-decks-eintritt-frei-54/",
-  "desc": "Jeden Donnerstag öffnet OPEN DECKS die Bühne für alle, die Musik jenseits von Grenzen lieben – ob live, digital oder auf Vinyl. Hier trifft Vielfalt von Jazz bis Techno a",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZrwzQueiI9oxmEUwq7gOCtzr7RR9QQtM2Y5kOUzAdhRs8R5apgYsNwk&s"
- },
- {
-  "id": "se-216ce39152",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
-  "date": "2026-07-24",
-  "time": "Heute, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-19/",
-  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
- },
- {
   "id": "se-186e1b7b54",
   "cat": "popup",
   "title": "Let's Play Together",
   "date": "2026-07-25",
-  "time": "Morgen, 10:00–19:00 Uhr",
+  "time": "Heute, 10:00–19:00 Uhr",
   "loc": "glore München, Weißenburger Str. 22, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/en/events/play-together-glore-munchen-0/",
@@ -64,7 +28,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
   "date": "2026-07-25",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "Munich Wine Rebels, Holzstraße 24, München",
   "ig": "",
   "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-22/",
@@ -76,7 +40,7 @@
   "cat": "walk",
   "title": "Wine & Food Walking Tour LEHEL! | Munich Wine Rebels",
   "date": "2026-07-25",
-  "time": "Morgen, 18:30–21:00 Uhr",
+  "time": "Heute, 18:30–21:00 Uhr",
   "loc": "Maxmonument, Maximilianstraße, München",
   "ig": "",
   "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-lehel-munich-wine-rebels-tickets-1982573847748",
@@ -94,6 +58,18 @@
   "igUrl": "https://www.eventbrite.de/e/5rhythms-dance-with-oliver-euchner-community-dance-tickets-1990195261602?aff=ebdssbcategorybrowse",
   "desc": "Oliver regularly hosts 5 Rhythms events in Germany, the US, Poland and Italy.",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGFaIoTh6_PBPTEFbkMBmDu3AxxcFTN9EjVfyexiJLpOQvN2OvyVrBtRI&s"
+ },
+ {
+  "id": "se-3bc4d5a953",
+  "cat": "popup",
+  "title": "OPEN DECKS (Eintritt frei)",
+  "date": "2026-07-30",
+  "time": "Do., 30. – Fr., 31. Juli",
+  "loc": "SENATORE - Pizza & Bar, Sendlinger-Tor-Platz 5, Ludwigsvorstadt-Isarvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/open-decks-eintritt-frei-55/",
+  "desc": "Jeden Donnerstag öffnet OPEN DECKS die Bühne für alle, die Musik jenseits von Grenzen lieben – ob live, digital oder auf Vinyl. Hier trifft Vielfalt von Jazz bis Techno a",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZrwzQueiI9oxmEUwq7gOCtzr7RR9QQtM2Y5kOUzAdhRs8R5apgYsNwk&s"
  },
  {
   "id": "se-ededb76c7e",
@@ -144,6 +120,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMV9w7LffVolOFQOCIGO27fznK5ctxo9_ERM3XJ6YtRIrhn6YdgHMvoeE&s"
  },
  {
+  "id": "se-4bb5982ee5",
+  "cat": "popup",
+  "title": "YE – Art, Fashion & House",
+  "date": "2026-08-15",
+  "time": "Sa, 11:00–23:00 Uhr",
+  "loc": "Galopprennbahn München, Graf-Lehndorff-Straße 36, München",
+  "ig": "",
+  "igUrl": "https://www.in-muenchen.de/events/ye-art-fashion-house.html",
+  "desc": "YE ist eine Eventmarke aus München, die Kunst, Mode und House Music zu einzigartigen Erlebnissen verbindet. Mit energiegeladenen Day-to-Night-Events, stilvollen Club- und",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3Lj2xr9zaqRY2iAFsWacEcnZ0rOwB-Va7HW-xVIGHNsKnYPlMgy8Jl4&s"
+ },
+ {
   "id": "tm-Z698xZC2Z16vrdus8o",
   "cat": "music",
   "title": "David Garrett - Millennium Symphony Open Air Tour 2026",
@@ -154,6 +142,18 @@
   "igUrl": "https://www.ticketmaster.de/event/david-garrett-millennium-symphony-open-air-tour-2026-tickets/1783371411?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/c87/7e282b6f-5ae2-4311-bdf0-71845c3d3c87_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-c902ba3179",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
+  "date": "2026-08-21",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-21/",
+  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
  },
  {
   "id": "tm-Z698xZC2Z16vja7fp7",
@@ -177,7 +177,7 @@
   "ig": "",
   "igUrl": "https://www.universe.com/events/superbloom-2026-experience-day-samstag-tickets-LVQSWF?ref=ticketmaster",
   "desc": "Music · Undefined in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/076/21ee33c8-7d53-44dd-83bd-d10bba81b076_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  "img": "https://s1.ticketm.net/dam/a/f84/08c99d79-c947-4a87-b5d9-0bdc383dbf84_SOURCE"
  },
  {
   "id": "se-d92e8857d6",
@@ -201,7 +201,7 @@
   "ig": "",
   "igUrl": "https://www.universe.com/events/superbloom-2026-experience-day-sonntag-tickets-Y7D6MV?ref=ticketmaster",
   "desc": "Music · Undefined in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/076/21ee33c8-7d53-44dd-83bd-d10bba81b076_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  "img": "https://s1.ticketm.net/dam/a/f84/08c99d79-c947-4a87-b5d9-0bdc383dbf84_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kOok88d",
@@ -225,7 +225,7 @@
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/superbloom-2026-concert-sombr--ennio-tickets/1576075074?language=en-us",
   "desc": "Miscellaneous · Fairs & Festivals in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/076/21ee33c8-7d53-44dd-83bd-d10bba81b076_SOURCE"
+  "img": "https://s1.ticketm.net/dam/e/dfb/1e48c58a-198a-4d44-a787-aa7c9671adfb_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z16v-EG88t",
@@ -790,6 +790,18 @@
   "igUrl": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/659/0d293f1b-6f2f-4d03-aadc-c8cd6fa92659_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-7a8867246e",
+  "cat": "popup",
+  "title": "FEMALE*ONLY BarNight",
+  "date": "2026-11-10",
+  "time": "Di, 18:00–23:00 Uhr",
+  "loc": "Palais Club, Arnulfstraße 16-18, Maxvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/femaleonly-barnight-9/",
+  "desc": "Die FEMALE*ONLY BarNight bietet einen entspannten Raum zum Treffen und Austauschen – hier bist du unter Frauen und kannst ungezwungen neue Verbindungen knüpfen. Es geht u",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBVZijgreL12GpaZXowPeMDqGSTy6brcZ6Mw-rgtxqPUcvAXUoe0U6Qg&s"
  },
  {
   "id": "tm-Z698xZC2Z16vaE__7o",
