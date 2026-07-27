@@ -1,27 +1,15 @@
 [
  {
-  "id": "se-bed03d8534",
+  "id": "se-bf8c077d80",
   "cat": "popup",
-  "title": "La GRAN Noche Latina - ALL AREAS Fiesta MUFFATWERK!",
-  "date": "2026-07-26",
-  "time": "Sa., 25. – So., 26. Juli",
-  "loc": "Muffathalle, Zellstraße 4, Au-Haidhausen, München",
+  "title": "Community Nähen",
+  "date": "2026-07-28",
+  "time": "Morgen, 18:30–21:30 Uhr",
+  "loc": "Die Färberei (Kreisjugendring München-Stadt), Claude-Lorrain-Straße 25, Untergiesing-Harlaching, München",
   "ig": "",
-  "igUrl": "https://www.muenchenticket.de/event/gran-noche-latina-38114/",
-  "desc": "Gran Noche LatinaLive: Charlie Segura y su Orquesta La Sucursal Party Ab 23 Uhr Party all area: Muffathalle: Reggaeton & Perreo by Latin Scene: DJ Yenny & Tori Segura Amp",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2RiDlREKHNMMJvYL8Rrl52D5Eazxw8DloGJw5vkz7UMDcPSaHQqbbKYc&s"
- },
- {
-  "id": "se-5d0f66a50f",
-  "cat": "cycle",
-  "title": "Bike Community Event - Loops & Locals",
-  "date": "2026-07-26",
-  "time": "Sa., 25. – So., 26. Juli",
-  "loc": "ISARWINKEL_16 EVENT LOCATION, Isarwinkel 16, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/loops-locals-urban-vibes-local-rides-0/",
-  "desc": "Zwei Tage, unzählige Kilometer, jede Menge Urban Vibes: Bei Loops & Locals, dem Bike Community Event von GARMIN wird München zum Treffpunkt für die Cycling-Community. ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvwNnRJ5A2xsb4x-51O8mIbPowR3dIhdrKhuu9Fobcb37LRL9p6zojlJM&s"
+  "igUrl": "https://rausgegangen.de/en/events/community-nahen-44/",
+  "desc": "ZusammenNähen – ohne Anleitung meistens alle zwei Wochen am Dienstag von 18:30 bis 21:30 Uhr in der Färberei, Claude-Lorrain-Straße 25Ihr seid mit dem Nähen vertraut u",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGOB6VCNmv1SAlV1bDBim8EHeaTz3e-kfjJ6b0vIjS8P27cypJOb5rhs&s"
  },
  {
   "id": "se-fe46371f89",
@@ -46,6 +34,30 @@
   "igUrl": "https://rausgegangen.de/en/events/vyne-vol-01-where-music-meets-art-0/",
   "desc": "Some events you attend. Others you carry with you.VYNE Vol. 01 Art Meets Expression.Music. Fashion. Art. One night. One stage.VYNE is a curated cultural experience for th",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmrJoZrGqcuI3bseDDxdqLRGYWZasrqlASKUbGc6HWnB_dUzNCpGXz0A&s"
+ },
+ {
+  "id": "se-3bc4d5a953",
+  "cat": "popup",
+  "title": "OPEN DECKS (Eintritt frei)",
+  "date": "2026-07-30",
+  "time": "Do., 30. – Fr., 31. Juli",
+  "loc": "SENATORE - Pizza & Bar, Sendlinger-Tor-Platz 5, Ludwigsvorstadt-Isarvorstadt, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/open-decks-eintritt-frei-55/",
+  "desc": "Jeden Donnerstag öffnet OPEN DECKS die Bühne für alle, die Musik jenseits von Grenzen lieben – ob live, digital oder auf Vinyl. Hier trifft Vielfalt von Jazz bis Techno a",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZrwzQueiI9oxmEUwq7gOCtzr7RR9QQtM2Y5kOUzAdhRs8R5apgYsNwk&s"
+ },
+ {
+  "id": "se-349595655a",
+  "cat": "music",
+  "title": "PHRE Festival Opening: Melina + MAHA",
+  "date": "2026-07-31",
+  "time": "Fr., 31. Juli – Sa., 1. Aug.",
+  "loc": "Import Export, Schwere-Reiter-Str. 2h, Neuhausen-Nymphenburg, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/phre-festival-day1/",
+  "desc": "This is not a World Music Festival! This is PHREMit dem PHRE-Pass könnt ihr 5 Abende unseres PHRE Festivals genießen. Wenn ihr unserem Festival extra Liebe geben möchte",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVSOK5PPKc89XSHBuxnl5ayltKCbCJDNntu-Un8_t0kwCuox_5bzT4-Rk&s"
  },
  {
   "id": "se-ededb76c7e",
@@ -84,6 +96,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52W4g2nExOEoWqXeerarhpo4fnwmwzT_c5d6H7f9Y3cl1ZKmSoj60h7E&s"
  },
  {
+  "id": "se-b5bf72f896",
+  "cat": "music",
+  "title": "Munich Ravens vs. Paris Musketeers",
+  "date": "2026-08-02",
+  "time": "So, 13:00–16:00 Uhr",
+  "loc": "uhlsport PARK, Am Sportpark 9, Unterhaching",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/munich-ravens-vs-paris-musketeers-0/",
+  "desc": "HOAMCOMING 2026: MUNICH RAVENS VS. PARIS MUSKETEERSAm Sonntag, den 2. August 2026, steigt im Sportpark Unterhaching das letzte Heimspiel der regulären Saison und damit e",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9ymwWQmyqb14idQaNq3nUCLLPCBhyNvOTVbqU8lpuqrj8neNly74AOE&s"
+ },
+ {
   "id": "se-6ef87f7d9a",
   "cat": "biz",
   "title": "General Business Networking - Munich",
@@ -94,6 +118,18 @@
   "igUrl": "https://www.eventbrite.com/e/actingproduction-business-networking-elevating-your-potential-munich-tickets-1988636494287",
   "desc": "Strive welcomes you to 'Acting, Production and Business Networking', an event for tenured and newcomers at Keg Bar! Event is 18+. Strive welcomes you to 'Acting, Producti",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMV9w7LffVolOFQOCIGO27fznK5ctxo9_ERM3XJ6YtRIrhn6YdgHMvoeE&s"
+ },
+ {
+  "id": "se-c2c0aaec2b",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
+  "date": "2026-08-07",
+  "time": "Fr, 18:30–21:00 Uhr",
+  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-20/",
+  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
  },
  {
   "id": "se-2cb1fcd2e2",
@@ -108,18 +144,6 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLM9SxuYe51C9hPn82keJ1DauUz27jE94Rx2yrtpuoO8n5gslrD-fF_U&s"
  },
  {
-  "id": "se-4bb5982ee5",
-  "cat": "popup",
-  "title": "YE – Art, Fashion & House",
-  "date": "2026-08-15",
-  "time": "Sa, 11:00–23:00 Uhr",
-  "loc": "Galopprennbahn München, Graf-Lehndorff-Straße 36, München",
-  "ig": "",
-  "igUrl": "https://www.in-muenchen.de/events/ye-art-fashion-house.html",
-  "desc": "YE ist eine Eventmarke aus München, die Kunst, Mode und House Music zu einzigartigen Erlebnissen verbindet. Mit energiegeladenen Day-to-Night-Events, stilvollen Club- und",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3Lj2xr9zaqRY2iAFsWacEcnZ0rOwB-Va7HW-xVIGHNsKnYPlMgy8Jl4&s"
- },
- {
   "id": "tm-Z698xZC2Z16vrdus8o",
   "cat": "music",
   "title": "David Garrett - Millennium Symphony Open Air Tour 2026",
@@ -130,18 +154,6 @@
   "igUrl": "https://www.ticketmaster.de/event/david-garrett-millennium-symphony-open-air-tour-2026-tickets/1783371411?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/c87/7e282b6f-5ae2-4311-bdf0-71845c3d3c87_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-c902ba3179",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour HAIDHAUSEN! | Munich Wine Rebels",
-  "date": "2026-08-21",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-haidhausen-munich-wine-rebels-21/",
-  "desc": "Wine & Food Walking Tour München HAIDHAUSEN Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx75xoK230g2Z5vjWrFxje4koQ4yDy0Wxt5_VNkJsU_vfRPU4XSemCtqc&s"
  },
  {
   "id": "se-29f95e05cf",
@@ -298,18 +310,6 @@
   "igUrl": "https://www.ticketmaster.de/event/aap-rocky-dont-be-dumb-world-tour-tickets/1377074670?language=en-us",
   "desc": "Music · Hip-Hop/Rap in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/9a8/27ed6a92-1b9a-4a2b-af2d-99c447f939a8_SOURCE"
- },
- {
-  "id": "se-6e022ef7b5",
-  "cat": "walk",
-  "title": "Copy of Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
-  "date": "2026-09-11",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "U-Bahnhof Rotkreuzplatz, ",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.co.uk/e/copy-of-wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1992841432370?aff=ebdssbdestsearch",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
  },
  {
   "id": "tm-Z698xZC2Z1kqboPOJ",
