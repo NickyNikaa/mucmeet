@@ -1,29 +1,5 @@
 [
  {
-  "id": "se-4fb2c26058",
-  "cat": "popup",
-  "title": "Apéro Classique by OpusM",
-  "date": "2026-07-30",
-  "time": "Morgen, 19:00–21:00 Uhr",
-  "loc": "Openhouse Munich, Luisenstraße 14, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/apero-classique-by-opusm-4/",
-  "desc": "Donnerstags um 19:00 gehört... Apéro Classique by OpusMApéro Classique ist das neue Format von OpusM im Openhouse Munich – kurze Kammerkonzerte in intimem Rahmen, begl",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFv5UWhtkzlgPw_LdEea87K8yJh19bZZKVtJqJAgLlQWDsLRj4yWa3Qg&s"
- },
- {
-  "id": "se-ecab962018",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour NEUHAUSEN! | Munich Wine Rebels",
-  "date": "2026-08-14",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "U-Bahnhof Rotkreuzplatz, ",
-  "ig": "",
-  "igUrl": "https://www.eventbrite.co.uk/e/wine-food-walking-tour-neuhausen-munich-wine-rebels-tickets-1987515174389",
-  "desc": "Entdecke die Stadt genussvoll: Wine & Food Tour mit fantastischen Weinen & leckerem Fingerfood durch Münchens schönste Viertel! Wine & Food Walking Tour München NEUHAUSEN",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKeR8dhAUlNcIAzW5iqLD7SzziJmMXw_pPHLbFLhhBFw6yNvbiJ8OlnA&s"
- },
- {
   "id": "tm-Z698xZC2Z16vrdus8o",
   "cat": "music",
   "title": "David Garrett - Millennium Symphony Open Air Tour 2026",
@@ -36,16 +12,16 @@
   "img": "https://s1.ticketm.net/dam/a/c87/7e282b6f-5ae2-4311-bdf0-71845c3d3c87_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-29f95e05cf",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour WESTEND! | Munich Wine Rebels",
+  "id": "se-cc34ab54de",
+  "cat": "music",
+  "title": "PHRE Festival Finale: Habibi Funk + Morena Leraba",
   "date": "2026-08-22",
-  "time": "Sa, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
+  "time": "Sa., 22. – So., 23. Aug.",
+  "loc": "Import Export, Schwere-Reiter-Str. 2h, Neuhausen-Nymphenburg, München",
   "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-westend-munich-wine-rebels-24/",
-  "desc": "Wine & Food Walking Tour München WESTEND Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! Wes",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrziqnKJwfaQFBcNdQI0NhZsl-ll7aCAfILlle0bwD8RL8kMwv1ov8ak8&s"
+  "igUrl": "https://rausgegangen.de/en/events/phre-day11/",
+  "desc": "Morena Leraba mixt die rauen Wurzeln der Famo-Musik aus Lesotho mit psychedelischen Beats und mitreißenden Vocals. Er erzählt von Hirtenleben und Migration und bringt dab",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYNmKFmH-2dQq8EFHmbyeE2oKME6r23Ef1dc4hbnVPcRPHJgAR7cBTl4&s"
  },
  {
   "id": "tm-Z698xZC2Z16vja7fp7",
@@ -58,18 +34,6 @@
   "igUrl": "https://www.ticketmaster.de/event/swae-lee-same-difference-tour-europe-tickets/1709114584?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/70f/fcffdc31-4203-4069-a6a3-69afbe16070f_SOURCE"
- },
- {
-  "id": "se-1d811778c6",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour SCHWABING! | Munich Wine Rebels",
-  "date": "2026-08-28",
-  "time": "Fr, 18:30–21:00 Uhr",
-  "loc": "Munich Wine Rebels, Holzstraße 24, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wine-food-walking-tour-schwabing-munich-wine-rebels-21/",
-  "desc": "Wine & Food Walking Tour München SCHWABING Egal, ob einheimisch, zugezogen oder nur zu Besuch – wir zeigen Euch Münchens schönste Viertel von einer ganz neuen Seite! S",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIPhg0OMNmY_u_OO8wxB3bptuF7u1VwNXU8LejpIY5kbkc_ObPPqZbgbE&s"
  },
  {
   "id": "tm-LvZ18Qpzu_y4HLYZy9ji1",
@@ -216,18 +180,6 @@
   "img": "https://s1.ticketm.net/dam/a/4ae/146c9c28-38b8-46cd-ba65-0e4a9cbea4ae_SOURCE"
  },
  {
-  "id": "se-2e596c6235",
-  "cat": "popup",
-  "title": "Munich’s biggest English-German Stand-up Comedy Show - Theater Drehleier",
-  "date": "2026-09-12",
-  "time": "Sa, 20:00–22:30 Uhr",
-  "loc": "Theater Drehleier & Theatergaststätte \"Szenerie\", Rosenheimer Str. 123, Au-Haidhausen, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/english-german-mixed-stand-up-comedy-show-at-theater-drehlei-1/",
-  "desc": "Munich’s Biggest Stand-Up Comedy Show in English-German – Comedy Club MunichLaugh in Two Languages: Where English and German Humor Unite on One Stage!Munich hosts one of ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRoRhWWgmcus8omYipQ8KOed1NxvRb2GNdb6OpPOADc_p6vN0Wu8BONMo&s"
- },
- {
   "id": "se-9fecdba2d8",
   "cat": "popup",
   "title": "MUCCO | Junges Blut",
@@ -322,18 +274,6 @@
   "igUrl": "https://www.ticketmaster.de/event/drug-church-tickets/1797139328?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/65f/5202d130-dac1-48f0-beb3-c54b8406f65f_SOURCE"
- },
- {
-  "id": "se-5de0d3b1f3",
-  "cat": "popup",
-  "title": "EYEKONIC • w/ Katseye & other K-Pop coded artists • München",
-  "date": "2026-09-18",
-  "time": "Fr., 18. – Sa., 19. Sept.",
-  "loc": "Ampere, Zellstraße 4, Au-Haidhausen, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/eyekonic-w-katseye-other-k-pop-coded-artists-munchen-0/",
-  "desc": "the party night with KATSEYE and other K-Pop coded artistsMit EYEKONIC feiern wir, die globale Supergroup KATSEYE! Zu Bangern wie „Gnarly“, „Pinky Up“ und „Iconic by Mist",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCRklEuoHn6V8tZTuWyrADh_MVvBbMULJRP0zTJ5IJ9-4k71eb9KVAoKE&s"
  },
  {
   "id": "tm-Z698xZC2Z1k8Jef-3",
@@ -528,18 +468,6 @@
   "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
  },
  {
-  "id": "se-69a94f2d90",
-  "cat": "music",
-  "title": "The Taylor Party // München",
-  "date": "2026-10-10",
-  "time": "Sa, 18:00–23:00 Uhr",
-  "loc": "Filmcasino, Odeonspl. 8, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/the-taylor-party-munchen-1/",
-  "desc": "Swifties, unite! Come and shake it off zu Tay’s besten Hits und Fan-Favorites wie „The Fate of Ophelia“, „All Too Well (10MV)“, „...Ready For It?“ & natürlich \"Opalite\" ",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5g7lDDtVdsn2n9Cn07tvqWsIWOi27Nq3wdJt5icsbDAHcSRdMZhmh2PU&s"
- },
- {
   "id": "se-9067799750",
   "cat": "popup",
   "title": "Wallis Bird",
@@ -732,6 +660,18 @@
   "img": "https://s1.ticketm.net/dam/a/4c9/d50cc2df-148c-4e11-8f33-a55eee4864c9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-0869306ed1",
+  "cat": "music",
+  "title": "wavvyboi - some of us aren’t made for heaven Tour 2026",
+  "date": "2026-10-28",
+  "time": "Mi, 20:00–23:00 Uhr",
+  "loc": "Werksviertel-Mitte, Atelierstraße 1, Berg am Laim, München",
+  "ig": "",
+  "igUrl": "http://www.viagogo.at/Boletos-Conciertos/R-B-Urban-Soul/wavvyboi-Boletos/E-161262461",
+  "desc": "Ticket-Angebot für wavvyboi - some of us aren’t made for heaven Tour 2026 in Werksviertel in München am 28.10.2026",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQBPsRw6tsIJp8eXGehrn_SeuyPOt45SIoAncL-F70vvT-YEI0rS1sJQ&s"
+ },
+ {
   "id": "tm-Z698xZC2Z1ku70AbI",
   "cat": "music",
   "title": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
@@ -898,6 +838,18 @@
   "igUrl": "https://www.ticketmaster.de/event/gurriers-nobodys-coming-to-save-you-tour-2026-tickets/1307305374?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/aa9/c59558a9-2496-454d-900a-c54c0c870aa9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-3c888aea7d",
+  "cat": "popup",
+  "title": "Portugal. The Man",
+  "date": "2026-11-19",
+  "time": "Do, 20:00–23:00 Uhr",
+  "loc": "TonHalle München, Atelierstraße 24, Berg am Laim, München",
+  "ig": "",
+  "igUrl": "https://open.spotify.com/concert/1EHVXOA6UIOhj189XxS3jx",
+  "desc": "Find tickets for Portugal. The Man at TonHalle München (im Werksviertel Mitte) in MÜNCHEN on 11/19/2026 at 8:00 PM",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YsdMN8crl3uW42I1y3vsV5JqMqDxdzgPacg-j3HLnZrtHfg-90oJls4&s"
  },
  {
   "id": "tm-Z698xZC2Z1kfAjaGS",
