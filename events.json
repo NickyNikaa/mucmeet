@@ -840,18 +840,6 @@
   "img": "https://s1.ticketm.net/dam/a/aa9/c59558a9-2496-454d-900a-c54c0c870aa9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-3c888aea7d",
-  "cat": "popup",
-  "title": "Portugal. The Man",
-  "date": "2026-11-19",
-  "time": "Do, 20:00–23:00 Uhr",
-  "loc": "TonHalle München, Atelierstraße 24, Berg am Laim, München",
-  "ig": "",
-  "igUrl": "https://open.spotify.com/concert/1EHVXOA6UIOhj189XxS3jx",
-  "desc": "Find tickets for Portugal. The Man at TonHalle München (im Werksviertel Mitte) in MÜNCHEN on 11/19/2026 at 8:00 PM",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YsdMN8crl3uW42I1y3vsV5JqMqDxdzgPacg-j3HLnZrtHfg-90oJls4&s"
- },
- {
   "id": "tm-Z698xZC2Z1kfAjaGS",
   "cat": "music",
   "title": "The Script - Man In The Arena Tour 2026",
@@ -1126,6 +1114,18 @@
   "igUrl": "https://www.ticketmaster.de/event/dayseeker-creature-in-the-black-night-tour-tickets/849559499?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8d6/4622f83a-a2e4-4c77-a7f0-058cd654c8d6_SOURCE"
+ },
+ {
+  "id": "se-18ef6993ac",
+  "cat": "music",
+  "title": "LaFee - 20 Jahre Virus Tour",
+  "date": "2027-01-08",
+  "time": "Fr, 20:00–23:00 Uhr",
+  "loc": "Backstage Kulturzentrum, Reitknechtstraße 6, Neuhausen-Nymphenburg, München",
+  "ig": "",
+  "igUrl": "https://www.eventim.de/event/zate-bin-nur-ich-gewesen-tour-2027-backstage-club-21512534/",
+  "desc": "Zate auf großer „Bin nur ich gewesen“ Tour 2027",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8-aAm87_d_RpQsB8ABf85mKzF_uveTtNFaSlMfHsyzPpBvTuyHeUa-w&s"
  },
  {
   "id": "tm-Z698xZC2Z16v4JueZS",
