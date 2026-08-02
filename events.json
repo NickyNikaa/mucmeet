@@ -468,18 +468,6 @@
   "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
  },
  {
-  "id": "se-9067799750",
-  "cat": "popup",
-  "title": "Wallis Bird",
-  "date": "2026-10-11",
-  "time": "So, 19:00–23:00 Uhr",
-  "loc": "Substanz, Ruppertstraße 28, Ludwigsvorstadt-Isarvorstadt, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/events/wallis-bird-can-see-your-tour-from-here-tour-2026-6/",
-  "desc": "Wallis Bird kombiniert auf ihrer Tour 2026 kraftvoll Rock, Punk und irische Folkelemente zu einem unmittelbaren Erlebnis, das intime Geschichten und gesellschaftliche The",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDkX6-JDmu0KTuI_CK5DDppIR2Nxe-xZWvcKCsw44CWxI5xzarCxo_KcY&s"
- },
- {
   "id": "tm-Z698xZC2Z1ka47oas",
   "cat": "music",
   "title": "Ivo Martin - MIT DIR WIRD MIR WARM TOUR 2026",
@@ -504,9 +492,9 @@
   "img": "https://s1.ticketm.net/dam/a/41d/e6ab6fd7-dda8-4c06-898d-cb31026ed41d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-d02a3180a8",
+  "id": "se-59cee88678",
   "cat": "music",
-  "title": "Emil, Jorin Hagen & JHNWNDT - Kribbeln im Bauch Tour 2026",
+  "title": "\"Kribbeln im Bauch\" Tour",
   "date": "2026-10-15",
   "time": "Do, 19:00–23:00 Uhr",
   "loc": "Hansa39, Hansastraße 39-41, Sendling-Westpark, München",
@@ -1234,6 +1222,18 @@
   "igUrl": "https://www.ticketmaster.de/event/melrose-avenue-uk-eu-tour-2027-tickets/1996583055?language=en-us",
   "desc": "Music · Metal in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/785/bfb40035-e524-42df-a3c7-754b79145785_SOURCE"
+ },
+ {
+  "id": "se-60a92553db",
+  "cat": "music",
+  "title": "NESS - Fluchtinstinkt Tour 2027",
+  "date": "2027-03-11",
+  "time": "Do, 19:00–22:00 Uhr",
+  "loc": "Muffathalle, Zellstraße 4, Au-Haidhausen, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/ness-fluchtinstinkt-tour-2027-3/",
+  "desc": "NESS bestätigt Debütalbum Fluchtinstinkt und große Deutschland Tour 2027: Die acht Termine im März 2027 markieren das bislang größte Kapitel in der Karriere der 21-ja",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWS22fZe_b1b4LZR98BVQ2TyW2ay8U8RduVfOLXWHDtLYv10Hu3J2pv2k&s"
  },
  {
   "id": "tm-Z698xZC2Z1k_ap30U",
