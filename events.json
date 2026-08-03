@@ -180,18 +180,6 @@
   "img": "https://s1.ticketm.net/dam/a/4ae/146c9c28-38b8-46cd-ba65-0e4a9cbea4ae_SOURCE"
  },
  {
-  "id": "se-9fecdba2d8",
-  "cat": "popup",
-  "title": "MUCCO | Junges Blut",
-  "date": "2026-09-12",
-  "time": "Sa, 19:00–23:00 Uhr",
-  "loc": "Backstage Kulturzentrum, Reitknechtstraße 6, Neuhausen-Nymphenburg, München",
-  "ig": "",
-  "igUrl": "https://www.in-muenchen.de/events/gabriel-kelly.html",
-  "desc": "Gabriel Kelly bringt 2026 mit seiner einzigartigen Rock-Rap-Pop-Mischung die deutschen Clubs zum Beben.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1dLDGzvKtG-VlhSOq_3KCWQqEBm602Z7jzoAzU0SEZgtTBGJ9X74YYY&s"
- },
- {
   "id": "tm-Z698xZC2Z1k_bfNux",
   "cat": "music",
   "title": "The Pussycat Dolls: PCD FOREVER TOUR",
@@ -468,6 +456,18 @@
   "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
  },
  {
+  "id": "se-21a2b2a4b8",
+  "cat": "music",
+  "title": "GRAND OPENING: The Jungle Comedy Club (New Venue)",
+  "date": "2026-10-09",
+  "time": "Fr, 20:30–22:30 Uhr",
+  "loc": "The Jungle Comedy Club, Arnulfstraße 195, München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/grand-opening-the-jungle-comedy-club-new-venue-tickets-1990786371628",
+  "desc": "The opening of our new club. The Jungle Comedy Club, German's home for international stand-up shows",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYa23DUicXwyK6Y1WbyT8Yd6i-361tpOUzHSosZ3fIg840WzvnHbJSma0&s"
+ },
+ {
   "id": "tm-Z698xZC2Z1ka47oas",
   "cat": "music",
   "title": "Ivo Martin - MIT DIR WIRD MIR WARM TOUR 2026",
@@ -490,18 +490,6 @@
   "igUrl": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/1219578185?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/41d/e6ab6fd7-dda8-4c06-898d-cb31026ed41d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-59cee88678",
-  "cat": "music",
-  "title": "\"Kribbeln im Bauch\" Tour",
-  "date": "2026-10-15",
-  "time": "Do, 19:00–23:00 Uhr",
-  "loc": "Hansa39, Hansastraße 39-41, Sendling-Westpark, München",
-  "ig": "",
-  "igUrl": "https://rausgegangen.de/en/events/kribbeln-im-bauch-tour-2026-2/",
-  "desc": "Erstmals auf Tour 2026 – Emil, Jorin Hagen & JHNWNDT live Mit ihrer ersten gemeinsamen Tour bringen Emil, Jorin Hagen & JHNWNDT 2026 ihren Sound endlich auf die Bühne. D",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3gYgCtVb1oSJX8kTtNIV_sjcJrPYliGX-VsK5KtYqFNiIPeXOUM_WJ8o&s"
  },
  {
   "id": "tm-Z698xZC2Z1kPvJ9Fb",
@@ -646,18 +634,6 @@
   "igUrl": "https://www.ticketmaster.de/event/jero19-tour-von-seite-tickets/894424175?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/4c9/d50cc2df-148c-4e11-8f33-a55eee4864c9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-0869306ed1",
-  "cat": "music",
-  "title": "wavvyboi - some of us aren’t made for heaven Tour 2026",
-  "date": "2026-10-28",
-  "time": "Mi, 20:00–23:00 Uhr",
-  "loc": "Werksviertel-Mitte, Atelierstraße 1, Berg am Laim, München",
-  "ig": "",
-  "igUrl": "http://www.viagogo.at/Boletos-Conciertos/R-B-Urban-Soul/wavvyboi-Boletos/E-161262461",
-  "desc": "Ticket-Angebot für wavvyboi - some of us aren’t made for heaven Tour 2026 in Werksviertel in München am 28.10.2026",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQBPsRw6tsIJp8eXGehrn_SeuyPOt45SIoAncL-F70vvT-YEI0rS1sJQ&s"
  },
  {
   "id": "tm-Z698xZC2Z1ku70AbI",
@@ -1186,6 +1162,18 @@
   "igUrl": "https://www.ticketmaster.de/event/amble-europe-2027-tickets/691728299?language=en-us",
   "desc": "Music · Folk in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/3b2/786a8fbe-6234-42d7-9a6e-e4a07690a3b2_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-c329b6cf80",
+  "cat": "music",
+  "title": "jaschu - jaschu tour 2027",
+  "date": "2027-02-17",
+  "time": "Mi, 20:00–23:00 Uhr",
+  "loc": "Kranhalle, Hansastraße 39-41, Sendling-Westpark, München",
+  "ig": "",
+  "igUrl": "https://rausgegangen.de/en/events/jaschu-jaschu-tour-2027-0/",
+  "desc": "Nach einer restlos ausverkauften ersten Headline-Tour kehrt jaschu im Februar 2027 mit seiner bisher größten Tour zurück und spielt erstmals acht Städte in Deutschland",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBqllEkfDEq0dRlbUeJGoWCBL7iKLfvcjv4ZEW2Ar4FhyR3ccuuzd4Ro&s"
  },
  {
   "id": "tm-Z698xZC2Z1Ay0z7K",
