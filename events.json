@@ -1,17 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vxo_ajY",
-  "cat": "music",
-  "title": "JUJU - Releasekonzert",
-  "date": "2026-08-08",
-  "time": "Sa",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/juju-releasekonzert-tickets/1891649730?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/dbe/cc3f6c7e-65b2-4a7c-88f1-fdae14a51dbe_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
   "id": "tm-Z698xZC2Z16vrdus8o",
   "cat": "music",
   "title": "David Garrett - Millennium Symphony Open Air Tour 2026",
@@ -1270,6 +1258,18 @@
   "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/555368718?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kCeFbqY",
+  "cat": "music",
+  "title": "Ian Hooper - On Tour April 2027",
+  "date": "2027-04-16",
+  "time": "Fr 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/382218770?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/2e9/f692a854-2c28-41e0-bb37-e1b768f632e9_SOURCE"
  },
  {
   "id": "tm-LvZ18QQ4DCkgDsYZw559c",
