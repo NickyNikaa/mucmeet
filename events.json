@@ -429,7 +429,7 @@
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/ivo-martin-mit-dir-wird-mir-warm-tour-2026-tickets/255111271?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/e24/ea1e0fbc-b640-486a-afbd-ae8966ac5e24_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  "img": "https://s1.ticketm.net/dam/a/e24/ea1e0fbc-b640-486a-afbd-ae8966ac5e24_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vF_4zkA",
@@ -612,18 +612,6 @@
   "img": "https://s1.ticketm.net/dam/a/54d/df386aad-7f05-4ebe-b376-2e490e58454d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "tm-Z698xZC2Z16v4zGV47",
-  "cat": "music",
-  "title": "Ulle & Rick - Live auf Tour 2026",
-  "date": "2026-11-05",
-  "time": "Do 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/ulle--rick-live-auf-tour-2026-tickets/1578334544?language=en-us",
-  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/a78/0827453e-6fe6-426b-9703-830a86c6ca78_SOURCE"
- },
- {
   "id": "tm-Z698xZC2Z16vfJ8FuI",
   "cat": "music",
   "title": "Placebo - 30th Anniversary Tour",
@@ -742,6 +730,18 @@
   "igUrl": "https://www.ticketmaster.de/event/gurriers-nobodys-coming-to-save-you-tour-2026-tickets/1307305374?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/aa9/c59558a9-2496-454d-900a-c54c0c870aa9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vpe-zaP",
+  "cat": "music",
+  "title": "Ulle & Rick - Live auf Tour 2026",
+  "date": "2026-11-19",
+  "time": "Do 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/ulle--rick-live-auf-tour-2026-tickets/1582878265?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/a78/0827453e-6fe6-426b-9703-830a86c6ca78_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kfAjaGS",
