@@ -240,18 +240,6 @@
   "img": "https://s1.ticketm.net/dam/a/65f/5202d130-dac1-48f0-beb3-c54b8406f65f_SOURCE"
  },
  {
-  "id": "tm-Z698xZC2Z1k8Jef-3",
-  "cat": "music",
-  "title": "KITSCHKRIEG - KITSCHKRIEG LIVE",
-  "date": "2026-09-24",
-  "time": "Do 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/426094852?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/279/20bf25ff-788c-4fd9-b104-c601a6fdf279_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
   "id": "tm-Z698xZC2Z16vGI_sxo",
   "cat": "music",
   "title": "Stand Atlantic - Europe / UK 2026",
@@ -586,6 +574,18 @@
   "igUrl": "https://www.ticketmaster.de/event/don-toliver-nitrous-octane-world-tour-leg-2-tickets/344905628?language=en-us",
   "desc": "Music · Hip-Hop/Rap in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vvx78us",
+  "cat": "music",
+  "title": "Undeath",
+  "date": "2026-10-31",
+  "time": "Sa 20:00",
+  "loc": "Kranhalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/undeath-tickets/1062110371?language=en-us",
+  "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b26/81339130-dcfe-4d56-a4a1-a87b6953fb26_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kaaofap",
@@ -1224,6 +1224,18 @@
   "img": "https://s1.ticketm.net/dam/a/4be/293e23c3-421a-4af4-87e8-1ebc8caaf4be_SOURCE"
  },
  {
+  "id": "tm-LvZ18QEMGsaqzoaxVcJwy",
+  "cat": "music",
+  "title": "Mallorca meets München 2027",
+  "date": "2027-04-10",
+  "time": "Sa 14:00",
+  "loc": "Löwenbräukeller, Munich",
+  "ig": "",
+  "igUrl": "https://www.universe.com/events/mallorca-meets-munchen-2027-tickets-H98NF1?ref=ticketmaster",
+  "desc": "Music · Folk in Löwenbräukeller. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/72d/5eb1b698-889a-4a04-89a9-fa7c3e19572d_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16vGdq9Av",
   "cat": "music",
   "title": "Thirty Seconds to Mars Presents A Beautiful Lie vs This Is War | VIP",
@@ -1258,18 +1270,6 @@
   "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/555368718?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1kCeFbqY",
-  "cat": "music",
-  "title": "Ian Hooper - On Tour April 2027",
-  "date": "2027-04-16",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/382218770?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/2e9/f692a854-2c28-41e0-bb37-e1b768f632e9_SOURCE"
  },
  {
   "id": "tm-LvZ18QQ4DCkgDsYZw559c",
