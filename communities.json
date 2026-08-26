@@ -1,0 +1,5366 @@
+[
+  {
+    "id": "comm-running-society",
+    "name": "Running Society",
+    "category": "sport",
+    "tags": [
+      "running",
+      "training",
+      "community"
+    ],
+    "neighborhood": "Schyrenbad / Bavaria",
+    "pitch": "Münchens stärkste Running Community. Gemeinsam trainieren, Coaching buchen, Events erleben. Freitags 18:30–19:30.",
+    "meetup": "Freitags 18:30 — Schyrenbad (Sommer) / Bavaria Statue (Winter)",
+    "frequency": "wöchentlich",
+    "size": "200+",
+    "website": "https://runningsociety.de/",
+    "instagram": "runningsociety.de",
+    "tiktok": "runningsociety.de",
+    "strava": "https://www.strava.com/clubs/334611",
+    "whatsapp": "https://chat.whatsapp.com/Dw4iQBFxTPs2D0B27Ew7tT",
+    "interest": "running"
+  },
+  {
+    "id": "comm-cato",
+    "name": "CATO",
+    "category": "sport",
+    "tags": [
+      "running",
+      "lifestyle",
+      "fashion"
+    ],
+    "neighborhood": "München-weit",
+    "pitch": "2022 in München gegründet, inzwischen in Lissabon, Paris, Kopenhagen unterwegs. Eigene Sportswear-Linie. Running als Lifestyle.",
+    "meetup": "siehe Instagram",
+    "frequency": "wöchentlich",
+    "size": "5k+ Follower",
+    "instagram": "cato.run",
+    "interest": "running"
+  },
+  {
+    "id": "comm-26miles",
+    "name": "26.Miles",
+    "category": "sport",
+    "tags": [
+      "running",
+      "inclusive",
+      "community"
+    ],
+    "neighborhood": "Englischer Garten",
+    "pitch": "Respektvoll, offen, unterstützend. Kein Leistungsdruck — jede Pace zählt.",
+    "meetup": "siehe Instagram",
+    "frequency": "wöchentlich",
+    "size": "2k+",
+    "instagram": "26.miles",
+    "interest": "running"
+  },
+  {
+    "id": "comm-run-and-chill",
+    "name": "Run and Chill Club",
+    "category": "sport",
+    "tags": [
+      "running",
+      "social",
+      "casual"
+    ],
+    "neighborhood": "Isar",
+    "pitch": "Social Running Club mit über 3.500 Followern. Locker laufen, danach chillen — ohne Leistungsdruck.",
+    "meetup": "siehe Instagram",
+    "frequency": "wöchentlich",
+    "size": "3k+",
+    "instagram": "runandchill.munich",
+    "interest": "running"
+  },
+  {
+    "id": "comm-campus-runners",
+    "name": "Campus Runners",
+    "category": "sport",
+    "tags": [
+      "running",
+      "students",
+      "community"
+    ],
+    "neighborhood": "TU / LMU Campus",
+    "pitch": "Die Student-Running-Community Münchens. Bringt Studis aus allen Semestern zusammen.",
+    "meetup": "siehe Website",
+    "frequency": "wöchentlich",
+    "size": "1k+",
+    "website": "https://campusrunners.de/",
+    "instagram": "campusrunners",
+    "interest": "running"
+  },
+  {
+    "id": "comm-founders-running-club",
+    "name": "Founders Running Club",
+    "category": "sport",
+    "tags": [
+      "running",
+      "networking",
+      "founders"
+    ],
+    "neighborhood": "Englischer Garten",
+    "pitch": "Founders, Investoren, Tech & Creative connecten beim Easy Run. Networking auf gesunde Art.",
+    "meetup": "wöchentliche Easy Runs",
+    "frequency": "wöchentlich",
+    "size": "500+",
+    "website": "https://www.meetup.com/de-de/founders-running-club-munich/",
+    "instagram": "foundersrunningclub",
+    "interest": "running"
+  },
+  {
+    "id": "comm-nfbc",
+    "name": "NFBC (No Fixed Beliefs Club)",
+    "category": "sport",
+    "tags": [
+      "running",
+      "mindful",
+      "slow"
+    ],
+    "neighborhood": "München Nord",
+    "pitch": "Bewusst langsam, niemand bleibt zurück. Gespräche sind so wichtig wie die Bewegung.",
+    "meetup": "siehe Instagram",
+    "frequency": "wöchentlich",
+    "size": "1k+",
+    "instagram": "nfbc.run",
+    "interest": "running"
+  },
+  {
+    "id": "comm-businettes",
+    "name": "Businettes",
+    "category": "founders",
+    "tags": [
+      "female-founders",
+      "networking",
+      "drinks"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Female Founders Community mit Apéritif-Events, kostenlose Erstberatung zu Gründungsfragen.",
+    "meetup": "Monatlich Apéritif-Abende",
+    "frequency": "monatlich",
+    "size": "1k+",
+    "website": "https://www.businettes.com/",
+    "instagram": "businettes",
+    "eventTitles": [
+      "Female Founders Night | Businettes Apéritif MÜNCHEN"
+    ],
+    "interest": "female"
+  },
+  {
+    "id": "comm-women-startup",
+    "name": "Women Startup (UnternehmerTUM)",
+    "category": "founders",
+    "tags": [
+      "female-founders",
+      "tech",
+      "mentoring"
+    ],
+    "neighborhood": "Garching",
+    "pitch": "Female Founder Talks + Morning Jour Fixe Coffee Meetups. Teil von UnternehmerTUM.",
+    "meetup": "Coffee Meetups regelmäßig",
+    "frequency": "monatlich",
+    "size": "500+",
+    "website": "https://www.unternehmertum.de/en/landingpages/women-startup",
+    "instagram": "unternehmertum",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-munich-startup",
+    "name": "Munich Startup",
+    "category": "founders",
+    "tags": [
+      "startup",
+      "networking",
+      "tech"
+    ],
+    "neighborhood": "München-weit",
+    "pitch": "Offizieller Startup-Hub der Stadt. Events, News, Networking quer durchs Münchner Ökosystem.",
+    "meetup": "wechselnd",
+    "frequency": "wöchentlich",
+    "size": "10k+",
+    "website": "https://www.munich-startup.de/",
+    "instagram": "munichstartup",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-munich-tech",
+    "name": "Munich Tech",
+    "category": "founders",
+    "tags": [
+      "tech",
+      "startups",
+      "engineering"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Bringt die Tech-Community zu Cutting-Edge-Themen zusammen. Tech-Startups, Investoren, Innovators.",
+    "meetup": "Monatliche Meetups",
+    "frequency": "monatlich",
+    "size": "5k+",
+    "website": "https://www.meetup.com/munich-tech/",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-fin",
+    "name": "Female Investors Network (FIN)",
+    "category": "founders",
+    "tags": [
+      "angel-investing",
+      "female",
+      "training"
+    ],
+    "neighborhood": "Online + München",
+    "pitch": "FIN Academy: Online-Training für Frauen, die als Business Angels starten wollen.",
+    "meetup": "Online-Kohorten + Live-Events",
+    "frequency": "saisonal",
+    "size": "300+",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-ananas-bookclub",
+    "name": "Ananas BookClub",
+    "category": "kultur",
+    "tags": [
+      "books",
+      "english",
+      "german"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Monatlicher BookClub für Englisch- und Deutsch-Leser. Entspannte Atmosphäre.",
+    "meetup": "Monatliches Treffen",
+    "frequency": "monatlich",
+    "size": "500+",
+    "website": "https://ananas-buchclub.de/",
+    "instagram": "ananas.bookclub",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-bookclub-friends",
+    "name": "Bookclub & Friends",
+    "category": "kultur",
+    "tags": [
+      "books",
+      "social",
+      "live-events"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Live-BookClub in München & Berlin, kuratiert von @jumaloi. Bücher + Wein.",
+    "meetup": "Monatliche Events",
+    "frequency": "monatlich",
+    "size": "2.7k+",
+    "website": "https://www.bookclubandfriends.de/",
+    "instagram": "bookclubandfriends",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-creative-supper-club",
+    "name": "Creative Supper Club",
+    "category": "kultur",
+    "tags": [
+      "dinner",
+      "creative",
+      "supper-club"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Dinner für Kreative. Wechselnde Locations, kuratierte Gäste, Conversation Starters.",
+    "meetup": "Pop-up Dinner",
+    "frequency": "saisonal",
+    "size": "1.5k+",
+    "instagram": "creative_supper_club",
+    "interest": "food"
+  },
+  {
+    "id": "comm-gray-fox-bookclub",
+    "name": "Gray Fox Book Club",
+    "category": "kultur",
+    "tags": [
+      "books",
+      "meetup",
+      "english"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Englischer BookClub via Meetup. Niedrigschwellig, monatliche Treffen.",
+    "meetup": "Monatlich",
+    "frequency": "monatlich",
+    "size": "200+",
+    "website": "https://www.meetup.com/gray-fox-book-club-munich/",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-pink-heaven",
+    "name": "Pink Heaven Events",
+    "category": "queer",
+    "tags": [
+      "lesbian",
+      "queer",
+      "parties"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Lesbische & queere Events: Queer & Glam @ Goldkätzchen, She & Her Night @ Prosecco Bar.",
+    "meetup": "Monatliche Parties",
+    "frequency": "monatlich",
+    "size": "5k+",
+    "instagram": "pink_heaven_events_munich",
+    "eventTitles": [
+      "Queer & Glam",
+      "She & Her Night"
+    ],
+    "interest": "queer"
+  },
+  {
+    "id": "comm-queerinmunich",
+    "name": "Queer in Munich",
+    "category": "queer",
+    "tags": [
+      "guide",
+      "lgbtq",
+      "community"
+    ],
+    "neighborhood": "München-weit",
+    "pitch": "Englischsprachiger Guide für die queere Community in München. Aktivitäten, Locations, Resources.",
+    "meetup": "online + Pop-ups",
+    "frequency": "wöchentlich",
+    "size": "5.8k+",
+    "website": "https://queerinmunich.com/",
+    "instagram": "queerinmunich",
+    "interest": "queer"
+  },
+  {
+    "id": "comm-queer-bipoc",
+    "name": "Queer Bipocs Munich",
+    "category": "queer",
+    "tags": [
+      "bipoc",
+      "lgbtq",
+      "safe-space"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Trifft sich alle zwei Wochen freitags für Snacks, Drinks und Community Space.",
+    "meetup": "Alle 2 Wochen freitags",
+    "frequency": "wöchentlich",
+    "size": "200+",
+    "interest": "queer"
+  },
+  {
+    "id": "comm-konnektiva",
+    "name": "Konnektiva",
+    "category": "queer",
+    "tags": [
+      "art",
+      "yoga",
+      "intersectional"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Non-Profit für Kunst, Kultur, Bildung mit Fokus auf intersektionale Gleichberechtigung. Events, Yoga, Talks.",
+    "meetup": "Events + Yoga",
+    "frequency": "wöchentlich",
+    "size": "300+",
+    "interest": "queer"
+  },
+  {
+    "id": "comm-internations",
+    "name": "InterNations München",
+    "category": "expat",
+    "tags": [
+      "expat",
+      "global",
+      "networking"
+    ],
+    "neighborhood": "München-weit",
+    "pitch": "Das größte Expat-Netzwerk weltweit, HQ in München. Regelmäßige Get-togethers + Networking-Events.",
+    "meetup": "wöchentlich",
+    "frequency": "wöchentlich",
+    "size": "3.6M global",
+    "website": "https://www.internations.org/munich-expats/",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-munich-intl-friends",
+    "name": "Munich International Friends",
+    "category": "expat",
+    "tags": [
+      "expat",
+      "social",
+      "meetup"
+    ],
+    "neighborhood": "wechselnd",
+    "pitch": "Online-Community vereint Expats in und um München. Niedrigschwellige Treffen.",
+    "meetup": "wöchentlich",
+    "frequency": "wöchentlich",
+    "size": "5k+",
+    "website": "https://www.meetup.com/Munich-EXPATS/",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-padel-seasons",
+    "name": "Padel Seasons",
+    "category": "sport",
+    "tags": [
+      "padel",
+      "racket",
+      "community"
+    ],
+    "neighborhood": "Allach",
+    "pitch": "WhatsApp-Community mit 1.000+ aktiven Spielern. Treffpunkt für Padel-Begeisterte.",
+    "meetup": "Court-Buchungen + Community-Spiele",
+    "frequency": "wöchentlich",
+    "size": "1k+",
+    "website": "https://padel-seasons.de/",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-padel-city",
+    "name": "PadelCity München",
+    "category": "sport",
+    "tags": [
+      "padel",
+      "racket"
+    ],
+    "neighborhood": "OEZ",
+    "pitch": "Moderne Padel-Anlage am OEZ, fördert aktive Padel-Community.",
+    "meetup": "tägliche Slots",
+    "frequency": "täglich",
+    "size": "1k+",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-urban-sports",
+    "name": "Urban Sports Club München",
+    "category": "sport",
+    "tags": [
+      "fitness",
+      "yoga",
+      "all-in-one"
+    ],
+    "neighborhood": "1300+ Partner-Studios",
+    "pitch": "1.300+ Partner-Studios: Fitness, Yoga, Pilates, Schwimmen, Bouldern, Padel, Wellness — eine Mitgliedschaft.",
+    "meetup": "flexibel",
+    "frequency": "täglich",
+    "size": "Plattform",
+    "website": "https://urbansportsclub.com/",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-kitchenhub",
+    "name": "KitchenHUB",
+    "category": "kultur",
+    "tags": [
+      "kochen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kochen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://integreat.app/lkmuenchen/de/events/anmeldung-kochtreffen-f%C3%BCr-frauen",
+    "interest": "cooking"
+  },
+  {
+    "id": "comm-stefaniehelen",
+    "name": "Stefaniehelen",
+    "category": "kultur",
+    "tags": [
+      "lifestyle"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lifestyle",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "stefaniehelen",
+    "interest": "lifestyle"
+  },
+  {
+    "id": "comm-crossfitmuc",
+    "name": "crossfitmuc",
+    "category": "sport",
+    "tags": [
+      "crossfit"
+    ],
+    "neighborhood": "München",
+    "pitch": "Crossfit",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://crossfitmuc.com/",
+    "instagram": "crossfitmuc",
+    "interest": "crossfit"
+  },
+  {
+    "id": "comm-alpenverein-muenchen-oberland",
+    "name": "Alpenverein Muenchen Oberland",
+    "category": "sport",
+    "tags": [
+      "klettern / bouldern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Klettern / Bouldern",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.alpenverein-muenchen-oberland.de/dav-kletterhallen-in-muenchen",
+    "email": "service@alpenverein-muenchen.de",
+    "interest": "climbing"
+  },
+  {
+    "id": "comm-muenchenbasket",
+    "name": "muenchenbasket",
+    "category": "sport",
+    "tags": [
+      "basketball"
+    ],
+    "neighborhood": "München",
+    "pitch": "Basketball",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "muenchenbasket",
+    "interest": "basketball"
+  },
+  {
+    "id": "comm-fitness-socks-nico",
+    "name": "fitness_socks_nico",
+    "category": "sport",
+    "tags": [
+      "crossfit"
+    ],
+    "neighborhood": "München",
+    "pitch": "Crossfit",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "fitness_socks_nico",
+    "interest": "crossfit"
+  },
+  {
+    "id": "comm-mtv-basketball",
+    "name": "mtv_basketball",
+    "category": "sport",
+    "tags": [
+      "basketball"
+    ],
+    "neighborhood": "München",
+    "pitch": "Basketball",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "mtv_basketball",
+    "interest": "basketball"
+  },
+  {
+    "id": "comm-fr-hst-ckstreff-m-nchen",
+    "name": "Frühstückstreff München",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://muenchen.fruehstueckstreff.de/",
+    "email": "redaktion@fruehstueckstreff.de",
+    "priority": "niedrig",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-people-on-bikes",
+    "name": "people.on_bikes",
+    "category": "sport",
+    "tags": [
+      "radfahren"
+    ],
+    "neighborhood": "München",
+    "pitch": "Radfahren",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "people.on_bikes",
+    "interest": "cycling"
+  },
+  {
+    "id": "comm-cf-benni-87",
+    "name": "cf_benni_87",
+    "category": "sport",
+    "tags": [
+      "crossfit"
+    ],
+    "neighborhood": "München",
+    "pitch": "Crossfit",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "cf_benni_87",
+    "interest": "crossfit"
+  },
+  {
+    "id": "comm-bold-runningclub",
+    "name": "bold.runningclub",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "bold.runningclub",
+    "interest": "running"
+  },
+  {
+    "id": "comm-aleva-private-girls-club",
+    "name": "Aleva Private Girls Club",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-community-dance",
+    "name": "Community Dance",
+    "category": "kultur",
+    "tags": [
+      "tanzen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tanzen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.muenchner-kammerspiele.de/de/programm/34875-community-dance",
+    "interest": "dance"
+  },
+  {
+    "id": "comm-paulomucyt",
+    "name": "paulomucYT",
+    "category": "sport",
+    "tags": [
+      "basketball"
+    ],
+    "neighborhood": "München",
+    "pitch": "Basketball",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "paulomuc",
+    "interest": "basketball"
+  },
+  {
+    "id": "comm-lj-specialevents",
+    "name": "lj.specialevents",
+    "category": "founders",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "female"
+  },
+  {
+    "id": "comm-gcmuenchen",
+    "name": "gcmuenchen",
+    "category": "sport",
+    "tags": [
+      "golf"
+    ],
+    "neighborhood": "München",
+    "pitch": "Golf",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "gcmuenchen",
+    "interest": "golf"
+  },
+  {
+    "id": "comm-socialmatch",
+    "name": "Socialmatch",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://socialmatch.de/",
+    "email": "julie@socialmatch.de",
+    "interest": "games"
+  },
+  {
+    "id": "comm-gc-valley",
+    "name": "gc_valley",
+    "category": "sport",
+    "tags": [
+      "golf"
+    ],
+    "neighborhood": "München",
+    "pitch": "Golf",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "gc_valley",
+    "interest": "golf"
+  },
+  {
+    "id": "comm-trekdinner",
+    "name": "Trekdinner",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.trekdinner-muenchen.de/stammtisch/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-so-what-collective",
+    "name": "so what Collective",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "_sowhatcollective_",
+    "interest": "running"
+  },
+  {
+    "id": "comm-wandernmuc",
+    "name": "wandernmuc",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern · Klein und Neu aber geht genau in die Community Richtung",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "wandernmuc",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-nfcb-running-club",
+    "name": "NFCB Running Club",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "nfc_runningclub",
+    "interest": "running"
+  },
+  {
+    "id": "comm-stekos-fanclub-ig-steko-s",
+    "name": "Stekos Fanclub (ig: steko_s)",
+    "category": "sport",
+    "tags": [
+      "kampfsport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kampfsport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "fanclub@stekos.de",
+    "interest": "martial-arts"
+  },
+  {
+    "id": "comm-sophia-popov",
+    "name": "sophia_popov",
+    "category": "sport",
+    "tags": [
+      "golf"
+    ],
+    "neighborhood": "München",
+    "pitch": "Golf",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "sophia_popov",
+    "interest": "golf"
+  },
+  {
+    "id": "comm-crossfitmunich",
+    "name": "crossfitmunich",
+    "category": "sport",
+    "tags": [
+      "crossfit"
+    ],
+    "neighborhood": "München",
+    "pitch": "Crossfit",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "crossfitmunich",
+    "interest": "crossfit"
+  },
+  {
+    "id": "comm-opengymmunich",
+    "name": "opengymmunich",
+    "category": "sport",
+    "tags": [
+      "sport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Sport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "opengymmunich",
+    "interest": "sport"
+  },
+  {
+    "id": "comm-munich-move",
+    "name": "Munich move",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichmove",
+    "interest": "running"
+  },
+  {
+    "id": "comm-chique",
+    "name": "Chique.",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "priority": "niedrig",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-zarkosretenovic",
+    "name": "zarkosretenovic",
+    "category": "sport",
+    "tags": [
+      "crossfit"
+    ],
+    "neighborhood": "München",
+    "pitch": "Crossfit",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "zarkosretenovic",
+    "interest": "crossfit"
+  },
+  {
+    "id": "comm-boost-zone",
+    "name": "Boost Zone",
+    "category": "sport",
+    "tags": [
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fitness · haben eigene Community welche sie über Whatsapp managen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "boost_zone",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-klub-langer-menschen",
+    "name": "Klub Langer Menschen",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.klub-langer-menschen.de/bg/muenchen/",
+    "email": "leitung@klm-muenchen.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-ebruslifestyleecke",
+    "name": "ebruslifestyleecke",
+    "category": "kultur",
+    "tags": [
+      "lifestyle"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lifestyle",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "ebruslifestyleecke",
+    "interest": "lifestyle"
+  },
+  {
+    "id": "comm-mcg-munich-connect",
+    "name": "MCG / Munich connect",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "whatsapp": "WhatsApp-Community",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-ye-veranstaltungen-events",
+    "name": "YE Veranstaltungen & Events",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "priority": "niedrig",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-diy-munich",
+    "name": "DIY Munich",
+    "category": "kultur",
+    "tags": [
+      "diy"
+    ],
+    "neighborhood": "München",
+    "pitch": "DIY · haben WA-Community",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.diymunich.com/",
+    "instagram": "diymunich",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "diy"
+  },
+  {
+    "id": "comm-mehrere-buchclubs-treffen",
+    "name": "Mehrere Buchclubs / Treffen",
+    "category": "kultur",
+    "tags": [
+      "lesen & bücher"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lesen & Bücher",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.muenchner-stadtbibliothek.de/buchclubs-lesekreise",
+    "email": "stb.leserservice@muenchen.de",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-munichesports",
+    "name": "munichesports",
+    "category": "kultur",
+    "tags": [
+      "gaming"
+    ],
+    "neighborhood": "München",
+    "pitch": "Gaming · Blade Night WA Gruppe",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichesports",
+    "whatsapp": "WhatsApp-Community",
+    "interest": "games"
+  },
+  {
+    "id": "comm-maxkiebacher",
+    "name": "maxkiebacher",
+    "category": "sport",
+    "tags": [
+      "golf"
+    ],
+    "neighborhood": "München",
+    "pitch": "Golf",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "maxkiebacher",
+    "interest": "golf"
+  },
+  {
+    "id": "comm-ihwt-munich",
+    "name": "ihwt.munich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "priority": "niedrig",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-the-collective-flow",
+    "name": "The Collective Flow",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "the_collective_flow",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-jumping-dinner",
+    "name": "Jumping Dinner",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.jumpingdinner.de/deinestadt/muenchen",
+    "email": "info@jumpingdinner.de",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-zweidiereisen",
+    "name": "zweidiereisen",
+    "category": "kultur",
+    "tags": [
+      "food"
+    ],
+    "neighborhood": "München",
+    "pitch": "Food",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "food"
+  },
+  {
+    "id": "comm-igsm",
+    "name": "IGSM",
+    "category": "sport",
+    "tags": [
+      "surfen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Surfen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.igsm.info/",
+    "email": "kontakt@igsm.info",
+    "interest": "surfing"
+  },
+  {
+    "id": "comm-dallmayr-coffee-club",
+    "name": "Dallmayr Coffee Club",
+    "category": "kultur",
+    "tags": [
+      "kaffee"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kaffee",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.dallmayr.com/de/coffee-club/",
+    "interest": "coffee"
+  },
+  {
+    "id": "comm-munich-girls-club",
+    "name": "Munich Girls Club",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-golf-mit-lukas",
+    "name": "golf_mit_lukas",
+    "category": "sport",
+    "tags": [
+      "golf"
+    ],
+    "neighborhood": "München",
+    "pitch": "Golf",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "golf_mit_lukas",
+    "interest": "golf"
+  },
+  {
+    "id": "comm-immobilien-gruppe-josef",
+    "name": "Immobilien-Gruppe Josef",
+    "category": "founders",
+    "tags": [
+      "finanzielle bildung"
+    ],
+    "neighborhood": "München",
+    "pitch": "Finanzielle Bildung",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "whatsapp": "WhatsApp-Community",
+    "interest": "finance"
+  },
+  {
+    "id": "comm-run-and-chill-club-social-running-club-in-munich",
+    "name": "Run and Chill Club - social running club in Munich",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen · haben eigene Community welche sie über Whatsapp managen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "runandchill.munich",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "running"
+  },
+  {
+    "id": "comm-rominasfitnessjourney",
+    "name": "rominasfitnessjourney",
+    "category": "kultur",
+    "tags": [
+      "influencer"
+    ],
+    "neighborhood": "München",
+    "pitch": "Influencer",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "rominasfitnessjourney",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-feelings-muc",
+    "name": "feelings.muc",
+    "category": "kultur",
+    "tags": [
+      "musik"
+    ],
+    "neighborhood": "München",
+    "pitch": "Musik",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "feelings.muc",
+    "interest": "music"
+  },
+  {
+    "id": "comm-fitness-ma",
+    "name": "fitness_ma_",
+    "category": "kultur",
+    "tags": [
+      "influencer"
+    ],
+    "neighborhood": "München",
+    "pitch": "Influencer",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "fitness_ma_",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-ruckzuck-running",
+    "name": "ruckzuck.running",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "ruckzuck.running",
+    "interest": "running"
+  },
+  {
+    "id": "comm-ollimuenchen",
+    "name": "ollimuenchen",
+    "category": "kultur",
+    "tags": [
+      "influencer"
+    ],
+    "neighborhood": "München",
+    "pitch": "Influencer",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "ollimuenchen",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-clicqui-muc",
+    "name": "clicqui_muc",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "clicqui_muc",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-munichworkouts",
+    "name": "munichworkouts",
+    "category": "sport",
+    "tags": [
+      "sport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Sport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichworkouts",
+    "interest": "sport"
+  },
+  {
+    "id": "comm-maishas-human-arts",
+    "name": "maishas_human_arts",
+    "category": "queer",
+    "tags": [
+      "divers"
+    ],
+    "neighborhood": "München",
+    "pitch": "divers",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "maishas_human_arts",
+    "interest": "queer"
+  },
+  {
+    "id": "comm-gretaoto-munich",
+    "name": "gretaoto_munich",
+    "category": "kultur",
+    "tags": [
+      "food"
+    ],
+    "neighborhood": "München",
+    "pitch": "Food",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "gretaoto_munich",
+    "priority": "niedrig",
+    "interest": "food"
+  },
+  {
+    "id": "comm-rostudiosworld",
+    "name": "rostudiosworld",
+    "category": "sport",
+    "tags": [
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fitness",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "rostudiosworld",
+    "priority": "niedrig",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-eternity-healthclub",
+    "name": "eternity.healthclub",
+    "category": "sport",
+    "tags": [
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fitness",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "eternity.healthclub",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-beat81",
+    "name": "beat81",
+    "category": "sport",
+    "tags": [
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fitness",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "beat81",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-endorphinclubmunich",
+    "name": "endorphinclubmunich",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "endorphinclubmunich",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-padel-club-m-nchen",
+    "name": "Padel Club München",
+    "category": "sport",
+    "tags": [
+      "padel"
+    ],
+    "neighborhood": "München",
+    "pitch": "Padel",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "padelclubmuenchen",
+    "email": "info@padelclubmuenchen.de",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-munich-mma",
+    "name": "Munich Mma",
+    "category": "sport",
+    "tags": [
+      "kampfsport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kampfsport · haben immerhin einen Blog",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://munich-mma.de/",
+    "email": "team@munich-mma.de",
+    "interest": "martial-arts"
+  },
+  {
+    "id": "comm-alpenverein-m-nchen-oberland-dav",
+    "name": "Alpenverein München & Oberland (DAV)",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.alpenverein-muenchen-oberland.de/",
+    "phone": "895517000",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-zhs-zentraler-hochschulsport-m-nchen",
+    "name": "ZHS Zentraler Hochschulsport München",
+    "category": "sport",
+    "tags": [
+      "sport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Sport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "zhs_muenchen",
+    "interest": "sport"
+  },
+  {
+    "id": "comm-dav-sektion-bergfreunde-m-nchen",
+    "name": "DAV Sektion Bergfreunde München",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.bergfreunde-muenchen.de/",
+    "phone": "81415294440",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-munichpadelbash",
+    "name": "Munichpadelbash",
+    "category": "sport",
+    "tags": [
+      "padel"
+    ],
+    "neighborhood": "München",
+    "pitch": "Padel · Community (steht mit in der Bio)",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichpadelbash",
+    "priority": "hoch",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-scheck-club",
+    "name": "Scheck Club",
+    "category": "sport",
+    "tags": [
+      "padel"
+    ],
+    "neighborhood": "München",
+    "pitch": "Padel · Der größte Padelclub in München / keine Community / Mitgliedschaft",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://scheckclub.de/padel/",
+    "priority": "niedrig",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-pickleball-crew",
+    "name": "pickleball.crew",
+    "category": "sport",
+    "tags": [
+      "pickleball"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pickleball · Haben WA-Community",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "pickleball.crew",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-munichpickleballclub",
+    "name": "Munichpickleballclub",
+    "category": "sport",
+    "tags": [
+      "pickleball"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pickleball",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichpickleballclub",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-naturfreunde-ortsgruppe-m-nchen-ost-e-v",
+    "name": "NaturFreunde Ortsgruppe München-Ost e. V.",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://naturfreunde-muenchen-ost.de/",
+    "phone": "8943578595",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-munich-padel-club",
+    "name": "Munich Padel Club",
+    "category": "sport",
+    "tags": [
+      "padel"
+    ],
+    "neighborhood": "München",
+    "pitch": "Padel · Spanische Betreuung, aber mit Whatsapp Angabe",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munich.padelclub",
+    "whatsapp": "WhatsApp-Community",
+    "phone": "56935048278",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-padelcrewmunich",
+    "name": "padelcrewmunich",
+    "category": "sport",
+    "tags": [
+      "padel"
+    ],
+    "neighborhood": "München",
+    "pitch": "Padel",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "padelcrewmunich",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-padel-parranda",
+    "name": "padel.parranda",
+    "category": "sport",
+    "tags": [
+      "padel"
+    ],
+    "neighborhood": "München",
+    "pitch": "Padel",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "padel.parranda",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-padelseasons",
+    "name": "Padelseasons",
+    "category": "sport",
+    "tags": [
+      "padel"
+    ],
+    "neighborhood": "München",
+    "pitch": "Padel · Haben WA-Community",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "padelseasons",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-naturfreunde-deutschlands-bezirk-m-nchen-e-v",
+    "name": "Naturfreunde Deutschlands Bezirk München e. V.",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.naturfreunde-bezirk-muenchen.de/",
+    "phone": "892015777",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-globetrotter-wanderclub",
+    "name": "Globetrotter Wanderclub",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://globetrotter-wanderclub.de/",
+    "phone": "897600457",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-wandergruppe-m-nchen-alex-wandergaudi",
+    "name": "Wandergruppe München\nAlex' Wandergaudi",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern · Monetarisiert die Touren",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "alex.munichstories",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-heavensgate-klettern-bouldern",
+    "name": "heavensgate_klettern_bouldern",
+    "category": "sport",
+    "tags": [
+      "klettern / bouldern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Klettern / Bouldern · haben einen Newsletter",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "heavensgate_klettern_bouldern",
+    "interest": "climbing"
+  },
+  {
+    "id": "comm-patopickleball",
+    "name": "patopickleball",
+    "category": "sport",
+    "tags": [
+      "pickleball"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pickleball · Haben WA-Community",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "patopickleball",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "padel"
+  },
+  {
+    "id": "comm-supermunich-friends",
+    "name": "_SUPERMUNICH & Friends",
+    "category": "kultur",
+    "tags": [
+      "ratgeber & tipps"
+    ],
+    "neighborhood": "München",
+    "pitch": "Ratgeber & Tipps · Community",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "supermunich",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-kraxlkollektiv",
+    "name": "kraxlkollektiv",
+    "category": "sport",
+    "tags": [
+      "klettern / bouldern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Klettern / Bouldern · haben mehrere Gruppen/Teams/Socialising (managen aktuell über Signal)",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "kraxlkollektiv",
+    "priority": "hoch",
+    "interest": "climbing"
+  },
+  {
+    "id": "comm-gruppe49ontop",
+    "name": "Gruppe49ontop",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern · 1. Vorsitzender (suchen Wanderleiter und Teamleiterinnen)",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.49ontop.de/",
+    "email": "frank.viohl@49ontop.de",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-munich-new-in-town",
+    "name": "munich_new_in_town",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munich_new_in_town",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-maxx-arena-klettern-trampolin-lasertag",
+    "name": "Maxx Arena (Klettern / Trampolin / Lasertag)",
+    "category": "sport",
+    "tags": [
+      "klettern / bouldern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Klettern / Bouldern · haben einen Newsletter",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "maxxarena",
+    "interest": "climbing"
+  },
+  {
+    "id": "comm-freeform-pilates",
+    "name": "freeform.pilates",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "freeform.pilates",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-yogaloftmunich",
+    "name": "yogaloftmunich",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "yogaloftmunich",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-pilates-sports-m-nchen",
+    "name": "Pilates Sports München",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://pilates-sports.com/de/startseite",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-herspace-munich",
+    "name": "herspace.munich",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "herspace.munich",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-verband-der-deutsch-amerikanischen-clubs-vdac",
+    "name": "Verband der Deutsch-Amerikanischen Clubs (VDAC)",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://vdac.de/",
+    "email": "events@vdac.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-yoga-nebenan",
+    "name": "Yoga Nebenan",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.yoganebenan.de/",
+    "instagram": "yoga.nebenan",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-citygems-munich",
+    "name": "citygems_munich",
+    "category": "kultur",
+    "tags": [
+      "ratgeber & tipps"
+    ],
+    "neighborhood": "München",
+    "pitch": "Ratgeber & Tipps",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "citygems_munich",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-badminton-club",
+    "name": "Badminton Club",
+    "category": "sport",
+    "tags": [
+      "badminton"
+    ],
+    "neighborhood": "München",
+    "pitch": "Badminton",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "admin@ftm-schwabing.org",
+    "interest": "tennis"
+  },
+  {
+    "id": "comm-mymunichjournal",
+    "name": "mymunichjournal",
+    "category": "kultur",
+    "tags": [
+      "ratgeber & tipps"
+    ],
+    "neighborhood": "München",
+    "pitch": "Ratgeber & Tipps",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "mymunichjournal",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-deutsch-britische-gesellschaft-m-nchen",
+    "name": "Deutsch-Britische Gesellschaft München",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.dbg-munich.de/",
+    "email": "programme@dbg-munich.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-the-sanctuary",
+    "name": "The Sanctuary",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://thesanctuary.me/",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-herrenbesuch-e-v-barbershop-herrenchor",
+    "name": "Herrenbesuch e.V.Barbershop-Herrenchor",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.herrenbesuch.net/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-m-nchner-pferdefreunde-e-v",
+    "name": "Münchner Pferdefreunde e. V.",
+    "category": "sport",
+    "tags": [
+      "reiten"
+    ],
+    "neighborhood": "München",
+    "pitch": "Reiten · Verein",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.verein-muenchner-pferdefreunde.de/",
+    "email": "erstervorstand@vmpf.de",
+    "interest": "horseriding"
+  },
+  {
+    "id": "comm-gea-german-english-association",
+    "name": "GEA – German-English Association",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "http://www.gea-muc.de/",
+    "email": "programme@gea-muc.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-stitch-n-bitch",
+    "name": "Stitch’n Bitch",
+    "category": "kultur",
+    "tags": [
+      "stricken"
+    ],
+    "neighborhood": "München",
+    "pitch": "Stricken",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "fsi.kunstgeschichte",
+    "email": "snb.muenchen@yahoo.de",
+    "interest": "diy"
+  },
+  {
+    "id": "comm-munich-rugby-club",
+    "name": "Munich Rugby Club",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://mrfc.de/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-giuliakowalski",
+    "name": "giuliakowalski",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "giuliakowalski",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-at-peace",
+    "name": "AT PEACE",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga · Whatsapp Chat",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.atpeace.eu/",
+    "instagram": "studio_atpeace",
+    "whatsapp": "WhatsApp-Community",
+    "phone": "4915164961675",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-reformer-club",
+    "name": "reformer.club",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "reformer.club",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-yogaonthe-move",
+    "name": "yogaonthe.move",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "yogaonthe.move",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-session-labs",
+    "name": "session.labs",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "session.labs",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-munich-hash-house-harriers",
+    "name": "Munich Hash House Harriers",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://mh3.beer/",
+    "email": "MunichH3+subscribe@groups.io",
+    "interest": "running"
+  },
+  {
+    "id": "comm-momaxpilates",
+    "name": "momaxpilates",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "momaxpilates",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-studentenreitgruppe-aus-m-nchen-arc-m-nchen",
+    "name": "Studentenreitgruppe aus München – ARC München",
+    "category": "sport",
+    "tags": [
+      "reiten"
+    ],
+    "neighborhood": "München",
+    "pitch": "Reiten · wöchentliche Stammtische",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "arc_muenchen",
+    "interest": "horseriding"
+  },
+  {
+    "id": "comm-skigaudi",
+    "name": "SkiGaudi",
+    "category": "sport",
+    "tags": [
+      "wintersport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wintersport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "skigaudi.official",
+    "interest": "wintersport"
+  },
+  {
+    "id": "comm-blush-munich",
+    "name": "blush.munich",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "blush.munich",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-australien-freunde-m-nchen",
+    "name": "Australien-Freunde München",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "http://www.australienfreundemuenchen.de/",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-canadian-club",
+    "name": "Canadian Club",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.thelocal.de/",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-pilatesinmunich",
+    "name": "pilatesinmunich",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "pilatesinmunich",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-beats-frogs",
+    "name": "Beats & Frogs",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://beats-and-frogs.de/",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-deutsch-irischer-freundeskreis-bayern-e-v",
+    "name": "Deutsch-Irischer Freundeskreis Bayern e.V.",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "veranstaltungen@dif-bayern.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-american-german-business-club",
+    "name": "American German Business Club",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://agbc-munich.com/contact",
+    "email": "admin@agbc-munich.com",
+    "phone": "55028129",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-yogalovers",
+    "name": "yogalovers",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "yogaloverscommunity",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-amerika-haus",
+    "name": "Amerika Haus",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "info@amerikahaus.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-thepilatesatelier-munich",
+    "name": "thepilatesatelier_munich",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "thepilatesatelier_munich",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-german-canadian-society",
+    "name": "German-Canadian Society",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "http://www.dkg-online.de/",
+    "email": "info@dkg-online.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-studio-core-emotion",
+    "name": "Studio Core & Emotion",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://studio-core-and-emotion.de/",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-k-nstlersozialwerk",
+    "name": "Künstlersozialwerk",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://paul-klinger-ksw.de/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-rapha-clubhouse-munich",
+    "name": "Rapha Clubhouse Munich",
+    "category": "sport",
+    "tags": [
+      "radfahren"
+    ],
+    "neighborhood": "München",
+    "pitch": "Radfahren",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://content.rapha.cc/de/de/clubhouses/munich",
+    "interest": "cycling"
+  },
+  {
+    "id": "comm-urbanyogamunich",
+    "name": "urbanyogamunich",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga · Haben WA-Community",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "urbanyogamunich",
+    "whatsapp": "WhatsApp-Community",
+    "priority": "hoch",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-munich-toastmaster-clubs",
+    "name": "Munich Toastmaster Clubs",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.munich-toastmasters.de/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-daysofmunich",
+    "name": "daysofmunich",
+    "category": "kultur",
+    "tags": [
+      "ratgeber & tipps"
+    ],
+    "neighborhood": "München",
+    "pitch": "Ratgeber & Tipps",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "daysofmunich",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-freizeitgruppe-m-nchen",
+    "name": "Freizeitgruppe-München",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.xn--mnchner-freizeitclub-pec.de/",
+    "email": "manuela@freizeit-clubs.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-pop-up-yoga",
+    "name": "POP UP YOGA",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.popupyogamuc.com/",
+    "instagram": "popupyogamuc",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-munichpilates",
+    "name": "munichpilates",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichpilates",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-m97-forum",
+    "name": "M97-FORUM",
+    "category": "sport",
+    "tags": [
+      "radfahren"
+    ],
+    "neighborhood": "München",
+    "pitch": "Radfahren",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.facebook.com/M97Moutainbikegruppe/",
+    "interest": "cycling"
+  },
+  {
+    "id": "comm-english-golfing-society",
+    "name": "English Golfing Society",
+    "category": "sport",
+    "tags": [
+      "golf"
+    ],
+    "neighborhood": "München",
+    "pitch": "Golf",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://egsmunich.de/",
+    "interest": "golf"
+  },
+  {
+    "id": "comm-munich-scottish-association",
+    "name": "Munich Scottish Association",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "info@munichscottish.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-german-american-men-s-club",
+    "name": "German-American Men’s Club",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.dahc-muenchen.de/",
+    "email": "praesident@dahc-muenchen.de",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-lupo-tennis",
+    "name": "Lupo Tennis",
+    "category": "sport",
+    "tags": [
+      "tennis"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tennis",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://lupo-tennis.de/",
+    "interest": "tennis"
+  },
+  {
+    "id": "comm-radfahren-viele-links",
+    "name": "Radfahren viele Links",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.wurzlwerk.de/2017/03/16/rennrad-cyclocross-mountainbike-gruppen-und-treffs-in-muenchen/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-gleitschirm-stammtisch-bodenlos",
+    "name": "Gleitschirm-Stammtisch Bodenlos",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.bodenlos.de/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-gemeinsamstricken",
+    "name": "Gemeinsamstricken",
+    "category": "kultur",
+    "tags": [
+      "stricken"
+    ],
+    "neighborhood": "München",
+    "pitch": "Stricken",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://gemeinsamstricken.blogspot.com/",
+    "email": "muenchner-strickeria@gmx.de",
+    "interest": "diy"
+  },
+  {
+    "id": "comm-tennis-im-msc",
+    "name": "Tennis im MSC",
+    "category": "sport",
+    "tags": [
+      "tennis"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tennis",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.muenchner-sportclub.de/tennis/",
+    "interest": "tennis"
+  },
+  {
+    "id": "comm-flow-munich",
+    "name": "flow.munich",
+    "category": "wellness",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-puritepilatesmunich",
+    "name": "puritepilatesmunich",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "puritepilatesmunich",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-biker-union",
+    "name": "Biker Union",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://bikerunion.de/c2/?q=node/63",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-munich-international-ski-club",
+    "name": "Munich International Ski Club",
+    "category": "sport",
+    "tags": [
+      "wintersport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wintersport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munich_skiclub",
+    "interest": "wintersport"
+  },
+  {
+    "id": "comm-toytown-munich",
+    "name": "Toytown Munich",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "http://www.toytowngermany.com/munich",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-yogabeemunich",
+    "name": "yogabeemunich",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "yogabeemunich",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-munich-cowboys",
+    "name": "Munich Cowboys",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.munich-cowboys.de/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-munich-ladies-choir",
+    "name": "Munich Ladies Choir",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.muenchner-frauenchor.de/",
+    "email": "look@muenchner-frauenchor.de",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-be-community",
+    "name": "be community",
+    "category": "wellness",
+    "tags": [
+      "pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.becommunity.online/",
+    "interest": "pilates"
+  },
+  {
+    "id": "comm-kmkv-superjeilezick",
+    "name": "kmkv.superjeilezick",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "kmkv.superjeilezick",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-bryony-cecil",
+    "name": "bryony.cecil",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "bryony.cecil",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-thestudioyogamunich",
+    "name": "thestudioyogamunich",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "thestudioyogamunich",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-casacalma-yoga",
+    "name": "casacalma.yoga",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "casacalma.yoga",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-flux-community",
+    "name": "FLUX Community",
+    "category": "wellness",
+    "tags": [
+      "yoga"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.flux-munich.com/activities/flux-community-yoga",
+    "instagram": "flux_munich",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-friendsandfiction",
+    "name": "FriendsandFiction",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://friendsandfiction.com/",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-bookclubandfriends",
+    "name": "bookclubandfriends",
+    "category": "kultur",
+    "tags": [
+      "lesen & bücher"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lesen & Bücher",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.bookclubandfriends.de/",
+    "email": "julia@bookclubandfriends.de",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-munich-caledonians",
+    "name": "Munich Caledonians",
+    "category": "expat",
+    "tags": [
+      "new in town"
+    ],
+    "neighborhood": "München",
+    "pitch": "New in Town",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "http://www.the-munich-caledonians.org/",
+    "email": "info@the-munich-caledonians.org",
+    "interest": "newintown"
+  },
+  {
+    "id": "comm-salsa-gruppe",
+    "name": "Salsa-Gruppe",
+    "category": "kultur",
+    "tags": [
+      "tanzen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tanzen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "http://www.clublatino.de/salsa-veranstaltungen-muenchen/salsa-portal-muenchen-startseite/",
+    "email": "info@clublatino.de",
+    "interest": "dance"
+  },
+  {
+    "id": "comm-aiblinger-zockerbande",
+    "name": "Aiblinger Zockerbande",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://spielwiesn.de/sw/spieletreffs",
+    "interest": "games"
+  },
+  {
+    "id": "comm-grafinger-spielb-ren",
+    "name": "Grafinger Spielbären",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "werner.liebald@web.de",
+    "interest": "games"
+  },
+  {
+    "id": "comm-community-dance-m-nchen",
+    "name": "Community Dance München",
+    "category": "kultur",
+    "tags": [
+      "tanzen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tanzen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "info@uteschmitt.de",
+    "interest": "dance"
+  },
+  {
+    "id": "comm-blix",
+    "name": "blix",
+    "category": "kultur",
+    "tags": [
+      "fotografie & videografie"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fotografie & Videografie · haben Discord-Channel",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "blix_munich",
+    "interest": "photo"
+  },
+  {
+    "id": "comm-obvs-studios",
+    "name": "obvs_studios",
+    "category": "kultur",
+    "tags": [
+      "party & nightlife"
+    ],
+    "neighborhood": "München",
+    "pitch": "Party & Nightlife",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "obvs_studios",
+    "interest": "nightlife"
+  },
+  {
+    "id": "comm-games-bavaria",
+    "name": "Games Bavaria",
+    "category": "kultur",
+    "tags": [
+      "gaming"
+    ],
+    "neighborhood": "München",
+    "pitch": "Gaming",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.games-bavaria.com/die-gamerei/",
+    "interest": "games"
+  },
+  {
+    "id": "comm-kunstlabor-munich",
+    "name": "kunstlabor.munich",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "kunstlabor.munich",
+    "interest": "art"
+  },
+  {
+    "id": "comm-atelier-schauen",
+    "name": "atelier.schauen",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "atelier.schauen",
+    "interest": "art"
+  },
+  {
+    "id": "comm-saturo-event",
+    "name": "saturo.event",
+    "category": "kultur",
+    "tags": [
+      "party & nightlife"
+    ],
+    "neighborhood": "München",
+    "pitch": "Party & Nightlife",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "saturo.event",
+    "interest": "nightlife"
+  },
+  {
+    "id": "comm-superplusstudio",
+    "name": "superplusstudio",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "superplusstudio",
+    "interest": "art"
+  },
+  {
+    "id": "comm-sissyisabellafotografie",
+    "name": "sissyisabellafotografie",
+    "category": "kultur",
+    "tags": [
+      "fotografie & videografie"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fotografie & Videografie",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "sissyisabellafotografie",
+    "interest": "photo"
+  },
+  {
+    "id": "comm-munich-openair-dance-community",
+    "name": "munich_openair_dance_community",
+    "category": "kultur",
+    "tags": [
+      "tanzen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tanzen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munich_openair_dance_community",
+    "interest": "dance"
+  },
+  {
+    "id": "comm-munichinternationalladies",
+    "name": "munichinternationalladies",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichinternationalladies",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-kunsthallemuc",
+    "name": "kunsthallemuc",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "kunsthallemuc",
+    "interest": "art"
+  },
+  {
+    "id": "comm-cvjm",
+    "name": "CVJM",
+    "category": "kultur",
+    "tags": [
+      "gaming"
+    ],
+    "neighborhood": "München",
+    "pitch": "Gaming · aktuell über Discord",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://cvjm-muenchen.org/projekte/gaming",
+    "email": "gaming@cvjm-muenchen.de",
+    "interest": "games"
+  },
+  {
+    "id": "comm-yo-franklin-art",
+    "name": "yo_franklin_art",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "yo_franklin_art",
+    "interest": "art"
+  },
+  {
+    "id": "comm-spielefreunde-m-nchen",
+    "name": "Spielefreunde München",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.spielefreunde-muenchen.de/",
+    "email": "info@spielefreunde-muenchen.de",
+    "interest": "games"
+  },
+  {
+    "id": "comm-hei",
+    "name": "Hei",
+    "category": "kultur",
+    "tags": [
+      "diy"
+    ],
+    "neighborhood": "München",
+    "pitch": "DIY",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.hei-muenchen.de/",
+    "email": "welcome@hei-muenchen.de",
+    "interest": "diy"
+  },
+  {
+    "id": "comm-m-nchner-camera-club",
+    "name": "Münchner Camera Club",
+    "category": "kultur",
+    "tags": [
+      "fotografie & videografie"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fotografie & Videografie",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.muenchner-camera-club.de/mcc/Links/index.shtml",
+    "email": "clubleiter@muenchner-camera-club.de",
+    "interest": "photo"
+  },
+  {
+    "id": "comm-munich-art-district",
+    "name": "munich_art_district",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munich_art_district",
+    "interest": "art"
+  },
+  {
+    "id": "comm-jumpro-art",
+    "name": "Jumpro Art",
+    "category": "kultur",
+    "tags": [
+      "tanzen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tanzen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://ecstatic-conscious-dance-muenchen.de/",
+    "email": "info@improart.de",
+    "interest": "dance"
+  },
+  {
+    "id": "comm-susanne-felgenhauer-art",
+    "name": "susanne_felgenhauer_art",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "susanne_felgenhauer_art",
+    "interest": "art"
+  },
+  {
+    "id": "comm-superhouseclub-munich",
+    "name": "superhouseclub.munich",
+    "category": "kultur",
+    "tags": [
+      "party & nightlife"
+    ],
+    "neighborhood": "München",
+    "pitch": "Party & Nightlife",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "superhouseclub.munich",
+    "interest": "nightlife"
+  },
+  {
+    "id": "comm-rituals-ofc",
+    "name": "rituals.ofc",
+    "category": "kultur",
+    "tags": [
+      "party & nightlife"
+    ],
+    "neighborhood": "München",
+    "pitch": "Party & Nightlife",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "rituals.ofc",
+    "interest": "nightlife"
+  },
+  {
+    "id": "comm-kefai-munich",
+    "name": "kefai.munich",
+    "category": "founders",
+    "tags": [
+      "networking"
+    ],
+    "neighborhood": "München",
+    "pitch": "Networking",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "kefai.munich",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-kunstverein-mu-nchen",
+    "name": "Kunstverein München",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "kunstvereinmuenchen",
+    "interest": "art"
+  },
+  {
+    "id": "comm-gayromeo-club-spieleabend-m-nchen",
+    "name": "Gayromeo-Club \"Spieleabend München\"",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "stefan@gaytrotter.de",
+    "interest": "games"
+  },
+  {
+    "id": "comm-geheimkonzerte",
+    "name": "geheimkonzerte",
+    "category": "kultur",
+    "tags": [
+      "konzerte"
+    ],
+    "neighborhood": "München",
+    "pitch": "Konzerte",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "geheimkonzerte",
+    "interest": "music"
+  },
+  {
+    "id": "comm-lost-in-perfection",
+    "name": "Lost in perfection",
+    "category": "kultur",
+    "tags": [
+      "diy"
+    ],
+    "neighborhood": "München",
+    "pitch": "DIY",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.lost-in-perfection.de/?srsltid=AfmBOoqPDe4BMKAQVvR-WkxTu_DLsgb1jaNxsUBIEpyUzWScql4gy_Di",
+    "email": "info@lost-in-perfection.de",
+    "interest": "diy"
+  },
+  {
+    "id": "comm-nightlife-munich",
+    "name": "nightlife_munich",
+    "category": "kultur",
+    "tags": [
+      "party & nightlife"
+    ],
+    "neighborhood": "München",
+    "pitch": "Party & Nightlife",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "nightlife_munich",
+    "interest": "nightlife"
+  },
+  {
+    "id": "comm-the-happy-club",
+    "name": "The Happy Club",
+    "category": "kultur",
+    "tags": [
+      "diy"
+    ],
+    "neighborhood": "München",
+    "pitch": "DIY",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.thehappyclub.de/workshops",
+    "email": "hallo@thehappyclub.de",
+    "interest": "diy"
+  },
+  {
+    "id": "comm-jounisto",
+    "name": "jounisto",
+    "category": "kultur",
+    "tags": [
+      "kochen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kochen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "jounisto",
+    "interest": "cooking"
+  },
+  {
+    "id": "comm-dashalloprojekt",
+    "name": "dashalloprojekt",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "dashalloprojekt",
+    "interest": "games"
+  },
+  {
+    "id": "comm-openartmunich",
+    "name": "openartmunich",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "openartmunich",
+    "interest": "art"
+  },
+  {
+    "id": "comm-munichartgallery",
+    "name": "munichartgallery",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichartgallery",
+    "interest": "art"
+  },
+  {
+    "id": "comm-munichtrend",
+    "name": "munichtrend",
+    "category": "kultur",
+    "tags": [
+      "party & nightlife"
+    ],
+    "neighborhood": "München",
+    "pitch": "Party & Nightlife",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichtrend",
+    "interest": "nightlife"
+  },
+  {
+    "id": "comm-tws-tanzschule",
+    "name": "TWS Tanzschule",
+    "category": "kultur",
+    "tags": [
+      "tanzen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tanzen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.tanz.de/tanzparty-muenchen",
+    "email": "info@tanz.de",
+    "interest": "dance"
+  },
+  {
+    "id": "comm-freiesmusikzentrummunich",
+    "name": "freiesmusikzentrummunich",
+    "category": "kultur",
+    "tags": [
+      "konzerte"
+    ],
+    "neighborhood": "München",
+    "pitch": "Konzerte",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "freiesmusikzentrummunich",
+    "interest": "music"
+  },
+  {
+    "id": "comm-brettspieletreff-in-m-nchen-oberf-hring",
+    "name": "Brettspieletreff in München-Oberföhring",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "email": "spieletreff-pep@gmx.de",
+    "interest": "games"
+  },
+  {
+    "id": "comm-tuerkenstrasse",
+    "name": "tuerkenstrasse",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "tuerkenstrasse",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-specialtycoffee",
+    "name": "Specialtycoffee",
+    "category": "kultur",
+    "tags": [
+      "kaffee"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kaffee",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "specialtycoffeemunich",
+    "interest": "coffee"
+  },
+  {
+    "id": "comm-muenchner-konzertchor",
+    "name": "muenchner_konzertchor",
+    "category": "kultur",
+    "tags": [
+      "konzerte"
+    ],
+    "neighborhood": "München",
+    "pitch": "Konzerte",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "muenchner_konzertchor",
+    "interest": "music"
+  },
+  {
+    "id": "comm-communitykitchen-muc",
+    "name": "communitykitchen_muc",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "communitykitchen_muc",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-munich-social-gaming",
+    "name": "Munich Social Gaming",
+    "category": "kultur",
+    "tags": [
+      "gaming"
+    ],
+    "neighborhood": "München",
+    "pitch": "Gaming · https://www.meetup.com/munich-social-gaming/members/",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.meetup.com/munich-social-gaming/",
+    "interest": "games"
+  },
+  {
+    "id": "comm-bgmuc",
+    "name": "Bgmuc",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://bgmuc.de/",
+    "email": "kontakt@bgmuc.de",
+    "interest": "games"
+  },
+  {
+    "id": "comm-spielf-chse-m-nchen",
+    "name": "Spielfüchse München",
+    "category": "kultur",
+    "tags": [
+      "brettspiele"
+    ],
+    "neighborhood": "München",
+    "pitch": "Brettspiele",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "games"
+  },
+  {
+    "id": "comm-mehrere-buchclubs",
+    "name": "Mehrere Buchclubs",
+    "category": "kultur",
+    "tags": [
+      "lesen & bücher"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lesen & Bücher",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://leemos.de/bookclub?place=&latitude=&longitude=&hideFull=0&selectedTypes=3&selectedGenres=&selectedMeetupOnly=0&selectedNewOnly=0",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-ananas-buchclub",
+    "name": "ananas-buchclub",
+    "category": "kultur",
+    "tags": [
+      "lesen & bücher"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lesen & Bücher",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://ananas-buchclub.de/#home/",
+    "email": "info@ananas-buchclub.de",
+    "priority": "hoch",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-elevate-buchclub-muenchen",
+    "name": "elevate_buchclub_muenchen",
+    "category": "kultur",
+    "tags": [
+      "lesen & bücher"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lesen & Bücher",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "elevate_buchclub_muenchen",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-queergelesen-muc",
+    "name": "queergelesen_muc",
+    "category": "kultur",
+    "tags": [
+      "lesen & bücher"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lesen & Bücher",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "queergelesen_muc",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-gif-me-books",
+    "name": "gif.me.books",
+    "category": "kultur",
+    "tags": [
+      "lesen & bücher"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lesen & Bücher",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "gif.me.books",
+    "interest": "bookclub"
+  },
+  {
+    "id": "comm-luisazickler",
+    "name": "luisazickler",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "luisazickler",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-irgendwiediemarie",
+    "name": "irgendwiediemarie",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "irgendwiediemarie",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-lauraanatalie",
+    "name": "lauraanatalie_",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "lauraanatalie_",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-movewithreform",
+    "name": "movewithreform",
+    "category": "wellness",
+    "tags": [
+      "yoga & pilates"
+    ],
+    "neighborhood": "München",
+    "pitch": "Yoga & Pilates",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "movewithreform",
+    "interest": "yoga"
+  },
+  {
+    "id": "comm-muc-girlsandgatherings",
+    "name": "muc_girlsandgatherings",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "muc_girlsandgatherings",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-laurafranziskaaa",
+    "name": "laurafranziskaaa",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "laurafranziskaaa",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-alinaluisa",
+    "name": "alinaluisa__",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "alinaluisa__",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-sophiieengel",
+    "name": "sophiieengel",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "sophiieengel",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-alina-es",
+    "name": "alina.es",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "alina.es",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-neleahlbrn",
+    "name": "neleahlbrn",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "neleahlbrn",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-lucaxcarolin",
+    "name": "lucaxcarolin",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "lucaxcarolin",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-iamhearteyes",
+    "name": "iamhearteyes",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "iamhearteyes",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-munichcorporategirl",
+    "name": "munichcorporategirl",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichcorporategirl",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-sarahmarialinder",
+    "name": "sarahmarialinder",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "sarahmarialinder",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-miria-hny",
+    "name": "miria.hny",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "miria.hny",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-marah-cgn",
+    "name": "marah_cgn",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "marah_cgn",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-lauramariesoons",
+    "name": "lauramariesoons",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "lauramariesoons",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-lana-ruee",
+    "name": "lana.ruee",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "lana.ruee",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-aless-hrm",
+    "name": "aless.hrm",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "aless.hrm",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-broke-today",
+    "name": "broke.today",
+    "category": "kultur",
+    "tags": [
+      "kunst & malen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Kunst & Malen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "broke.today",
+    "interest": "art"
+  },
+  {
+    "id": "comm-mindspace-germany",
+    "name": "mindspace_germany",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "mindspace_germany",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-allin-move",
+    "name": "allin.move",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "allin.move",
+    "interest": "running"
+  },
+  {
+    "id": "comm-inuma",
+    "name": "inuma",
+    "category": "sport",
+    "tags": [
+      "laufen"
+    ],
+    "neighborhood": "München",
+    "pitch": "Laufen",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "website": "https://www.inuma.space/",
+    "interest": "running"
+  },
+  {
+    "id": "comm-munichmove",
+    "name": "munichmove",
+    "category": "sport",
+    "tags": [
+      "sport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Sport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichmove",
+    "interest": "sport"
+  },
+  {
+    "id": "comm-tutti-studios",
+    "name": "tutti_studios",
+    "category": "sport",
+    "tags": [
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fitness",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "tutti_studios",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-nopbclub-munich",
+    "name": "nopbclub.munich",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running · Tjard hat sie privat angeschrieben",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "nopbclub.munich",
+    "interest": "running"
+  },
+  {
+    "id": "comm-freanks-athletes-club",
+    "name": "freanks.athletes.club",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "freanks.athletes.club",
+    "interest": "running"
+  },
+  {
+    "id": "comm-becca-kinio-becommunity-pilates",
+    "name": "Becca Kinio (BeCommunity / Pilates)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-claudia-baumann-at-peace-yoga",
+    "name": "Claudia Baumann (At Peace / Yoga)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-j-lide-erdem-sober-community-m-nchen",
+    "name": "Jülide Erdem (Sober Community München)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-nathalie-kaiser-geheimtipp-m-nchen",
+    "name": "Nathalie Kaiser (Geheimtipp München)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-pop-up-yoga-m-nchen",
+    "name": "POP UP YOGA München",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-tuerkenstrasse-ig",
+    "name": "tuerkenstrasse (IG)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-munich-girls-gatherings-ig",
+    "name": "Munich Girls & Gatherings (IG)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-mila-munich-international-ladies-association",
+    "name": "MILA - Munich International Ladies Association",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-munich-mountain-girls-munichmountaingirls",
+    "name": "Munich Mountain Girls (@munichmountaingirls)",
+    "category": "sport",
+    "tags": [
+      "wandern"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wandern",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "hiking"
+  },
+  {
+    "id": "comm-m-nchen-moms-muenchen-moms",
+    "name": "München Moms (@muenchen.moms)",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-beauty-club-m-nchen-beautyclub-muenchen-1",
+    "name": "Beauty Club München (@beautyclub.muenchen.1)",
+    "category": "wellness",
+    "tags": [
+      "beauty"
+    ],
+    "neighborhood": "München",
+    "pitch": "Beauty",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "wellness"
+  },
+  {
+    "id": "comm-stuwerkmuc-vmsi-m-nchner-studierende",
+    "name": "stuwerkmuc / VMSI (Münchner Studierende)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-center-for-mindfulness-m-nchen-center-for-mindfulness-de",
+    "name": "Center for Mindfulness München (center-for-mindfulness.de)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-mbsr-m-nchen-mbsr-muenchen-net",
+    "name": "MBSR München (mbsr-muenchen.net)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-berstunde-m-nchen-ueberstunde-com",
+    "name": "Überstunde München (ueberstunde.com)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-werk1-werk1-com",
+    "name": "WERK1 (werk1.com)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-fasercafe-muenchen-fasercafe-de",
+    "name": "Fasercafe Muenchen (fasercafe.de)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-lost-in-perfection-lost-in-perfection-de",
+    "name": "Lost in Perfection (lost-in-perfection.de)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-mia-san-foodies-miasanfoodies",
+    "name": "MIA SAN FOODIES (@miasanfoodies)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-rc-schwalben-munich-super-cross-cyclocross",
+    "name": "RC Schwalben / Munich Super Cross (Cyclocross)",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-cava-community",
+    "name": "Cava Community",
+    "category": "wellness",
+    "tags": [
+      "gesundheit & langlebigkeit"
+    ],
+    "neighborhood": "München",
+    "pitch": "Gesundheit & Langlebigkeit",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "cava_community",
+    "interest": "wellness"
+  },
+  {
+    "id": "comm-5am-club",
+    "name": "5am Club",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "5amrunclub_muc_east",
+    "interest": "running"
+  },
+  {
+    "id": "comm-ray-roadrunner",
+    "name": "Ray Roadrunner",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "ray.roadrunner",
+    "interest": "running"
+  },
+  {
+    "id": "comm-team-nvrstp",
+    "name": "team.nvrstp",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "team.nvrstp",
+    "interest": "running"
+  },
+  {
+    "id": "comm-limitlezz-community",
+    "name": "limitlezz.community",
+    "category": "sport",
+    "tags": [
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fitness",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "limitlezz.community",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-specialized-munich",
+    "name": "specialized.munich",
+    "category": "sport",
+    "tags": [
+      "radfahren"
+    ],
+    "neighborhood": "München",
+    "pitch": "Radfahren",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "specialized.munich",
+    "interest": "cycling"
+  },
+  {
+    "id": "comm-fcf-club",
+    "name": "fcf.club",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "fcf.club",
+    "interest": "running"
+  },
+  {
+    "id": "comm-gbm-cyclingclub",
+    "name": "gbm_cyclingclub",
+    "category": "sport",
+    "tags": [
+      "radfahren"
+    ],
+    "neighborhood": "München",
+    "pitch": "Radfahren",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "gbm_cyclingclub",
+    "interest": "cycling"
+  },
+  {
+    "id": "comm-angeliqueur",
+    "name": "angeliqueur",
+    "category": "kultur",
+    "tags": [
+      "bars & drinks"
+    ],
+    "neighborhood": "München",
+    "pitch": "Bars & Drinks",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "angeliqueur",
+    "interest": "drinks"
+  },
+  {
+    "id": "comm-munichbarcommunity",
+    "name": "munichbarcommunity",
+    "category": "kultur",
+    "tags": [
+      "bars & drinks"
+    ],
+    "neighborhood": "München",
+    "pitch": "Bars & Drinks",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichbarcommunity",
+    "interest": "drinks"
+  },
+  {
+    "id": "comm-bavaria-social",
+    "name": "bavaria.social",
+    "category": "kultur",
+    "tags": [
+      "fotografie & videografie"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fotografie & Videografie",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "bavaria.social",
+    "interest": "photo"
+  },
+  {
+    "id": "comm-hofstatt-munich",
+    "name": "hofstatt_munich",
+    "category": "queer",
+    "tags": [
+      "divers"
+    ],
+    "neighborhood": "München",
+    "pitch": "divers",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "hofstatt_munich",
+    "interest": "queer"
+  },
+  {
+    "id": "comm-sweatclub-of",
+    "name": "sweatclub.of",
+    "category": "wellness",
+    "tags": [
+      "wellness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Wellness",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "sweatclub.of",
+    "interest": "wellness"
+  },
+  {
+    "id": "comm-pure-munich",
+    "name": "pure.munich",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "pure.munich",
+    "interest": "running"
+  },
+  {
+    "id": "comm-sunrise-striders",
+    "name": "sunrise_striders",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "sunrise_striders",
+    "interest": "running"
+  },
+  {
+    "id": "comm-bandoleros-muc",
+    "name": "bandoleros_muc",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "bandoleros_muc",
+    "interest": "running"
+  },
+  {
+    "id": "comm-tribeperformance-official",
+    "name": "tribeperformance.official",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "tribeperformance.official",
+    "interest": "running"
+  },
+  {
+    "id": "comm-beatleticsclub",
+    "name": "beatleticsclub",
+    "category": "sport",
+    "tags": [
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Fitness",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "beatleticsclub",
+    "interest": "fitness"
+  },
+  {
+    "id": "comm-munich-social-club",
+    "name": "munich.social.club",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munich.social.club",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-bladenightmuenchen",
+    "name": "bladenightmuenchen",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "bladenightmuenchen",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-muenchener-meute",
+    "name": "muenchener.meute",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "muenchener.meute",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-viva-muenchen",
+    "name": "viva.muenchen",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-hofflohmaerkte-muenchen",
+    "name": "hofflohmaerkte_muenchen",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-un1t-muenchen",
+    "name": "un1t_muenchen",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "un1t_muenchen",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-muenchen-in-fuenf-minuten",
+    "name": "muenchen_in_fuenf_minuten",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "muenchen_in_fuenf_minuten",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-munichrunningacademy",
+    "name": "munichrunningacademy",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichrunningacademy",
+    "interest": "running"
+  },
+  {
+    "id": "comm-munichruncollective",
+    "name": "munichruncollective",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munichruncollective",
+    "interest": "running"
+  },
+  {
+    "id": "comm-munich-morning-miles",
+    "name": "munich.morning.miles",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "munich.morning.miles",
+    "interest": "running"
+  },
+  {
+    "id": "comm-themakersclubmunich",
+    "name": "themakersclubmunich",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-pauline-erklaert-finanzen",
+    "name": "pauline.erklaert.finanzen",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-mister-mario",
+    "name": "mister.mario",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-lukashenn",
+    "name": "lukashenn_",
+    "category": "kultur",
+    "tags": [
+      "creator"
+    ],
+    "neighborhood": "München",
+    "pitch": "Creator",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "creator"
+  },
+  {
+    "id": "comm-skatecommunitymunich",
+    "name": "skatecommunitymunich",
+    "category": "sport",
+    "tags": [
+      "sport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Sport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "sport"
+  },
+  {
+    "id": "comm-teammural",
+    "name": "teammural",
+    "category": "kultur",
+    "tags": [
+      "bars & drinks"
+    ],
+    "neighborhood": "München",
+    "pitch": "Bars & Drinks",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "drinks"
+  },
+  {
+    "id": "comm-endo-muenchen",
+    "name": "endo.muenchen",
+    "category": "queer",
+    "tags": [
+      "divers"
+    ],
+    "neighborhood": "München",
+    "pitch": "divers",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "queer"
+  },
+  {
+    "id": "comm-die-power-frauen-gang",
+    "name": "die_power_frauen_gang",
+    "category": "kultur",
+    "tags": [
+      "lifestyle"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lifestyle",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "lifestyle"
+  },
+  {
+    "id": "comm-manageandmore",
+    "name": "manageandmore",
+    "category": "founders",
+    "tags": [
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Connection",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "networking"
+  },
+  {
+    "id": "comm-longevity-munich",
+    "name": "longevity.munich",
+    "category": "wellness",
+    "tags": [
+      "gesundheit & langlebigkeit"
+    ],
+    "neighborhood": "München",
+    "pitch": "Gesundheit & Langlebigkeit",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "longevity.munich",
+    "interest": "wellness"
+  },
+  {
+    "id": "comm-revynd-de",
+    "name": "revynd.de",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "revynd.de",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-die-keramikothek",
+    "name": "die_keramikothek",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "24.05.2026: Mihaela hat positiv geantwortet (14:58), bittet um mehr Info + bietet Call an. Vorlage liegt im Clipboard. Erwartet Reply mit LOI-Info.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "die_keramikothek",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-2cupsmunich",
+    "name": "2cupsmunich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "2cupsmunich",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-runnersmunich",
+    "name": "runnersmunich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "runnersmunich",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-tsv-uhlbach",
+    "name": "TSV Uhlbach",
+    "category": "sport",
+    "tags": [
+      "sport"
+    ],
+    "neighborhood": "München",
+    "pitch": "Sport",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "sport"
+  },
+  {
+    "id": "comm-one-nation-munich",
+    "name": "one_nation_munich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "IGOR 24.05.2026: DM via http://clero.app erfolgreich zugestellt. Hook: ‘More than a gym. More than a café.’ Slogan + Boxing/Pilates/Food/Events unter einem Dach. Hybrid-Konzept als Aufhaenger.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "one_nation_munich",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-esnmesa",
+    "name": "esnmesa",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "esnmesa",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-danceupmunich",
+    "name": "danceupmunich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "IGOR 24.05.2026: DM via http://clero.app erfolgreich zugestellt. Hook: ‘Dance Up! Glow Up!’ Slogan + Adult Classes exclusive for Women mit Crews wie Red.Motion und Level Up. Frauen-Community-Pitch.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "danceupmunich",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-surfskate-munich",
+    "name": "surfskate_munich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "surfskate_munich",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-skatehoes",
+    "name": "skatehoes",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "IGOR 24.05.2026: DM via http://clero.app erfolgreich zugestellt. Hook: ‘Munich | Girls | Skateboarding’ + Feminismus auf 2 Achsen, Crew zwischen Sk8/Art/Party/Teaching.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "_skatehoes_",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-bloomhosts",
+    "name": "bloomhosts",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "IGOR 24.05.2026: Geskippt vor Send - IG-Profil 404 (Diese Seite ist leider nicht verfuegbar). Profil entweder geloescht oder umbenannt. Re-Check beim naechsten IGOR-Lauf empfohlen.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "bloomhosts",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-tempoamschloss",
+    "name": "tempoamschloss",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-runbeat-munich",
+    "name": "runbeat.munich",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "runbeat.munich",
+    "interest": "running"
+  },
+  {
+    "id": "comm-triffdich-app",
+    "name": "triffdich.app",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-lesrunmuc",
+    "name": "lesrunmuc",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "lesrunmuc",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-queer-walk-talk",
+    "name": "queer.walk.talk",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "queer.walk.talk",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-recoveryclub-muc",
+    "name": "recoveryclub.muc",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "recoveryclub.muc",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-theglowbesties",
+    "name": "theglowbesties",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "theglowbesties",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-26-miles-running",
+    "name": "26.miles_running",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "26.miles_running",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-pace-magazin",
+    "name": "pace.magazin",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "pace.magazin",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-bike-and-beans",
+    "name": "bike.and.beans",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Founding-20 DM via IG-DM am 31.05.2026. Hook: Bike-Cafe in/um Pullach, Kaffee mit indischer Note, Radfahren + Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-kudossportsclub",
+    "name": "kudossportsclub",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-around-munich",
+    "name": "around_munich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-velvethouse-giesing",
+    "name": "velvethouse.giesing",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-derusocialrunningclub",
+    "name": "derusocialrunningclub",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-cndo-munich",
+    "name": "cndo.munich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-earlybirdsurbanmovement",
+    "name": "earlybirdsurbanmovement",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-onmasportsclubmunich",
+    "name": "onmasportsclubmunich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-antisocialrun-club",
+    "name": "antisocialrun.club",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-kamishovka-ceramics-studio",
+    "name": "kamishovka_ceramics_studio",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-two-to-seven",
+    "name": "two.to.seven",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-efoilbase",
+    "name": "efoilbase",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-padelpit-de",
+    "name": "padelpit.de",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-zeithafen",
+    "name": "zeithafen",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "08.06.2026 IG-Chat-Sweep: DM via http://clero.app gesendet. Hook: Anjas achtsame Kreativworkshops in der Sternstraße (DIY Karten/Deko/Geschenke, Ankommen im Hier&Jetzt). Founding-20-Pitch, Ziel LOI.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "zeithafen",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-bigbadwolfrunning",
+    "name": "bigbadwolfrunning",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "bigbadwolfrunning",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-slovotum",
+    "name": "slovotum",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "08.06.2026 IG-Chat-Sweep: DM via http://clero.app gesendet. Hook: russischsprachiger Student:innen-Club TU München, Книжный клуб #10, Literatur- & Kultur-Events. Founding-20-Pitch, Ziel LOI.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "slovotum",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-hold-space-recovery",
+    "name": "hold.space_recovery",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "hold.space_recovery",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-untereweidenstrasse",
+    "name": "untereweidenstrasse",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "08.06.2026 IG-Chat-Sweep: DM via http://clero.app gesendet. Hook: Nachbarschafts-Community in Untergiesing, Untere Weiden Straßensause bringt das Viertel zusammen. Founding-20-Pitch, Ziel LOI.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "untereweidenstrasse",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-nymphenruns",
+    "name": "nymphenruns",
+    "category": "sport",
+    "tags": [
+      "running"
+    ],
+    "neighborhood": "München",
+    "pitch": "Running",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "nymphenruns",
+    "interest": "running"
+  },
+  {
+    "id": "comm-theactionpainters",
+    "name": "theactionpainters",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Action-Painting-Partys (Wien & München), “Schönster Abend seit langem”, Freibier, 5.0 auf Google.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "theactionpainters",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-spark-events-de",
+    "name": "spark.events.de",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Social Club (Nisa & Chitran): Reading Party, Ice Cream Sunset Walk, Padel, Spieleabende.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "spark.events.de",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-artistenschule-muenchen",
+    "name": "artistenschule.muenchen",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "artistenschule.muenchen",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-atelierinspire-de",
+    "name": "atelierinspire.de",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "atelierinspire.de",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-haunted-jewellery",
+    "name": "haunted.jewellery",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "haunted.jewellery",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-yarko-werkstatt",
+    "name": "yarko_werkstatt",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "yarko_werkstatt",
+    "interest": "kultur"
+  },
+  {
+    "id": "comm-aper-munich",
+    "name": "aper.munich",
+    "category": "kultur",
+    "tags": [],
+    "neighborhood": "München",
+    "pitch": "Münchner Community.",
+    "meetup": "siehe Links",
+    "frequency": "wechselnd",
+    "size": "—",
+    "instagram": "aper.munich",
+    "interest": "kultur"
+  }
+]

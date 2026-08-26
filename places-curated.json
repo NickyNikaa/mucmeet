@@ -1,0 +1,2895 @@
+[
+ {
+  "id": "map-cafe-flower",
+  "type": "restaurant",
+  "name": "Café Flower",
+  "neighborhood": "München",
+  "cuisine": [
+   "brunch"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "family",
+   "date"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Charmantes Café im 10-20€-Range. 4,7★ bei Google (150 Reviews).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Flower+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.7
+ },
+ {
+  "id": "map-koos-bowls",
+  "type": "restaurant",
+  "name": "KOOS Bowls&Bar",
+  "neighborhood": "München",
+  "cuisine": [
+   "asian-fusion",
+   "brunch"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date"
+  ],
+  "mood": [
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Bowls + Bar, locker und gut bewertet (4,7★).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=KOOS+Bowls+Bar+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.7
+ },
+ {
+  "id": "map-bloomer",
+  "type": "restaurant",
+  "name": "Bloomer München",
+  "neighborhood": "München",
+  "cuisine": [
+   "modern-european",
+   "asian-fusion"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Fusionsküche auf hohem Niveau, 4,8★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Bloomer+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.8
+ },
+ {
+  "id": "map-helene",
+  "type": "restaurant",
+  "name": "Helene Restaurant",
+  "neighborhood": "Schwanthalerhöhe",
+  "cuisine": [
+   "middle-eastern",
+   "mediterranean"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "group"
+  ],
+  "mood": [
+   "trendy",
+   "lively",
+   "chic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Israelisch-mediterrane Küche, abends Tanzfläche. Private Feiern 10-70 Personen.",
+  "bookingUrl": "https://heleneliebtdich.de/",
+  "curated": true,
+  "rating": 4.3,
+  "instagram": "heleneliebtdich"
+ },
+ {
+  "id": "map-abaccos",
+  "type": "restaurant",
+  "name": "ABACCO'S STEAKHOUSE München",
+  "neighborhood": "München",
+  "cuisine": [
+   "steakhouse"
+  ],
+  "price": 4,
+  "occasion": [
+   "business",
+   "celebration",
+   "date",
+   "group"
+  ],
+  "mood": [
+   "elegant",
+   "lively"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Klassisches Steakhouse, große Karte, 4,4★ (3.859 Reviews).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=ABACCO%27S+STEAKHOUSE+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.4
+ },
+ {
+  "id": "map-ibero-tapas",
+  "type": "restaurant",
+  "name": "Ibero Tapas",
+  "neighborhood": "München",
+  "cuisine": [
+   "mediterranean"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "group",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "lively",
+   "romantic",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Spanische Tapas, geteilte Tafel, Wein. 4,5★ (870 Reviews).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Ibero+Tapas+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.5
+ },
+ {
+  "id": "map-einfach-geniessen",
+  "type": "bar",
+  "name": "einfach geniessen — Weinseminare",
+  "neighborhood": "München",
+  "cuisine": [
+   "wine-bar"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "group",
+   "workshop"
+  ],
+  "mood": [
+   "cozy",
+   "chic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Wein-Seminare und kleine Tastings, Insider-Spot. 4,7★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=einfach+geniessen+Weinseminare+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.7
+ },
+ {
+  "id": "map-coco-munich",
+  "type": "restaurant",
+  "name": "COCO Munich — Tapas & Bar",
+  "neighborhood": "München",
+  "cuisine": [
+   "mediterranean",
+   "cocktail-bar"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "group"
+  ],
+  "mood": [
+   "trendy",
+   "lively",
+   "chic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Mediterrane Tapas und Cocktailkarte. 4,7★ (678 Reviews).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=COCO+Munich+Tapas+Bar",
+  "curated": true,
+  "rating": 4.7
+ },
+ {
+  "id": "map-graf-rumford",
+  "type": "bar",
+  "name": "Graf Rumford Bar & Galerie",
+  "neighborhood": "München",
+  "cuisine": [
+   "cocktail-bar"
+  ],
+  "price": 1,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Bar plus Galerie, Kunst-Vibes und Drinks. 4,6★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Graf+Rumford+Bar+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.6
+ },
+ {
+  "id": "map-soluna",
+  "type": "bar",
+  "name": "Soluna",
+  "neighborhood": "München",
+  "cuisine": [
+   "cocktail-bar"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Top-bewertete Cocktail-Bar, 4,9★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Soluna+Bar+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.9
+ },
+ {
+  "id": "map-oriental-hong-kong",
+  "type": "restaurant",
+  "name": "Oriental Hong Kong Kitchen",
+  "neighborhood": "München",
+  "cuisine": [
+   "asian-fusion"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "family",
+   "group"
+  ],
+  "mood": [
+   "cozy",
+   "lively"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Dim Sum und kantonesische Klassiker. 4,6★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Oriental+Hong+Kong+Kitchen+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.6
+ },
+ {
+  "id": "map-mostros",
+  "type": "restaurant",
+  "name": "MOSTROS",
+  "neighborhood": "München",
+  "cuisine": [
+   "modern-european",
+   "asian-fusion"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "romantic"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Fusionsküche, intim, hochbewertet (5,0★).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=MOSTROS+M%C3%BCnchen",
+  "curated": true,
+  "rating": 5.0
+ },
+ {
+  "id": "map-masi-wine",
+  "type": "bar",
+  "name": "Masi Wine Bar Munich",
+  "neighborhood": "München",
+  "cuisine": [
+   "wine-bar",
+   "italian"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "business",
+   "celebration"
+  ],
+  "mood": [
+   "elegant",
+   "cozy",
+   "romantic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Italienische Wein-Auswahl, schmale Karte, große Klasse. 4,7★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Masi+Wine+Bar+Munich",
+  "curated": true,
+  "rating": 4.7
+ },
+ {
+  "id": "map-belforte",
+  "type": "restaurant",
+  "name": "Belforte",
+  "neighborhood": "München",
+  "cuisine": [
+   "italian",
+   "mediterranean"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "cozy",
+   "romantic",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Italienisch-mediterraner Geheimtipp, 4,8★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Belforte+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.8
+ },
+ {
+  "id": "map-h-fuenf",
+  "type": "restaurant",
+  "name": "H Fünf… essbar",
+  "neighborhood": "München",
+  "cuisine": [
+   "international",
+   "modern-european"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Bistro-Mittag mit guter Karte. 4,6★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=H+F%C3%BCnf+essbar+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.6
+ },
+ {
+  "id": "map-woerners",
+  "type": "restaurant",
+  "name": "Woerner's am Marienplatz",
+  "neighborhood": "Marienplatz",
+  "cuisine": [
+   "brunch",
+   "european"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "family",
+   "business"
+  ],
+  "mood": [
+   "traditional",
+   "cozy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Café direkt am Marienplatz, 4,0★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Woerners+Marienplatz+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.0
+ },
+ {
+  "id": "map-cafe-nymphenburg-sekt",
+  "type": "restaurant",
+  "name": "Café Nymphenburg Sekt",
+  "neighborhood": "Nymphenburg",
+  "cuisine": [
+   "brunch",
+   "european"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "celebration"
+  ],
+  "mood": [
+   "elegant",
+   "cozy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Café mit Sektkarte, in Schloss-Nähe.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Nymphenburg+Sekt+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.0
+ },
+ {
+  "id": "map-chez-pierre",
+  "type": "restaurant",
+  "name": "Chez Pierre",
+  "neighborhood": "München",
+  "cuisine": [
+   "french"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "celebration"
+  ],
+  "mood": [
+   "romantic",
+   "cozy",
+   "elegant"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Französisch, klein, perfekt für Dates. 5,0★.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Chez+Pierre+M%C3%BCnchen",
+  "curated": true,
+  "rating": 5.0,
+  "makiApproved": true
+ },
+ {
+  "id": "map-aran",
+  "type": "restaurant",
+  "name": "Aran",
+  "neighborhood": "München",
+  "cuisine": [
+   "brunch",
+   "european"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "family",
+   "business"
+  ],
+  "mood": [
+   "cozy",
+   "lively"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Solides Café/Bäckerei mit vielen Filialen. 4,5★ (2.950 Reviews).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Aran+Caf%C3%A9+M%C3%BCnchen",
+  "curated": true,
+  "rating": 4.5
+ },
+ {
+  "id": "map-hugos-beach",
+  "type": "restaurant",
+  "name": "H'ugo's Beach Club",
+  "neighborhood": "München",
+  "cuisine": [
+   "italian",
+   "international"
+  ],
+  "price": 3,
+  "occasion": [
+   "celebration",
+   "group",
+   "date"
+  ],
+  "mood": [
+   "lively",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [
+   "terrace"
+  ],
+  "pitch": "Beach-Club-Vibe, Italo-Karte, Sommer-Spot. 3,4★ (4.177 Reviews).",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=H%27ugo%27s+Beach+Club+M%C3%BCnchen",
+  "curated": true,
+  "rating": 3.4
+ },
+ {
+  "id": "tip-lux-bar",
+  "type": "bar",
+  "name": "LUX Bar (Hotel Lux)",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "cocktail-bar",
+   "champagne-bar"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "elegant",
+   "chic",
+   "romantic"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Hotel-Bar mit Pariser-Salon-Vibe — Klassiker, Champagner-Bell-Buttons, Old Fashioneds. Ledererstraße 13.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Hotel+LUX+Bar+Lederer+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-village-tagesbar",
+  "type": "bar",
+  "name": "VILLAGE Tagesbar",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "wine-bar",
+   "brunch"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "business",
+   "casual"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Weinbar + Brunch + Business Lunch in der Fraunhoferstr. Glockenbach-Liebling seit 2021.",
+  "bookingUrl": "https://village-tagesbar.de/reservierung/",
+  "curated": true,
+  "instagram": "village_tagesbar"
+ },
+ {
+  "id": "tip-tohru",
+  "type": "restaurant",
+  "name": "Tohru in der Schreiberei",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "modern-european",
+   "japanese",
+   "french"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "elegant",
+   "chic"
+  ],
+  "exclusivity": 4,
+  "features": [
+   "michelin"
+  ],
+  "michelin": 3,
+  "pitch": "Drei Michelin-Sterne. Tohru Nakamura verbindet japanische Tradition mit französisch-europäischer Klassik. 8- oder 10-Gang Tasting.",
+  "bookingUrl": "https://www.schreiberei-muc.de/tohru",
+  "curated": true,
+  "instagram": "tohru_in_der_schreiberei",
+  "image": "https://schreiberei-muc.de/images/og-tohru.jpg"
+ },
+ {
+  "id": "tip-anamesa",
+  "type": "restaurant",
+  "name": "ANAMESA",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "mediterranean"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "group",
+   "celebration",
+   "casual"
+  ],
+  "mood": [
+   "trendy",
+   "lively",
+   "chic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "All-Day-Konzept mit mediterraner Sharing-Küche, saisonal. Leopoldstr. 68.",
+  "bookingUrl": "https://www.thisisanamesa.com/",
+  "curated": true,
+  "instagram": "anamesa.munich"
+ },
+ {
+  "id": "tip-bar-tatar",
+  "type": "bar",
+  "name": "Bar Tatar in der Schreiberei",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "cocktail-bar",
+   "bar-bites"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Schwester-Konzept zu Tohru im denkmalgeschützten Rathaus. Tatar-Variationen + handgemachte Drinks. Burgstraße 5.",
+  "bookingUrl": "https://www.schreiberei-muc.de/bar-tatar",
+  "curated": true,
+  "instagram": "bar_tatar",
+  "image": "https://schreiberei-muc.de/images/og-bartatar.jpg"
+ },
+ {
+  "id": "tip-theresa-grill",
+  "type": "restaurant",
+  "name": "Theresa Grill",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "steakhouse",
+   "grill",
+   "european"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "celebration",
+   "business",
+   "group"
+  ],
+  "mood": [
+   "elegant",
+   "chic",
+   "lively"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Premium-Steakhouse mit Dry-Aged-Cuts (T-Bone, Txogitxu). Hauptgänge 28-58€. Theresienstr. 29.",
+  "bookingUrl": "https://www.theresa-restaurant.com/home/",
+  "curated": true,
+  "instagram": "theresa_grill"
+ },
+ {
+  "id": "tip-dorothy",
+  "type": "bar",
+  "name": "DOROTHY Tagesbar",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "cocktail-bar",
+   "brunch"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Tagesbar direkt am Petersplatz. Coffee bis Cocktail, täglich 11-22 Uhr. Petersplatz 10.",
+  "bookingUrl": "https://www.dorothy-bar.de/",
+  "curated": true,
+  "instagram": "dorothy_tagesbar"
+ },
+ {
+  "id": "tip-ferdings",
+  "type": "bar",
+  "name": "Ferdings",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "cocktail-bar",
+   "bar-bites"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Stylische Bistro-Bar im Gärtnerplatzviertel. Tapas + kreative Cocktails. Klenzestr. 43.",
+  "bookingUrl": "https://ferdings.de/",
+  "curated": true,
+  "instagram": "ferdings_munich"
+ },
+ {
+  "id": "tip-sois-blessed",
+  "type": "restaurant",
+  "name": "Sois Blessed",
+  "neighborhood": "München",
+  "cuisine": [
+   "brunch",
+   "international"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Café für Brunch & Lunch.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Sois+Blessed+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-josefa",
+  "type": "restaurant",
+  "name": "Josefa",
+  "neighborhood": "München",
+  "cuisine": [
+   "modern-european",
+   "mediterranean"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "romantic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Saisonale Küche, intim.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Josefa+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-weinbar-garbo",
+  "type": "bar",
+  "name": "Weinbar Garbo",
+  "neighborhood": "München",
+  "cuisine": [
+   "wine-bar",
+   "italian"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "romantic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Naturwein-Bar mit Atmosphäre.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Weinbar+Garbo+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-riviera-records",
+  "type": "bar",
+  "name": "Riviera Records",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "wine-bar",
+   "brunch",
+   "cocktail-bar"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date"
+  ],
+  "mood": [
+   "trendy",
+   "chic",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Plattenladen + Kaffee + Snacks + Livestream. Vinyl-Liebhaber-Spot. Herzogspitalstr. 7.",
+  "bookingUrl": "https://www.rivierarecords.de/",
+  "curated": true,
+  "instagram": "riviera.records"
+ },
+ {
+  "id": "tip-tio",
+  "type": "restaurant",
+  "name": "tio",
+  "neighborhood": "München",
+  "cuisine": [
+   "mediterranean",
+   "international"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Bistro-Konzept.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=tio+Restaurant+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-frex",
+  "type": "restaurant",
+  "name": "Frex",
+  "neighborhood": "München",
+  "cuisine": [
+   "brunch",
+   "international"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "family",
+   "date"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Brunch-Spot.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Frex+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-kanso",
+  "type": "restaurant",
+  "name": "Kanso Coffee Lab",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "brunch",
+   "japanese"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Japanisches Specialty-Coffee-Lab im Hinterhof zwischen Marienplatz und Odeonsplatz. Theatinerstr. 35.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Kanso+Coffee+Lab+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-kai-matcha",
+  "type": "restaurant",
+  "name": "Kai Matcha Club",
+  "neighborhood": "München",
+  "cuisine": [
+   "brunch",
+   "japanese"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Matcha-Café-Konzept.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Kai+Matcha+Club+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-cole-porter",
+  "type": "bar",
+  "name": "Cole & Porter",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "cocktail-bar"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "elegant",
+   "chic",
+   "romantic"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Klassische Cocktail-Bar nach dem Songwriter benannt. Whiskey/Gin-Auswahl, auch alkoholfreie Cocktails. Sendlinger Str. 10.",
+  "bookingUrl": "https://coleandporter.de/Home/",
+  "curated": true,
+  "instagram": "coleandportermunich"
+ },
+ {
+  "id": "tip-heir-beverage",
+  "type": "bar",
+  "name": "HEIR BEVERAGE",
+  "neighborhood": "München",
+  "cuisine": [
+   "cocktail-bar",
+   "bar-bites"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Bar-Konzept mit Liquid-Fokus.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=HEIR+BEVERAGE+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-florentine",
+  "type": "restaurant",
+  "name": "Florentine Tagesbar & Restaurant",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "european",
+   "modern-european",
+   "brunch"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "business",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Europäische Tagesbar — Frühstück, Lunch, Dinner. Gabelsbergerstr. 63, Maxvorstadt.",
+  "bookingUrl": "https://www.florentine-restaurant.de/en",
+  "curated": true,
+  "instagram": "florentine.munich"
+ },
+ {
+  "id": "tip-tuna-fish-club",
+  "type": "restaurant",
+  "name": "Tuna Fish Club",
+  "neighborhood": "München",
+  "cuisine": [
+   "japanese",
+   "asian-fusion"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "lively"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Sushi/Asian-Fusion-Konzept.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Tuna+Fish+Club+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-do-co",
+  "type": "restaurant",
+  "name": "Do & Co",
+  "neighborhood": "München",
+  "cuisine": [
+   "international",
+   "european"
+  ],
+  "price": 3,
+  "occasion": [
+   "business",
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "elegant"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Café/Restaurant mit Bistro-Atmosphäre.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Do+and+Co+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-madam-anna-ekke",
+  "type": "restaurant",
+  "name": "Madam Anna Ekke",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "brunch",
+   "mediterranean",
+   "modern-european"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "family",
+   "business"
+  ],
+  "mood": [
+   "trendy",
+   "cozy",
+   "chic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Café-Restaurant-Bar im Glockenbachviertel. Brunch bis 14 Uhr, abends Tapas. Kolosseumstr. 6.",
+  "bookingUrl": "https://www.madamannaekke.de/",
+  "curated": true,
+  "instagram": "madam.anna.ekke"
+ },
+ {
+  "id": "tip-bar-davide",
+  "type": "bar",
+  "name": "Bar Davide",
+  "neighborhood": "München",
+  "cuisine": [
+   "cocktail-bar",
+   "italian"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "romantic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Italienische Aperitivo-Bar.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Davide+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-lacodo",
+  "type": "restaurant",
+  "name": "Lacodo",
+  "neighborhood": "München",
+  "cuisine": [
+   "modern-european",
+   "international"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Konzept-Spot.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Lacodo+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-bambi-bar",
+  "type": "bar",
+  "name": "Bambi Bar",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "cocktail-bar",
+   "bar-bites"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration",
+   "group"
+  ],
+  "mood": [
+   "lively",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [
+   "terrace"
+  ],
+  "pitch": "Am Stachus — früh ankuschelig, später Tanzbar mit Live-DJ. Currywurst + Goaßn-Maß, LITERLITER 19,90€.",
+  "bookingUrl": "https://bambi.bar/",
+  "curated": true,
+  "instagram": "bambi.bar.muc"
+ },
+ {
+  "id": "tip-uncle-cen",
+  "type": "restaurant",
+  "name": "Uncle Cen",
+  "neighborhood": "München",
+  "cuisine": [
+   "asian-fusion",
+   "vietnamese"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "trendy",
+   "lively"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Asiatischer Casual-Spot.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Uncle+Cen+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-ukiyo",
+  "type": "restaurant",
+  "name": "UKIYO",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "japanese"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "elegant",
+   "romantic"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Japanisches Fine Dining im Glockenbach, oft als Deutschlands schönstes Restaurant gelabelt. Sushi mit erlesenen Weinen. Rumfordstr. 6.",
+  "bookingUrl": "https://www.ukiyogermany.com/",
+  "curated": true,
+  "instagram": "ukiyo_munich"
+ },
+ {
+  "id": "tip-kleines-kameel",
+  "type": "restaurant",
+  "name": "Kleines Kameel",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "mediterranean",
+   "italian",
+   "wine-bar"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "cozy",
+   "chic",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Alpenländisch-mediterrane Weinbar im Hofgraben. Häufig wechselnde Karte. Hofgraben 3.",
+  "bookingUrl": "https://kleines-kameel.de/",
+  "curated": true,
+  "instagram": "kleineskameel"
+ },
+ {
+  "id": "tip-hutong-club",
+  "type": "restaurant",
+  "name": "The Hutong Club",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "asian-fusion"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "group"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "lively"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Modern interpretierte chinesische Küche mit Shanghai-Bar-Flair. Family-Style Dim Sum und Famous Asian Bites. Franz-Joseph-Str. 28.",
+  "bookingUrl": "https://thehutongclub.de/en/",
+  "curated": true,
+  "instagram": "thehutongclub",
+  "makiApproved": true,
+  "image": "https://thehutongclub.de/wp-content/uploads/sites/11/2022/03/hutong_club_220221_086-scaled.jpg"
+ },
+ {
+  "id": "tip-umi",
+  "type": "restaurant",
+  "name": "Umi",
+  "neighborhood": "München",
+  "cuisine": [
+   "japanese"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Sushi/Japanisch.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Umi+Restaurant+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-kinchia",
+  "type": "restaurant",
+  "name": "Kinchia",
+  "neighborhood": "München",
+  "cuisine": [
+   "asian-fusion",
+   "international"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Moderner asiatischer Casual-Spot.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Kinchia+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-nice",
+  "type": "restaurant",
+  "name": "Nice",
+  "neighborhood": "München",
+  "cuisine": [
+   "modern-european",
+   "international"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Restaurant-Konzept.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Nice+Restaurant+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-yuyumi",
+  "type": "restaurant",
+  "name": "Yuyumi",
+  "neighborhood": "München",
+  "cuisine": [
+   "asian-fusion",
+   "japanese"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Bowls und Asian Casual.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Yuyumi+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-neni",
+  "type": "restaurant",
+  "name": "NENI München",
+  "neighborhood": "Ludwigsvorstadt",
+  "cuisine": [
+   "middle-eastern",
+   "mediterranean"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "group",
+   "celebration",
+   "business",
+   "brunch"
+  ],
+  "mood": [
+   "lively",
+   "trendy",
+   "chic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Levante-Küche im 25hours Hotel The Royal Bavarian — orientalisches Soul-Food zum Teilen. Bahnhofplatz 1, durchgehend von Frühstück bis Abend.",
+  "bookingUrl": "https://www.nenimuenchen.de/",
+  "curated": true,
+  "instagram": "neni_muenchen"
+ },
+ {
+  "id": "tip-makassar",
+  "type": "restaurant",
+  "name": "Le Makassar",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "french",
+   "international"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "casual",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "romantic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Französisch-kreolische Spezialitäten plus originelle Cocktails. Geyerstr. 52, Dreimühlenviertel.",
+  "bookingUrl": "https://www.makassar.de/",
+  "curated": true,
+  "instagram": "lemakassar"
+ },
+ {
+  "id": "tip-florio",
+  "type": "restaurant",
+  "name": "Florio",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "italian"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "elegant",
+   "romantic",
+   "chic"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Italienisches Restaurant im The Charles Hotel. Fulvio-Pierangelini-Philosophie, gehobene Schlichtheit. Sophienstr. 28.",
+  "bookingUrl": "https://www.roccofortehotels.com/hotels-and-resorts/the-charles-hotel/dining/",
+  "curated": true,
+  "instagram": "florio_munich",
+  "image": "https://www.roccofortehotels.com/media/ggybmgmw/20190916_fortefamily_07_818_v2_col.jpg"
+ },
+ {
+  "id": "tip-mona-john",
+  "type": "restaurant",
+  "name": "Mona John — Coup de Coeur",
+  "neighborhood": "Schwanthalerhöhe",
+  "cuisine": [
+   "french"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "romantic",
+   "cozy",
+   "chic"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Französisches Mini-Bistro im Westend mit wenigen Plätzen, wöchentlich wechselnder Karte. Reservierung nötig. Westendstr. 29.",
+  "bookingUrl": "https://www.mona-john.de/",
+  "curated": true,
+  "instagram": "monajohn_munich",
+  "image": "https://static.wixstatic.com/media/e90103_97039e7339e144bd813a7afd6b9ec229%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e90103_97039e7339e144bd813a7afd6b9ec229%7Emv2.jpg"
+ },
+ {
+  "id": "tip-jacob",
+  "type": "restaurant",
+  "name": "Jacob",
+  "neighborhood": "München",
+  "cuisine": [
+   "modern-european",
+   "international"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "business",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "elegant"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Restaurant-Konzept.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Jacob+Restaurant+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-mozzamo",
+  "type": "restaurant",
+  "name": "Mozzamo",
+  "neighborhood": "München",
+  "cuisine": [
+   "italian"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "romantic",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Italienisch mit Burrata-Fokus.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Mozzamo+M%C3%BCnchen",
+  "curated": true
+ },
+ {
+  "id": "tip-marais-soir",
+  "type": "restaurant",
+  "name": "Marais Soir",
+  "neighborhood": "Schwanthalerhöhe",
+  "cuisine": [
+   "french",
+   "mediterranean"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "romantic",
+   "chic",
+   "elegant"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Französisch-mediterrane Küche im Westend, 3-Gang 67€ / 4-Gang 78€ mit Weinbegleitung. Schwanthalerstr. 131.",
+  "bookingUrl": "https://www.marais-soir.de/",
+  "curated": true,
+  "instagram": "marais.soir",
+  "image": "http://static1.squarespace.com/static/65e81b7325c4f06d80ffa861/t/65fabd400aad620f680fbcde/1718383608535/marais+intro+image.png?format=1500w"
+ },
+ {
+  "id": "tip-mia-trattoria",
+  "type": "restaurant",
+  "name": "MIA Trattoria e Bar",
+  "neighborhood": "Ludwigsvorstadt",
+  "cuisine": [
+   "italian"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "family",
+   "celebration",
+   "group"
+  ],
+  "mood": [
+   "lively",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Moderne italienische Küche zwischen Stachus und Theresienwiese, Open seit Herbst 2022. Auch Beats und Tanznächte. Schwanthalerstr. 12.",
+  "bookingUrl": "https://lamiatrattoria.de/",
+  "curated": true,
+  "instagram": "mia_trattoria",
+  "image": "http://lamiatrattoria.de/wp-content/uploads/2022/06/mia-small-13.jpg"
+ },
+ {
+  "id": "tip-brasserie-tim-raue",
+  "type": "restaurant",
+  "name": "Brasserie Colette Tim Raue",
+  "neighborhood": "Ludwigsvorstadt",
+  "cuisine": [
+   "french",
+   "modern-european"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "elegant",
+   "chic",
+   "romantic"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Tim Raues Münchner Brasserie. Französische Klassiker mit Raue-Twist, gemütlich-stilvolle Atmosphäre. Klenzestr. 72.",
+  "bookingUrl": "https://brasseriecolette.de/en/munich",
+  "curated": true,
+  "instagram": "brasseriecolette",
+  "image": "https://images.prismic.io/brasseriecolettev3/Zsc4vUaF0TcGJP-r_og-image.jpg?auto=format,compress"
+ },
+ {
+  "id": "maki-petit-fritz",
+  "type": "restaurant",
+  "name": "Petit Fritz",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "french"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "business",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "romantic"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Kleiner Pariser Bistro-Ableger von Chez Fritz in Schwabing. Spezialität: Tartines mit Boudin Noir, Entenrillette, Camembert. Hohenzollernstr. 9.",
+  "bookingUrl": "https://www.petitfritz.de/",
+  "instagram": "petitfritz_muenchen",
+  "curated": true,
+  "makiApproved": true
+ },
+ {
+  "id": "maki-da-angelo",
+  "type": "restaurant",
+  "name": "Da Angelo",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "italian"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "casual",
+   "family",
+   "celebration",
+   "group"
+  ],
+  "mood": [
+   "romantic",
+   "cozy",
+   "traditional",
+   "lively"
+  ],
+  "exclusivity": 2,
+  "features": [
+   "terrace"
+  ],
+  "pitch": "Authentisch italienisch im Herzen Schwabings. Pizza, hausgemachte Pasta, Antipasti, kleine Vinothek. Tafel-Karte wechselt täglich. Franz-Joseph-Str. 48.",
+  "bookingUrl": "https://www.italiener-muenchen-schwabing.de/",
+  "instagram": "daangelo_muenchen",
+  "curated": true,
+  "makiApproved": true
+ },
+ {
+  "id": "tt-goldies",
+  "type": "restaurant",
+  "name": "Goldies",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "steakhouse",
+   "international"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "group"
+  ],
+  "mood": [
+   "trendy",
+   "lively"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Berliner Smashburger-Filiale, eröffnet Feb 2026 auf der Leopoldstraße. Patty platt gedrückt, außen karamellisiert, innen saftig.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Goldies+Burger+M%C3%BCnchen+Leopoldstra%C3%9Fe",
+  "instagram": "goldies.berlin",
+  "curated": true
+ },
+ {
+  "id": "tt-otto-25",
+  "type": "bar",
+  "name": "OTTO·25",
+  "neighborhood": "Werksviertel",
+  "cuisine": [
+   "cocktail-bar"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "casual"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "romantic"
+  ],
+  "exclusivity": 2,
+  "features": [
+   "rooftop",
+   "view"
+  ],
+  "pitch": "Rooftop-Bar über den Dächern des Werksviertels. Signature-Cocktails, 180°-Aussicht bis zu den Alpen.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=OTTO+25+Rooftop+M%C3%BCnchen+Werksviertel",
+  "instagram": "otto25.muc",
+  "curated": true
+ },
+ {
+  "id": "tt-ooh-baby",
+  "type": "restaurant",
+  "name": "Ooh Baby I like it raw",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "brunch",
+   "vegan"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Süßes Café im Glockenbach mit nur 5 Tischen — kuschelig-intim, Insta-würdige Einrichtung.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Ooh+Baby+I+like+it+raw+M%C3%BCnchen",
+  "instagram": "oohbabyilikeitraw",
+  "curated": true
+ },
+ {
+  "id": "tt-la-favela",
+  "type": "restaurant",
+  "name": "La Favela im Bahnwärter Thiel",
+  "neighborhood": "Schlachthofviertel",
+  "cuisine": [
+   "international"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "group"
+  ],
+  "mood": [
+   "trendy",
+   "lively",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [
+   "terrace"
+  ],
+  "pitch": "Brasilianisches Restaurant in einem ausrangierten U-Bahnwagen im Bahnwärter Thiel. Caipi, Streetfood, Underground-Vibe.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=La+Favela+Bahnw%C3%A4rter+Thiel+M%C3%BCnchen",
+  "instagram": "lafavela.muc",
+  "curated": true
+ },
+ {
+  "id": "tt-container-collective",
+  "type": "restaurant",
+  "name": "Container Collective",
+  "neighborhood": "Ostbahnhof",
+  "cuisine": [
+   "brunch",
+   "international"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "family",
+   "group"
+  ],
+  "mood": [
+   "trendy",
+   "lively",
+   "cozy"
+  ],
+  "exclusivity": 1,
+  "features": [
+   "terrace"
+  ],
+  "pitch": "Sommer-Spot aus bunten Containern am Ostbahnhof. Kaffee, Eis, kleine Shops, entspannen.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Container+Collective+Ostbahnhof+M%C3%BCnchen",
+  "instagram": "containercollective",
+  "curated": true
+ },
+ {
+  "id": "tt-bahnwaerter-thiel",
+  "type": "bar",
+  "name": "Bahnwärter Thiel",
+  "neighborhood": "Schlachthofviertel",
+  "cuisine": [
+   "cocktail-bar",
+   "bar-bites"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "date",
+   "group",
+   "celebration"
+  ],
+  "mood": [
+   "trendy",
+   "lively"
+  ],
+  "exclusivity": 2,
+  "features": [
+   "terrace"
+  ],
+  "pitch": "Kultur-Spot aus U-Bahn-Waggons und Containern. Konzerte, Club-Nächte, Pop-up-Restaurants, Open-Air im Sommer.",
+  "bookingUrl": "https://www.bahnwaertertheel.de/",
+  "instagram": "bahnwaertertheel",
+  "curated": true
+ },
+ {
+  "id": "tt-cafe-frischhut",
+  "type": "restaurant",
+  "name": "Café Frischhut (Schmalznudel)",
+  "neighborhood": "Viktualienmarkt",
+  "cuisine": [
+   "bavarian",
+   "brunch"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "family"
+  ],
+  "mood": [
+   "traditional",
+   "cozy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Münchner Institution für die Schmalznudel — frittierte Hefeteig-Spezialität, am Viktualienmarkt seit Jahrzehnten.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Frischhut+Schmalznudel+M%C3%BCnchen",
+  "instagram": "cafefrischhut",
+  "curated": true
+ },
+ {
+  "id": "tip-lo-studente",
+  "type": "restaurant",
+  "name": "Lo Studente",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "italian"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "family",
+   "group"
+  ],
+  "mood": [
+   "lively",
+   "cozy",
+   "traditional"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Italienische Pizzeria mit Holzofen-Pizza in der Maxvorstadt — Studenten-Klassiker an der Schellingstraße. Lunch-Menü Mo-Fr 8,50€. Schellingstr. 30.",
+  "bookingUrl": "https://lo-studente.de/",
+  "instagram": "lostudente_muenchen",
+  "curated": true,
+  "makiApproved": true,
+  "peopleWatching": true
+ },
+ {
+  "id": "tip-pera-meze",
+  "type": "restaurant",
+  "name": "Pera Meze",
+  "neighborhood": "Gärtnerplatz",
+  "cuisine": [
+   "middle-eastern",
+   "mediterranean",
+   "modern-european"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "celebration",
+   "business",
+   "group"
+  ],
+  "mood": [
+   "chic",
+   "elegant",
+   "trendy"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Ali Güngörmüş bringt Istanbuls Meze-Kultur ins Gärtnerplatzviertel. Modern interpretierte türkisch-levantinische Küche. Klenzestr. 23.",
+  "bookingUrl": "https://www.pera-meze.de/",
+  "instagram": "perameze.muenchen",
+  "curated": true
+ },
+ {
+  "id": "snack-zeit-fuer-brot",
+  "type": "restaurant",
+  "name": "Zeit für Brot",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "brunch",
+   "zimtschnecken",
+   "kardamom-bun"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "family",
+   "business"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Bio-Bäckerei aus Berlin mit Filiale in der Amalienstraße — saftige Zimtschnecken (5,10€) und Kardamom-Knöpfe (4,70€), handgemacht, Bioland-Qualität.",
+  "bookingUrl": "https://zeitfuerbrot.com/en",
+  "instagram": "zeitfuerbrot_muenchen",
+  "curated": true
+ },
+ {
+  "id": "snack-brotraum",
+  "type": "restaurant",
+  "name": "Brotraum",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "brunch",
+   "zimtschnecken",
+   "bavarian"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "traditional"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Innovative Bäckerei in Schwabing — Zimtschnecken, Brot, Konditorei in höchster Qualität. Herzogstr. 6.",
+  "bookingUrl": "https://brotraum.de/",
+  "instagram": "brotraum_muenchen",
+  "curated": true
+ },
+ {
+  "id": "snack-nonnas",
+  "type": "restaurant",
+  "name": "Nonna's Café",
+  "neighborhood": "Königsplatz",
+  "cuisine": [
+   "italian",
+   "brunch",
+   "zimtschnecken"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "family",
+   "business"
+  ],
+  "mood": [
+   "cozy",
+   "romantic"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Kleines italienisches Wohnzimmer an der Karlstraße — Croissants, hausgemachte Kuchen, Espresso, Focaccia & Panini. Karlstr. 52.",
+  "bookingUrl": "https://www.nonnas-cafe.de/",
+  "instagram": "nonnascafe_muc",
+  "curated": true,
+  "image": "https://www.nonnas-cafe.de/opengraph-image.jpg?7f0e4e42830cc63a"
+ },
+ {
+  "id": "snack-ana-spanish",
+  "type": "restaurant",
+  "name": "Ana Spanish Cheesecake",
+  "neighborhood": "Innenstadt",
+  "cuisine": [
+   "cheesecake",
+   "brunch"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date"
+  ],
+  "mood": [
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Cremiger spanischer Cheesecake im Pop-up-Setting an der Sonnenstraße. Sonnenstr. 24-26.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Ana+Spanish+Cheesecake+M%C3%BCnchen",
+  "instagram": "anaspanishcheesecake",
+  "curated": true
+ },
+ {
+  "id": "snack-cafe-mabae",
+  "type": "restaurant",
+  "name": "Cafe MaBae",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "cheesecake",
+   "brunch",
+   "middle-eastern"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Türkisch-inspiriertes Café mit Pistachio-Cheesecake als Star und hochwertigem Kaffee. Schellingstr. 143.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Cafe+MaBae+M%C3%BCnchen",
+  "instagram": "cafe.mabae",
+  "curated": true
+ },
+ {
+  "id": "snack-mackbear",
+  "type": "restaurant",
+  "name": "Mackbear Coffee Co.",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "brunch",
+   "cheesecake"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "business",
+   "date"
+  ],
+  "mood": [
+   "cozy",
+   "chic",
+   "trendy"
+  ],
+  "exclusivity": 1,
+  "features": [],
+  "pitch": "Specialty-Coffee-Café mit Cult-Following — top Kaffee, Cheesecake, ruhige Wohlfühlatmosphäre. Leopoldstr. 44.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Mackbear+Coffee+Co+M%C3%BCnchen+Leopoldstr",
+  "instagram": "mackbear_coffee_co_germany",
+  "curated": true
+ },
+ {
+  "id": "snack-cheesecake-witch",
+  "type": "restaurant",
+  "name": "Cheesecake Witch",
+  "neighborhood": "Neuhausen",
+  "cuisine": [
+   "cheesecake",
+   "brunch"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "celebration",
+   "family"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Kleines Café in Neuhausen mit ca. 25 verschiedenen American-Style Cheesecakes, handgemacht. Quark statt Cream Cheese für die typische Textur. Volkartstr.",
+  "bookingUrl": "https://www.cheesecake-witch.com/",
+  "instagram": "cheesecake_witch",
+  "curated": true
+ },
+ {
+  "id": "snack-matcharina",
+  "type": "restaurant",
+  "name": "Matcha Rina",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "matcha",
+   "brunch"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "cozy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Premium-Matcha-Bar am Odeonsplatz im Mercedes Store — Brienner Str. 1. Hochwertiger Ceremonial-Matcha to-go und vor Ort.",
+  "bookingUrl": "https://www.matcharina.com/pages/bar",
+  "instagram": "matcharina_official",
+  "curated": true,
+  "image": "http://www.matcharina.com/cdn/shop/files/Matcha-Rina-1_Zeichenflaeche_1_a622239a-bc9d-49cf-9bfa-3ceafff18ccd.png?v=1747333248"
+ },
+ {
+  "id": "snack-kencho-matcha",
+  "type": "restaurant",
+  "name": "Kencho Matcha",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "matcha",
+   "brunch",
+   "japanese"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Matcha-Café in der Maxvorstadt — Schellingstr. 15. Di-So 12-20 Uhr.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=Kencho+Matcha+Schellingstr+M%C3%BCnchen",
+  "instagram": "kencho.matcha",
+  "curated": true,
+  "peopleWatching": true
+ },
+ {
+  "id": "snack-toto-matcha",
+  "type": "restaurant",
+  "name": "toto Matcha",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "matcha",
+   "brunch",
+   "japanese"
+  ],
+  "price": 1,
+  "occasion": [
+   "casual",
+   "date",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Matcha-Café an der Schellingstr. 48, Maxvorstadt. Mo-Do 11-20 Uhr.",
+  "bookingUrl": "https://www.google.com/maps/search/?api=1&query=toto+Matcha+M%C3%BCnchen+Schellingstr",
+  "instagram": "toto.matcha",
+  "curated": true
+ },
+ {
+  "id": "tip-gigi-trattoria",
+  "type": "restaurant",
+  "name": "GIGI Trattoria",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "italian",
+   "pizza",
+   "modern-european"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "group",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "lively"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Italian Lifestyle trifft modernes Schwabing. Neapolitanische Pizza + hausgemachte Pasta. Türkenstr. 83.",
+  "bookingUrl": "https://www.gigi.restaurant/",
+  "instagram": "gigimunich",
+  "curated": true
+ },
+ {
+  "id": "tip-bono",
+  "type": "restaurant",
+  "name": "BONO",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "italian",
+   "brunch"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "group",
+   "brunch"
+  ],
+  "mood": [
+   "lively",
+   "chic",
+   "social"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Italienisch direkt an der Münchner Freiheit. Live-Musik mit DJs + Saxophon am Wochenende, Brunch Sa/So. Leopoldstr. 74.",
+  "bookingUrl": "https://www.bonomuenchen.de/",
+  "instagram": "bono.muenchen",
+  "curated": true
+ },
+ {
+  "id": "tip-azuki",
+  "type": "restaurant",
+  "name": "Azuki",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "japanese",
+   "asian-fusion",
+   "vietnamese"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "business",
+   "celebration"
+  ],
+  "mood": [
+   "chic",
+   "elegant",
+   "trendy"
+  ],
+  "exclusivity": 4,
+  "features": [],
+  "pitch": "Japanisch-vietnamesisch im Palais an der Oper. Gegenüber Nationaltheater zwischen Louis Vuitton und Bucherer. Hofgraben 9.",
+  "bookingUrl": "https://azukimunich.com/",
+  "instagram": "azuki_munich",
+  "curated": true,
+  "peopleWatching": true
+ },
+ {
+  "id": "tip-brezenreiter",
+  "type": "restaurant",
+  "name": "Brezenreiter Restaurant - Café",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "bavarian",
+   "german",
+   "modern-european"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "group",
+   "brunch"
+  ],
+  "mood": [
+   "lively",
+   "social",
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Trendy Day-Bar am Viktualienmarkt. Brezelschnitzel + Aperol-Tower. Prälat-Miller-Weg 3.",
+  "bookingUrl": "https://www.brezenreiter.de/",
+  "instagram": "brezenreiter",
+  "curated": true
+ },
+ {
+  "id": "tip-89anju",
+  "type": "restaurant",
+  "name": "89Anju",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "korean",
+   "asian-fusion"
+  ],
+  "price": 2,
+  "occasion": [
+   "date",
+   "group",
+   "casual"
+  ],
+  "mood": [
+   "trendy",
+   "lively",
+   "social"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Korean Street Food wie in Seouls Itaewon/Hongdae. Fried Chicken (Volcano!), Bibimbap, Japchae. Luisenstr. 47.",
+  "bookingUrl": "https://www.89anju.com/",
+  "instagram": "89anju_munich",
+  "curated": true,
+  "image": "http://static1.squarespace.com/static/632c539ba595a554efe73243/t/632c546126d556071798005e/1663849569768/ANJUS+TRANS.png?format=1500w"
+ },
+ {
+  "id": "tip-amari",
+  "type": "restaurant",
+  "name": "AMARi Kantine & Bar",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "modern-european",
+   "mediterranean"
+  ],
+  "price": 2,
+  "occasion": [
+   "casual",
+   "group",
+   "date",
+   "brunch"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "social",
+   "lively"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Wohnzimmer-Feeling im Kunstlabor 2 nahe Stiglmaierplatz. Kantine + Bar + Eventlocation in einem. Dachauer Str. 90.",
+  "bookingUrl": "https://www.amari-muenchen.de/",
+  "instagram": "amari_muenchen",
+  "curated": true,
+  "image": "https://ugc.zenchef.com/3/7/1/2/3/9/1/5/4/6/6/8/2/1733849372_213/cf0d96cab12616f559b74cd8da792cf1.website.jpg"
+ },
+ {
+  "id": "tip-story-cafe",
+  "type": "restaurant",
+  "name": "Story Café",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "brunch",
+   "café",
+   "bakery"
+  ],
+  "price": 2,
+  "occasion": [
+   "brunch",
+   "casual",
+   "solo"
+  ],
+  "mood": [
+   "cozy",
+   "social",
+   "chic"
+  ],
+  "exclusivity": 2,
+  "features": [
+   "vegan"
+  ],
+  "pitch": "Bio-Frühstück im Blauen Haus. Großer runder Holztisch für die Brunch-Runde mit den besten Freund*innen. Schellingstr. 143.",
+  "bookingUrl": "https://www.story-cafe-muenchen.de/",
+  "instagram": "storycafemunich",
+  "curated": true
+ },
+ {
+  "id": "tip-cafe-puck",
+  "type": "restaurant",
+  "name": "Café Puck",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "american",
+   "international",
+   "brunch"
+  ],
+  "price": 2,
+  "occasion": [
+   "brunch",
+   "casual",
+   "group"
+  ],
+  "mood": [
+   "cozy",
+   "social",
+   "lively"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Schwabinger Klassiker an der Türkenstraße seit Ewigkeiten. Frühstück mit US-Bagel + Räucherlachs, Mittagskarte mit Lammhaxe. Türkenstr. 33.",
+  "bookingUrl": "https://cafe-puck.de/",
+  "instagram": "cafepuck",
+  "curated": true
+ },
+ {
+  "id": "tip-buchwalsky",
+  "type": "restaurant",
+  "name": "Café Buchwalsky",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "café",
+   "brunch",
+   "bakery"
+  ],
+  "price": 2,
+  "occasion": [
+   "brunch",
+   "casual",
+   "solo"
+  ],
+  "mood": [
+   "cozy",
+   "chic",
+   "trendy",
+   "social"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Eck-Coffee mit rotierendem Pop-up-Antiquariat. Plum Crumble, Cheesecake, starker Espresso. Barer Str. 74.",
+  "bookingUrl": "https://www.feinkost-buchwalsky.de/",
+  "instagram": "cafe_buchwalsky",
+  "curated": true
+ },
+ {
+  "id": "tip-soda",
+  "type": "restaurant",
+  "name": "Café Soda",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "italian",
+   "café",
+   "brunch"
+  ],
+  "price": 2,
+  "occasion": [
+   "brunch",
+   "casual",
+   "date",
+   "group"
+  ],
+  "mood": [
+   "lively",
+   "social",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Maxvorstadt-Klassiker zwischen Alter Pinakothek und Akademie. Geöffnet bis 2 Uhr nachts. Türkenstr. 51.",
+  "bookingUrl": "https://cafesoda.de/",
+  "instagram": "cafesoda.muenchen",
+  "curated": true,
+  "peopleWatching": true
+ },
+ {
+  "id": "tip-morso",
+  "type": "restaurant",
+  "name": "Café Morso",
+  "neighborhood": "Schwabing",
+  "cuisine": [
+   "italian",
+   "café",
+   "brunch"
+  ],
+  "price": 2,
+  "occasion": [
+   "brunch",
+   "casual",
+   "date"
+  ],
+  "mood": [
+   "chic",
+   "cozy",
+   "social",
+   "trendy"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Italienischer Kurzurlaub im Vintage-Interieur. Drei Münchner Locations — Original in der Nordendstr. 17.",
+  "bookingUrl": "https://www.morso-cafe.de/",
+  "instagram": "morsomunich",
+  "curated": true,
+  "peopleWatching": true
+ },
+ {
+  "id": "tip-bar-montez",
+  "type": "bar",
+  "name": "Bar Montez",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "tatar",
+   "cocktails",
+   "wine-bar"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "drinks",
+   "celebration"
+  ],
+  "mood": [
+   "elegant",
+   "chic",
+   "intimate",
+   "live-music"
+  ],
+  "exclusivity": 4,
+  "features": [],
+  "pitch": "Maki-Favorit: das Beef-Tatar ist ein absolutes Highlight. Dazu Lola-Montez-Vibes im Rosewood — täglich Live-Jazz, Soul, Bossa Nova am Piano. Kardinal-Faulhaber-Str. 1.",
+  "bookingUrl": "https://www.rosewoodhotels.com/de/munich/dining/bar-montez",
+  "instagram": "rosewoodmunich",
+  "curated": true,
+  "makiApproved": true
+ },
+ {
+  "id": "tip-geisha-cheesecake",
+  "type": "snack",
+  "name": "Geisha",
+  "neighborhood": "Gärtnerplatz",
+  "cuisine": [
+   "cheesecake",
+   "matcha",
+   "japanese"
+  ],
+  "price": 3,
+  "occasion": [
+   "dessert",
+   "café",
+   "date"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "social"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Matcha-Cheesecake im Pan-Asia & Sushi-Bar am Gärtnerplatz. Auch Frühstück (Sexy Peach Croissant!). Corneliusstr. 2.",
+  "bookingUrl": "https://geisha-sushibar.de/",
+  "instagram": "geisha.munich",
+  "curated": true
+ },
+ {
+  "id": "tip-joon-cheesecake",
+  "type": "snack",
+  "name": "Café Joon",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "cheesecake",
+   "café",
+   "brunch"
+  ],
+  "price": 2,
+  "occasion": [
+   "café",
+   "brunch",
+   "drinks"
+  ],
+  "mood": [
+   "cozy",
+   "social",
+   "trendy"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "Vom Frühstück bis zum Feierabenddrink. Cheesecake auf der Karte, U-Theresienstraße direkt vor der Tür. Theresienstr. 114.",
+  "bookingUrl": "http://cafejoon.de/",
+  "instagram": "cafejoon",
+  "curated": true
+ },
+ {
+  "id": "tip-tillu-coffee",
+  "type": "snack",
+  "name": "Tillu Coffee",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "café",
+   "cheesecake",
+   "specialty-coffee"
+  ],
+  "price": 2,
+  "occasion": [
+   "café",
+   "solo"
+  ],
+  "mood": [
+   "cozy",
+   "trendy",
+   "social"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Äthiopische Kaffeezeremonie + Specialty Coffee. Maxvorstadt-Geheimtipp mit traditioneller Brewing-Show. Augustenstr. 106.",
+  "bookingUrl": "https://www.tillu-coffee.de/",
+  "instagram": "tillucoffee",
+  "curated": true
+ },
+ {
+  "id": "tip-life-is-sweet",
+  "type": "snack",
+  "name": "Life is Sweet",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "cheesecake",
+   "bakery",
+   "american"
+  ],
+  "price": 2,
+  "occasion": [
+   "dessert",
+   "café"
+  ],
+  "mood": [
+   "cozy",
+   "trendy",
+   "social"
+  ],
+  "exclusivity": 3,
+  "features": [
+   "vegan"
+  ],
+  "pitch": "American Sweets von Kevin Otto (ex-Ginger & Grays). Pistachio-Baklava-Cheesecake, Dubai-Chocolate-Cheesecake, vegane Torten. Pestalozzistr. 17.",
+  "bookingUrl": "https://www.lifeissweetmunich.com/",
+  "instagram": "lifeissweetmunich",
+  "curated": true
+ },
+ {
+  "id": "tip-treemans",
+  "type": "snack",
+  "name": "Treemans",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "cheesecake",
+   "bakery",
+   "american"
+  ],
+  "price": 2,
+  "occasion": [
+   "café",
+   "dessert",
+   "casual"
+  ],
+  "mood": [
+   "cozy",
+   "trendy",
+   "social"
+  ],
+  "exclusivity": 2,
+  "features": [],
+  "pitch": "American Coffee & Bakery mit fantastischen Cheesecakes + Made-in-USA-Produkten. Bagels, Sandwiches, Imports. Dachauer Str. 69.",
+  "bookingUrl": "https://www.treemans.de/",
+  "instagram": "treemans.muc",
+  "curated": true
+ },
+ {
+  "id": "tip-bato",
+  "type": "snack",
+  "name": "BaTo Café",
+  "neighborhood": "Maxvorstadt",
+  "cuisine": [
+   "zimtschnecken",
+   "café",
+   "bakery"
+  ],
+  "price": 2,
+  "occasion": [
+   "café",
+   "dessert"
+  ],
+  "mood": [
+   "cozy",
+   "trendy"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Zimtschnecken in verschiedenen Varianten, dazu Cakes, Cookies, Tarts. Heßstr. 71.",
+  "bookingUrl": "",
+  "instagram": "bato.cafe",
+  "curated": true
+ },
+ {
+  "id": "tip-brenner-grill",
+  "type": "restaurant",
+  "name": "Brenner Operngrill",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "tatar",
+   "italian",
+   "grill",
+   "modern-european"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "business",
+   "celebration",
+   "group"
+  ],
+  "mood": [
+   "chic",
+   "elegant",
+   "trendy",
+   "lively"
+  ],
+  "exclusivity": 4,
+  "features": [],
+  "pitch": "Seit 2003 in den ehemaligen königlichen Stallungen an der Maximilianstr. Grill mit offenem Feuer, frische Pasta, große Bar. Tatar gehört zu den Klassikern. Maximilianstr. 15.",
+  "bookingUrl": "https://www.brennergrill.de/",
+  "instagram": "brennergrill",
+  "curated": true
+ },
+ {
+  "id": "tip-schumanns",
+  "type": "bar",
+  "name": "Schumann's Bar",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "tatar",
+   "cocktails",
+   "wine-bar"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "drinks",
+   "business"
+  ],
+  "mood": [
+   "elegant",
+   "chic",
+   "intimate"
+  ],
+  "exclusivity": 4,
+  "features": [],
+  "pitch": "American-Style-Cocktail-Bar im Herzen Münchens — seit Jahrzehnten Klassiker. Roastbeef + Tatar auf der kleinen Karte. Odeonsplatz 6-7.",
+  "bookingUrl": "https://www.schumanns.de/",
+  "instagram": "schumannsbarmunich",
+  "curated": true
+ },
+ {
+  "id": "tip-halali",
+  "type": "restaurant",
+  "name": "Restaurant Halali",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "tatar",
+   "bavarian",
+   "german",
+   "modern-european"
+  ],
+  "price": 4,
+  "occasion": [
+   "date",
+   "celebration",
+   "business"
+  ],
+  "mood": [
+   "elegant",
+   "traditionell",
+   "intimate"
+  ],
+  "exclusivity": 4,
+  "features": [],
+  "pitch": "Bayerisch-Klassisch in elegantem Ambiente. Wildgerichte, Wiener Schnitzel und ein hervorragendes Beef-Tatar. Schönfeldstr. 22.",
+  "bookingUrl": "https://www.restaurant-halali.de/",
+  "instagram": "restauranthalali",
+  "curated": true
+ },
+ {
+  "id": "tip-avin",
+  "type": "restaurant",
+  "name": "Avin Wine Bar",
+  "neighborhood": "Glockenbach",
+  "cuisine": [
+   "tatar",
+   "modern-european",
+   "wine-bar"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "drinks",
+   "group"
+  ],
+  "mood": [
+   "chic",
+   "trendy",
+   "intimate"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Hohe Decken, burgunderrote Stühle, Holztische — minimalistisch im Glockenbach. Wechselnde Karte mit Beef-Tatar + Crostini + Trüffel-Mascarpone als Signature.",
+  "bookingUrl": "https://www.avin-muenchen.de/",
+  "instagram": "avin.muenchen",
+  "curated": true
+ },
+ {
+  "id": "tip-burger-lobster",
+  "type": "restaurant",
+  "name": "Burger & Lobster",
+  "neighborhood": "Altstadt",
+  "cuisine": [
+   "tatar",
+   "american",
+   "steakhouse"
+  ],
+  "price": 3,
+  "occasion": [
+   "date",
+   "group",
+   "business",
+   "casual"
+  ],
+  "mood": [
+   "lively",
+   "trendy",
+   "social"
+  ],
+  "exclusivity": 3,
+  "features": [],
+  "pitch": "Burger, Lobster, Steak — und ein erstklassiges Beef-Tatar. Münchner Klassiker hinter dem Lenbachplatz seit 2014. Salvatorstr. 6.",
+  "bookingUrl": "https://burger-and-lobster.de/",
+  "instagram": "burgerandlobster",
+  "curated": true
+ }
+]

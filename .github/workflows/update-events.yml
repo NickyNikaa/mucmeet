@@ -28,11 +28,13 @@ jobs:
         run: npm install --no-audit --no-fund
       - name: Venue-Events ergänzen (ehem. picky-app-Scraper)
         run: node scripts/fetch_venues.mjs
+      - name: Orte (Restaurants/Bars) aktualisieren
+        run: node scripts/fetch_places.mjs
       - name: events.json committen (falls geändert)
         run: |
           git config user.name "mucmeet-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add events.json
+          git add events.json places.json
           if git diff --staged --quiet; then
             echo "Keine Änderungen."
           else

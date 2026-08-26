@@ -166,7 +166,7 @@
     <div id="meChip" class="me" style="display:none" onclick="openLogin()">
       <span class="av" id="meAv">?</span><span id="meHandle">@du</span>
     </div>
-    <button id="loginBtn" class="btn sm" onclick="openLogin()">Mit Instagram anmelden</button>
+    
   </div>
 </header>
 
@@ -578,8 +578,7 @@ function calShift(n){calMonth=new Date(calMonth.getFullYear(),calMonth.getMonth(
 function selectDay(iso){selectedDate=(selectedDate===iso?null:iso);render();}
 function renderCalendar(){
   const all=currentList();
-  if(!calMonth){const ds=(all[0]&&all[0].date)||EVENTS.map(e=>e.date).sort()[0]||"2026-06-01";
-    const d=new Date(ds+"T00:00:00"); calMonth=new Date(d.getFullYear(),d.getMonth(),1);}
+  if(!calMonth){const now=new Date(); calMonth=new Date(now.getFullYear(),now.getMonth(),1);}
   const y=calMonth.getFullYear(), m=calMonth.getMonth();
   const byDate={}; all.forEach(e=>{(byDate[e.date]=byDate[e.date]||[]).push(e)});
   const startDow=(new Date(y,m,1).getDay()+6)%7;      // Montag = 0
@@ -683,7 +682,7 @@ async function loadRemote(){
 /* ====================================================================
    PICKY-INTEGRATION — Events / Orte / Communities aus picky-app
    ==================================================================== */
-const PICKY="https://picky-app-puce.vercel.app/api";
+
 function hashCode(s){s=String(s);let h=0;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))|0;return Math.abs(h)}
 function weekdayShort(iso){try{return ["So","Mo","Di","Mi","Do","Fr","Sa"][new Date(iso+"T00:00:00").getDay()]}catch(e){return ""}}
 
@@ -706,26 +705,7 @@ const PCAT_EV={ "live-music":"music","dj-club":"music","underground":"music","ka
  "sober":"gastro","rooftop-sundown":"gastro",
  "popup":"popup","market":"popup","vernissage":"popup","workshop":"popup","book-reading":"popup","community":"popup",
  "flinta-queer":"date","wellness":"yoga","sports-watch":"popup","gaming":"popup" };
-async function loadPickyEvents(){
-  try{
-    const r=await fetch(PICKY+"/events?city=munich",{cache:"no-store"});
-    if(!r.ok) return 0;
-    const j=await r.json();
-    const list=(j.events||[]).filter(e=>e&&e.title&&/^\d{4}-\d{2}-\d{2}$/.test(e.date||""));
-    const ids=new Set(EVENTS.map(e=>String(e.id)));
-    let n=0;
-    list.forEach(e=>{
-      const id="pk-"+(e.id||hashCode(e.title+e.date));
-      if(ids.has(id)) return;
-      EVENTS.push({ id, cat:PCAT_EV[e.category]||"popup", title:e.title, date:e.date,
-        time:e.time?(weekdayShort(e.date)+" "+e.time):"Termin siehe Link",
-        loc:e.venueName||"München", ig:"", igUrl:e.sourceUrl||"#",
-        desc:(e.pitch||"")+(e.price?` · ${e.price}`:""), img:e.imageUrl||"" });
-      ids.add(id); n++;
-    });
-    return n;
-  }catch(e){ return 0; }
-}
+async function loadPickyEvents(){ return 0; } // Events kommen jetzt ueber loadRemote() aus events.json (taeglicher Cron)
 
 /* ---- ORTE (Restaurants & Bars von Picky) ---- */
 let orteData=[], orteType="all", orteOcc="", orteMood="", ortePrice=0;
@@ -734,15 +714,8 @@ const MOOD=[["romantic","Romantisch"],["elegant","Elegant"],["chic","Chic"],["tr
 async function loadOrte(){
   document.getElementById("orteGrid").innerHTML=`<div class="calhint">Lade Münchens Orte… 🍽</div>`;
   try{
-    const [c,o]=await Promise.all([
-      fetch(PICKY+"/places-curated?ts="+Date.now()).then(r=>r.json()).catch(()=>({places:[]})),
-      fetch(PICKY+"/places-osm?city=munich").then(r=>r.json()).catch(()=>({places:[]}))
-    ]);
-    const seen=new Set(); orteData=[];
-    [...(c.places||[]),...(o.places||[])].forEach(p=>{
-      const k=(p.name||"").toLowerCase().trim();
-      if(p.name && !seen.has(k)){ seen.add(k); orteData.push(p); }
-    });
+    const p=await fetch("places.json?ts="+Date.now()).then(r=>r.json()).catch(()=>({places:[]}));
+    orteData=p.places||[];
     orteLoaded=true; renderOrteFilters(); renderOrte();
   }catch(e){ document.getElementById("orteGrid").innerHTML=`<div class="calhint">Orte konnten gerade nicht geladen werden.</div>`; }
 }
@@ -813,7 +786,7 @@ let commData=[], commCat="all";
 async function loadComm(){
   document.getElementById("commGrid").innerHTML=`<div class="calhint">Lade Communities… 👥</div>`;
   try{
-    const j=await fetch(PICKY+"/communities").then(r=>r.json());
+    const j=await fetch("communities.json?ts="+Date.now()).then(r=>r.json());
     commData=j.communities||[];
     commLoaded=true; renderCommFilters(); renderComm();
   }catch(e){ document.getElementById("commGrid").innerHTML=`<div class="calhint">Communities konnten gerade nicht geladen werden.</div>`; }
