@@ -1,17 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vja7fp7",
-  "cat": "music",
-  "title": "Swae Lee - Same Difference Tour Europe",
-  "date": "2026-08-26",
-  "time": "Mi 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/swae-lee-same-difference-tour-europe-tickets/1709114584?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/70f/fcffdc31-4203-4069-a6a3-69afbe16070f_SOURCE"
- },
- {
   "id": "tm-LvZ18Qpzu_y4HLYZy9ji1",
   "cat": "music",
   "title": "SUPERBLOOM 2026 Experience Day - Samstag",
@@ -770,12 +758,12 @@
  {
   "id": "tm-Z698xZC2Z1keK7s4o",
   "cat": "music",
-  "title": "Polyphia Tour MMXXVI",
+  "title": "Polyphia - BE NOT AFRAID World Tour",
   "date": "2026-11-27",
   "time": "Fr 19:30",
   "loc": "Munich",
   "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/polyphia-tour-mmxxvi-tickets/93131551?language=en-us",
+  "igUrl": "https://www.ticketmaster.de/event/polyphia-be-not-afraid-world-tour-tickets/93131551?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE"
  },
@@ -828,6 +816,18 @@
   "img": "https://s1.ticketm.net/dam/a/fc4/4c22c3e3-4ec8-418a-8d76-c8da85487fc4_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1kbSGyA6",
+  "cat": "music",
+  "title": "WesGhost - If It's Not Forever",
+  "date": "2026-12-03",
+  "time": "Do 19:30",
+  "loc": "Nachtwerk, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/wesghost-if-its-not-forever-tickets/633339147?language=en-us",
+  "desc": "Music · Alternative in Nachtwerk. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/e62/de29a3f9-efa1-4e98-abef-a7fe93844e62_SOURCE"
+ },
+ {
   "id": "tm-LvZ18QLeU5_-i7Zv1Xsbo",
   "cat": "music",
   "title": "Bell Book & Candle - Club Tour \"EXCLUSIVE\"",
@@ -838,18 +838,6 @@
   "igUrl": "https://www.universe.com/events/bell-book-candle-club-tour-exclusive-tickets-B6D23Y?ref=ticketmaster",
   "desc": "Music · Pop in Sugar Shack. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/908/970d3aef-5190-4b89-be04-15d032c0f908_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kbSGyA6",
-  "cat": "music",
-  "title": "WesGhost - If It's Not Forever",
-  "date": "2026-12-03",
-  "time": "Do 20:30",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/wesghost-if-its-not-forever-tickets/633339147?language=en-us",
-  "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/e62/de29a3f9-efa1-4e98-abef-a7fe93844e62_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1k3Fveos",
@@ -1318,5 +1306,17 @@
   "igUrl": "https://www.ticketmaster.de/event/omar76-tour-2026-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/1500053901?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/b5a/f867e4dd-6be4-45cf-95ae-8493b26c8b5a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kFeAA4E",
+  "cat": "music",
+  "title": "Dieter Bohlen - Cheri Cheri Lady Tour 2027",
+  "date": "2027-05-26",
+  "time": "Mi 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
