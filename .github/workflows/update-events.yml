@@ -1,31 +1,33 @@
 name: Update events (täglich)
-
 on:
   schedule:
     - cron: "0 4 * * *"   # jeden Tag um 04:00 UTC (~06:00 München)
   workflow_dispatch: {}    # erlaubt manuelles Auslösen im GitHub-Tab "Actions"
-
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Events holen
+      - name: Events holen (Ticketmaster/SerpAPI)
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python scripts/fetch_events.py
-
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Venue-Scraper installieren
+        run: npm install --no-audit --no-fund
+      - name: Venue-Events ergänzen (ehem. picky-app-Scraper)
+        run: node scripts/fetch_venues.mjs
       - name: events.json committen (falls geändert)
         run: |
           git config user.name "mucmeet-bot"
@@ -34,6 +36,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Keine Änderungen."
           else
-            git commit -m "Auto-Update Events $(date -u +%F)"
+            git commit -m "Auto-Update Events (Events + Venues) $(date -u +%F)"
             git push
           fi

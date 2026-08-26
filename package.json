@@ -1,0 +1,16 @@
+{
+  "name": "mucmeet",
+  "version": "0.2.0",
+  "description": "MUCmeet – Muenchner Event-Plattform, taeglicher Auto-Import (Ticketmaster/SerpAPI + Venue-Scraper)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:venues": "node scripts/fetch_venues.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
