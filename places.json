@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generatedAt": "2026-08-27T14:51:52.101Z",
+  "generatedAt": "2026-08-28T15:46:39.425Z",
   "curated": 106,
   "osm": 800,
-  "total": 852
+  "total": 851
  },
  "places": [
   {
@@ -19477,34 +19477,6 @@
    ],
    "pitch": "Aus OpenStreetMap. indian · Leopoldstraße · geöffnet: Mo-Fr 11:30-14:30,17:30-23:00; Sa 12:00-00:00; Su 12:00-23:3",
    "bookingUrl": "https://www.swaadgermany.com/",
-   "osm": true
-  },
-  {
-   "id": "osm-n12758478808",
-   "type": "restaurant",
-   "name": "Griechische Taverne am Siebenbrunn",
-   "neighborhood": "München",
-   "cuisine": [
-    "greek"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family",
-    "group"
-   ],
-   "mood": [
-    "cozy",
-    "lively",
-    "trendy"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace"
-   ],
-   "pitch": "Aus OpenStreetMap. greek · Siebenbrunner Straße · geöffnet: Mo-Su 11:00-23:00",
-   "bookingUrl": "https://www.griechische-taverne-am-siebenbrunn.de/",
    "osm": true
   },
   {
