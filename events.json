@@ -1,22 +1,10 @@
 [
  {
-  "id": "tm-LvZ18Qpzu_y4HLYZy9ji1",
-  "cat": "music",
-  "title": "SUPERBLOOM 2026 Experience Day - Samstag",
-  "date": "2026-08-29",
-  "time": "Sa 21:30",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.universe.com/events/superbloom-2026-experience-day-samstag-tickets-LVQSWF?ref=ticketmaster",
-  "desc": "Music · Undefined in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/f84/08c99d79-c947-4a87-b5d9-0bdc383dbf84_SOURCE"
- },
- {
   "id": "tm-LvZ18Qpz8oKu0POZyE61A",
   "cat": "music",
   "title": "SUPERBLOOM 2026 Experience Day - Sonntag",
   "date": "2026-08-30",
-  "time": "So 10:00",
+  "time": "So 21:30",
   "loc": "Munich",
   "ig": "",
   "igUrl": "https://www.universe.com/events/superbloom-2026-experience-day-sonntag-tickets-Y7D6MV?ref=ticketmaster",
@@ -1330,5 +1318,17 @@
   "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vpd83rZ",
+  "cat": "music",
+  "title": "Delil & Avie - 2ORTAKS TOUR 2027 | Premium Package",
+  "date": "2027-06-05",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/delil--avie-2ortaks-tour-2027-%7C-premium-package-tickets/1583412780?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b73/ebb46d5b-0442-45a6-8430-76abf0971b73_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
