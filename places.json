@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-08-31T10:14:39.786Z",
+  "generatedAt": "2026-09-01T08:59:29.728Z",
   "curated": 106,
   "osm": 800,
   "total": 851
@@ -13979,7 +13979,7 @@
   {
    "id": "osm-n2335312069",
    "type": "restaurant",
-   "name": "De Afric",
+   "name": "Sunshine",
    "neighborhood": "München",
    "cuisine": [
     "international"
@@ -13998,8 +13998,8 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. eritrean · Theresienstraße · geöffnet: Mo-Th 17:00-23:00; Fr, Sa 17:00+; Su 17:00-23:00",
-   "bookingUrl": "https://www.deafric.com",
+   "pitch": "Aus OpenStreetMap. ethiopian eritrean · Theresienstraße · geöffnet: Mo-Su 07:30-22:30",
+   "bookingUrl": "https://sunshine-restaurant.de/",
    "osm": true
   },
   {
