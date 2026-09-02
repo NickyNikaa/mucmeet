@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-01T08:59:29.728Z",
+  "generatedAt": "2026-09-02T08:13:33.250Z",
   "curated": 106,
   "osm": 800,
   "total": 851
@@ -14912,7 +14912,7 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. italian · Gustav-Heinemann-Ring · geöffnet: Mo-We 11:00-14:30, Th 17:00-23:00, Fr,Sa 17:00-24:00, Su 17:",
+   "pitch": "Aus OpenStreetMap. italian · Gustav-Heinemann-Ring · geöffnet: Mo-Th 11:00-14:00, 17:00-23:00; Fr, Sa 17:00-24:00; Su 17:00",
    "bookingUrl": "https://vittoria-gatti.de/",
    "osm": true
   },
@@ -20981,8 +20981,8 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. bavarian · geöffnet: Su-Sa 10:00-23:59",
-   "bookingUrl": "https://gasthof-hinterbrühl.de/",
+   "pitch": "Aus OpenStreetMap. bavarian · geöffnet: Tu-Su 11:00-23:00",
+   "bookingUrl": "https://gasthof-hinterbruehl.de",
    "osm": true
   },
   {

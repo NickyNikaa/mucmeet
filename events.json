@@ -1,17 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16v4UvgvV",
-  "cat": "music",
-  "title": "SUPERBLOOM 2026 Concert - SOMBR + ENNIO",
-  "date": "2026-09-01",
-  "time": "Di 19:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/superbloom-2026-concert-sombr--ennio-tickets/1576075074?language=en-us",
-  "desc": "Miscellaneous · Fairs & Festivals in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/e/dfb/1e48c58a-198a-4d44-a787-aa7c9671adfb_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
   "id": "tm-Z698xZC2Z16v-EG88t",
   "cat": "music",
   "title": "SUPERBLOOM 2026 Concert - LEWIS CAPALDI + BASTILLE + JESSIE MURPH",
@@ -1042,6 +1030,18 @@
   "igUrl": "https://www.ticketmaster.de/event/amble-europe-2027-tickets/691728299?language=en-us",
   "desc": "Music · Folk in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/3b2/786a8fbe-6234-42d7-9a6e-e4a07690a3b2_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vxKq4a3",
+  "cat": "music",
+  "title": "Lauren Sanderson - Come Say Sum Tour EU/UK 2027",
+  "date": "2027-02-17",
+  "time": "Mi 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/lauren-sanderson-come-say-sum-tour-eu-uk-2027-tickets/1893755252?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/546/083ba4c2-56ae-43be-9d71-7dd85c25c546_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1Ay0z7K",
