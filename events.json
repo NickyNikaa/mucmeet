@@ -52,7 +52,7 @@
   "cat": "music",
   "title": "A$AP Rocky - Don't Be Dumb World Tour",
   "date": "2026-09-11",
-  "time": "Fr 19:30",
+  "time": "Fr 20:00",
   "loc": "Olympiahalle, Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/aap-rocky-dont-be-dumb-world-tour-tickets/1377074670?language=en-us",
@@ -76,7 +76,7 @@
   "cat": "music",
   "title": "The Pussycat Dolls: PCD FOREVER TOUR",
   "date": "2026-09-14",
-  "time": "Mo 18:30",
+  "time": "Mo 19:00",
   "loc": "Olympiahalle, Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/the-pussycat-dolls-pcd-forever-tour-tickets/658523362?language=en-us",
@@ -196,7 +196,7 @@
   "cat": "music",
   "title": "WITCHZ presents ENTER AFTERLIFE World Tour 2026",
   "date": "2026-09-26",
-  "time": "Sa 20:00",
+  "time": "Sa 20:15",
   "loc": "Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/witchz-presents-enter-afterlife-world-tour-2026-tickets/839527722?language=en-us",
@@ -1080,6 +1080,18 @@
   "img": "https://s1.ticketm.net/dam/a/804/70a4ad4f-1792-4fc0-bf9d-65255126a804_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z1kJpovqg",
+  "cat": "music",
+  "title": "Emeli Sandé - Celebrating 15 Years Of “Our Version Of Events”",
+  "date": "2027-03-06",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/emeli-sande-celebrating-15-years-of-our-version-of-events-tickets/996441775?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/6e8/6cf188d4-5904-4956-827b-81546471a6e8_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z1k_ap30U",
   "cat": "music",
   "title": "Delta Goodrem - PURE World Tour",
@@ -1318,17 +1330,5 @@
   "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1koSuV4v",
-  "cat": "music",
-  "title": "SOMBR // You Are The Reason Tour // Munich",
-  "date": "2027-05-28",
-  "time": "Fr 19:30",
-  "loc": "Olympiahalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-munich-tickets/473374541?language=en-us",
-  "desc": "Music · Alternative in Olympiahalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/385/df02aa0f-e870-4b9a-9729-9c5901fd2385_SOURCE"
  }
 ]
