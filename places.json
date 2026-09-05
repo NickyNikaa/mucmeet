@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-04T08:18:40.074Z",
+  "generatedAt": "2026-09-05T07:55:24.876Z",
   "curated": 106,
   "osm": 800,
   "total": 852
@@ -5334,32 +5334,6 @@
    "osm": true
   },
   {
-   "id": "osm-n315072612",
-   "type": "restaurant",
-   "name": "Gitti's Waldwirtschaft",
-   "neighborhood": "Haar",
-   "cuisine": [
-    "european"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family"
-   ],
-   "mood": [
-    "cozy",
-    "lively"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace"
-   ],
-   "pitch": "Aus OpenStreetMap. regional · Jahnstraße · geöffnet: Mo-Su 11:00-24:00",
-   "bookingUrl": "https://www.gittis-waldwirtschaft.de/",
-   "osm": true
-  },
-  {
    "id": "osm-n315919414",
    "type": "restaurant",
    "name": "Maharani",
@@ -10397,6 +10371,38 @@
    ],
    "pitch": "Aus OpenStreetMap. italian · Haldenbergerstraße · geöffnet: Tu-Su 11:30-24:00",
    "bookingUrl": "https://pizzeria-corretto.de",
+   "osm": true
+  },
+  {
+   "id": "osm-n821058046",
+   "type": "restaurant",
+   "name": "Zum Perlacher Bachgarten",
+   "neighborhood": "München",
+   "cuisine": [
+    "italian",
+    "bavarian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "celebration",
+    "group",
+    "business"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "romantic",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. pizza burger bayrisch german salad chicken · Krehlebogen · geöffnet: Mo-Fr 11:30-23:30, Sa-Su 09:00-23:30",
+   "bookingUrl": "https://www.bachgarten.de",
    "osm": true
   },
   {
@@ -19130,7 +19136,7 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. korean · Thomas-Wimmer-Ring · geöffnet: Mo-Fr 08:00-15:00; Sa 11:00-20:00",
+   "pitch": "Aus OpenStreetMap. korean · Thomas-Wimmer-Ring · geöffnet: Mo-Fr 10:00-15:00; Sa 11:00-20:00",
    "bookingUrl": "http://muenchen-hansik.de/",
    "osm": true
   },
@@ -23209,6 +23215,34 @@
    "osm": true
   },
   {
+   "id": "osm-n315072612",
+   "type": "restaurant",
+   "name": "Zum Waldwichtl",
+   "neighborhood": "Haar",
+   "cuisine": [
+    "european",
+    "bavarian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "group",
+    "business"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [],
+   "pitch": "Aus OpenStreetMap. regional bavarian · Jahnstraße · geöffnet: Mo-Su,PH 11:00-23:00",
+   "bookingUrl": "https://www.gittis-waldwirtschaft.de/",
+   "osm": true
+  },
+  {
    "id": "osm-n315935216",
    "type": "restaurant",
    "name": "phi asia",
@@ -23882,33 +23916,6 @@
    "features": [],
    "pitch": "Aus OpenStreetMap. german · Geigerstraße · geöffnet: May-Sep: Tu-Sa 12:00-22:00; Su 11:00-22:00; Mo off",
    "bookingUrl": "https://ehv-muenchen.de/waldheim/",
-   "osm": true
-  },
-  {
-   "id": "osm-n369608111",
-   "type": "restaurant",
-   "name": "Tannengarten",
-   "neighborhood": "München",
-   "cuisine": [
-    "bavarian"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family",
-    "group",
-    "business"
-   ],
-   "mood": [
-    "cozy",
-    "lively",
-    "traditional"
-   ],
-   "exclusivity": 1,
-   "features": [],
-   "pitch": "Aus OpenStreetMap. bavarian · Pfeuferstraße · geöffnet: Mo-Fr 16:00+; Su,PH 12:00+; Sa 14:00+",
-   "bookingUrl": "https://www.tannengarten-sendling.de/kontakt/",
    "osm": true
   }
  ]

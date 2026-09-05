@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vO-u9_S",
-  "cat": "music",
-  "title": "Foy Vance - Celebrating \"The Wake\" And The Songs of \"If\"",
-  "date": "2026-09-04",
-  "time": "Fr 19:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/foy-vance-celebrating-the-wake-and-the-songs-of-if-tickets/1821357673?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/668/fe88f9d0-7691-4c7a-9c9d-2773fb647668_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1krar88M",
-  "cat": "music",
-  "title": "Zackavelli - MASI 2 TOUR",
-  "date": "2026-09-04",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/zackavelli-masi-2-tour-tickets/789790437?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/209/84ef03c8-4c4d-40ae-a670-a55328021209_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
   "id": "tm-LvZ18QhQvQhx438ZijieQ",
   "cat": "music",
   "title": "Kalimba: Íntimo Tour Deluxe | München",
@@ -1116,6 +1092,18 @@
   "img": "https://s1.ticketm.net/dam/a/f5e/b7997394-7a30-4ae8-84ef-53a961644f5e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z16v1eCeGO",
+  "cat": "music",
+  "title": "Bonobo - Distance In Static - Live",
+  "date": "2027-03-21",
+  "time": "So 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/bonobo-distance-in-static-live-tickets/1282382320?language=en-us",
+  "desc": "Music · Dance/Electronic in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/3a8/db384fc3-0981-4463-b8da-2e8df78cd3a8_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z1kao4EPf",
   "cat": "music",
   "title": "Bobby & Max - Der Mythos des goldenen Drachen I Live-Hörspiel",
@@ -1330,5 +1318,17 @@
   "igUrl": "https://www.ticketmaster.de/event/dieter-bohlen-cheri-cheri-lady-tour-2027-tickets/202145567?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/2bc/2aeac07a-f64b-4b5e-b24a-2e103fcd92bc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1koSuV4v",
+  "cat": "music",
+  "title": "SOMBR // You Are The Reason Tour // Munich",
+  "date": "2027-05-28",
+  "time": "Fr 19:30",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-munich-tickets/473374541?language=en-us",
+  "desc": "Music · Alternative in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/385/df02aa0f-e870-4b9a-9729-9c5901fd2385_SOURCE"
  }
 ]
