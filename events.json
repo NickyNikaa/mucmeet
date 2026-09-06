@@ -1,17 +1,5 @@
 [
  {
-  "id": "tm-LvZ18QhQvQhx438ZijieQ",
-  "cat": "music",
-  "title": "Kalimba: Íntimo Tour Deluxe | München",
-  "date": "2026-09-05",
-  "time": "Sa 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.universe.com/events/kalimba-intimo-tour-deluxe-munchen-tickets-8M2WYT?ref=ticketmaster",
-  "desc": "Music · Latin in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/35c/e18ba925-597a-482d-8c65-258b6644635c_SOURCE"
- },
- {
   "id": "tm-Z698xZC2Z1kfboUe4",
   "cat": "music",
   "title": "Feng - Weekend Rockstar Tour",
@@ -1330,5 +1318,17 @@
   "igUrl": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-munich-tickets/473374541?language=en-us",
   "desc": "Music · Alternative in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/385/df02aa0f-e870-4b9a-9729-9c5901fd2385_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vpd83rZ",
+  "cat": "music",
+  "title": "Delil & Avie - 2ORTAKS TOUR 2027 | Premium Package",
+  "date": "2027-06-05",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/delil--avie-2ortaks-tour-2027-%7C-premium-package-tickets/1583412780?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b73/ebb46d5b-0442-45a6-8430-76abf0971b73_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]

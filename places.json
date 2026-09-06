@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generatedAt": "2026-09-05T07:55:24.876Z",
+  "generatedAt": "2026-09-06T08:12:37.501Z",
   "curated": 106,
   "osm": 800,
-  "total": 852
+  "total": 853
  },
  "places": [
   {
@@ -23916,6 +23916,33 @@
    "features": [],
    "pitch": "Aus OpenStreetMap. german · Geigerstraße · geöffnet: May-Sep: Tu-Sa 12:00-22:00; Su 11:00-22:00; Mo off",
    "bookingUrl": "https://ehv-muenchen.de/waldheim/",
+   "osm": true
+  },
+  {
+   "id": "osm-n369608111",
+   "type": "restaurant",
+   "name": "Tannengarten",
+   "neighborhood": "München",
+   "cuisine": [
+    "bavarian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "group",
+    "business"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [],
+   "pitch": "Aus OpenStreetMap. bavarian · Pfeuferstraße · geöffnet: Mo-Fr 16:00+; Su,PH 12:00+; Sa 14:00+",
+   "bookingUrl": "https://www.tannengarten-sendling.de/kontakt/",
    "osm": true
   }
  ]
