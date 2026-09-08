@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-07T08:44:08.161Z",
+  "generatedAt": "2026-09-08T08:25:22.723Z",
   "curated": 106,
   "osm": 800,
   "total": 853
@@ -4711,7 +4711,7 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. coffee shop · Sankt-Anna-Straße · geöffnet: Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 09:30-12:30",
+   "pitch": "Aus OpenStreetMap. coffee shop · Sankt-Anna-Straße · geöffnet: Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 09:00-14:00",
    "bookingUrl": "https://dukatz.de/",
    "osm": true
   },
