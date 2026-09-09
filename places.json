@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-08T08:25:22.723Z",
+  "generatedAt": "2026-09-09T08:27:54.103Z",
   "curated": 106,
   "osm": 800,
   "total": 853
@@ -15200,6 +15200,35 @@
    "osm": true
   },
   {
+   "id": "osm-n3115068455",
+   "type": "restaurant",
+   "name": "Moonlight Restaurant",
+   "neighborhood": "München",
+   "cuisine": [
+    "asian-fusion",
+    "japanese"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "chic",
+    "trendy"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. asian sushi · Kapuzinerstraße · geöffnet: Mo-Sa 11:30-15:00, Su-Th,PH 17:30-23:00, Fr,Sa 17:30-24:00, ",
+   "bookingUrl": "https://moonlight-restaurant.de/",
+   "osm": true
+  },
+  {
    "id": "osm-n3124057522",
    "type": "restaurant",
    "name": "Le Berlu",
@@ -18205,6 +18234,35 @@
    ],
    "pitch": "Aus OpenStreetMap. italian · Donnersbergerstraße · geöffnet: Tu-Fr 11:30-14:30, 17:30-22:00",
    "bookingUrl": "https://www.piacere-nuovo.com/",
+   "osm": true
+  },
+  {
+   "id": "osm-n7858538685",
+   "type": "restaurant",
+   "name": "Quattro Tavoli",
+   "neighborhood": "München",
+   "cuisine": [
+    "italian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "celebration"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "romantic",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. italian · Dreimühlenstraße · geöffnet: Mo 12:00-15:00,18:00-23:30; Tu-Fr 18:00-23:30; Su off",
+   "bookingUrl": "http://www.quattrotavoli.com/",
    "osm": true
   },
   {
@@ -23889,60 +23947,6 @@
    "features": [],
    "pitch": "Aus OpenStreetMap. regional · Donnersbergerstraße · geöffnet: Mo-Th, Su 10:00-01:00; Fr, Sa 10:00-02:00",
    "bookingUrl": "https://www.sappralott.de/start.html",
-   "osm": true
-  },
-  {
-   "id": "osm-n366500724",
-   "type": "restaurant",
-   "name": "Waldheim des evang. Handwerkervereins in Gräfelfing",
-   "neighborhood": "Gräfelfing",
-   "cuisine": [
-    "bavarian"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family",
-    "group",
-    "business"
-   ],
-   "mood": [
-    "cozy",
-    "lively",
-    "traditional"
-   ],
-   "exclusivity": 1,
-   "features": [],
-   "pitch": "Aus OpenStreetMap. german · Geigerstraße · geöffnet: May-Sep: Tu-Sa 12:00-22:00; Su 11:00-22:00; Mo off",
-   "bookingUrl": "https://ehv-muenchen.de/waldheim/",
-   "osm": true
-  },
-  {
-   "id": "osm-n369608111",
-   "type": "restaurant",
-   "name": "Tannengarten",
-   "neighborhood": "München",
-   "cuisine": [
-    "bavarian"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family",
-    "group",
-    "business"
-   ],
-   "mood": [
-    "cozy",
-    "lively",
-    "traditional"
-   ],
-   "exclusivity": 1,
-   "features": [],
-   "pitch": "Aus OpenStreetMap. bavarian · Pfeuferstraße · geöffnet: Mo-Fr 16:00+; Su,PH 12:00+; Sa 14:00+",
-   "bookingUrl": "https://www.tannengarten-sendling.de/kontakt/",
    "osm": true
   }
  ]

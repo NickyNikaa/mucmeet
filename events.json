@@ -132,6 +132,18 @@
   "img": "https://s1.ticketm.net/dam/a/7e2/3b930a15-7f0c-4498-93c7-87a95741f7e2_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1k78r67Z",
+  "cat": "music",
+  "title": "Vundabar & Yot Club",
+  "date": "2026-09-26",
+  "time": "Sa 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/vundabar--yot-club-tickets/110787100?language=en-us",
+  "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/d32/1739fe40-eee0-45cb-a3e2-690e88e2ad32_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z16vGI_sxo",
   "cat": "music",
   "title": "Stand Atlantic - Europe / UK 2026",
@@ -142,18 +154,6 @@
   "igUrl": "https://www.ticketmaster.de/event/stand-atlantic-europe-uk-2026-tickets/1328671891?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/7ac/dd0f5eb1-0d38-4693-b7a1-b1a8b0cbe7ac_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1k78r67Z",
-  "cat": "music",
-  "title": "Vundabar & Yot Club",
-  "date": "2026-09-26",
-  "time": "Sa 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/vundabar--yot-club-tickets/110787100?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/d32/1739fe40-eee0-45cb-a3e2-690e88e2ad32_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kOyfEjx",
@@ -269,10 +269,10 @@
   "title": "King Woman",
   "date": "2026-10-08",
   "time": "Do 20:00",
-  "loc": "Feierwerk (Hansa 39), Munich",
+  "loc": "Hansa 39 / Kranhalle, Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/king-woman-tickets/1216582651?language=en-us",
-  "desc": "Music · Alternative in Feierwerk (Hansa 39). Tickets & Infos über Ticketmaster.",
+  "desc": "Music · Alternative in Hansa 39 / Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/885/7b432c08-67a7-4955-a45f-e911df13c885_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
@@ -358,18 +358,6 @@
   "igUrl": "https://www.ticketmaster.de/event/jamie-grey-europe-2026-tickets/667605884?language=en-us",
   "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/657/c7c49c0d-d7ce-4dc5-af7b-c95053ea5657_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-LvZ18QxniTIVIaZZz250c",
-  "cat": "popup",
-  "title": "Kristina Bogansky - Play hard",
-  "date": "2026-10-19",
-  "time": "Mo 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.universe.com/events/kristina-bogansky-play-hard-tickets-VCL4FD?ref=ticketmaster",
-  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/8ea/b5058896-2e8a-4abd-a469-875dbaba98ea_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16v0JPskb",
