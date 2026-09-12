@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-11T08:24:02.253Z",
+  "generatedAt": "2026-09-12T08:12:39.652Z",
   "curated": 106,
   "osm": 800,
   "total": 853
@@ -8797,7 +8797,7 @@
   {
    "id": "osm-n528714855",
    "type": "restaurant",
-   "name": "Steirer am Markt",
+   "name": "Hochreiter am Markt",
    "neighborhood": "München",
    "cuisine": [
     "european"
@@ -8814,10 +8814,9 @@
    ],
    "exclusivity": 1,
    "features": [
-    "terrace",
-    "vegan"
+    "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. regional · Dreifaltigkeitsplatz · geöffnet: Mo-Sa 10:00-01:00, Su,PH off",
+   "pitch": "Aus OpenStreetMap. regional · Dreifaltigkeitsplatz · geöffnet: Mo-Fr 12:00-24:00; Sa 11:00-24:00; Su off",
    "bookingUrl": "https://steirerammarkt.de/",
    "osm": true
   },
@@ -14780,35 +14779,6 @@
    ],
    "pitch": "Aus OpenStreetMap. italian · Genovevaweg · geöffnet: Tu-Fr 12:00-14:00, 17:30-20:00; Sa 17:00-21:00",
    "bookingUrl": "https://www.cleo-ristorante.de/",
-   "osm": true
-  },
-  {
-   "id": "osm-n2695106707",
-   "type": "restaurant",
-   "name": "Asado Steak",
-   "neighborhood": "München",
-   "cuisine": [
-    "steakhouse"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family",
-    "business",
-    "celebration"
-   ],
-   "mood": [
-    "cozy",
-    "lively",
-    "elegant"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace"
-   ],
-   "pitch": "Aus OpenStreetMap. steak house burger · Landsberger Straße · geöffnet: Tu-Fr 11:00-15:00,17:30-23:00; Sa,Su 11:00-23:00",
-   "bookingUrl": "http://asado-steak.de/steakhaus-laim/",
    "osm": true
   },
   {
@@ -23952,6 +23922,33 @@
    ],
    "pitch": "Aus OpenStreetMap. italian · Boschetsrieder Straße · geöffnet: Tu,Th 11:00-14:30,17:00-22:00; We 17:00-22:00; Fr,Sa 17:00-2",
    "bookingUrl": "https://www.ristorantelincontromuenchen.de/",
+   "osm": true
+  },
+  {
+   "id": "osm-n364459535",
+   "type": "restaurant",
+   "name": "Osteria La Baia",
+   "neighborhood": "München",
+   "cuisine": [
+    "italian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "celebration"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "romantic",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [],
+   "pitch": "Aus OpenStreetMap. italian · Straubinger Straße · geöffnet: Mo-Fr 11:30-14:00,17:30-22:00; PH,Su 15:00-22:00",
+   "bookingUrl": "https://osteria-labaia.de",
    "osm": true
   }
  ]

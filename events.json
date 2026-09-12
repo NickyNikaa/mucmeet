@@ -1,17 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vuMvV_Y",
-  "cat": "music",
-  "title": "A$AP Rocky - Don't Be Dumb World Tour",
-  "date": "2026-09-11",
-  "time": "Fr 20:00",
-  "loc": "Olympiahalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/aap-rocky-dont-be-dumb-world-tour-tickets/1377074670?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in Olympiahalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/9a8/27ed6a92-1b9a-4a2b-af2d-99c447f939a8_SOURCE"
- },
- {
   "id": "tm-Z698xZC2Z1kqboPOJ",
   "cat": "music",
   "title": "Party101 with Matt Bennett",
@@ -1318,5 +1306,17 @@
   "igUrl": "https://www.ticketmaster.de/event/delil--avie-2ortaks-tour-2027-%7C-premium-package-tickets/1583412780?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/b73/ebb46d5b-0442-45a6-8430-76abf0971b73_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vAzAE3k",
+  "cat": "music",
+  "title": "MERO - Live Tour 2027 | Premium Package",
+  "date": "2027-06-17",
+  "time": "Do 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/mero-live-tour-2027-%7C-premium-package-tickets/1178167486?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/442/3e0f9858-c178-4af9-906b-8e04f3ff0442_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
