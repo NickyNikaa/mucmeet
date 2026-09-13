@@ -708,9 +708,10 @@ const PCAT_EV={ "live-music":"music","dj-club":"music","underground":"music","ka
 async function loadPickyEvents(){ return 0; } // Events kommen jetzt ueber loadRemote() aus events.json (taeglicher Cron)
 
 /* ---- ORTE (Restaurants & Bars von Picky) ---- */
-let orteData=[], orteType="all", orteOcc="", orteMood="", ortePrice=0;
+let orteData=[], orteType="all", orteOcc="", orteMood="", ortePrice=0, orteMinRating=0;
 const OCC=[["date","💘 Date"],["business","💼 Business"],["family","👨‍👩‍👧 Familie"],["group","👥 Gruppe"],["celebration","🎉 Feiern"],["casual","😎 Casual"]];
 const MOOD=[["romantic","Romantisch"],["elegant","Elegant"],["chic","Chic"],["trendy","Trendy"],["lively","Lebhaft"],["cozy","Gemütlich"],["traditional","Traditionell"]];
+const RATING=[[4.5,"★ 4.5+"],[4.0,"★ 4.0+"],[3.5,"★ 3.5+"]];
 async function loadOrte(){
   document.getElementById("orteGrid").innerHTML=`<div class="calhint">Lade Münchens Orte… 🍽</div>`;
   try{
@@ -730,6 +731,8 @@ function renderOrteFilters(){
   MOOD.forEach(([v,l])=>h+=orteChip(orteMood===v,l,`setOrte('mood','${v}')`));
   h+='<span style="flex-basis:100%"></span>';
   [1,2,3,4].forEach(p=>h+=orteChip(ortePrice===p,"€".repeat(p),`setOrte('price',${p})`));
+  h+='<span style="flex-basis:100%"></span>';
+  RATING.forEach(([v,l])=>h+=orteChip(orteMinRating===v,l,`setOrte('rating',${v})`));
   document.getElementById("orteFilters").innerHTML=h;
 }
 function setOrte(k,v){
@@ -737,6 +740,7 @@ function setOrte(k,v){
   if(k==="occ")  orteOcc=(orteOcc===v?"":v);
   if(k==="mood") orteMood=(orteMood===v?"":v);
   if(k==="price")ortePrice=(ortePrice===v?0:v);
+  if(k==="rating")orteMinRating=(orteMinRating===v?0:v);
   renderOrteFilters(); renderOrte();
 }
 function renderOrte(){
@@ -746,6 +750,7 @@ function renderOrte(){
     if(orteOcc && !(p.occasion||[]).includes(orteOcc)) return false;
     if(orteMood && !(p.mood||[]).includes(orteMood)) return false;
     if(ortePrice && p.price!==ortePrice) return false;
+    if(orteMinRating && !(p.rating>=orteMinRating)) return false;
     if(q && !((p.name+" "+(p.cuisine||[]).join(" ")+" "+(p.neighborhood||"")+" "+(p.pitch||"")).toLowerCase().includes(q))) return false;
     return true;
   });
