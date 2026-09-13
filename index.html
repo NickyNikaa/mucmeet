@@ -787,7 +787,7 @@ async function loadComm(){
   document.getElementById("commGrid").innerHTML=`<div class="calhint">Lade Communities… 👥</div>`;
   try{
     const j=await fetch("communities.json?ts="+Date.now()).then(r=>r.json());
-    commData=j.communities||[];
+    commData=Array.isArray(j)?j:(j.communities||[]);
     commLoaded=true; renderCommFilters(); renderComm();
   }catch(e){ document.getElementById("commGrid").innerHTML=`<div class="calhint">Communities konnten gerade nicht geladen werden.</div>`; }
 }

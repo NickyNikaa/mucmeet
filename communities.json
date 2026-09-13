@@ -5362,5 +5362,226 @@
     "size": "—",
     "instagram": "aper.munich",
     "interest": "kultur"
+  },
+  {
+    "id": "comm-rosylongevityclub",
+    "name": "ROSY Longevity Club",
+    "category": "wellness",
+    "tags": [
+      "longevity",
+      "wellness",
+      "training"
+    ],
+    "neighborhood": "München",
+    "pitch": "Community rund um Langlebigkeit, Training und gesunde Routinen.",
+    "instagram": "rosylongevityclub",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-artcafe-munich",
+    "name": "Art Cafe Munich",
+    "category": "kultur",
+    "tags": [
+      "art",
+      "cafe",
+      "creative"
+    ],
+    "neighborhood": "München",
+    "pitch": "Café-Community für kreative Köpfe — Kunst, Austausch und gemeinsames Gestalten.",
+    "instagram": "artcafe.munich",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-diemarathoniken",
+    "name": "Die Marathoniken",
+    "category": "sport",
+    "tags": [
+      "running",
+      "marathon",
+      "training"
+    ],
+    "neighborhood": "München",
+    "pitch": "Lauf-Crew für alle, die auf den Marathon hintrainieren — gemeinsame Läufe und Motivation.",
+    "instagram": "diemarathoniken",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-oyess-moments",
+    "name": "Selfcare & Wellness Club",
+    "category": "wellness",
+    "tags": [
+      "selfcare",
+      "wellness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Selfcare- und Wellness-Community für bewusste Auszeiten im Alltag.",
+    "instagram": "oyess_moments",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-homeinmunichbookclub",
+    "name": "Home in Munich Bookclub",
+    "category": "kultur",
+    "tags": [
+      "bookclub",
+      "reading",
+      "social"
+    ],
+    "neighborhood": "München",
+    "pitch": "Bookclub für alle, die in München ein literarisches Zuhause suchen.",
+    "instagram": "homeinmunichbookclub",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-paqmas",
+    "name": "PAQMAS",
+    "category": "kultur",
+    "tags": [
+      "community",
+      "social"
+    ],
+    "neighborhood": "München",
+    "pitch": "Münchner Community-Format.",
+    "instagram": "paqmas_official",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-terra-e-mano",
+    "name": "Töpferkurse in München (Terra e Mano)",
+    "category": "kultur",
+    "tags": [
+      "pottery",
+      "crafts",
+      "workshop"
+    ],
+    "neighborhood": "München",
+    "pitch": "Töpferkurse und Keramik-Workshops mit Community-Charakter.",
+    "instagram": "terra.e.mano",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-my-mom-moment",
+    "name": "Motherhood | Community | Connection",
+    "category": "kultur",
+    "tags": [
+      "motherhood",
+      "community",
+      "connection"
+    ],
+    "neighborhood": "München",
+    "pitch": "Community rund um Motherhood und Connection für Mütter in München.",
+    "instagram": "my_mom_moment",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-reformidablestudios",
+    "name": "Reformidable",
+    "category": "wellness",
+    "tags": [
+      "pilates",
+      "reformer",
+      "fitness"
+    ],
+    "neighborhood": "München",
+    "pitch": "Reformer-Pilates-Studio mit starker Community rund ums Training.",
+    "instagram": "reformidablestudios",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-soultrain-munich",
+    "name": "Soultrain",
+    "category": "wellness",
+    "tags": [
+      "dance",
+      "fitness",
+      "music"
+    ],
+    "neighborhood": "München",
+    "pitch": "Tanz- und Bewegungs-Community mit Fokus auf Musik und gemeinsames Erleben.",
+    "instagram": "soultrain.munich",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-haus12-health",
+    "name": "HAUS12",
+    "category": "wellness",
+    "tags": [
+      "health",
+      "studio",
+      "community"
+    ],
+    "neighborhood": "München",
+    "pitch": "Mehr Treffpunkt als Studio — Gesundheits- und Bewegungscommunity.",
+    "instagram": "haus12.health",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-kindderstadtmuenchen",
+    "name": "Kind der Stadt München",
+    "category": "kultur",
+    "tags": [
+      "familie",
+      "stadtleben",
+      "community"
+    ],
+    "neighborhood": "München",
+    "pitch": "Community für Familien in München — Austausch rund ums Stadtleben mit Kindern.",
+    "instagram": "kindderstadtmuenchen",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-munich-minutes",
+    "name": "Munich Minutes",
+    "category": "kultur",
+    "tags": [
+      "travel",
+      "tips",
+      "community"
+    ],
+    "neighborhood": "München",
+    "pitch": "Local-Tips- und Hidden-Gems-Community für München-Entdecker.",
+    "instagram": "munich_minutes",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-sipandshare-munich",
+    "name": "Sip & Share",
+    "category": "kultur",
+    "tags": [
+      "social",
+      "wine",
+      "networking"
+    ],
+    "neighborhood": "München",
+    "pitch": "Sip & Share bringt Leute bei Wein und Gesprächen zusammen — echtes Kennenlernen statt nur liken.",
+    "instagram": "sipandshare.munich",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-lecirqle",
+    "name": "Cirqle",
+    "category": "kultur",
+    "tags": [
+      "social",
+      "community"
+    ],
+    "neighborhood": "München",
+    "pitch": "Münchner Social-Community.",
+    "instagram": "lecirqle",
+    "source": "clero-lead"
+  },
+  {
+    "id": "comm-girls-coffeeclub",
+    "name": "GIRLS. Coffeeclub",
+    "category": "kultur",
+    "tags": [
+      "coffee",
+      "women",
+      "social"
+    ],
+    "neighborhood": "München",
+    "pitch": "Coffee-Club-Format für Frauen-Netzwerke und lockeren Austausch bei Kaffee.",
+    "instagram": "girls_coffeeclub",
+    "source": "clero-lead"
   }
 ]
