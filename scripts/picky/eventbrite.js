@@ -7,7 +7,9 @@ const LISTING_URLS = [
   "https://www.eventbrite.de/d/germany--munich/all-events/?page=2",
   "https://www.eventbrite.de/d/germany--munich/music--events/",
   "https://www.eventbrite.de/d/germany--munich/food-and-drink--events/",
-  "https://www.eventbrite.de/d/germany--munich/nightlife--events/"
+  "https://www.eventbrite.de/d/germany--munich/nightlife--events/",
+  "https://www.eventbrite.de/d/germany--munich/business--events/",
+  "https://www.eventbrite.de/d/germany--munich/hobbies--events/"
 ];
 
 function parseJsonLd($, sourceUrl) {

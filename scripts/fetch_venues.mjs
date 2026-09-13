@@ -22,6 +22,7 @@ import { scrapeGlockenbachwerkstatt } from "./picky/glockenbachwerkstatt.js";
 import { scrapeMitVergnuegen } from "./picky/mit-vergnuegen.js";
 import { scrapeEventbrite } from "./picky/eventbrite.js";
 import { scrapeEventim } from "./picky/eventim.js";
+import { scrapeLuma } from "./picky/luma.js";
 import { scrapeMuenchenFestivals } from "./picky/muenchen-festivals.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -37,7 +38,8 @@ const SOURCES = [
   ["mit-vergnuegen", scrapeMitVergnuegen],
   ["eventbrite", scrapeEventbrite],
   ["eventim", scrapeEventim],
-  ["muenchen-feste", scrapeMuenchenFestivals]
+  ["muenchen-feste", scrapeMuenchenFestivals],
+  ["luma", scrapeLuma]
 ];
 
 // picky-Kategorien (feiner, nightlife/gastro-lastig) -> MUCmeet-Kategorien
