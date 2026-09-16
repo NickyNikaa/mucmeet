@@ -60,9 +60,9 @@
   "img": "https://s1.ticketm.net/dam/a/cfc/b65686b9-c763-4d83-b9f0-39bda2507cfc_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "pk-93dc1e50d9",
+  "id": "pk-655383e136",
   "cat": "popup",
-  "title": "OpenClaw Munich #2: Share & Build",
+  "title": "OpenClaw Munich #2: State of personal agents",
   "date": "2026-09-17",
   "time": "Do 18:00",
   "loc": "August-Everding-Straße 25, München",
@@ -178,6 +178,18 @@
   "igUrl": "https://luma.com/jc3oct8g",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.unsplash.com/photo-1769011496453-d6c20730843f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxNjh8fHNhdW5hJTIwd29tZW58ZW58MHx8fHwxNzc4MzIyODQwfDI&ixlib=rb-4.1.0&q=80&w=1080"
+ },
+ {
+  "id": "pk-2b7db7d8de",
+  "cat": "popup",
+  "title": "Women in Startups: Founder and Investor Insights",
+  "date": "2026-09-24",
+  "time": "Do 18:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/5txd7ksc",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/72/69b600d6-472b-40cd-9b3a-aefbc7256b10.png"
  },
  {
   "id": "pk-998ec47448",
@@ -322,18 +334,6 @@
   "igUrl": "https://luma.com/boxjaeu3",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/dd/035101cd-e630-4716-8e03-c14ec244c6e4.png"
- },
- {
-  "id": "pk-c456c43279",
-  "cat": "music",
-  "title": "Girls Walk Club 🌸💫🍒🩵",
-  "date": "2026-09-28",
-  "time": "Mo 18:30",
-  "loc": "Eingang, Hesseloherstraße, Occamstraße 20, München",
-  "ig": "",
-  "igUrl": "https://luma.com/igqe6ymb",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/7j/1403808f-194a-423d-9aed-f3b0c93c2a51.png"
  },
  {
   "id": "tm-Z698xZC2Z16v_gvOjO",
@@ -648,6 +648,18 @@
   "img": "https://s1.ticketm.net/dam/a/659/0d293f1b-6f2f-4d03-aadc-c8cd6fa92659_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1kC970pZ",
+  "cat": "music",
+  "title": "Good Charlotte - Motel Du Cap EU/UK Tour",
+  "date": "2026-11-11",
+  "time": "Mi 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/good-charlotte-motel-du-cap-eu-uk-tour-tickets/397124580?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/00a/dc52da78-995f-4e32-9d3d-e6a00ebdc00a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z16vaE__7o",
   "cat": "music",
   "title": "KING NO-ONE - The Burden Of Empathy Tour 2026",
@@ -658,18 +670,6 @@
   "igUrl": "https://www.ticketmaster.de/event/king-no-one-the-burden-of-empathy-tour-2026-tickets/1267659111?language=en-us",
   "desc": "Music · Alternative in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/f9c/24c291a8-655d-41c2-82ec-83f6a336cf9c_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kC970pZ",
-  "cat": "music",
-  "title": "Good Charlotte - Motel Du Cap EU/UK Tour",
-  "date": "2026-11-11",
-  "time": "Mi 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/good-charlotte-motel-du-cap-eu-uk-tour-tickets/397124580?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/00a/dc52da78-995f-4e32-9d3d-e6a00ebdc00a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kutOPf6",
