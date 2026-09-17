@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-16T08:55:45.855Z",
+  "generatedAt": "2026-09-17T09:00:02.374Z",
   "curated": 106,
   "osm": 800,
   "total": 854
@@ -4599,7 +4599,7 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. bavarian · Hohensalzaer Straße · geöffnet: Mo-Su 11:30-24:00",
+   "pitch": "Aus OpenStreetMap. bavarian · Hohensalzaer Straße · geöffnet: Mo-Su 11:30-23:00",
    "bookingUrl": "https://wirtshauszurmarienburg.de/",
    "osm": true
   },
@@ -8905,6 +8905,35 @@
    ],
    "pitch": "Aus OpenStreetMap. italian · An der Torfbahn · geöffnet: Su-Fr 11:30-14:00, 18:00-22:00; Sa off",
    "bookingUrl": "https://www.osteria-malandra.de/",
+   "osm": true
+  },
+  {
+   "id": "osm-n545815043",
+   "type": "restaurant",
+   "name": "Burg Pappenheim",
+   "neighborhood": "München",
+   "cuisine": [
+    "bavarian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "group",
+    "business"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. bavarian · Baaderstraße · geöffnet: Mo-Su 12:00-00:00",
+   "bookingUrl": "https://www.gaststaette-pappenheim.de/",
    "osm": true
   },
   {
@@ -23949,37 +23978,6 @@
    "features": [],
    "pitch": "Aus OpenStreetMap. indian · Ungererstraße · geöffnet: Mo-Su 11:30-14:30,17:30-24:00, Sa 17:00-24:00",
    "bookingUrl": "https://www.delhimehek.de/",
-   "osm": true
-  },
-  {
-   "id": "osm-n353920875",
-   "type": "restaurant",
-   "name": "Moosacherei",
-   "neighborhood": "München",
-   "cuisine": [
-    "bavarian",
-    "mediterranean"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family",
-    "group",
-    "business"
-   ],
-   "mood": [
-    "cozy",
-    "lively",
-    "traditional",
-    "trendy"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace"
-   ],
-   "pitch": "Aus OpenStreetMap. bavarian mediterranean · geöffnet: Mo-Th 17:00-23:30; Fr-Sa 17:00-00:00; Su 12:00-23:00",
-   "bookingUrl": "https://www.moosacharei.de/",
    "osm": true
   }
  ]

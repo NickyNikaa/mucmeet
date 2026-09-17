@@ -1,41 +1,5 @@
 [
  {
-  "id": "pk-20ac62a0b3",
-  "cat": "popup",
-  "title": "n8n Meetup Munich",
-  "date": "2026-09-16",
-  "time": "Mi 17:30",
-  "loc": "Marcel-Breuer-Straße 6, München",
-  "ig": "",
-  "igUrl": "https://luma.com/n8n-lktb",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/sj/8949cc83-86b6-4dfe-b291-779a2a6c0074.png"
- },
- {
-  "id": "pk-45c86eac91",
-  "cat": "popup",
-  "title": "TRIFF DICH! SpeedFriending",
-  "date": "2026-09-16",
-  "time": "Mi 18:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/triffdich-fwdy",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/9v/d914213f-62b0-4dd1-bf0e-05df3608ca16.png"
- },
- {
-  "id": "pk-38cb5b541d",
-  "cat": "popup",
-  "title": "Circular Economy: Why not more of it?",
-  "date": "2026-09-16",
-  "time": "Mi 18:30",
-  "loc": "Prannerstraße, München-Altstadt-Lehel",
-  "ig": "",
-  "igUrl": "https://luma.com/mcw2026-fwn1",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/ab/162fbc6f-cdf6-4e95-b8c2-4bccaf00b0d6.png"
- },
- {
   "id": "tm-Z698xZC2Z16vG9-Z8k",
   "cat": "music",
   "title": "JJ - Act ll - Into The Unknown Tour | VIP Ticket\t",
@@ -192,18 +156,6 @@
   "img": "https://images.lumacdn.com/uploads/72/69b600d6-472b-40cd-9b3a-aefbc7256b10.png"
  },
  {
-  "id": "pk-998ec47448",
-  "cat": "popup",
-  "title": "HotBoysCry meets Jo Malone - Fragrance Layering",
-  "date": "2026-09-25",
-  "time": "Fr 17:00",
-  "loc": "Neuhauser Str. 18, München",
-  "ig": "",
-  "igUrl": "https://luma.com/hotboys-ekxk",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/gs/3e39ac42-131d-4b4d-9565-da356a94304d.jpg"
- },
- {
   "id": "tm-Z698xZC2Z16vuwAzQ9",
   "cat": "music",
   "title": "Beartooth - pure ecstasy europe + uk tour",
@@ -334,6 +286,54 @@
   "igUrl": "https://luma.com/boxjaeu3",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/dd/035101cd-e630-4716-8e03-c14ec244c6e4.png"
+ },
+ {
+  "id": "pk-c456c43279",
+  "cat": "music",
+  "title": "Girls Walk Club 🌸💫🍒🩵",
+  "date": "2026-09-28",
+  "time": "Mo 18:30",
+  "loc": "Eingang, Hesseloherstraße, Occamstraße 20, München",
+  "ig": "",
+  "igUrl": "https://luma.com/igqe6ymb",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/7j/1403808f-194a-423d-9aed-f3b0c93c2a51.png"
+ },
+ {
+  "id": "pk-90585fefb4",
+  "cat": "popup",
+  "title": "Notion Wiesn - Community Takeover",
+  "date": "2026-09-28",
+  "time": "Mo 19:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/notion-cy9u",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/su/038a9dff-d221-422a-9981-a346db4bb971.png"
+ },
+ {
+  "id": "pk-98491e1852",
+  "cat": "music",
+  "title": "Everstride x raaaw runclub",
+  "date": "2026-09-29",
+  "time": "Di 07:30",
+  "loc": "Odeonspl. 1, München",
+  "ig": "",
+  "igUrl": "https://luma.com/z9jiqnl9",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/3r/453d7ad9-410c-4270-8c4f-2a28bc8ea0b8.png"
+ },
+ {
+  "id": "pk-8358de58bf",
+  "cat": "popup",
+  "title": "OpenAI Builder Lounge Munich",
+  "date": "2026-09-29",
+  "time": "Di 08:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/k82f3c5u",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/09/e04fa391-e6e8-4db9-afca-c23f429ce6f5.png"
  },
  {
   "id": "tm-Z698xZC2Z16v_gvOjO",
