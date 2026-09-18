@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-17T09:00:02.374Z",
+  "generatedAt": "2026-09-18T08:35:17.627Z",
   "curated": 106,
   "osm": 800,
   "total": 854
@@ -11144,7 +11144,7 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. bavarian · Lerchenauer Straße · geöffnet: Tu,We,Fr 15:00-23:00; Th,Sa 10:00-23:00; Su 10:00-18:00",
+   "pitch": "Aus OpenStreetMap. bavarian · Lerchenauer Straße · geöffnet: Tu-Sa 15:00-23:00; Su 14:00-18:00",
    "bookingUrl": "https://lerchen-treff.de/",
    "osm": true
   },
@@ -17841,33 +17841,6 @@
    "osm": true
   },
   {
-   "id": "osm-n6354651885",
-   "type": "restaurant",
-   "name": "Farry",
-   "neighborhood": "München",
-   "cuisine": [
-    "international"
-   ],
-   "price": 1,
-   "occasion": [
-    "casual",
-    "date",
-    "family"
-   ],
-   "mood": [
-    "cozy",
-    "lively"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace",
-    "vegan"
-   ],
-   "pitch": "Aus OpenStreetMap. international · Rosenkavalierplatz · geöffnet: 09:00-22:00",
-   "bookingUrl": "https://farry.eu/",
-   "osm": true
-  },
-  {
    "id": "osm-n6389119859",
    "type": "restaurant",
    "name": "Tutu",
@@ -23978,6 +23951,37 @@
    "features": [],
    "pitch": "Aus OpenStreetMap. indian · Ungererstraße · geöffnet: Mo-Su 11:30-14:30,17:30-24:00, Sa 17:00-24:00",
    "bookingUrl": "https://www.delhimehek.de/",
+   "osm": true
+  },
+  {
+   "id": "osm-n353920875",
+   "type": "restaurant",
+   "name": "Moosacherei",
+   "neighborhood": "München",
+   "cuisine": [
+    "bavarian",
+    "mediterranean"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "group",
+    "business"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "traditional",
+    "trendy"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. bavarian mediterranean · geöffnet: Mo-Th 17:00-23:30; Fr-Sa 17:00-00:00; Su 12:00-23:00",
+   "bookingUrl": "https://www.moosacharei.de/",
    "osm": true
   }
  ]
