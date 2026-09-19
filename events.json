@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vr97yGI",
-  "cat": "music",
-  "title": "Drug Church",
-  "date": "2026-09-18",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/drug-church-tickets/1797139328?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/65f/5202d130-dac1-48f0-beb3-c54b8406f65f_SOURCE"
- },
- {
-  "id": "pk-3a7ebd84f4",
-  "cat": "popup",
-  "title": "Keep the Lights On: A Global Nuclear Power Debate",
-  "date": "2026-09-18",
-  "time": "Fr 18:00",
-  "loc": "Fraunbergstraße 8, München",
-  "ig": "",
-  "igUrl": "https://luma.com/q2423giw",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/k1/1b8a88d2-e270-4b4a-8551-dd014df2ba14.jpg"
- },
- {
   "id": "pk-33490fff09",
   "cat": "popup",
   "title": "The Trail is the Lab",
@@ -70,6 +46,18 @@
   "igUrl": "https://luma.com/2xo3alow",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/2a/b771c0fe-8c5f-4235-bb2f-1e2ad54aa325.png"
+ },
+ {
+  "id": "pk-e9cf85e16a",
+  "cat": "popup",
+  "title": "Triff dich zum Zocken 🎲 | Gesellschaftsspieleabend",
+  "date": "2026-09-23",
+  "time": "Mi 18:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/Zocken",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/fi/9743ed48-f713-4717-a547-7a2681913048.png"
  },
  {
   "id": "pk-5a1e94287f",

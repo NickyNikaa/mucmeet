@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generatedAt": "2026-09-18T08:35:17.627Z",
+  "generatedAt": "2026-09-19T08:22:41.715Z",
   "curated": 106,
   "osm": 800,
-  "total": 854
+  "total": 853
  },
  "places": [
   {
@@ -10349,33 +10349,6 @@
    "osm": true
   },
   {
-   "id": "osm-n765857670",
-   "type": "restaurant",
-   "name": "LaL QiLa",
-   "neighborhood": "München",
-   "cuisine": [
-    "international"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family"
-   ],
-   "mood": [
-    "cozy",
-    "lively"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace",
-    "vegan"
-   ],
-   "pitch": "Aus OpenStreetMap. indian · Nelkenweg · geöffnet: Su-Fr 11:30-14:30,17:30-23:00; Sa 17:30-23:00",
-   "bookingUrl": "https://www.lalqila-muenchen.de/",
-   "osm": true
-  },
-  {
    "id": "osm-n798525437",
    "type": "restaurant",
    "name": "Pizzeria Mamma Mia",
@@ -14811,32 +14784,6 @@
    ],
    "pitch": "Aus OpenStreetMap. asian sushi vietnamese · Wilhelm-Hertz-Straße · geöffnet: Mo-Su 11:30-15:00, 17:30-23:00",
    "bookingUrl": "https://qyu-restaurant.de",
-   "osm": true
-  },
-  {
-   "id": "osm-n2658099372",
-   "type": "restaurant",
-   "name": "Gaststätte Freiland",
-   "neighborhood": "München",
-   "cuisine": [
-    "european"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family"
-   ],
-   "mood": [
-    "cozy",
-    "lively"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace"
-   ],
-   "pitch": "Aus OpenStreetMap. regional · Aidenbachstraße · geöffnet: Tu-Su 17:00-23:00",
-   "bookingUrl": "https://gaststaette-freiland.de/",
    "osm": true
   },
   {
@@ -23982,6 +23929,35 @@
    ],
    "pitch": "Aus OpenStreetMap. bavarian mediterranean · geöffnet: Mo-Th 17:00-23:30; Fr-Sa 17:00-00:00; Su 12:00-23:00",
    "bookingUrl": "https://www.moosacharei.de/",
+   "osm": true
+  },
+  {
+   "id": "osm-n355684367",
+   "type": "restaurant",
+   "name": "L’Incontro Ristorante Pizzeria",
+   "neighborhood": "München",
+   "cuisine": [
+    "italian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "celebration"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "romantic",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. italian · Boschetsrieder Straße · geöffnet: Tu,Th 11:00-14:30,17:00-22:00; We 17:00-22:00; Fr,Sa 17:00-2",
+   "bookingUrl": "https://www.ristorantelincontromuenchen.de/",
    "osm": true
   }
  ]
