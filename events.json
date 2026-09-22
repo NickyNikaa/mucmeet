@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-cbb414c14a",
-  "cat": "popup",
-  "title": "Build & Boulder by OpenAI & Mercura",
-  "date": "2026-09-21",
-  "time": "Mo 18:00",
-  "loc": "Hanne-Hiob-Straße 4, München",
-  "ig": "",
-  "igUrl": "https://luma.com/5gzju9b2",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/bx/5d9cb1fa-a229-4b59-822b-23f9487731f2.png"
- },
- {
   "id": "pk-acf634df96",
   "cat": "popup",
   "title": "Large Repo Maintenance and Migrations in the Era of AI Agents",
@@ -348,6 +336,18 @@
   "img": "https://s1.ticketm.net/dam/a/41a/897fa482-db47-4d0d-9559-367ab0d2841a_SOURCE"
  },
  {
+  "id": "pk-8bd2b57f19",
+  "cat": "gastro",
+  "title": "Sober Wiesn!",
+  "date": "2026-10-03",
+  "time": "Sa 10:30",
+  "loc": "Theresienwiese, Theresienhöhe 16, München-Schwanthalerhöhe",
+  "ig": "",
+  "igUrl": "https://luma.com/age-onh2",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/api-uploads/ax/f72004c2-c2c3-428f-999c-fb755c9492ea.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z16v-E-IbE",
   "cat": "music",
   "title": "bleood - Kill Your Idols Europe Tour",
@@ -609,7 +609,7 @@
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/659/0d293f1b-6f2f-4d03-aadc-c8cd6fa92659_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  "img": "https://s1.ticketm.net/dam/a/20f/4e6050d5-0e2b-4f32-9625-be5b8530820f_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kC970pZ",
@@ -1414,6 +1414,18 @@
   "igUrl": "https://www.universe.com/events/masud-akbarzadeh-playlist-tickets-56VT3S?ref=ticketmaster",
   "desc": "Arts & Theatre · Comedy in Wirtshaus im Schlachthof // Saal. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8bb/ec07ef3c-e4b3-414d-9eeb-6854c6bd88bb_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kozFzZo",
+  "cat": "music",
+  "title": "James Marriott - World Tour 2027",
+  "date": "2027-05-11",
+  "time": "Di 20:00",
+  "loc": "Nachtwerk, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/james-marriott-world-tour-2027-tickets/478238011?language=en-us",
+  "desc": "Music · Rock in Nachtwerk. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/d56/9c44f9f0-a060-494d-94c9-f0de64256d56_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vfZvK0v",
