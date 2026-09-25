@@ -1,5 +1,17 @@
 [
  {
+  "id": "pk-308ed6af60",
+  "cat": "popup",
+  "title": "LAP Coffee x Wiesnparty – Semester Opening!",
+  "date": "2026-09-25",
+  "time": "Fr 16:00",
+  "loc": "Fraunhoferstraße 41, München-Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/sqc08ahi",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/wd/67b64ea5-e8fa-4fdb-9b9d-3ddd5e6accd0.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z16vuwAzQ9",
   "cat": "music",
   "title": "Beartooth - pure ecstasy europe + uk tour",
@@ -48,6 +60,54 @@
   "img": "https://s1.ticketm.net/dam/a/9a5/4774ec87-483d-4450-8e5c-2f688c5029a5_SOURCE"
  },
  {
+  "id": "pk-08c618b258",
+  "cat": "music",
+  "title": "HAUS12 Longevity Run Club #005",
+  "date": "2026-09-26",
+  "time": "Sa 09:00",
+  "loc": "Eingang, Hesseloherstraße, Occamstraße 20, München",
+  "ig": "",
+  "igUrl": "https://luma.com/hq0ujtrq",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/fr/58daaf17-6409-46fa-ba38-0edf9a1bd459.jpg"
+ },
+ {
+  "id": "pk-8eb2692ac5",
+  "cat": "popup",
+  "title": "YFN x EU Energy Hackathon",
+  "date": "2026-09-27",
+  "time": "So 08:30",
+  "loc": "Rosenkavalierpl. 13, München",
+  "ig": "",
+  "igUrl": "https://luma.com/75cqklfc",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/l3/2171d268-0f41-4769-bb99-85463a9fb4be.png"
+ },
+ {
+  "id": "pk-b26f467ce5",
+  "cat": "popup",
+  "title": "ANÍCE.WIESN 2026",
+  "date": "2026-09-27",
+  "time": "So 18:00",
+  "loc": "Theresienwiese, München",
+  "ig": "",
+  "igUrl": "https://luma.com/9m3a5q8s",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/event-covers/p8/a890f7d4-2f29-4ee3-9bec-b207f1df8226.jpg"
+ },
+ {
+  "id": "pk-c075bfb9e3",
+  "cat": "popup",
+  "title": "Bits and Pretzels - The Pretzel Run: Easy 5K along the Isar",
+  "date": "2026-09-27",
+  "time": "So 18:00",
+  "loc": "Wittelsbacherstraße 2b, München",
+  "ig": "",
+  "igUrl": "https://luma.com/age-ryno",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/api-uploads/8r/a3c8d48b-b197-4851-b040-cfaace9e53b3.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z1kGUOOq4",
   "cat": "music",
   "title": "Mike Oldfield's Tubular Bells - The Best of Tubular Bells I, II & III",
@@ -58,6 +118,114 @@
   "igUrl": "https://www.ticketmaster.de/event/mike-oldfields-tubular-bells-the-best-of-tubular-bells-i-ii--iii-tickets/336820755?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5ad/da0cee97-b9b8-45f7-852c-1773b37355ad_SOURCE"
+ },
+ {
+  "id": "pk-87deace152",
+  "cat": "music",
+  "title": "Founders Running Club x Bits & Pretzels Morning Run · presented by BASE Coworking & JUSTROCKET",
+  "date": "2026-09-28",
+  "time": "Mo 08:00",
+  "loc": "Vits Kaffee GmbH & Co.KG",
+  "ig": "",
+  "igUrl": "https://luma.com/wyqnbsje",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/8t/136ada64-b127-48ca-85ac-f9cec9f62a14.png"
+ },
+ {
+  "id": "pk-8c17bc0e23",
+  "cat": "popup",
+  "title": "Bits and Pretzels Networking Event hosted by Plug and Play",
+  "date": "2026-09-28",
+  "time": "Mo 17:00",
+  "loc": "Rindermarkt 5, München",
+  "ig": "",
+  "igUrl": "https://luma.com/boxjaeu3",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/dd/035101cd-e630-4716-8e03-c14ec244c6e4.png"
+ },
+ {
+  "id": "pk-abd8eb4d91",
+  "cat": "popup",
+  "title": "Munich | Claude Meetup: Claude for Founders",
+  "date": "2026-09-28",
+  "time": "Mo 18:00",
+  "loc": "Odeonspl. 1, München",
+  "ig": "",
+  "igUrl": "https://luma.com/claude-7la4",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/api-uploads/wu/f9507b28-0380-46ec-b15f-1bdf3a9dc80f.png"
+ },
+ {
+  "id": "pk-c456c43279",
+  "cat": "music",
+  "title": "Girls Walk Club 🌸💫🍒🩵",
+  "date": "2026-09-28",
+  "time": "Mo 18:30",
+  "loc": "Eingang, Hesseloherstraße, Occamstraße 20, München",
+  "ig": "",
+  "igUrl": "https://luma.com/igqe6ymb",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/7j/1403808f-194a-423d-9aed-f3b0c93c2a51.png"
+ },
+ {
+  "id": "pk-90585fefb4",
+  "cat": "popup",
+  "title": "Notion Wiesn - Community Takeover",
+  "date": "2026-09-28",
+  "time": "Mo 19:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/notion-cy9u",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/su/038a9dff-d221-422a-9981-a346db4bb971.png"
+ },
+ {
+  "id": "pk-2d99346c56",
+  "cat": "popup",
+  "title": "【tffBerlin ON TOUR - München】 The Waves Will Carry Us 人生海海 — with Director Q&A",
+  "date": "2026-09-28",
+  "time": "Mo 19:30",
+  "loc": "Rottmannstraße 15, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/o6i8qtve",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/pd/55b0bf90-f69f-4044-b470-3fdb7d18ac7c.jpg"
+ },
+ {
+  "id": "pk-98491e1852",
+  "cat": "music",
+  "title": "Everstride x raaaw runclub",
+  "date": "2026-09-29",
+  "time": "Di 07:30",
+  "loc": "Odeonspl. 1, München",
+  "ig": "",
+  "igUrl": "https://luma.com/z9jiqnl9",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/3r/453d7ad9-410c-4270-8c4f-2a28bc8ea0b8.png"
+ },
+ {
+  "id": "pk-8358de58bf",
+  "cat": "popup",
+  "title": "OpenAI Builder Lounge Munich",
+  "date": "2026-09-29",
+  "time": "Di 08:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/k82f3c5u",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/09/e04fa391-e6e8-4db9-afca-c23f429ce6f5.png"
+ },
+ {
+  "id": "pk-f604278ce2",
+  "cat": "popup",
+  "title": "FOMO x EWOR x 10x Founders: Founder & Investor Run - Bits Edition",
+  "date": "2026-09-30",
+  "time": "Mi 07:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/fomobitsrun",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/et/a4af6029-3c11-430c-982d-eb5bd6b251c0.png"
  },
  {
   "id": "tm-Z698xZC2Z16v_gvOjO",
@@ -84,6 +252,18 @@
   "img": "https://s1.ticketm.net/dam/a/d21/6818e767-d292-4b6b-b85d-f329f32a8d21_SOURCE"
  },
  {
+  "id": "pk-1b6aa9cda9",
+  "cat": "popup",
+  "title": "Wispr Flow Munich Event - From Friction to Flow",
+  "date": "2026-10-01",
+  "time": "Do 18:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/wispr-flow-munich",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/ay/57eece8a-0916-4129-8d03-65f8d7e440cc.png"
+ },
+ {
   "id": "tm-Z698xZC2Z1k7eFAQe",
   "cat": "music",
   "title": "Tommy Lyon - Europe 2026",
@@ -106,6 +286,42 @@
   "igUrl": "https://www.ticketmaster.de/event/stvw-punk-rave-europe-tour-2026-tickets/1760892861?language=en-us",
   "desc": "Music · Dance/Electronic in Nachtwerk. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/41a/897fa482-db47-4d0d-9559-367ab0d2841a_SOURCE"
+ },
+ {
+  "id": "pk-8bd2b57f19",
+  "cat": "gastro",
+  "title": "Sober Wiesn!",
+  "date": "2026-10-03",
+  "time": "Sa 10:30",
+  "loc": "Theresienwiese, Theresienhöhe 16, München-Schwanthalerhöhe",
+  "ig": "",
+  "igUrl": "https://luma.com/age-onh2",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/api-uploads/ax/f72004c2-c2c3-428f-999c-fb755c9492ea.jpg"
+ },
+ {
+  "id": "pk-4e3dc7679b",
+  "cat": "popup",
+  "title": "【tffBerlin ON TOUR - München】Mother Bhumi 地母 — with Director Q&A",
+  "date": "2026-10-03",
+  "time": "Sa 13:30",
+  "loc": "Rottmannstraße 15, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/gb9r1lsf",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/80/a466a23d-e9f7-4295-86b2-f52e567b87e3.jpg"
+ },
+ {
+  "id": "pk-dfe6fed85f",
+  "cat": "popup",
+  "title": "【tffBerlin ON TOUR - München】Vive l'Amour 4K Restoration 愛情萬歲 4K 數位修復版",
+  "date": "2026-10-04",
+  "time": "So 13:30",
+  "loc": "Rottmannstraße 15, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/2ogpybo6",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/wg/912c55aa-1d58-4d70-a238-757c5d774ae8.jpg"
  },
  {
   "id": "tm-Z698xZC2Z16v-E-IbE",
@@ -156,6 +372,18 @@
   "img": "https://s1.ticketm.net/dam/a/885/7b432c08-67a7-4955-a45f-e911df13c885_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-4a05021568",
+  "cat": "popup",
+  "title": "Ship & Sip! (Munich / October)",
+  "date": "2026-10-08",
+  "time": "Do 18:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/07peqfzb",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/21/daeefaf6-62eb-40b6-a216-1ee66afbacda.png"
+ },
+ {
   "id": "tm-Z698xZC2Z16vF8oZo0",
   "cat": "music",
   "title": "Katherine Priddy",
@@ -166,6 +394,18 @@
   "igUrl": "https://www.ticketmaster.de/event/katherine-priddy-tickets/1210440464?language=en-us",
   "desc": "Music · Folk in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
+ },
+ {
+  "id": "pk-4ccb418562",
+  "cat": "popup",
+  "title": "Lift This Way X LMTLZ",
+  "date": "2026-10-11",
+  "time": "So 12:45",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/w93c31ai",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/m0/fccb14fc-af6d-4b7f-a506-1c115db7165b.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1ka47oas",

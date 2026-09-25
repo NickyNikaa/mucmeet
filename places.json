@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generatedAt": "2026-09-24T08:50:47.701Z",
+  "generatedAt": "2026-09-25T09:11:25.498Z",
   "curated": 106,
   "osm": 800,
-  "total": 853
+  "total": 855
  },
  "places": [
   {
@@ -4373,7 +4373,7 @@
   {
    "id": "osm-n279872939",
    "type": "restaurant",
-   "name": "Alter Wirt",
+   "name": "Alter Wirt Thalkirchen",
    "neighborhood": "München",
    "cuisine": [
     "bavarian"
@@ -15429,6 +15429,35 @@
    "osm": true
   },
   {
+   "id": "osm-n3317787826",
+   "type": "restaurant",
+   "name": "Atletica Trattoria",
+   "neighborhood": "München",
+   "cuisine": [
+    "italian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "celebration"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "romantic",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. italian · Siemensallee · geöffnet: Mo-Su 10:00-22:00",
+   "bookingUrl": "https://atletica-trattoria.de/",
+   "osm": true
+  },
+  {
    "id": "osm-n3338179929",
    "type": "restaurant",
    "name": "A - Die Tagesbar",
@@ -20000,6 +20029,35 @@
    ],
    "pitch": "Aus OpenStreetMap. italian pizza · Hohenadlstraße · geöffnet: Mo,We-Fr,Su,PH 11:30-14:30,17:30-22:30; Sa 17:30-22:30; Tu o",
    "bookingUrl": "https://www.dafrancesco-restaurant.de/",
+   "osm": true
+  },
+  {
+   "id": "osm-w53178981",
+   "type": "restaurant",
+   "name": "Alter Wirt",
+   "neighborhood": "München",
+   "cuisine": [
+    "bavarian"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "group",
+    "business"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. bavarian · Aribonenstraße · geöffnet: Mo-Su 09:00-00:00",
+   "bookingUrl": "https://alterwirt-muenchen.de/",
    "osm": true
   },
   {
