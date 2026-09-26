@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-308ed6af60",
-  "cat": "popup",
-  "title": "LAP Coffee x Wiesnparty – Semester Opening!",
-  "date": "2026-09-25",
-  "time": "Fr 16:00",
-  "loc": "Fraunhoferstraße 41, München-Ludwigsvorstadt-Isarvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/sqc08ahi",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/wd/67b64ea5-e8fa-4fdb-9b9d-3ddd5e6accd0.jpg"
- },
- {
   "id": "tm-Z698xZC2Z16vuwAzQ9",
   "cat": "music",
   "title": "Beartooth - pure ecstasy europe + uk tour",
@@ -58,18 +46,6 @@
   "igUrl": "https://www.ticketmaster.de/event/witchz-presents-enter-afterlife-world-tour-2026-tickets/839527722?language=en-us",
   "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/9a5/4774ec87-483d-4450-8e5c-2f688c5029a5_SOURCE"
- },
- {
-  "id": "pk-08c618b258",
-  "cat": "music",
-  "title": "HAUS12 Longevity Run Club #005",
-  "date": "2026-09-26",
-  "time": "Sa 09:00",
-  "loc": "Eingang, Hesseloherstraße, Occamstraße 20, München",
-  "ig": "",
-  "igUrl": "https://luma.com/hq0ujtrq",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/fr/58daaf17-6409-46fa-ba38-0edf9a1bd459.jpg"
  },
  {
   "id": "pk-8eb2692ac5",
@@ -202,6 +178,18 @@
   "igUrl": "https://luma.com/z9jiqnl9",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/3r/453d7ad9-410c-4270-8c4f-2a28bc8ea0b8.png"
+ },
+ {
+  "id": "pk-20d2d5fcca",
+  "cat": "gastro",
+  "title": "unlock VC Run & Breakfast: Bits & Pretzels",
+  "date": "2026-09-29",
+  "time": "Di 08:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/zslvtw19",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/2v/78c436b3-79a4-4367-aadb-42dd4bd39e89.png"
  },
  {
   "id": "pk-8358de58bf",
@@ -406,6 +394,18 @@
   "igUrl": "https://luma.com/w93c31ai",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/m0/fccb14fc-af6d-4b7f-a506-1c115db7165b.jpg"
+ },
+ {
+  "id": "pk-0f62229e12",
+  "cat": "music",
+  "title": "MU.IT Choir Concert v1.1",
+  "date": "2026-10-11",
+  "time": "So 20:00",
+  "loc": "Schwanthalerstraße 80, München-Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/r0a8endz",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/pb/c79bec4b-68df-44a5-af70-cece706275ab.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1ka47oas",
@@ -1520,7 +1520,7 @@
   "loc": "Allianz Arena, Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/oasis-live-27-%7C-ticket--hotel-packages-tickets/1641747540?language=en-us",
-  "desc": "Music · Other in Allianz Arena. Tickets & Infos über Ticketmaster.",
+  "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/19e/875424a1-1ace-4e57-a098-cc1baa60f19e_SOURCE"
  }
 ]
