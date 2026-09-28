@@ -1,77 +1,5 @@
 [
  {
-  "id": "pk-8eb2692ac5",
-  "cat": "popup",
-  "title": "YFN x EU Energy Hackathon",
-  "date": "2026-09-27",
-  "time": "So 08:30",
-  "loc": "Rosenkavalierpl. 13, München",
-  "ig": "",
-  "igUrl": "https://luma.com/75cqklfc",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/l3/2171d268-0f41-4769-bb99-85463a9fb4be.png"
- },
- {
-  "id": "pk-22c28c518f",
-  "cat": "popup",
-  "title": "Hike to Seebergkopf | NymphenRuns",
-  "date": "2026-09-27",
-  "time": "So 09:00",
-  "loc": "Bayerstraße 10A, München",
-  "ig": "",
-  "igUrl": "https://luma.com/1tmj9fo2",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/nv/1c206b4b-b3f8-4c3f-a9e3-a83f560c2f5d.jpg"
- },
- {
-  "id": "pk-e0ce1b4446",
-  "cat": "popup",
-  "title": "Robotics and Deep Tech Walk & Talk | Bits & Pretzels Edition",
-  "date": "2026-09-27",
-  "time": "So 14:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/mq02zd4o",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/ie/e2e96f1b-28b6-4fe8-a6ea-ddb892fcf53d.png"
- },
- {
-  "id": "pk-0b12f7c837",
-  "cat": "popup",
-  "title": "BAAD SHOOTING SETS",
-  "date": "2026-09-27",
-  "time": "So 15:30",
-  "loc": "Baaderstraße 56A, München",
-  "ig": "",
-  "igUrl": "https://luma.com/4gy7tqh6",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/wr/3ebe476e-3718-41a7-9207-fb6dc613e661.jpg"
- },
- {
-  "id": "pk-b26f467ce5",
-  "cat": "popup",
-  "title": "ANÍCE.WIESN 2026",
-  "date": "2026-09-27",
-  "time": "So 18:00",
-  "loc": "Theresienwiese, München",
-  "ig": "",
-  "igUrl": "https://luma.com/9m3a5q8s",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/event-covers/p8/a890f7d4-2f29-4ee3-9bec-b207f1df8226.jpg"
- },
- {
-  "id": "pk-c075bfb9e3",
-  "cat": "popup",
-  "title": "Bits and Pretzels - The Pretzel Run: Easy 5K along the Isar",
-  "date": "2026-09-27",
-  "time": "So 18:00",
-  "loc": "Wittelsbacherstraße 2b, München",
-  "ig": "",
-  "igUrl": "https://luma.com/age-ryno",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/api-uploads/8r/a3c8d48b-b197-4851-b040-cfaace9e53b3.jpg"
- },
- {
   "id": "tm-Z698xZC2Z1kGUOOq4",
   "cat": "music",
   "title": "Mike Oldfield's Tubular Bells - The Best of Tubular Bells I, II & III",
@@ -82,18 +10,6 @@
   "igUrl": "https://www.ticketmaster.de/event/mike-oldfields-tubular-bells-the-best-of-tubular-bells-i-ii--iii-tickets/336820755?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/5ad/da0cee97-b9b8-45f7-852c-1773b37355ad_SOURCE"
- },
- {
-  "id": "pk-87deace152",
-  "cat": "music",
-  "title": "Founders Running Club x Bits & Pretzels Morning Run · presented by BASE Coworking & JUSTROCKET",
-  "date": "2026-09-28",
-  "time": "Mo 08:00",
-  "loc": "Vits Kaffee GmbH & Co.KG",
-  "ig": "",
-  "igUrl": "https://luma.com/wyqnbsje",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/8t/136ada64-b127-48ca-85ac-f9cec9f62a14.png"
  },
  {
   "id": "pk-8c17bc0e23",
@@ -192,18 +108,6 @@
   "img": "https://images.lumacdn.com/uploads/09/e04fa391-e6e8-4db9-afca-c23f429ce6f5.png"
  },
  {
-  "id": "pk-9cc1529be7",
-  "cat": "popup",
-  "title": "FUNDING THE FUTURE",
-  "date": "2026-09-29",
-  "time": "Di 18:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/7ggzxfyp",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/8b/dfacacf7-08e5-4e6c-8e80-cd958513aa99.png"
- },
- {
   "id": "pk-f604278ce2",
   "cat": "popup",
   "title": "FOMO x EWOR x 10x Founders: Founder & Investor Run - Bits Edition",
@@ -300,6 +204,18 @@
   "img": "https://images.lumacdn.com/uploads/80/a466a23d-e9f7-4295-86b2-f52e567b87e3.jpg"
  },
  {
+  "id": "pk-dfe6fed85f",
+  "cat": "popup",
+  "title": "【tffBerlin ON TOUR - München】Vive l'Amour 4K Restoration 愛情萬歲 4K 數位修復版",
+  "date": "2026-10-04",
+  "time": "So 13:30",
+  "loc": "Rottmannstraße 15, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/2ogpybo6",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/wg/912c55aa-1d58-4d70-a238-757c5d774ae8.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z16v-E-IbE",
   "cat": "music",
   "title": "bleood - Kill Your Idols Europe Tour",
@@ -348,6 +264,18 @@
   "img": "https://s1.ticketm.net/dam/a/885/7b432c08-67a7-4955-a45f-e911df13c885_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-4a05021568",
+  "cat": "popup",
+  "title": "Ship & Sip! (Munich / October)",
+  "date": "2026-10-08",
+  "time": "Do 18:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/07peqfzb",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/21/daeefaf6-62eb-40b6-a216-1ee66afbacda.png"
+ },
+ {
   "id": "tm-Z698xZC2Z16vF8oZo0",
   "cat": "music",
   "title": "Katherine Priddy",
@@ -358,6 +286,30 @@
   "igUrl": "https://www.ticketmaster.de/event/katherine-priddy-tickets/1210440464?language=en-us",
   "desc": "Music · Folk in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
+ },
+ {
+  "id": "pk-4ccb418562",
+  "cat": "popup",
+  "title": "Lift This Way X LMTLZ",
+  "date": "2026-10-11",
+  "time": "So 12:45",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/w93c31ai",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/m0/fccb14fc-af6d-4b7f-a506-1c115db7165b.jpg"
+ },
+ {
+  "id": "pk-0f62229e12",
+  "cat": "music",
+  "title": "MU.IT Choir Concert v1.1",
+  "date": "2026-10-11",
+  "time": "So 20:00",
+  "loc": "Schwanthalerstraße 80, München-Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/r0a8endz",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/pb/c79bec4b-68df-44a5-af70-cece706275ab.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1ka47oas",
@@ -442,6 +394,18 @@
   "igUrl": "https://www.ticketmaster.de/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/1926971198?language=en-us",
   "desc": "Music · Pop in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/fff/456e645f-c31c-40bb-99c2-d574a2bf1fff_SOURCE"
+ },
+ {
+  "id": "pk-2b65e96fbf",
+  "cat": "popup",
+  "title": "Waldumbau im Forstenrieder Park erleben: Von Monokultur zu einem klimaresilienten Mischwald",
+  "date": "2026-10-23",
+  "time": "Fr 14:00",
+  "loc": "Forstenrieder Allee 309, München-Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+  "ig": "",
+  "igUrl": "https://luma.com/MCW2026-waldumbau",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/bd/d4c0dd13-90c8-45be-909a-7807d5300fc8.png"
  },
  {
   "id": "tm-Z698xZC2Z16vJofIOt",
@@ -984,6 +948,18 @@
   "img": "https://s1.ticketm.net/dam/a/dd5/188d996a-b39d-4a01-a659-eb587e1afdd5_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z1kP4e4r4",
+  "cat": "music",
+  "title": "Frankie Stew and Harvey Gunn - good bye for now",
+  "date": "2027-02-05",
+  "time": "Fr 20:00",
+  "loc": "Nachtwerk, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/frankie-stew-and-harvey-gunn-good-bye-for-now-tickets/955095795?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in Nachtwerk. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/e6b/121b0a3a-e2d0-43cc-825c-671b2c383e6b_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-LvZ18QIBPkEJ8fkG3vltg",
   "cat": "popup",
   "title": "Herz über Kopf - Tourdates 2027",
@@ -1150,6 +1126,18 @@
   "igUrl": "https://www.ticketmaster.de/event/delta-goodrem-pure-world-tour-tickets/649592936?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/340/343eb8e3-e2f7-42d7-abcb-53319f765340_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1ka-ZPa_",
+  "cat": "music",
+  "title": "Palace - Europe & UK 2027",
+  "date": "2027-03-14",
+  "time": "So 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/palace-europe--uk-2027-tickets/261025259?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/4fe/13f5f33b-1fd2-4f64-bd3d-d69379a4a4fe_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kCKQffZ",
@@ -1380,6 +1368,18 @@
   "img": "https://s1.ticketm.net/dam/a/d56/9c44f9f0-a060-494d-94c9-f0de64256d56_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z16v8eJZr7",
+  "cat": "popup",
+  "title": "Aries Spears: Euro Trip",
+  "date": "2027-05-18",
+  "time": "Di 20:00",
+  "loc": "Alte Kongresshalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/aries-spears-euro-trip-tickets/1402980784?language=en-us",
+  "desc": "Arts & Theatre · Comedy in Alte Kongresshalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/fe8/f5d847b2-3439-4e8f-8b98-efc6f1cb9fe8_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16vfZvK0v",
   "cat": "music",
   "title": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
@@ -1440,6 +1440,18 @@
   "img": "https://s1.ticketm.net/dam/a/442/3e0f9858-c178-4af9-906b-8e04f3ff0442_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1kqvO_bS",
+  "cat": "music",
+  "title": "Rod Stewart - \"The Final Encore\"",
+  "date": "2027-06-20",
+  "time": "So 20:00",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/rod-stewart-the-final-encore-tickets/741819633?language=en-us",
+  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/615/c9d1f714-57de-4e29-9d62-cb403420d615_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16voJp8GV",
   "cat": "music",
   "title": "Simply Red - Summer Funk '27",
@@ -1476,39 +1488,15 @@
   "img": "https://s1.ticketm.net/dam/a/19e/875424a1-1ace-4e57-a098-cc1baa60f19e_SOURCE"
  },
  {
-  "id": "tm-Z698xZC2Z1k0F_aaz",
+  "id": "tm-Z698xZC2Z16v8IPxr4",
   "cat": "music",
-  "title": "Vega - Tour 2027",
-  "date": "2027-09-25",
-  "time": "Sa 20:00",
+  "title": "dudes. - Live Tour 27",
+  "date": "2027-10-03",
+  "time": "So 19:00",
   "loc": "Munich",
   "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/vega-tour-2027-tickets/908649278?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/d37/f985d6b1-b2e4-4813-9c74-409c93fe0d37_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z16vjaPAP7",
-  "cat": "music",
-  "title": "Genetikk - Live 2027 | Premium Package",
-  "date": "2027-12-10",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/genetikk-live-2027-%7C-premium-package-tickets/1709945944?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/30b/8f308930-3235-4e84-b280-12d4ef07830b_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1k8Jef-3",
-  "cat": "music",
-  "title": "KITSCHKRIEG - KITSCHKRIEG LIVE",
-  "date": "2027-12-31",
-  "time": "Fr",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/426094852?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/279/20bf25ff-788c-4fd9-b104-c601a6fdf279_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  "igUrl": "https://www.ticketmaster.de/event/dudes-live-tour-27-tickets/1428962795?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/9c3/4fd7c48d-b44c-472c-bd3c-f0a2fd70a9c3_SOURCE"
  }
 ]

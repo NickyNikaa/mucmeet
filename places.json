@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generatedAt": "2026-09-27T09:38:44.539Z",
+  "generatedAt": "2026-09-28T10:17:19.401Z",
   "curated": 106,
   "osm": 800,
-  "total": 855
+  "total": 854
  },
  "places": [
   {
@@ -11010,32 +11010,6 @@
    "osm": true
   },
   {
-   "id": "osm-n939575069",
-   "type": "restaurant",
-   "name": "Restaurant Martin",
-   "neighborhood": "München",
-   "cuisine": [
-    "international"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family"
-   ],
-   "mood": [
-    "cozy",
-    "lively"
-   ],
-   "exclusivity": 1,
-   "features": [
-    "terrace"
-   ],
-   "pitch": "Aus OpenStreetMap. balkan · Zschokkestraße · geöffnet: Mo-Su 12:00-23:00",
-   "bookingUrl": "https://restaurant-martin.eatbu.com",
-   "osm": true
-  },
-  {
    "id": "osm-n945913069",
    "type": "restaurant",
    "name": "Baader Cafe",
@@ -11570,7 +11544,8 @@
    ],
    "exclusivity": 1,
    "features": [
-    "terrace"
+    "terrace",
+    "vegan"
    ],
    "pitch": "Aus OpenStreetMap. indian · Emil-Geis-Straße · geöffnet: Mo-Su 11:30-14:30, 17:30-24:00",
    "bookingUrl": "https://shan-india.de/",
