@@ -1,113 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1kGUOOq4",
-  "cat": "music",
-  "title": "Mike Oldfield's Tubular Bells - The Best of Tubular Bells I, II & III",
-  "date": "2026-09-28",
-  "time": "Mo 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/mike-oldfields-tubular-bells-the-best-of-tubular-bells-i-ii--iii-tickets/336820755?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/5ad/da0cee97-b9b8-45f7-852c-1773b37355ad_SOURCE"
- },
- {
-  "id": "pk-8c17bc0e23",
-  "cat": "popup",
-  "title": "Bits and Pretzels Networking Event hosted by Plug and Play",
-  "date": "2026-09-28",
-  "time": "Mo 17:00",
-  "loc": "Rindermarkt 5, München",
-  "ig": "",
-  "igUrl": "https://luma.com/boxjaeu3",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/dd/035101cd-e630-4716-8e03-c14ec244c6e4.png"
- },
- {
-  "id": "pk-abd8eb4d91",
-  "cat": "popup",
-  "title": "Munich | Claude Meetup: Claude for Founders",
-  "date": "2026-09-28",
-  "time": "Mo 18:00",
-  "loc": "Odeonspl. 1, München",
-  "ig": "",
-  "igUrl": "https://luma.com/claude-7la4",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/api-uploads/wu/f9507b28-0380-46ec-b15f-1bdf3a9dc80f.png"
- },
- {
-  "id": "pk-c456c43279",
-  "cat": "music",
-  "title": "Girls Walk Club 🌸💫🍒🩵",
-  "date": "2026-09-28",
-  "time": "Mo 18:30",
-  "loc": "Eingang, Hesseloherstraße, Occamstraße 20, München",
-  "ig": "",
-  "igUrl": "https://luma.com/igqe6ymb",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/7j/1403808f-194a-423d-9aed-f3b0c93c2a51.png"
- },
- {
-  "id": "pk-90585fefb4",
-  "cat": "popup",
-  "title": "Notion Wiesn - Community Takeover",
-  "date": "2026-09-28",
-  "time": "Mo 19:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/notion-cy9u",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/su/038a9dff-d221-422a-9981-a346db4bb971.png"
- },
- {
-  "id": "pk-2d99346c56",
-  "cat": "popup",
-  "title": "【tffBerlin ON TOUR - München】 The Waves Will Carry Us 人生海海 — with Director Q&A",
-  "date": "2026-09-28",
-  "time": "Mo 19:30",
-  "loc": "Rottmannstraße 15, München-Maxvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/o6i8qtve",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/pd/55b0bf90-f69f-4044-b470-3fdb7d18ac7c.jpg"
- },
- {
-  "id": "pk-98491e1852",
-  "cat": "music",
-  "title": "Everstride x raaaw runclub",
-  "date": "2026-09-29",
-  "time": "Di 07:30",
-  "loc": "Odeonspl. 1, München",
-  "ig": "",
-  "igUrl": "https://luma.com/z9jiqnl9",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/3r/453d7ad9-410c-4270-8c4f-2a28bc8ea0b8.png"
- },
- {
-  "id": "pk-20d2d5fcca",
-  "cat": "gastro",
-  "title": "unlock VC Run & Breakfast: Bits & Pretzels",
-  "date": "2026-09-29",
-  "time": "Di 08:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/zslvtw19",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/2v/78c436b3-79a4-4367-aadb-42dd4bd39e89.png"
- },
- {
-  "id": "pk-8358de58bf",
-  "cat": "popup",
-  "title": "OpenAI Builder Lounge Munich",
-  "date": "2026-09-29",
-  "time": "Di 08:30",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/k82f3c5u",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/09/e04fa391-e6e8-4db9-afca-c23f429ce6f5.png"
- },
- {
   "id": "pk-f604278ce2",
   "cat": "popup",
   "title": "FOMO x EWOR x 10x Founders: Founder & Investor Run - Bits Edition",
@@ -948,6 +840,18 @@
   "img": "https://s1.ticketm.net/dam/a/dd5/188d996a-b39d-4a01-a659-eb587e1afdd5_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z16vuoGE-a",
+  "cat": "music",
+  "title": "Comastatic - Europe/UK 2027",
+  "date": "2027-02-04",
+  "time": "Do 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/comastatic-europe-uk-2027-tickets/1351327849?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/834/5d6839ff-09a2-438e-895a-befebb3a4834_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z1kP4e4r4",
   "cat": "music",
   "title": "Frankie Stew and Harvey Gunn - good bye for now",
@@ -1030,6 +934,18 @@
   "igUrl": "https://www.ticketmaster.de/event/almost-monday-thank-god-its-almost-monday-tour-uk-europe-2027-tickets/1118505722?language=en-us",
   "desc": "Music · Rock in Hansa 39 / Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/1be/66556c95-1619-455e-8f83-5277a9bec1be_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1AajSok",
+  "cat": "music",
+  "title": "Night Lovell - My Blood As The Ink Tour",
+  "date": "2027-02-15",
+  "time": "Mo 20:00",
+  "loc": "Nachtwerk, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/night-lovell-my-blood-as-the-ink-tour-tickets/9733446?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in Nachtwerk. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/826/ec5279fe-c168-4bda-8b57-8de744070826_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vjF_7xp",
