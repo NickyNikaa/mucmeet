@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-f604278ce2",
-  "cat": "popup",
-  "title": "FOMO x EWOR x 10x Founders: Founder & Investor Run - Bits Edition",
-  "date": "2026-09-30",
-  "time": "Mi 07:30",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/fomobitsrun",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/et/a4af6029-3c11-430c-982d-eb5bd6b251c0.png"
- },
- {
   "id": "tm-Z698xZC2Z16v_gvOjO",
   "cat": "music",
   "title": "Two Lanes - TWO LANES \"A PART OF US\" EUROPE TOUR 2026",
@@ -945,7 +933,7 @@
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/night-lovell-my-blood-as-the-ink-tour-tickets/9733446?language=en-us",
   "desc": "Music · Hip-Hop/Rap in Nachtwerk. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/826/ec5279fe-c168-4bda-8b57-8de744070826_SOURCE"
+  "img": "https://s1.ticketm.net/dam/a/7d8/1e6220d0-1108-4330-b3aa-4940d92067d8_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vjF_7xp",
@@ -1176,6 +1164,18 @@
   "img": "https://s1.ticketm.net/dam/a/445/8a27f7b3-5be4-43a2-a852-12a5b9d11445_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z16v7Ipo7E",
+  "cat": "music",
+  "title": "Morgan Jay: La Dolce Vita Tour",
+  "date": "2027-04-12",
+  "time": "Mo 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/1128591127?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16vadjxuZ",
   "cat": "music",
   "title": "Cave - Tour de Porz",
@@ -1186,18 +1186,6 @@
   "igUrl": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/1243722340?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/e16/f71a0706-5aad-4021-9e5e-4574a144ee16_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1k44uIjb",
-  "cat": "music",
-  "title": "Morgan Jay: La Dolce Vita Tour",
-  "date": "2027-04-13",
-  "time": "Di 19:30",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/555368718?language=en-us",
-  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/f40/eaa8048c-575c-4719-8681-7bf4a9fdef40_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kCeFbqY",
