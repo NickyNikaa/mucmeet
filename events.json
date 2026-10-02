@@ -1,41 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16v_gvOjO",
-  "cat": "music",
-  "title": "Two Lanes - TWO LANES \"A PART OF US\" EUROPE TOUR 2026",
-  "date": "2026-10-01",
-  "time": "Do 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/two-lanes-two-lanes-a-part-of-us-europe-tour-2026-tickets/1675060720?language=en-us",
-  "desc": "Music · Dance/Electronic in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/92e/da90b1f9-3f08-41cb-975f-2c8a070ee92e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kbzkaxd",
-  "cat": "music",
-  "title": "OsamaSon - PSYKTURNAL TOUR",
-  "date": "2026-10-01",
-  "time": "Do 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/osamason-psykturnal-tour-tickets/638189883?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/d21/6818e767-d292-4b6b-b85d-f329f32a8d21_SOURCE"
- },
- {
-  "id": "pk-1b6aa9cda9",
-  "cat": "popup",
-  "title": "Wispr Flow Munich Event - From Friction to Flow",
-  "date": "2026-10-01",
-  "time": "Do 18:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/wispr-flow-munich",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/ay/57eece8a-0916-4129-8d03-65f8d7e440cc.png"
- },
- {
   "id": "tm-Z698xZC2Z1k7eFAQe",
   "cat": "music",
   "title": "Tommy Lyon - Europe 2026",
@@ -346,6 +310,18 @@
   "igUrl": "https://www.ticketmaster.de/event/the-home-team-the-crucible-of-life-european-tour-2026-tickets/1479519596?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/9e3/57fb150f-8613-4b26-b4fd-6618d3ce69e3_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-d6a847707b",
+  "cat": "popup",
+  "title": "LangChain x Data Reply Hackathon: Building with Agent Harnesses (Munich)",
+  "date": "2026-10-27",
+  "time": "Di 17:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/g6kvvori",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/x3/1720a115-3623-4c9b-8c15-57810c2cb7ba.png"
  },
  {
   "id": "tm-Z698xZC2Z1kxf80Ag",
@@ -1402,6 +1378,18 @@
   "igUrl": "https://www.ticketmaster.de/event/oasis-live-27-%7C-ticket--hotel-packages-tickets/1641747540?language=en-us",
   "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/19e/875424a1-1ace-4e57-a098-cc1baa60f19e_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1k0F_aaz",
+  "cat": "music",
+  "title": "Vega - Tour 2027",
+  "date": "2027-09-25",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/vega-tour-2027-tickets/908649278?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/d37/f985d6b1-b2e4-4813-9c74-409c93fe0d37_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z16v8IPxr4",
