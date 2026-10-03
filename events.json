@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1k7eFAQe",
-  "cat": "music",
-  "title": "Tommy Lyon - Europe 2026",
-  "date": "2026-10-02",
-  "time": "Fr 19:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/tommy-lyon-europe-2026-tickets/102205682?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/01f/df5b5b41-431e-431a-af21-142ebf80401f_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z16vqOx3--",
-  "cat": "music",
-  "title": "STVW - Punk Rave Europe Tour 2026",
-  "date": "2026-10-02",
-  "time": "Fr 20:00",
-  "loc": "Nachtwerk, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/stvw-punk-rave-europe-tour-2026-tickets/1760892861?language=en-us",
-  "desc": "Music · Dance/Electronic in Nachtwerk. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/41a/897fa482-db47-4d0d-9559-367ab0d2841a_SOURCE"
- },
- {
   "id": "pk-8bd2b57f19",
   "cat": "gastro",
   "title": "Sober Wiesn!",
@@ -144,6 +120,18 @@
   "img": "https://images.lumacdn.com/uploads/m0/fccb14fc-af6d-4b7f-a506-1c115db7165b.jpg"
  },
  {
+  "id": "pk-8b6826488d",
+  "cat": "music",
+  "title": "Runners Delight, R&C x On x STOX - Marathon Afterparty",
+  "date": "2026-10-11",
+  "time": "So 18:30",
+  "loc": "Brienner Str. 50a, München",
+  "ig": "",
+  "igUrl": "https://luma.com/hyea8eau",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/rk/702dc470-b658-46d8-802b-8c445fd1c5fb.jpg"
+ },
+ {
   "id": "pk-0f62229e12",
   "cat": "music",
   "title": "MU.IT Choir Concert v1.1",
@@ -178,6 +166,18 @@
   "igUrl": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/1219578185?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/41d/e6ab6fd7-dda8-4c06-898d-cb31026ed41d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-104a20b496",
+  "cat": "popup",
+  "title": "Munich🥨NLP × JetBrains: Code Intelligence & AI Agents",
+  "date": "2026-10-13",
+  "time": "Di 17:45",
+  "loc": "Christoph-Rapparini-Bogen 23, München",
+  "ig": "",
+  "igUrl": "https://luma.com/4k19ckbb",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/8l/420ef8f3-026e-4359-84bf-9bd3ce7ad848.png"
  },
  {
   "id": "tm-Z698xZC2Z1kPvJ9Fb",
@@ -1260,6 +1260,18 @@
   "img": "https://s1.ticketm.net/dam/a/d56/9c44f9f0-a060-494d-94c9-f0de64256d56_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z16v70efZ3",
+  "cat": "music",
+  "title": "Greta Van Fleet - Into The Beginning",
+  "date": "2027-05-15",
+  "time": "Sa 20:00",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/greta-van-fleet-into-the-beginning-tickets/1124094012?language=en-us",
+  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/d39/045f547d-bf0c-45fb-8b53-0723109d4d39_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16v8eJZr7",
   "cat": "popup",
   "title": "Aries Spears: Euro Trip",
@@ -1318,6 +1330,18 @@
   "igUrl": "https://www.ticketmaster.de/event/delil--avie-2ortaks-tour-2027-%7C-premium-package-tickets/1583412780?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/b73/ebb46d5b-0442-45a6-8430-76abf0971b73_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vaFaoop",
+  "cat": "music",
+  "title": "Slash featuring Myles Kennedy & the Conspirators",
+  "date": "2027-06-07",
+  "time": "Mo 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/slash-featuring-myles-kennedy--the-conspirators-tickets/1248251456?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/b36/dd6e2892-c628-4b43-a793-717ea9d99b36_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vAzAE3k",
