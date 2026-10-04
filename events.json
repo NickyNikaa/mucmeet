@@ -1,29 +1,5 @@
 [
  {
-  "id": "pk-8bd2b57f19",
-  "cat": "gastro",
-  "title": "Sober Wiesn!",
-  "date": "2026-10-03",
-  "time": "Sa 10:30",
-  "loc": "Theresienwiese, Theresienhöhe 16, München-Schwanthalerhöhe",
-  "ig": "",
-  "igUrl": "https://luma.com/age-onh2",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/api-uploads/ax/f72004c2-c2c3-428f-999c-fb755c9492ea.jpg"
- },
- {
-  "id": "pk-4e3dc7679b",
-  "cat": "popup",
-  "title": "【tffBerlin ON TOUR - München】Mother Bhumi 地母 — with Director Q&A",
-  "date": "2026-10-03",
-  "time": "Sa 13:30",
-  "loc": "Rottmannstraße 15, München-Maxvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/gb9r1lsf",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/80/a466a23d-e9f7-4295-86b2-f52e567b87e3.jpg"
- },
- {
   "id": "pk-dfe6fed85f",
   "cat": "popup",
   "title": "【tffBerlin ON TOUR - München】Vive l'Amour 4K Restoration 愛情萬歲 4K 數位修復版",
@@ -108,6 +84,18 @@
   "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
  },
  {
+  "id": "pk-ca5b855f96",
+  "cat": "popup",
+  "title": "Munich Marathon Shakeout Run",
+  "date": "2026-10-10",
+  "time": "Sa 10:00",
+  "loc": "Tal 24, München-Altstadt-Lehel",
+  "ig": "",
+  "igUrl": "https://luma.com/08xr7scy",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/bs/efbd3e66-04c1-4599-88c5-ddc6090f238b.png"
+ },
+ {
   "id": "pk-4ccb418562",
   "cat": "popup",
   "title": "Lift This Way X LMTLZ",
@@ -180,6 +168,18 @@
   "img": "https://images.lumacdn.com/uploads/8l/420ef8f3-026e-4359-84bf-9bd3ce7ad848.png"
  },
  {
+  "id": "pk-218994a623",
+  "cat": "music",
+  "title": "beyond economy Preview Vision Agenda 2040 & Festival",
+  "date": "2026-10-16",
+  "time": "Fr 18:00",
+  "loc": "Friedenstraße 24, München",
+  "ig": "",
+  "igUrl": "https://luma.com/8jnqhbo5",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/zi/a0c066c3-a048-4a9e-b136-fe94b4c5a34c.png"
+ },
+ {
   "id": "tm-Z698xZC2Z1kPvJ9Fb",
   "cat": "music",
   "title": "THIZZY52 - BLOCKKIDS TOUR 2026",
@@ -238,6 +238,18 @@
   "igUrl": "https://luma.com/mcw2026-Harald-Lesch",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/sr/be08e29f-16ad-487d-93b3-5cd41e98c4ad.jpg"
+ },
+ {
+  "id": "pk-8f9cc0dd59",
+  "cat": "music",
+  "title": "Code + Capital — Reimann Investors VC x TNG Technology Consulting",
+  "date": "2026-10-21",
+  "time": "Mi 19:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/l1gq7mya",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/51/42ccf4fc-0fb7-4aeb-8500-75a4c2d29f86.png"
  },
  {
   "id": "tm-Z698xZC2Z16v0JPskb",
