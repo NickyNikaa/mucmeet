@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-dfe6fed85f",
-  "cat": "popup",
-  "title": "【tffBerlin ON TOUR - München】Vive l'Amour 4K Restoration 愛情萬歲 4K 數位修復版",
-  "date": "2026-10-04",
-  "time": "So 13:30",
-  "loc": "Rottmannstraße 15, München-Maxvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/2ogpybo6",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/wg/912c55aa-1d58-4d70-a238-757c5d774ae8.jpg"
- },
- {
   "id": "tm-Z698xZC2Z16v-E-IbE",
   "cat": "music",
   "title": "bleood - Kill Your Idols Europe Tour",
@@ -46,6 +34,18 @@
   "igUrl": "https://www.ticketmaster.de/event/lake-street-dive-2026-european-tour-tickets/842726861?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/9c7/abb422cd-ff20-4ef8-affc-d40890af19c7_SOURCE"
+ },
+ {
+  "id": "pk-4426f84e90",
+  "cat": "music",
+  "title": "Neon Run & Rave | Munich Multi-Community Event",
+  "date": "2026-10-07",
+  "time": "Mi 19:30",
+  "loc": "Sonnenstraße 12, München-Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/1970jid8",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/g2/7574ff21-7381-4de9-bc4a-1521c0e89b08.png"
  },
  {
   "id": "tm-Z698xZC2Z16vFppe_o",
@@ -84,9 +84,9 @@
   "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
  },
  {
-  "id": "pk-ca5b855f96",
+  "id": "pk-e8f1b7f570",
   "cat": "popup",
-  "title": "Munich Marathon Shakeout Run",
+  "title": "Munich Marathon Shakeout Run empowered by lululemon",
   "date": "2026-10-10",
   "time": "Sa 10:00",
   "loc": "Tal 24, München-Altstadt-Lehel",
@@ -168,6 +168,30 @@
   "img": "https://images.lumacdn.com/uploads/8l/420ef8f3-026e-4359-84bf-9bd3ce7ad848.png"
  },
  {
+  "id": "pk-5cb9ec204c",
+  "cat": "music",
+  "title": "TUM Social AI Club - Demo Day Second Edition",
+  "date": "2026-10-13",
+  "time": "Di 18:30",
+  "loc": "Erika-Mann-Straße 62-66, München-Neuhausen-Nymphenburg",
+  "ig": "",
+  "igUrl": "https://luma.com/e392mn9r",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/4p/ab440d7c-a7b6-4176-9cec-4f4a137c9560.png"
+ },
+ {
+  "id": "pk-d2d87f919e",
+  "cat": "popup",
+  "title": "Founder Fail Tales Vol. 6",
+  "date": "2026-10-13",
+  "time": "Di 20:00",
+  "loc": "Schellingstraße 3, München",
+  "ig": "",
+  "igUrl": "https://luma.com/g3hviqko",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/ba/77c5f939-443e-4f87-aaad-02a968b6c869.png"
+ },
+ {
   "id": "pk-218994a623",
   "cat": "music",
   "title": "beyond economy Preview Vision Agenda 2040 & Festival",
@@ -228,6 +252,18 @@
   "img": "https://s1.ticketm.net/dam/a/657/c7c49c0d-d7ce-4dc5-af7b-c95053ea5657_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-eb732feff4",
+  "cat": "popup",
+  "title": "YC Stories - From SF To Munich",
+  "date": "2026-10-19",
+  "time": "Mo 18:30",
+  "loc": "Platzl 1, München-Altstadt-Lehel",
+  "ig": "",
+  "igUrl": "https://luma.com/1mgtk6yk",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/h8/0c783ef0-6e82-4132-bd18-ce154119554c.png"
+ },
+ {
   "id": "pk-872eac9989",
   "cat": "popup",
   "title": "2026 - haben es jetzt alle verstanden? Prof. Dr. Harald Leschs Rede zur Lage des Planeten",
@@ -238,6 +274,18 @@
   "igUrl": "https://luma.com/mcw2026-Harald-Lesch",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/sr/be08e29f-16ad-487d-93b3-5cd41e98c4ad.jpg"
+ },
+ {
+  "id": "pk-defe9bb095",
+  "cat": "popup",
+  "title": "Kubernetes, Cloud Native and Platform Engineering Meetup Munich - October Edition",
+  "date": "2026-10-21",
+  "time": "Mi 18:00",
+  "loc": "Gewerbegebiet Neumarkter Straße, Streitfeldstraße 25, München-Berg am Laim",
+  "ig": "",
+  "igUrl": "https://luma.com/9sfx42ez",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/zo/f7bf3d7a-68f6-48d6-ac77-f3249b70e3c4.png"
  },
  {
   "id": "pk-8f9cc0dd59",
@@ -274,6 +322,18 @@
   "igUrl": "https://luma.com/MCW2026-waldumbau",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/bd/d4c0dd13-90c8-45be-909a-7807d5300fc8.png"
+ },
+ {
+  "id": "pk-d449947b11",
+  "cat": "popup",
+  "title": "Bloom Again – Impactful Upcycling",
+  "date": "2026-10-23",
+  "time": "Fr 17:00",
+  "loc": "Gotzinger Str. 8, München",
+  "ig": "",
+  "igUrl": "https://luma.com/uuumj5up",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/hr/1cb02533-25d6-4124-bd77-4d6c5d0404d2.png"
  },
  {
   "id": "tm-Z698xZC2Z16vJofIOt",
@@ -382,6 +442,18 @@
   "igUrl": "https://www.ticketmaster.de/event/undeath-tickets/1062110371?language=en-us",
   "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/b26/81339130-dcfe-4d56-a4a1-a87b6953fb26_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-0f4dfc782f",
+  "cat": "music",
+  "title": "Leseparty - Was München Liest x Freunde & Förderer des Literaturhauses",
+  "date": "2026-11-02",
+  "time": "Mo 19:00",
+  "loc": "Salvatorplatz 1, München-Altstadt-Lehel",
+  "ig": "",
+  "igUrl": "https://luma.com/8oj6kare",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/bd/55c83a99-3207-431c-96c6-11ad9a602695.png"
  },
  {
   "id": "tm-Z698xZC2Z1kQf037o",
