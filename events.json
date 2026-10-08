@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1k-ejJ--",
-  "cat": "music",
-  "title": "Lake Street Dive - 2026 European Tour",
-  "date": "2026-10-07",
-  "time": "Mi 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/lake-street-dive-2026-european-tour-tickets/842726861?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/9c7/abb422cd-ff20-4ef8-affc-d40890af19c7_SOURCE"
- },
- {
-  "id": "pk-4426f84e90",
-  "cat": "music",
-  "title": "Neon Run & Rave | Munich Multi-Community Event",
-  "date": "2026-10-07",
-  "time": "Mi 19:30",
-  "loc": "Sonnenstraße 12, München-Ludwigsvorstadt-Isarvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/1970jid8",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/g2/7574ff21-7381-4de9-bc4a-1521c0e89b08.png"
- },
- {
   "id": "tm-Z698xZC2Z16vFppe_o",
   "cat": "music",
   "title": "King Woman",
@@ -192,6 +168,18 @@
   "img": "https://images.lumacdn.com/uploads/ba/77c5f939-443e-4f87-aaad-02a968b6c869.png"
  },
  {
+  "id": "pk-caf33e80b4",
+  "cat": "popup",
+  "title": "Aporia #01: Die Zukunft der Arbeit in der KI-Ära",
+  "date": "2026-10-15",
+  "time": "Do 19:00",
+  "loc": "Blumenstraße 7, München",
+  "ig": "",
+  "igUrl": "https://luma.com/br1sdmg5",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/o4/bec68868-ac75-4d4f-8bb5-b38255e83734.jpg"
+ },
+ {
   "id": "pk-218994a623",
   "cat": "music",
   "title": "beyond economy Preview Vision Agenda 2040 & Festival",
@@ -316,11 +304,11 @@
   "cat": "music",
   "title": "Simple Plan - Bigger Than You Think! Europe Tour 2026",
   "date": "2026-10-23",
-  "time": "Fr 19:00",
+  "time": "Fr 19:30",
   "loc": "Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/1926971198?language=en-us",
-  "desc": "Music · Pop in . Tickets & Infos über Ticketmaster.",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/fff/456e645f-c31c-40bb-99c2-d574a2bf1fff_SOURCE"
  },
  {
@@ -946,6 +934,18 @@
   "igUrl": "https://www.ticketmaster.de/event/sim-hooman-after-all-world-tour-tickets/635651064?language=en-us",
   "desc": "Music · Metal in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/7b6/0528adae-2345-47f9-832a-178405b2d7b6_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kxv-vea",
+  "cat": "music",
+  "title": "OG LU - Alle Chayas Alle Bitches Tour 2027",
+  "date": "2027-02-09",
+  "time": "Di 20:00",
+  "loc": "Nachtwerk, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/og-lu-alle-chayas-alle-bitches-tour-2027-tickets/881841089?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in Nachtwerk. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/1a1/2305696e-33df-4028-9813-29f719e831a1_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z16eeZAo8o",
