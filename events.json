@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vF8oZo0",
-  "cat": "music",
-  "title": "Katherine Priddy",
-  "date": "2026-10-09",
-  "time": "Fr 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/katherine-priddy-tickets/1210440464?language=en-us",
-  "desc": "Music · Folk in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/367/23f795fa-f439-49b6-b9ff-225bc30ca367_SOURCE"
- },
- {
-  "id": "pk-679ffc5f31",
-  "cat": "popup",
-  "title": "Breathwork Session empowered by lululemon",
-  "date": "2026-10-09",
-  "time": "Fr 17:30",
-  "loc": "Tal 24, München-Altstadt-Lehel",
-  "ig": "",
-  "igUrl": "https://luma.com/rd4b9ib4",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/zq/9f3efdb0-0bc2-4dcd-9ec5-4b8eed47916c.png"
- },
- {
   "id": "pk-e8f1b7f570",
   "cat": "popup",
   "title": "Munich Marathon Shakeout Run empowered by lululemon",
@@ -346,6 +322,18 @@
   "igUrl": "https://www.ticketmaster.de/event/neunundneunzig-nichts-fur-immer-tour-tickets/372372793?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/572/cbfb4c88-a92a-4301-8fe6-0e603e9c1572_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-a21e6d3340",
+  "cat": "popup",
+  "title": "Nymphenruns x Vivobarefoot - Hike & Coffee up the Bodenschneid",
+  "date": "2026-10-25",
+  "time": "So 08:10",
+  "loc": "Bayerstraße 10A, München",
+  "ig": "",
+  "igUrl": "https://luma.com/7at5my63",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/x7/42d939d2-cd74-46a1-82e1-a51cc144a64e.png"
  },
  {
   "id": "tm-Z698xZC2Z16vJkGAvM",
@@ -862,6 +850,18 @@
   "igUrl": "https://www.ticketmaster.de/event/levin-liam-pech-tour-2027-tickets/1566342033?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8d6/7f34a68f-04f6-4f13-bdaf-b43c84cb18d6_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vAF8Z_v",
+  "cat": "music",
+  "title": "MICO - IN:BETWEEN TOUR",
+  "date": "2027-01-23",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/mico-inbetween-tour-tickets/1148400641?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/987/d708119f-6026-422c-b7cd-240b00c8f987_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vfkaxuV",
@@ -1428,6 +1428,18 @@
   "img": "https://s1.ticketm.net/dam/a/442/3e0f9858-c178-4af9-906b-8e04f3ff0442_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1k-Kk3-_",
+  "cat": "music",
+  "title": "Nickelback: Everything Under The Sun Tour",
+  "date": "2027-06-19",
+  "time": "Sa 20:00",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/853192859?language=en-us",
+  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/42d/9f11dd24-d1ea-493f-a286-f57136aaa42d_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z1kqvO_bS",
   "cat": "music",
   "title": "Rod Stewart - \"The Final Encore\"",
@@ -1522,17 +1534,5 @@
   "igUrl": "https://www.ticketmaster.de/event/genetikk-live-2027-%7C-premium-package-tickets/1709945944?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/30b/8f308930-3235-4e84-b280-12d4ef07830b_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1k8Jef-3",
-  "cat": "music",
-  "title": "KITSCHKRIEG - KITSCHKRIEG LIVE",
-  "date": "2027-12-31",
-  "time": "Fr",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/426094852?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/279/20bf25ff-788c-4fd9-b104-c601a6fdf279_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
