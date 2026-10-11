@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-e8f1b7f570",
-  "cat": "popup",
-  "title": "Munich Marathon Shakeout Run empowered by lululemon",
-  "date": "2026-10-10",
-  "time": "Sa 10:00",
-  "loc": "Tal 24, München-Altstadt-Lehel",
-  "ig": "",
-  "igUrl": "https://luma.com/08xr7scy",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/7p/cd9c4ff4-874b-4323-9693-f3ca7b02e587.png"
- },
- {
   "id": "pk-3328d07846",
   "cat": "popup",
   "title": "Brecherspitz Hike (Medium Difficulty)",
@@ -264,6 +252,18 @@
   "img": "https://images.lumacdn.com/uploads/51/42ccf4fc-0fb7-4aeb-8500-75a4c2d29f86.png"
  },
  {
+  "id": "pk-61afa7e277",
+  "cat": "popup",
+  "title": "appliedAI Developers Meetup @ Munich",
+  "date": "2026-10-22",
+  "time": "Do 18:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/h1jfabf1",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/2f/767fd04c-a8b8-470f-ae54-070e0b804211.png"
+ },
+ {
   "id": "tm-Z698xZC2Z16v0JPskb",
   "cat": "music",
   "title": "Simple Plan - Bigger Than You Think! Europe Tour 2026",
@@ -298,6 +298,18 @@
   "igUrl": "https://luma.com/uuumj5up",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/hr/1cb02533-25d6-4124-bd77-4d6c5d0404d2.png"
+ },
+ {
+  "id": "pk-05e885811d",
+  "cat": "popup",
+  "title": "Micro Masterclass with Alexandra Geese",
+  "date": "2026-10-23",
+  "time": "Fr 17:00",
+  "loc": "Richard-Wagner-Straße 1, München",
+  "ig": "",
+  "igUrl": "https://luma.com/8uuimd1u",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/ac/d3842dc9-d344-4525-94f8-4a94909eb004.png"
  },
  {
   "id": "tm-Z698xZC2Z16vJofIOt",
@@ -358,18 +370,6 @@
   "igUrl": "https://www.ticketmaster.de/event/the-home-team-the-crucible-of-life-european-tour-2026-tickets/1479519596?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/9e3/57fb150f-8613-4b26-b4fd-6618d3ce69e3_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "pk-d6a847707b",
-  "cat": "popup",
-  "title": "LangChain x Data Reply Hackathon: Building with Agent Harnesses (Munich)",
-  "date": "2026-10-27",
-  "time": "Di 17:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/g6kvvori",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/x3/1720a115-3623-4c9b-8c15-57810c2cb7ba.png"
  },
  {
   "id": "tm-Z698xZC2Z1kxf80Ag",
