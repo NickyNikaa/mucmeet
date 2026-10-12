@@ -1,65 +1,5 @@
 [
  {
-  "id": "pk-3328d07846",
-  "cat": "popup",
-  "title": "Brecherspitz Hike (Medium Difficulty)",
-  "date": "2026-10-11",
-  "time": "So 07:45",
-  "loc": "Bayerstraße 10A, München",
-  "ig": "",
-  "igUrl": "https://luma.com/9opp97t4",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/q3/a02ba0df-a806-4685-9fe9-308afdceb671.jpg"
- },
- {
-  "id": "pk-d20223012f",
-  "cat": "popup",
-  "title": "Cheering Zone | NymphenRuns x Run & Chill @ Munich Marathon",
-  "date": "2026-10-11",
-  "time": "So 09:00",
-  "loc": "Schwabing-West, Munich",
-  "ig": "",
-  "igUrl": "https://luma.com/4a9im5xd",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/fa/d0fdd17c-4dbb-4624-8a76-ab2f314fbf35.png"
- },
- {
-  "id": "pk-4ccb418562",
-  "cat": "popup",
-  "title": "Lift This Way X LMTLZ",
-  "date": "2026-10-11",
-  "time": "So 12:45",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/w93c31ai",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/m0/fccb14fc-af6d-4b7f-a506-1c115db7165b.jpg"
- },
- {
-  "id": "pk-8b6826488d",
-  "cat": "music",
-  "title": "Runners Delight, R&C x On x STOX - Marathon Afterparty",
-  "date": "2026-10-11",
-  "time": "So 18:30",
-  "loc": "Brienner Str. 50a, München",
-  "ig": "",
-  "igUrl": "https://luma.com/hyea8eau",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/rk/702dc470-b658-46d8-802b-8c445fd1c5fb.jpg"
- },
- {
-  "id": "pk-0f62229e12",
-  "cat": "music",
-  "title": "MU.IT Choir Concert v1.1",
-  "date": "2026-10-11",
-  "time": "So 20:00",
-  "loc": "Schwanthalerstraße 80, München-Ludwigsvorstadt-Isarvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/r0a8endz",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/pb/c79bec4b-68df-44a5-af70-cece706275ab.jpg"
- },
- {
   "id": "tm-Z698xZC2Z1ka47oas",
   "cat": "music",
   "title": "Ivo Martin - MIT DIR WIRD MIR WARM TOUR 2026",
@@ -252,9 +192,9 @@
   "img": "https://images.lumacdn.com/uploads/51/42ccf4fc-0fb7-4aeb-8500-75a4c2d29f86.png"
  },
  {
-  "id": "pk-61afa7e277",
+  "id": "pk-1392ad389b",
   "cat": "popup",
-  "title": "appliedAI Developers Meetup @ Munich",
+  "title": "appliedAI Developers Meetup #6/9: Observability: understanding what AI systems actually do",
   "date": "2026-10-22",
   "time": "Do 18:30",
   "loc": "München, Germany",
@@ -372,6 +312,18 @@
   "img": "https://s1.ticketm.net/dam/a/9e3/57fb150f-8613-4b26-b4fd-6618d3ce69e3_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-d6a847707b",
+  "cat": "popup",
+  "title": "LangChain x Data Reply Hackathon: Building with Agent Harnesses (Munich)",
+  "date": "2026-10-27",
+  "time": "Di 17:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/g6kvvori",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/x3/1720a115-3623-4c9b-8c15-57810c2cb7ba.png"
+ },
+ {
   "id": "tm-Z698xZC2Z1kxf80Ag",
   "cat": "music",
   "title": "Jero19 - Tour von Seite",
@@ -382,6 +334,18 @@
   "igUrl": "https://www.ticketmaster.de/event/jero19-tour-von-seite-tickets/894424175?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/4c9/d50cc2df-148c-4e11-8f33-a55eee4864c9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-820710b59e",
+  "cat": "popup",
+  "title": "Munich Hardware Meetup",
+  "date": "2026-10-28",
+  "time": "Mi 18:30",
+  "loc": "St.-Martin-Straße 82, München-Ramersdorf-Perlach",
+  "ig": "",
+  "igUrl": "https://luma.com/vwdg5nek",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/qq/a4341d68-83e8-46da-ac3a-8c8bfc627ed9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1ku70AbI",
@@ -418,6 +382,18 @@
   "igUrl": "https://www.ticketmaster.de/event/undeath-tickets/1062110371?language=en-us",
   "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/b26/81339130-dcfe-4d56-a4a1-a87b6953fb26_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-0f4dfc782f",
+  "cat": "music",
+  "title": "Leseparty - Was München Liest x Freunde & Förderer des Literaturhauses",
+  "date": "2026-11-02",
+  "time": "Mo 19:00",
+  "loc": "Salvatorplatz 1, München-Altstadt-Lehel",
+  "ig": "",
+  "igUrl": "https://luma.com/8oj6kare",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/bd/55c83a99-3207-431c-96c6-11ad9a602695.png"
  },
  {
   "id": "tm-Z698xZC2Z1kQf037o",
@@ -1432,7 +1408,7 @@
   "cat": "music",
   "title": "Nickelback: Everything Under The Sun Tour",
   "date": "2027-06-19",
-  "time": "Sa 20:00",
+  "time": "Sa 18:30",
   "loc": "Olympiahalle, Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/853192859?language=en-us",
