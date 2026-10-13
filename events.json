@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1ka47oas",
-  "cat": "music",
-  "title": "Ivo Martin - MIT DIR WIRD MIR WARM TOUR 2026",
-  "date": "2026-10-12",
-  "time": "Mo 19:30",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/ivo-martin-mit-dir-wird-mir-warm-tour-2026-tickets/255111271?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/e24/ea1e0fbc-b640-486a-afbd-ae8966ac5e24_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z16vF_4zkA",
-  "cat": "music",
-  "title": "Yung Pepp - Die große kleine Tour 2026",
-  "date": "2026-10-12",
-  "time": "Mo 20:00",
-  "loc": "Feierwerk (Hansa 39), Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/1219578185?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in Feierwerk (Hansa 39). Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/41d/e6ab6fd7-dda8-4c06-898d-cb31026ed41d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
   "id": "pk-104a20b496",
   "cat": "popup",
   "title": "Munich🥨NLP × JetBrains: Code Intelligence & AI Agents",
@@ -60,6 +36,42 @@
   "img": "https://images.lumacdn.com/uploads/ba/77c5f939-443e-4f87-aaad-02a968b6c869.png"
  },
  {
+  "id": "se-24e75ad2ce",
+  "cat": "popup",
+  "title": "Cosmic Comedy",
+  "date": "2026-10-14",
+  "time": "Oct 14, 8:30 PM",
+  "loc": "Leo 49, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Cosmic%20Comedy",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAn3CHz9B3p3VcZwz25IWzrqm9-IbhcNvwzzCywJcnltc07tl2OqG7R04mtkg82cKhIAdoiq-nuCfP2_g"
+ },
+ {
+  "id": "se-bd1aa1161f",
+  "cat": "music",
+  "title": "Travelers and Locals Meetup",
+  "date": "2026-10-15",
+  "time": "Oct 15, 7:00 PM",
+  "loc": "Café le hygge, Glockenbachviertel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Travelers%20and%20Locals%20Meetup",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkyW53wPjbWPDEIJSktz46Iylppi9QBdVlu3bUeIzjAnezBPlcvz0B6nAM1TYi7qqQPXcQB_IjLtTMbUU"
+ },
+ {
+  "id": "se-e9fca1b2a7",
+  "cat": "music",
+  "title": "We are NOT From Here: Live - Stand-up Comedy in English",
+  "date": "2026-10-15",
+  "time": "Oct 15, 7:00 PM",
+  "loc": "Comedy für Freunde Club München, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=We%20are%20NOT%20From%20Here%3A%20Live%20-%20Stand-up%20Comedy%20in%20English",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbPptLd5VXbGAN6MT8QVTIkRXMEPoWJJKv3XQscH3BOQ_7BUg7BIEfp9lnckeA4Pm_bjoBLqfl9DxaDTs"
+ },
+ {
   "id": "pk-caf33e80b4",
   "cat": "popup",
   "title": "Aporia #01: Die Zukunft der Arbeit in der KI-Ära",
@@ -70,6 +82,30 @@
   "igUrl": "https://luma.com/br1sdmg5",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/o4/bec68868-ac75-4d4f-8bb5-b38255e83734.jpg"
+ },
+ {
+  "id": "pk-1370ae553a",
+  "cat": "popup",
+  "title": "Bumble x Plex Drip & Draw",
+  "date": "2026-10-15",
+  "time": "Do 19:00",
+  "loc": "Fraunhoferstraße 21, München-Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/rhksbo8l",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/j3/678637c0-ec37-4650-81cd-7ac0c929138b.jpg"
+ },
+ {
+  "id": "pk-059a9692d4",
+  "cat": "popup",
+  "title": "SCHNELLE HELLE CR x Giesinger",
+  "date": "2026-10-16",
+  "time": "Fr 17:30",
+  "loc": "Professor-Huber-Platz, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/s4brqd3b",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/j3/2ee6b163-98b5-4121-bd4a-c5f5c2ab8191.jpg"
  },
  {
   "id": "pk-218994a623",
@@ -96,6 +132,30 @@
   "img": "https://s1.ticketm.net/dam/a/a74/02870094-4252-4cb6-9873-76b8a1f7ea74_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-f4dea74f49",
+  "cat": "music",
+  "title": "BMW Clunkonzert",
+  "date": "2026-10-17",
+  "time": "Oct 17, 8:00 PM",
+  "loc": "Pacha, Old Town",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=BMW%20Clunkonzert",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0evDbuhPRQ_hw0hpe1eDP7DzReadpYUiXB8M1OIatJcYfseci6dVXdd6X2_yKtnMzeHSNTt7D_D90vOg"
+ },
+ {
+  "id": "se-d82f24eff8",
+  "cat": "popup",
+  "title": "Jungle Jar: Problem Solving",
+  "date": "2026-10-17",
+  "time": "Oct 17, 10:00 PM",
+  "loc": "The Jungle Comedy Club, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Jungle%20Jar%3A%20Problem%20Solving",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2dZ0cmi5IHtli5lSWTTos8mO9aT4BFc0V8szN9fy3djAOaqbK6b_-SLbRwz5cH6S2Sn6hyRmf8T8s6eY"
+ },
+ {
   "id": "pk-733e627f43",
   "cat": "popup",
   "title": "Sunset Hike: Riederstein | NymphenRuns x Longevity Munich",
@@ -120,6 +180,18 @@
   "img": "https://s1.ticketm.net/dam/a/88f/15bce9f7-e978-4960-bce8-badf777fa88f_SOURCE"
  },
  {
+  "id": "se-a4f9ec1e12",
+  "cat": "popup",
+  "title": "Comedy Arcade - A Stand Up Comedy Open-Mic",
+  "date": "2026-10-18",
+  "time": "Oct 18, 8:00 PM",
+  "loc": "Kooks, Glockenbachviertel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Comedy%20Arcade%20-%20A%20Stand%20Up%20Comedy%20Open-Mic",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF46T1EDB-ja1Gtl2htdCGxK23mCQOD-NCX4U25INSluXhqzgcok4hRu3p4S_h7PEFTQr0gsq_3iqgscM"
+ },
+ {
   "id": "tm-Z698xZC2Z16vGFxa3_",
   "cat": "music",
   "title": "EVE - Scorpion Tour",
@@ -142,6 +214,30 @@
   "igUrl": "https://www.ticketmaster.de/event/jamie-grey-europe-2026-tickets/667605884?language=en-us",
   "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/657/c7c49c0d-d7ce-4dc5-af7b-c95053ea5657_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-47c32c902f",
+  "cat": "popup",
+  "title": "Moon Mics: A Moonday Comedy show",
+  "date": "2026-10-19",
+  "time": "Oct 19, 7:00 PM",
+  "loc": "The Moon Bar, Altstadt-Lehel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Moon%20Mics%3A%20A%20Moonday%20Comedy%20show",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuVH5V6mv7vpjWfhtfkBih3CqsZdbxVbNMIc9HkBDwstk8leGA-oLO53WckDEuTNPM7eHIu8qmEckw88"
+ },
+ {
+  "id": "se-f2eb1a92de",
+  "cat": "popup",
+  "title": "Mindful Mondays with Noelia",
+  "date": "2026-10-19",
+  "time": "Oct 19, 8:15 PM",
+  "loc": "Traum München - Yoga Studio | Coaching | Therapieraum, Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Mindful%20Mondays%20with%20Noelia",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjE2eWTYYI_nlK0OaKXWdtJ8QuupfvwPAOitz2iTqcd3NAG0CFXVGuyyJ5B-kYP-RMoJs8Lf1pfuKd32w"
  },
  {
   "id": "pk-eb732feff4",
@@ -192,6 +288,18 @@
   "img": "https://images.lumacdn.com/uploads/51/42ccf4fc-0fb7-4aeb-8500-75a4c2d29f86.png"
  },
  {
+  "id": "se-f7b72e7c6e",
+  "cat": "popup",
+  "title": "Comedy Underground - English Standup Comedy Show",
+  "date": "2026-10-22",
+  "time": "Oct 22, 8:00 PM",
+  "loc": "Holzkranich, Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Comedy%20Underground%20-%20English%20Standup%20Comedy%20Show",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk2xCZ01oOn_iqouNSxj_GnpaAbrGmVS9m5FLjOCJGjYuFycfFAbTeQMbTo_pjgkBNX2NPmJuBrl4sUMU"
+ },
+ {
   "id": "pk-1392ad389b",
   "cat": "popup",
   "title": "appliedAI Developers Meetup #6/9: Observability: understanding what AI systems actually do",
@@ -214,6 +322,18 @@
   "igUrl": "https://www.ticketmaster.de/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/1926971198?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/fff/456e645f-c31c-40bb-99c2-d574a2bf1fff_SOURCE"
+ },
+ {
+  "id": "se-862de0d697",
+  "cat": "walk",
+  "title": "Munich Style Walk",
+  "date": "2026-10-23",
+  "time": "Oct 23, 2:00 PM",
+  "loc": "akjumii – Store & Studio, Glockenbachviertel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Munich%20Style%20Walk",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIdur2v5ds5Fenmsmx1d24IoqeL1HiMCRjCZjlAvLfmXWPX8NP0IYlsi-ehf0_gXRbe7eOEM2yHjgiTrs"
  },
  {
   "id": "pk-2b65e96fbf",
@@ -274,6 +394,30 @@
   "igUrl": "https://www.ticketmaster.de/event/neunundneunzig-nichts-fur-immer-tour-tickets/372372793?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/572/cbfb4c88-a92a-4301-8fe6-0e603e9c1572_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-5c6cde3334",
+  "cat": "music",
+  "title": "MAQAMUNDO - Arabische Live Musik",
+  "date": "2026-10-24",
+  "time": "Oct 24, 7:30 PM",
+  "loc": "Kulturzentrum Giesinger Bahnhof, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=MAQAMUNDO%20-%20Arabische%20Live%20Musik",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYnZwIwGtoNCdg3BQ6xInL9iOct5KRrxKZV7UgOe6oQ2xFMrOGOQTVjjfzNIVypHP9FBYnOEPe2HQZFYw"
+ },
+ {
+  "id": "pk-074f466c4b",
+  "cat": "popup",
+  "title": "The Saturday Reset | Sculpt, Stretch & Matcha (Women-only)",
+  "date": "2026-10-24",
+  "time": "Sa 14:00",
+  "loc": "Apianstraße 6, München",
+  "ig": "",
+  "igUrl": "https://luma.com/age-v4en",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/api-uploads/6d/80715cdb-7679-4cdf-a8d3-803fa8a33614.jpg"
  },
  {
   "id": "pk-a21e6d3340",
@@ -360,6 +504,18 @@
   "img": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_SOURCE"
  },
  {
+  "id": "se-027d9d9980",
+  "cat": "popup",
+  "title": "Free dance workshops for Münchner Kathreintanz",
+  "date": "2026-10-29",
+  "time": "Oct 29, 12:00 AM",
+  "loc": "Hofbräuhaus München, Old Town",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Free%20dance%20workshops%20for%20M%C3%BCnchner%20Kathreintanz",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6iX-vz263RweeA0sAbDFIeC_IjX6apEhlbt5oMfducMGAobs2Rvv4-rl_tXDv0rhUpTPjUH8sKfFadco"
+ },
+ {
   "id": "tm-Z698xZC2Z1kaaofap",
   "cat": "gastro",
   "title": "Niall Horan: Dinner Party Live On Tour",
@@ -384,16 +540,40 @@
   "img": "https://s1.ticketm.net/dam/a/b26/81339130-dcfe-4d56-a4a1-a87b6953fb26_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "pk-0f4dfc782f",
-  "cat": "music",
-  "title": "Leseparty - Was München Liest x Freunde & Förderer des Literaturhauses",
-  "date": "2026-11-02",
-  "time": "Mo 19:00",
-  "loc": "Salvatorplatz 1, München-Altstadt-Lehel",
+  "id": "se-4e1350fb18",
+  "cat": "popup",
+  "title": "ABOVE HALLOWEEN MH5 ROOFTOP",
+  "date": "2026-10-31",
+  "time": "Oct 31, 8:00 PM",
+  "loc": "MH5 Roof Top, Berg am Laim",
   "ig": "",
-  "igUrl": "https://luma.com/8oj6kare",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/bd/55c83a99-3207-431c-96c6-11ad9a602695.png"
+  "igUrl": "https://www.google.com/search?q=ABOVE%20HALLOWEEN%20MH5%20ROOFTOP",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_FHvd-qxzcgOnng4HifK9Y_pUmGlA0WA6dIkmxHtj11_EacrGTTtWqlFOJv0_HawRRVjIiNFz2W37YaQ"
+ },
+ {
+  "id": "se-b33069678b",
+  "cat": "popup",
+  "title": "TURN OFF THE LIGHTS AND DANCE — IF YOU DARE - HALLOWEEN",
+  "date": "2026-10-31",
+  "time": "Oct 31, 11:00 PM",
+  "loc": "CHARLIE, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=TURN%20OFF%20THE%20LIGHTS%20AND%20DANCE%20%E2%80%94%20IF%20YOU%20DARE%20-%20HALLOWEEN",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw63V-1Mkr2cUyuTt2hfNiBvaRmAuW76ApS_PXtXJV9JZ33RkKOwQ50gRPsap2pSrfoBy5He4RJLZI29Q"
+ },
+ {
+  "id": "se-073994c5a8",
+  "cat": "popup",
+  "title": "STREETFOOD World",
+  "date": "2026-11-01",
+  "time": "Nov 1, 10:00 AM",
+  "loc": "Pineapple Park München, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=STREETFOOD%20World",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8VPqwno1MjafyY3Jp2R0mszD6ITcQuHKyysU-ubr0WzsfryxVe__F1-kfLQVbsuZdWqddLYhdufY7Ry0"
  },
  {
   "id": "tm-Z698xZC2Z1kQf037o",
@@ -406,6 +586,42 @@
   "igUrl": "https://www.ticketmaster.de/event/uche-yara-bodyscanner-tour-2026-tickets/694912111?language=en-us",
   "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/54d/df386aad-7f05-4ebe-b376-2e490e58454d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-8de5bd5f15",
+  "cat": "popup",
+  "title": "Offshore Comedy – Stand Up by the Boat",
+  "date": "2026-11-04",
+  "time": "Nov 4, 8:15 PM",
+  "loc": "Alte Utting, Sendling",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Offshore%20Comedy%20%E2%80%93%20Stand%20Up%20by%20the%20Boat",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVZQ6eTe_0_hpXa6usGMCShcKZV_EAKGXPWkzN2ArRkktselHFMHosgXMl7_3XtQrywFQ1PVzV0oYAvZE"
+ },
+ {
+  "id": "se-01b9633708",
+  "cat": "popup",
+  "title": "Musoc Song Slam",
+  "date": "2026-11-05",
+  "time": "Nov 5, 8:00 PM",
+  "loc": "Theater Drehleier & Theatergaststatte \"scenery\", Au-Haidhausen",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Musoc%20Song%20Slam",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS6lIHc2rgOO9Bi_bBEO3MLS5lbu4AjgBkpdVOIuaenNouqciw7C9IsZ4G6G3XtJWCOAOQw8_IZ7fT2hE"
+ },
+ {
+  "id": "se-6e4eed60e8",
+  "cat": "popup",
+  "title": "The Wondering Men",
+  "date": "2026-11-05",
+  "time": "Nov 5, 8:00 PM",
+  "loc": "ROODY // Tanzcafé Giesing, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=The%20Wondering%20Men",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaxdcQgubP0SK6LdWQCZRMSMe_OwbuDqLP7lT0HLo7_GCIK-vDusCCNwllGIXVl_dKI5afXP1Q5SAmYPY"
  },
  {
   "id": "tm-Z698xZC2Z16vfJ8FuI",
@@ -468,6 +684,30 @@
   "img": "https://s1.ticketm.net/dam/a/826/8240ec8d-8c56-43db-8cc0-51a3f09f0826_SOURCE"
  },
  {
+  "id": "se-d2a7e05606",
+  "cat": "popup",
+  "title": "Thomas Henry: Hyper Anglais",
+  "date": "2026-11-14",
+  "time": "Nov 14, 7:30 PM",
+  "loc": "EineWeltHaus, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Thomas%20Henry%3A%20Hyper%20Anglais",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk6MQFoo1RfU0RByiAV8GY-BcB-RMjH9D58wcLhHeLGqvyYy8NpkgrU9JKRCY7dKVoCNgyWu3Bljq-jJY"
+ },
+ {
+  "id": "se-de1e5590f7",
+  "cat": "popup",
+  "title": "Speed Friending Night: Meet Locals & Expats",
+  "date": "2026-11-14",
+  "time": "Nov 14, 7:00 PM",
+  "loc": "KOOS Hotel & Apartments, Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Speed%20Friending%20Night%3A%20Meet%20Locals%20%26%20Expats",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7RrVSVBYGfItCVdFWjECsfoFSyyTP-IDh6d2z-8xFLlQx4BCl7K2z4DM4x7Enze0dee5GXjdAuBuCeJE"
+ },
+ {
   "id": "tm-Z698xZC2Z1kqt8Au9",
   "cat": "music",
   "title": "Bob Dylan",
@@ -478,6 +718,18 @@
   "igUrl": "https://www.ticketmaster.de/event/bob-dylan-tickets/769405357?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/352/feae62d0-316a-4b51-863c-96c198c43352_SOURCE"
+ },
+ {
+  "id": "se-b432d027c9",
+  "cat": "popup",
+  "title": "MUNICH- Dark Sweet Syrup - A Canadian Stand Up Comedy Show in English",
+  "date": "2026-11-15",
+  "time": "Nov 15, 7:00 PM",
+  "loc": "EineWeltHaus, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=MUNICH-%20Dark%20Sweet%20Syrup%20-%20A%20Canadian%20Stand%20Up%20Comedy%20Show%20in%20English",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMs27jurnXc2bXW5qBQAgNHqPRhO_as4T05d7as6Af8swr_xenvOqde0XFnuff49ktcc2XttGmAQoh3jc"
  },
  {
   "id": "tm-Z698xZC2Z16vFO4tkp",
@@ -562,6 +814,18 @@
   "igUrl": "https://www.ticketmaster.de/event/re6ce-tickets/1515183898?language=en-us",
   "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/b2c/1c10e6c0-fe1d-4477-892f-cd87be8b8b2c_SOURCE"
+ },
+ {
+  "id": "se-a27a23c806",
+  "cat": "popup",
+  "title": "SingDing - der Mitmach-Popchor für alle!",
+  "date": "2026-11-26",
+  "time": "Nov 26, 7:00 PM",
+  "loc": "KULTUR IM TRAFO, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=SingDing%20-%20der%20Mitmach-Popchor%20f%C3%BCr%20alle%21",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV4t9lSiwk3Q2G4bu9kcAzJXP_6G4OsW54X3P32CsRCyJuJWK-B16vID8AoD9RE1PA4A9jJDuUYtcjDa8"
  },
  {
   "id": "tm-LvZ18QQe5eKPq2OZw5XS2",
@@ -1092,6 +1356,18 @@
   "img": "https://s1.ticketm.net/dam/a/f5e/b7997394-7a30-4ae8-84ef-53a961644f5e_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-4f999b612e",
+  "cat": "popup",
+  "title": "St. Patrick's Day Parade",
+  "date": "2027-03-15",
+  "time": "Mar 15, 12:00 PM",
+  "loc": "Münchner Freiheit, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=St.%20Patrick%27s%20Day%20Parade",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4SHO_JCkCXbRBItej4K-plD99oPIST3vFVot2DOXqkRrI_pDa2sXmM0uY5n4e_8YSnUvTyf7pIRc6uNs"
+ },
+ {
   "id": "tm-Z698xZC2Z16v1eCeGO",
   "cat": "music",
   "title": "Bonobo - Distance In Static - Live",
@@ -1510,5 +1786,17 @@
   "igUrl": "https://www.ticketmaster.de/event/genetikk-live-2027-%7C-premium-package-tickets/1709945944?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/30b/8f308930-3235-4e84-b280-12d4ef07830b_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1k8Jef-3",
+  "cat": "music",
+  "title": "KITSCHKRIEG - KITSCHKRIEG LIVE",
+  "date": "2027-12-31",
+  "time": "Fr",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/426094852?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/279/20bf25ff-788c-4fd9-b104-c601a6fdf279_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
