@@ -1,65 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vGFxa3_",
-  "cat": "music",
-  "title": "EVE - Scorpion Tour",
-  "date": "2026-10-19",
-  "time": "Mo 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/1308889499?language=en-us",
-  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/62e/95da5f45-dea2-46bc-9247-be712510962e_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1k_EbAx7",
-  "cat": "music",
-  "title": "Jamie Grey - Europe 2026",
-  "date": "2026-10-19",
-  "time": "Mo 20:00",
-  "loc": "Kranhalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/jamie-grey-europe-2026-tickets/667605884?language=en-us",
-  "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/657/c7c49c0d-d7ce-4dc5-af7b-c95053ea5657_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-e9ce91bcf8",
-  "cat": "popup",
-  "title": "YOUTH CODE",
-  "date": "2026-10-19",
-  "time": "Oct 19, 7:30 PM",
-  "loc": "Olympia Hall, Olympiapark München",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=YOUTH%20CODE",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGKjEMk7i2IgbTJCl_33TxL6DvrqaTXUatTe_LF3NBVyfvecMgLDHwnkkXcF-vpol_JvTBseqrxpKSTWA"
- },
- {
-  "id": "pk-3c341afd1f",
-  "cat": "popup",
-  "title": "Choose Your Climate Future: The En-ROADS Climate Solutions Workshop",
-  "date": "2026-10-19",
-  "time": "Mo 16:30",
-  "loc": "Hauptgebäude, Geschwister-Scholl-Platz 1, München-Maxvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/mcw2026-lhv5",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/ba/b4af0611-6af2-465e-97c1-15fcba539926.png"
- },
- {
-  "id": "pk-eb732feff4",
-  "cat": "popup",
-  "title": "YC Stories - From SF To Munich",
-  "date": "2026-10-19",
-  "time": "Mo 18:30",
-  "loc": "Platzl 1, München-Altstadt-Lehel",
-  "ig": "",
-  "igUrl": "https://luma.com/1mgtk6yk",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/h8/0c783ef0-6e82-4132-bd18-ce154119554c.png"
- },
- {
   "id": "se-89851749c6",
   "cat": "popup",
   "title": "MEDIENTAGE MUNCHEN",
@@ -69,7 +9,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=MEDIENTAGE%20MUNCHEN",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDrHZ1b_WWbZUQC_YLBuORXdDp2yIKkkgJ_7D0utBxjuT-F9JOTpgnIYct8lDYtvHteYFno0X_R3M2T90"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRurjFKQ6JZ0PWy5ANqzHJKDlo_7ru2MT12dY_2W8l9gy4HBqhCfH3otyuK8yrwUABEznfzGN8PU-dJ6jU"
  },
  {
   "id": "se-8e9e27e1b9",
@@ -96,14 +36,38 @@
   "img": "https://images.lumacdn.com/uploads/sr/be08e29f-16ad-487d-93b3-5cd41e98c4ad.jpg"
  },
  {
-  "id": "se-e6a0080754",
+  "id": "se-feb96ce3b9",
   "cat": "biz",
-  "title": "herCAREER Expo 2026",
+  "title": "HUSTLE Entrepreneur Networking Event",
+  "date": "2026-10-21",
+  "time": "Oct 21, 5:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=HUSTLE%20Entrepreneur%20Networking%20Event",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ad72d67d5fd7488a0243075/images/sZiNEEfMyk91UeWvn02Y8zjrus2dXmfODe206mAQT2o.png"
+ },
+ {
+  "id": "se-3a7ae7ced3",
+  "cat": "popup",
+  "title": "The Munich AI Conference",
+  "date": "2026-10-21",
+  "time": "Oct 21, 6:00 PM",
+  "loc": "codecentric AG, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=The%20Munich%20AI%20Conference",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRK1s400U1IjDmQ9efVCgWTEbdHlk4H1WjwgXvPLymHJcBa_-64G4uA1QtHdPLevoPAjZeg1anxS3qbmU0"
+ },
+ {
+  "id": "se-71374e80b6",
+  "cat": "biz",
+  "title": "herCAREER Expo",
   "date": "2026-10-21",
   "time": "Oct 21, 8:30 PM",
   "loc": "Gas station at the Munich Trade Fair Center, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=herCAREER%20Expo%202026",
+  "igUrl": "https://www.google.com/search?q=herCAREER%20Expo",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnR-p1xfBRa7bwZDb_KiHLic1zKf1-rjahVsxu-Oe8cxaoAEdtRZJdZGWzpWCflevPUVn0z94h1ehe8U"
  },
@@ -117,31 +81,43 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=One%20day%20of%20risk%20resilience",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXs7xfpdoELhi1V_ZTB4pKTXo5kGRp6Yp2Pj86MJrknvKv1le7hcULEACvo6e2NPf_iRonAAH7tgiD6E"
+  "img": "https://serpapi.com/searches/6ad72d67d5fd7488a0243075/images/1oAni_xHVVqfoAUiQQsW16yLs57FDKCE_rfHuzFw6cI.jpeg"
  },
  {
-  "id": "se-8cfc6b74e5",
+  "id": "se-4b014b32a0",
   "cat": "popup",
-  "title": "Cosic Comedy: Where cocktails meet punchlines",
+  "title": "Cosmic Comedy",
   "date": "2026-10-21",
   "time": "Oct 21, 8:30 PM",
   "loc": "Leo 49, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Cosic%20Comedy%3A%20Where%20cocktails%20meet%20punchlines",
+  "igUrl": "https://www.google.com/search?q=Cosmic%20Comedy",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAn3CHz9B3p3VcZwz25IWzrqm9-IbhcNvwzzCywJcnltc07tl2OqG7R04mtkg82cKhIAdoiq-nuCfP2_g"
  },
  {
-  "id": "se-bad57a9bc2",
+  "id": "se-2d9550353c",
   "cat": "popup",
-  "title": "The Rockhouse Brothers",
+  "title": "Offshore Comedy – Stand Up by the Boat",
   "date": "2026-10-21",
-  "time": "Oct 21, 10:00 PM",
-  "loc": "Night Club Bayerischer Hof, Old Town",
+  "time": "Oct 21, 8:15 PM",
+  "loc": "Alte Utting, Sendling",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=The%20Rockhouse%20Brothers",
+  "igUrl": "https://www.google.com/search?q=Offshore%20Comedy%20%E2%80%93%20Stand%20Up%20by%20the%20Boat",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2v30TvanqNqkoK4V_E0srVj41TxmfO1DxFXxAiKCfpyqHiHc5F7kI34oyjF_zgwIJq8ZjTpiHwLNH9R4"
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVZQ6eTe_0_hpXa6usGMCShcKZV_EAKGXPWkzN2ArRkktselHFMHosgXMl7_3XtQrywFQ1PVzV0oYAvZE"
+ },
+ {
+  "id": "se-10f5c37b41",
+  "cat": "popup",
+  "title": "El Gran Combo de Puerto Rico en Concierto – Salsa",
+  "date": "2026-10-21",
+  "time": "Oct 21, 9:00 PM",
+  "loc": "Backstage Kulturzentrum, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=El%20Gran%20Combo%20de%20Puerto%20Rico%20en%20Concierto%20%E2%80%93%20Salsa",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-06CM6JvS-SfK7L5f9ZxSSuAOqCX1foJnfZoWGXv7nwWMgDJXQpPDeMSGMoDYrJgi1Zp2cCHphT9esE"
  },
  {
   "id": "pk-e60316c472",
@@ -204,6 +180,42 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTewHrBbgWQQH042jezrv5-yVX0EPlbLzw2QhA08mHxm0hbytRYusxOSPtwwxbaXyGwV_OQ0D4bFrDO1Cs"
  },
  {
+  "id": "se-e208272b5e",
+  "cat": "popup",
+  "title": "Die Lange Nacht des Genusses",
+  "date": "2026-10-22",
+  "time": "Oct 22, 6:00 PM",
+  "loc": "Eataly Munich, Altstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Die%20Lange%20Nacht%20des%20Genusses",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlw6TPCIvkL0ctdqUxjIPJ9dmfj2RuD8fx7ofhovjSTY4OJXPtb9SkgKGrhUcsGexafG6V34qN-sQysek"
+ },
+ {
+  "id": "se-26c276669d",
+  "cat": "popup",
+  "title": "Burgenland trifft Steiermark - Österreichs Vielfalt im Glas",
+  "date": "2026-10-22",
+  "time": "Oct 22, 3:30 PM",
+  "loc": "TonHalle München, Berg am Laim",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Burgenland%20trifft%20Steiermark%20-%20%C3%96sterreichs%20Vielfalt%20im%20Glas",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr2UKkXHfpnQqunZXgIxhSw2paPSajxRnZHbbpzKRLPYcTP3wobozDCCA26jXQQB_7nFNv_EntD1--QvY"
+ },
+ {
+  "id": "se-c3e345848b",
+  "cat": "popup",
+  "title": "Chef's Table",
+  "date": "2026-10-22",
+  "time": "Oct 22, 6:00 PM",
+  "loc": "Restaurant Pfistermühle, Altstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Chef%27s%20Table",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNcaOTOICKN25I9l5Evtm5giysF0FlRQMrDxiGYx6G2JOuznQ7CZUrj0IHowXAXT0QF9H56AeRlBrIV4M"
+ },
+ {
   "id": "pk-1392ad389b",
   "cat": "popup",
   "title": "appliedAI Developers Meetup #6/9: Observability: understanding what AI systems actually do",
@@ -240,28 +252,28 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7AYaH-FgWrCgEzw4MZfarEiY4xpvk9U3hbgCcAbcuzmqBwNrmhajfIQv8n-4eDLwFcZuUQ8KpcyA_BLI"
  },
  {
-  "id": "se-38f8bf348d",
-  "cat": "walk",
-  "title": "Follow The Sound – Walking Sound Happening",
+  "id": "se-c58f91f7b3",
+  "cat": "music",
+  "title": "20 Jahre Salsamás Munich - Grand Jubiläumsparty – Salsa in München",
   "date": "2026-10-23",
-  "time": "Oct 23, 5:45 PM",
-  "loc": "Maximilianswerk, Munich, Germany",
+  "time": "Oct 23, 9:00 PM",
+  "loc": "Salsamás Munich - The dance school in Munich, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Follow%20The%20Sound%20%E2%80%93%20Walking%20Sound%20Happening",
+  "igUrl": "https://www.google.com/search?q=20%20Jahre%20Salsam%C3%A1s%20Munich%20-%20Grand%20Jubil%C3%A4umsparty%20%E2%80%93%20Salsa%20in%20M%C3%BCnchen",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_NXt2mJuRZnn-JxttNGmzGNGtOukDA7eyvW8t5mpL2AcdK3ephmLQWjZJ6KGykpsSLr4Hxxm7bloIGs"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZri-RPI-WyRDMTCiz4XvyuBDJysAR3vpFHE3_RkfgdbfEBnbqKRp3q_lQfy0mTdjTulKXkXsM0qDxEng"
  },
  {
-  "id": "se-4d8d9200ed",
+  "id": "se-9490706681",
   "cat": "popup",
-  "title": "CLUBSHOW",
+  "title": "Improv Masterclass \"Object as Metaphor\" with Susan Messing & John Lehr",
   "date": "2026-10-23",
-  "time": "Oct 23, 8:00 PM",
-  "loc": "Sugar Shack, Berg am Laim",
+  "time": "Oct 23, 7:00 PM",
+  "loc": "EineWeltHaus, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=CLUBSHOW",
+  "igUrl": "https://www.google.com/search?q=Improv%20Masterclass%20%22Object%20as%20Metaphor%22%20with%20Susan%20Messing%20%26%20John%20Lehr",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMCIkSRvJuU7yzSBWs_JUxxTGgiuphd6C3ie1SoOGyxElwXQ5G249Wdb2LZu8FtIAcDwVvUiPtXV3Zm-k"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWsJn0z2aPef3m76R6lV8gldU89OH9BO2FLrLlpuxNDwDEoL8AazxPBeZ966IBgRYIxDmx2nxAFOWm9k"
  },
  {
   "id": "se-cc76298e86",
@@ -274,6 +286,18 @@
   "igUrl": "https://www.google.com/search?q=Jungle%20Comedy%20Showcase",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7XdqDpNU37lfh_yzFjHusi37DatlyvsgoIzdRtXg5hZc3FJUmtY29mlQRUQyOgLbnSRPsHYc7pE9r-UU"
+ },
+ {
+  "id": "se-a75d4f38ca",
+  "cat": "gastro",
+  "title": "Wein & Käse Workshop",
+  "date": "2026-10-23",
+  "time": "Oct 23, 7:30 PM",
+  "loc": "einfach geniessen - Champagner - und -Weinseminare in München, Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wein%20%26%20K%C3%A4se%20Workshop",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWgQPXQyEUzXeAyOJedMp_cYssHXrNKnhp--bMUJ__3pjNhHnY1NhQHjIVHXNOAgFk3_Tcdsm00wKZXA"
  },
  {
   "id": "pk-2b65e96fbf",
@@ -336,6 +360,18 @@
   "img": "https://images.lumacdn.com/uploads/yo/472c35ee-6915-43d7-9d59-6d05d298df23.jpg"
  },
  {
+  "id": "pk-864c53dc88",
+  "cat": "music",
+  "title": "Circular Fashion & Textiles- Patch & Pour Party",
+  "date": "2026-10-23",
+  "time": "Fr 19:00",
+  "loc": "Ehrengutstraße 16, München-Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/t6mow2fy",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/lj/a947c69c-56ed-4815-9eed-51978317a5aa.png"
+ },
+ {
   "id": "tm-Z698xZC2Z16vJofIOt",
   "cat": "music",
   "title": "FKJ - Tyber Tour",
@@ -360,40 +396,52 @@
   "img": "https://s1.ticketm.net/dam/a/572/cbfb4c88-a92a-4301-8fe6-0e603e9c1572_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-fe88989e9b",
+  "id": "se-de03ca1043",
+  "cat": "popup",
+  "title": "Großer Herbstflohmarkt",
+  "date": "2026-10-24",
+  "time": "Oct 24, 10:00 AM",
+  "loc": "Hotel Mariahilf, Au-Haidhausen",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Gro%C3%9Fer%20Herbstflohmarkt",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjhyvuvUJQzhhVtYM260Za4rIpjJoTzxR6KTbLL4eOkym_1dSHcbpUfjjL4SvgcUm1bruhoEi1I2NwAM"
+ },
+ {
+  "id": "se-da40315229",
   "cat": "music",
-  "title": "XAY - CMNTY TOUR",
+  "title": "XAY - CMNTY Tour",
   "date": "2026-10-24",
   "time": "Oct 24, 7:30 PM",
   "loc": "MINI Pavillon, Old Town",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=XAY%20-%20CMNTY%20TOUR",
+  "igUrl": "https://www.google.com/search?q=XAY%20-%20CMNTY%20Tour",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMuOm5dGR6t5WeashB5Ibcv6AHZo7GHljHYxviyprvOAqPonXl7-Zo3Bb4WHvQjNkSI_lwqqbr5ln5DmA"
  },
  {
-  "id": "se-b43ef9b8c1",
+  "id": "se-bafcdf7a6c",
   "cat": "popup",
-  "title": "Fast Friends Special: Draw. Chat. Make Friends | 21–45",
+  "title": "Bailatino – The Complete Latin Night",
   "date": "2026-10-24",
-  "time": "Oct 24, 7:00 PM",
-  "loc": "AMANO Bar Munich, Old Town",
+  "time": "Oct 24, 8:00 PM",
+  "loc": "La Casita, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Fast%20Friends%20Special%3A%20Draw.%20Chat.%20Make%20Friends%20%7C%2021%E2%80%9345",
+  "igUrl": "https://www.google.com/search?q=Bailatino%20%E2%80%93%20The%20Complete%20Latin%20Night",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdmqSbSzY_-8FZA7Jp4NyOMU3OaBwIyql0a_kSoXUx-h-eAHPAFozA80HmNvI5hHkUoZArMV0wMw0y3VQ"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSis8HPde3JnYtGuEraAQhpdU5-P2UWjD2i5Zzt0VCqxJ83ZdWjAzo8gZjLzmvzH5d821JtC8I5j8oOjrg"
  },
  {
-  "id": "se-7a4ecffc88",
-  "cat": "popup",
-  "title": "Toy Tonics Jam",
+  "id": "se-3a8880f7b6",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour OIDES GIESING! | Munich Wine Rebels",
   "date": "2026-10-24",
-  "time": "Oct 24, 10:00 PM",
-  "loc": "AAHHH, Berg am Laim",
+  "time": "Oct 24, 6:30 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Toy%20Tonics%20Jam",
+  "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20OIDES%20GIESING%21%20%7C%20Munich%20Wine%20Rebels",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZiudi-mWqUosMRVkoDZMVd8rVyv_K3nC8mnPwMPj0EFHpUx3NB2HW2vten42qam2gCxXLibkHjiVkvE"
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/KQ8l7rIhqbWs7RmXzllqMAtO6czZlPE91drt-AbGTDo.jpeg"
  },
  {
   "id": "pk-c7178c15b8",
@@ -405,7 +453,19 @@
   "ig": "",
   "igUrl": "https://luma.com/mcw2026-foj2",
   "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/ts/f601c6cc-04fa-4521-bec2-11193e302e0c.png"
+  "img": "https://images.lumacdn.com/uploads/ps/7150df2e-478a-458f-bb44-26128d80a966.png"
+ },
+ {
+  "id": "pk-2254c1ea40",
+  "cat": "music",
+  "title": "START & Friends Run Club – Coffee Run",
+  "date": "2026-10-24",
+  "time": "Sa 11:00",
+  "loc": "Luisenstraße 51, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/j7cq5j86",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/jy/f3a036c2-8705-477c-891c-f0c2b388ae75.png"
  },
  {
   "id": "pk-074f466c4b",
@@ -442,6 +502,18 @@
   "igUrl": "https://www.google.com/search?q=Open%20Stage%20Night",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYldqOHAtAGEGhc2woO9KcxWUFVnksnpFljsxEgTlffUbAQ-GnG-WEIA8ljT65gyNUPBi7ojO-_nDTrmY"
+ },
+ {
+  "id": "se-153891451e",
+  "cat": "gastro",
+  "title": "Cacao and Coffee Tasting",
+  "date": "2026-10-25",
+  "time": "Oct 25, 10:00 AM",
+  "loc": "Llama vs Alpaca - Peruvian Specialty Coffee and Cacao, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Cacao%20and%20Coffee%20Tasting",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9qZr9tX8k_ITy_Uip8fmQhfvBAVdl2GZvWalftoJ-szxyEH8uT2MeniXLQTO5XAfLhmtpnZzBjPfFb90"
  },
  {
   "id": "pk-a21e6d3340",
@@ -501,19 +573,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Oberm%C3%BCller%20Musikanten",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1YhTgXr5xYe-OmKw961s90FDGsHyZnmPLBcaEGnui5KOUivBA5d6OVifYB2nmS6yGOyel0BJAo4cb_CY"
- },
- {
-  "id": "se-3598c063c6",
-  "cat": "music",
-  "title": "Leo Lausemaus - Live",
-  "date": "2026-10-26",
-  "time": "Oct 26, 4:00 PM",
-  "loc": "Werksviertel-Mitte, Berg am Laim",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Leo%20Lausemaus%20-%20Live",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRER9KGNL31tGy7okqnJSx68UT5oIVCWboJkFtiIdVAwwbElHzBEV95KcaV6_zQ08dXIXwcOuFb-CQuKow"
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Kwlc0quGO2NqCkxyXu10RfELq0Yq-tNu-twjigA9hISoqMXL5x1gK8bv1TQ4_gSE1czcOUjsnoeGyMY"
  },
  {
   "id": "tm-Z698xZC2Z16voyf_pp",
@@ -540,6 +600,18 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7yH3ewru1vEzVon1lU-8UVX5T5RWkgPQcaWLMEU6QWXP2k9JEYkOgnLpDoOmuUTY4IHXAWCVP_Kr2lDY"
  },
  {
+  "id": "se-c6fc7f8da6",
+  "cat": "popup",
+  "title": "Grusel am Lagerfeuer",
+  "date": "2026-10-27",
+  "time": "Oct 27, 3:15 PM",
+  "loc": "FestSpielHaus, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Grusel%20am%20Lagerfeuer",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjdGxAmceAEKIrHl_75oGQujcs2cQ_79-IVTSsC3pqBeRnRicvsgpV26HL5pTmYiXIP1P2C0fFUKi-gk"
+ },
+ {
   "id": "pk-d6a847707b",
   "cat": "popup",
   "title": "LangChain x Data Reply Hackathon: Building with Agent Harnesses (Munich)",
@@ -562,6 +634,42 @@
   "igUrl": "https://www.ticketmaster.de/event/jero19-tour-von-seite-tickets/894424175?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/4c9/d50cc2df-148c-4e11-8f33-a55eee4864c9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-9ea8450f4b",
+  "cat": "biz",
+  "title": "Fashion and Business Networking | Elevating Your Potential",
+  "date": "2026-10-28",
+  "time": "Oct 28, 6:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Fashion%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMHWgeDm-6KBJPmH9Kxa50wXTkwLEf3RPARJWxKqncymHKXhW6XMKmJf8xhwWRuzE0VS2O3mPBPLJyHYo"
+ },
+ {
+  "id": "se-7228512b67",
+  "cat": "music",
+  "title": "Westend Comedy Club - English Standup Open Mic",
+  "date": "2026-10-28",
+  "time": "Oct 28, 8:00 PM",
+  "loc": "Shamrock Irish Pub, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Westend%20Comedy%20Club%20-%20English%20Standup%20Open%20Mic",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJA3T43wElaDUt39QrGVVZ-ODz9ABQgdXMHJAFpI1goQJyiTfRljG24M8n2Q_byEVQwJatloeaoge2Nq0"
+ },
+ {
+  "id": "se-5f1d21ea3f",
+  "cat": "gastro",
+  "title": "0% Alkohol, unendliche Aromen: Die neue Welt der Wein-Proxies",
+  "date": "2026-10-28",
+  "time": "Oct 28, 6:30 PM",
+  "loc": "Cose Deliziose | Naturweine & Weinproben in München, Glockenbachviertel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=0%25%20Alkohol%2C%20unendliche%20Aromen%3A%20Die%20neue%20Welt%20der%20Wein-Proxies",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG4l9hbqUanly0fs-b14yigS0BMnbaaGvb5mrY6A_NqLA-aGErPqGlYYLjq3hZkA2JFxOLbjxc0wO7eSs"
  },
  {
   "id": "pk-820710b59e",
@@ -600,6 +708,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtU89CCf09nAhaDu2w2MULAdx-zHAw_E8n6eZlR2NhD6CycnBljYemhaSpn-_fHp_w4pWE8U5AMu3Uko"
  },
  {
+  "id": "se-027d9d9980",
+  "cat": "popup",
+  "title": "Free dance workshops for Münchner Kathreintanz",
+  "date": "2026-10-29",
+  "time": "Oct 29, 12:00 AM",
+  "loc": "Hofbräuhaus München, Old Town",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Free%20dance%20workshops%20for%20M%C3%BCnchner%20Kathreintanz",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6iX-vz263RweeA0sAbDFIeC_IjX6apEhlbt5oMfducMGAobs2Rvv4-rl_tXDv0rhUpTPjUH8sKfFadco"
+ },
+ {
   "id": "se-c0cf100d95",
   "cat": "popup",
   "title": "SingDing - der Mitmach-Popchor für alle!",
@@ -612,35 +732,23 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV4t9lSiwk3Q2G4bu9kcAzJXP_6G4OsW54X3P32CsRCyJuJWK-B16vID8AoD9RE1PA4A9jJDuUYtcjDa8"
  },
  {
-  "id": "se-027d9d9980",
-  "cat": "popup",
-  "title": "Free dance workshops for Münchner Kathreintanz",
+  "id": "se-05ab6b67a2",
+  "cat": "gastro",
+  "title": "Spanischer Abend - Käsereise mit Wein",
   "date": "2026-10-29",
-  "time": "Oct 29, 12:00 AM",
-  "loc": "Hofbräuhaus München, Old Town",
+  "time": "Oct 29, 6:30 PM",
+  "loc": "nourish café, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Free%20dance%20workshops%20for%20M%C3%BCnchner%20Kathreintanz",
+  "igUrl": "https://www.google.com/search?q=Spanischer%20Abend%20-%20K%C3%A4sereise%20mit%20Wein",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2nueb2o_UeoOgs4hlhZ91_RuEapAgoixONbKRLXkBkcgLYHJD2OoCcolM5osIUV1ZxYQukSB6gZK3K1k"
- },
- {
-  "id": "se-40d282c807",
-  "cat": "popup",
-  "title": "Comedy Underground - English Standup Comedy Show",
-  "date": "2026-10-29",
-  "time": "Oct 29, 8:00 PM",
-  "loc": "Holzkranich, Maxvorstadt",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Comedy%20Underground%20-%20English%20Standup%20Comedy%20Show",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk2xCZ01oOn_iqouNSxj_GnpaAbrGmVS9m5FLjOCJGjYuFycfFAbTeQMbTo_pjgkBNX2NPmJuBrl4sUMU"
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/uMCKLgng5wgTWGOWd5UoDcoPU2QEuCL55Y6R0ZsEWNU.jpeg"
  },
  {
   "id": "se-3cbf87c03c",
   "cat": "biz",
   "title": "Founders Breakfast",
   "date": "2026-10-30",
-  "time": "Oct 30, 10:00 AM",
+  "time": "Oct 30, 9:30 AM",
   "loc": "meyUNITY, Munich, Germany",
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Founders%20Breakfast",
@@ -648,16 +756,52 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtB6B3BYd_H4RRdyLA_bKUL66Dk235tjps9UyA-tUMGRsxlAID4brGnQ_4utRQb8cGvCOBWhneRQ3tr1Q"
  },
  {
-  "id": "se-6cce87377a",
-  "cat": "music",
-  "title": "Ü16 Münchens grösstes Halloween Festival auf 2 Areas",
+  "id": "se-e4126b2db4",
+  "cat": "popup",
+  "title": "Halloween for Toddlers",
   "date": "2026-10-30",
-  "time": "Oct 30, 8:00 PM",
-  "loc": "La Rumba Latin Club, Old Town",
+  "time": "Oct 30, 2:00 PM",
+  "loc": "Eltern-Kind-Zentrum Schwabing/ Maxvorstadt e.V., Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=%C3%9C16%20M%C3%BCnchens%20gr%C3%B6sstes%20Halloween%20Festival%20auf%202%20Areas",
+  "igUrl": "https://www.google.com/search?q=Halloween%20for%20Toddlers",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3agAXQX2X4jxyFGB27iqZfDN3yRoxeRlMCpThIcKSEv_uc9jpHbAatsEE0Y5FaPvg7Bk6w6a_-M_WXno"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAc3-zoaR0L57ri_HSKMyL_nLmOXTtrYJ_H4Ou4aWUssRtm-ZjttMK3S812Qn2-VTNIQIaqZ2LUOnm_GM"
+ },
+ {
+  "id": "se-490a250233",
+  "cat": "gastro",
+  "title": "Pizza & Wein",
+  "date": "2026-10-30",
+  "time": "Oct 30, 6:00 PM",
+  "loc": "VINO VERDE - Bio Weinladen, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Pizza%20%26%20Wein",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/M8-pyeFvBWKR2k4aSSpkzPBnZv-mDSCEBrQKkQQMuPg.jpeg"
+ },
+ {
+  "id": "se-126e5066b7",
+  "cat": "gastro",
+  "title": "Wine & Cheese – Das perfekte Duo im Tasting",
+  "date": "2026-10-30",
+  "time": "Oct 30, 7:00 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20%26%20Cheese%20%E2%80%93%20Das%20perfekte%20Duo%20im%20Tasting",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/NVVQtH6hxbvVrihgSyYOq-7SIbOBjphuGT4PHKmeNCM.jpeg"
+ },
+ {
+  "id": "se-cbf730b448",
+  "cat": "popup",
+  "title": "Ein Abend in Bordeaux",
+  "date": "2026-10-30",
+  "time": "Oct 30, 7:30 PM",
+  "loc": "Jacques’ Wein-Depot München-Trudering-Ost, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Ein%20Abend%20in%20Bordeaux",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpufjS3lgogkSH-7uCP8Sb3tkG2Uo4hUwohzN5vkBT3YJ6nPQHgQ4__k4yAVM2PONsT_sqqjTQcbQ7e1I"
  },
  {
   "id": "tm-Z698xZC2Z1kaaofap",
@@ -684,16 +828,28 @@
   "img": "https://s1.ticketm.net/dam/a/b26/81339130-dcfe-4d56-a4a1-a87b6953fb26_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-17f7c9fa42",
+  "id": "se-695a2c2ac2",
   "cat": "popup",
-  "title": "Halloween im Hangman",
+  "title": "Friending Around Munich: Meet Locals & Expats",
   "date": "2026-10-31",
-  "time": "Oct 31, 8:00 PM",
-  "loc": "Hangman, Munich, Germany",
+  "time": "Oct 31, 7:00 PM",
+  "loc": "KOOS Hotel & Apartments, Ludwigsvorstadt-Isarvorstadt",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Halloween%20im%20Hangman",
+  "igUrl": "https://www.google.com/search?q=Friending%20Around%20Munich%3A%20Meet%20Locals%20%26%20Expats",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-9z-8EikFucHy5XlhpxwDQ3nLDUcLHOP8D8Xohn82Tv3IN7eeyqQ_bzNA_2dERTp_7TUDZpVI9g-Hkxw"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7RrVSVBYGfItCVdFWjECsfoFSyyTP-IDh6d2z-8xFLlQx4BCl7K2z4DM4x7Enze0dee5GXjdAuBuCeJE"
+ },
+ {
+  "id": "se-6cd0b0b153",
+  "cat": "gastro",
+  "title": "Wine Games - Tasting Room",
+  "date": "2026-10-31",
+  "time": "Oct 31, 7:00 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20Games%20-%20Tasting%20Room",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnACngo6C2PCNwmsVSskVFqe-b-lessw7wRQLWXutzWUbzx5rSRdj-eWN3tDg3Nflj9CppiDRIsbXspv4"
  },
  {
   "id": "pk-07fe25c3ff",
@@ -706,18 +862,6 @@
   "igUrl": "https://luma.com/medzat94",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/ot/21bd5aa6-438a-437a-962c-2ee8863aff9d.png"
- },
- {
-  "id": "se-f15e7345b3",
-  "cat": "popup",
-  "title": "Meetup Physical AI and Robotics",
-  "date": "2026-11-02",
-  "time": "Nov 2, 5:30 PM",
-  "loc": "Munich Urban Colab, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Meetup%20Physical%20AI%20and%20Robotics",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ad5e1c1e6cb30d549a4016c/images/Dk9b-OdcylvJ-UBd1kT32fw9cIVjlyiEPOvrfdLLkyo.jpeg"
  },
  {
   "id": "pk-0f4dfc782f",
@@ -744,18 +888,6 @@
   "img": "https://s1.ticketm.net/dam/a/54d/df386aad-7f05-4ebe-b376-2e490e58454d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-adda614ad1",
-  "cat": "popup",
-  "title": "Deeptalk-Stammtisch: tiefgründiges Netzwerken auf hohem Niveau",
-  "date": "2026-11-04",
-  "time": "Nov 4, 6:30 PM",
-  "loc": "Hand aufs Herz, Glockenbachviertel",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Deeptalk-Stammtisch%3A%20tiefgr%C3%BCndiges%20Netzwerken%20auf%20hohem%20Niveau",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVmzO5XNRzuXFc2yFOEXcXoG4dldVcVwKTRr8whJHc3var6BJRzN03p4ce24Pxaa1ysv2Az6Q75-S2dOM"
- },
- {
   "id": "se-01b9633708",
   "cat": "popup",
   "title": "Musoc Song Slam",
@@ -766,6 +898,54 @@
   "igUrl": "https://www.google.com/search?q=Musoc%20Song%20Slam",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS6lIHc2rgOO9Bi_bBEO3MLS5lbu4AjgBkpdVOIuaenNouqciw7C9IsZ4G6G3XtJWCOAOQw8_IZ7fT2hE"
+ },
+ {
+  "id": "se-c400132932",
+  "cat": "gastro",
+  "title": "Wein & Käse Tasting",
+  "date": "2026-11-05",
+  "time": "Nov 5, 7:00 PM",
+  "loc": "Entkorkte Kunst | München, Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wein%20%26%20K%C3%A4se%20Tasting",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/xs-0AIwgX8C-LWPjx9sH6SkmF_4LRRnx0BqUuAv7LnM.jpeg"
+ },
+ {
+  "id": "se-9e71695cc8",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour",
+  "date": "2026-11-07",
+  "time": "Nov 7, 6:30 PM",
+  "loc": "Roecklbrunnen, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/hWlkZBsBttP5-AJdi6k6F0-q5wbij_6cCVPi3pYbHZA.jpeg"
+ },
+ {
+  "id": "se-7878cbaa00",
+  "cat": "gastro",
+  "title": "Wine Casino: Zocken, Schlürfen, Siegen!",
+  "date": "2026-11-07",
+  "time": "Nov 7, 7:00 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20Casino%3A%20Zocken%2C%20Schl%C3%BCrfen%2C%20Siegen%21",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnWZI4QyukrgqGI5iuL3kZfd9XH6xlprromoQCmiu1BlOiKudMyYCkdKMw3UUXQq7jCjVREb5zu1RMfY"
+ },
+ {
+  "id": "se-b27292fdc5",
+  "cat": "popup",
+  "title": "Tanz-Frühschoppen mit der Maslband",
+  "date": "2026-11-08",
+  "time": "Nov 8, 11:00 AM",
+  "loc": "Fraunhofer Wirtshaus & Theater, Glockenbachviertel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Tanz-Fr%C3%BChschoppen%20mit%20der%20Maslband",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvJOstUnB3KAjul1AsIW8iu6y6AEAFR52TwczhZ_IxueXuDBvo8aP1-0PeMg5zzv5_o8CoReqVUaSVkJk"
  },
  {
   "id": "tm-Z698xZC2Z16vfJ8FuI",
@@ -780,6 +960,18 @@
   "img": "https://s1.ticketm.net/dam/a/20f/4e6050d5-0e2b-4f32-9625-be5b8530820f_SOURCE"
  },
  {
+  "id": "se-1b2eda4300",
+  "cat": "gastro",
+  "title": "Wein-Quiz: Rätselspaß im Glas – Spielend tiefgründige Weine & Geschmacksknospen erkunden",
+  "date": "2026-11-09",
+  "time": "Nov 9, 6:00 PM",
+  "loc": "Bar Gabriele, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wein-Quiz%3A%20R%C3%A4tselspa%C3%9F%20im%20Glas%20%E2%80%93%20Spielend%20tiefgr%C3%BCndige%20Weine%20%26%20Geschmacksknospen%20erkunden",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsjmj5dV6gAvNhTaAGeOcL_YpacB4s8ijQoNJzQGLflqZFUaL0GKVWcZjCxwpOwX185hx68RPGcTYxgFQ"
+ },
+ {
   "id": "se-f296bc2b37",
   "cat": "popup",
   "title": "Electronica",
@@ -789,7 +981,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Electronica",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ad5e1c1e6cb30d549a4016c/images/LM7QiPcCfeqX0scrNB52U-Eagtog4SWTZEk2VQ_2q-k.jpeg"
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRisD0xp9JZwyAoJiMClDLGAvEMoFR7ENoHITc3paIoBpIbywu7rKB5JISyqaaR4uGW5hwN-PpCyizmvmw"
+ },
+ {
+  "id": "se-a0f5e2f4b8",
+  "cat": "gastro",
+  "title": "Wein trifft Schokolade",
+  "date": "2026-11-10",
+  "time": "Nov 10, 7:00 PM",
+  "loc": "Menzinger Weinladen, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wein%20trifft%20Schokolade",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6O4sRy-9r7wEyNtegNF98iKynpLcue3MsQI5pOhZJxfh90AawxtfJJqajto8qR9gTDCmAiJV5iryFlI"
  },
  {
   "id": "tm-Z698xZC2Z1kC970pZ",
@@ -816,6 +1020,30 @@
   "img": "https://s1.ticketm.net/dam/a/f9c/24c291a8-655d-41c2-82ec-83f6a336cf9c_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-1200fb93d6",
+  "cat": "biz",
+  "title": "Lunchtime with Siemens for Startups",
+  "date": "2026-11-12",
+  "time": "Nov 12, 11:30 AM",
+  "loc": "Munich Urban Colab, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Lunchtime%20with%20Siemens%20for%20Startups",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3wAJ1M8ocOaklkxyTXbb0mFlpHa-yjm90Ca4xIJjbJUuofFvTZla6K0jEOh4QKl64osfWXDWmsfSW0fo"
+ },
+ {
+  "id": "se-5907dfa05f",
+  "cat": "gastro",
+  "title": "Eataly Vino Festival - Essen, Wein & Musik",
+  "date": "2026-11-12",
+  "time": "Nov 12, 6:00 PM",
+  "loc": "Eataly Munich, Altstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Eataly%20Vino%20Festival%20-%20Essen%2C%20Wein%20%26%20Musik",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/Y7LWUc67DbZQoZ4jj5y-yzD2mg_o3ibUqKs5CO09mjU.png"
+ },
+ {
   "id": "tm-Z698xZC2Z1kutOPf6",
   "cat": "music",
   "title": "heylucas",
@@ -838,6 +1066,18 @@
   "igUrl": "https://www.ticketmaster.de/event/murda-uzay-tour-tickets/1755564984?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/826/8240ec8d-8c56-43db-8cc0-51a3f09f0826_SOURCE"
+ },
+ {
+  "id": "se-b8a52abcbc",
+  "cat": "gastro",
+  "title": "Premium Wein-Degustation \"Amarone trifft Barolo\"",
+  "date": "2026-11-14",
+  "time": "Nov 14, 7:30 PM",
+  "loc": "ROSE Wein-Brasserie, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Premium%20Wein-Degustation%20%22Amarone%20trifft%20Barolo%22",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLFoVlQqy8n7nLBeWorHWJxFArKuWi48_YPiYsMSp99KT7bjbsejeUIsqRJh__jAHAW7C5T_zHag61xpU"
  },
  {
   "id": "tm-Z698xZC2Z1kqt8Au9",
@@ -888,18 +1128,6 @@
   "img": "https://s1.ticketm.net/dam/a/492/744f8651-20a1-4b0e-a868-7f7ff5e9a492_SOURCE"
  },
  {
-  "id": "se-1377d6b9d7",
-  "cat": "popup",
-  "title": "Productronica",
-  "date": "2026-11-16",
-  "time": "Nov 16",
-  "loc": "Messe München, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Productronica",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ad5e1c1e6cb30d549a4016c/images/Dk9b-OdcylvJ-UBd1kT32QWPu-wnO1hwQLZgS4Neff8.jpeg"
- },
- {
   "id": "se-4c398887a8",
   "cat": "biz",
   "title": "Executive Partners Network: CyberSec Munich",
@@ -936,16 +1164,40 @@
   "img": "https://s1.ticketm.net/dam/a/a78/0827453e-6fe6-426b-9703-830a86c6ca78_SOURCE"
  },
  {
-  "id": "se-e5e5dcd6f2",
+  "id": "se-2cafa8462b",
   "cat": "popup",
-  "title": "Logistics Summit Munich",
+  "title": "Logistics Summit",
   "date": "2026-11-19",
   "time": "Nov 19, 12:00 PM",
   "loc": "Motorworld Munich, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Logistics%20Summit%20Munich",
+  "igUrl": "https://www.google.com/search?q=Logistics%20Summit",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ2X5maI1IKlFfa1hgSDVHGsyGLwmp_Njyyk1Ly1OB56C8I_gQNHQpEohy9HPEF5TuTGfrok_UQNM2F5s"
+ },
+ {
+  "id": "se-55de188633",
+  "cat": "gastro",
+  "title": "Taste wAIn with AI Realist — Wine Tasting & AI",
+  "date": "2026-11-19",
+  "time": "Nov 19, 6:00 PM",
+  "loc": "WEIN-MOMENT München, Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Taste%20wAIn%20with%20AI%20Realist%20%E2%80%94%20Wine%20Tasting%20%26%20AI",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBi0JJd2-hOKTZaH1-m__Sm1is3mPJBZCOKwOa3sIyuyjlRoyU_Qn_hK-tWcMj2pWkdxdk98zVIlyPF5M"
+ },
+ {
+  "id": "se-ef59cf3dc2",
+  "cat": "gastro",
+  "title": "Wine-Tasting \"Grand Tour South Africa\"",
+  "date": "2026-11-19",
+  "time": "Nov 19, 7:00 PM",
+  "loc": "Galerie SOUL OF AFRIKA, Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine-Tasting%20%22Grand%20Tour%20South%20Africa%22",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS89V1_NdrgOBGTeJMbgYMW27Ylz7IlqcfQ1_KXROWHpZPCLrrmN7H4QhmDGm4riY7mIXm4EE5kBWJyX90"
  },
  {
   "id": "tm-Z698xZC2Z1kfAjaGS",
@@ -958,6 +1210,30 @@
   "igUrl": "https://www.ticketmaster.de/event/the-script-man-in-the-arena-tour-2026-tickets/505709333?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/3a5/ce7517c6-e784-465e-88c7-ea54c2c063a5_SOURCE"
+ },
+ {
+  "id": "se-e0039fe83e",
+  "cat": "popup",
+  "title": "IP Service World",
+  "date": "2026-11-23",
+  "time": "Nov 23",
+  "loc": "Holiday Inn Munich - City Centre, an IHG Hotel, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=IP%20Service%20World",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqbZEOHNF3gwzzaNJWxcsoYQoQMoraBDp303z1TaSgfGaxO6RgC55g62-OXN_Dch97gqQXAnbtsON5Hrg"
+ },
+ {
+  "id": "se-f6e0d8ba93",
+  "cat": "gastro",
+  "title": "Wein zu Weihnachten - Weinverkostung/Weintasting",
+  "date": "2026-11-25",
+  "time": "Nov 25, 7:00 PM",
+  "loc": "Forever Thirsty - Naturwein Shop & Tagesbar, Glockenbachviertel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wein%20zu%20Weihnachten%20-%20Weinverkostung/Weintasting",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvqeDtfsT_2ykuYAooz8Yl_l47yHH8k2SbSnO6-46AfIgxIn68jeLAnG_8XqXBkcjOrzjnE--RD8f1NTo"
  },
  {
   "id": "tm-Z698xZC2Z16vf4kdxb",
@@ -994,6 +1270,30 @@
   "igUrl": "https://www.ticketmaster.de/event/polyphia-be-not-afraid-world-tour-tickets/93131551?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE"
+ },
+ {
+  "id": "se-65bf548209",
+  "cat": "popup",
+  "title": "Miso & Vino",
+  "date": "2026-11-27",
+  "time": "Nov 27, 6:30 PM",
+  "loc": "ChirpFood, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Miso%20%26%20Vino",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ad72d8373d224c75ba2a686/images/wrngqnBbfbhnGwuZl2jJsMn3yJ1jxyvvBCSF5EDyses.png"
+ },
+ {
+  "id": "se-8435d9a7eb",
+  "cat": "gastro",
+  "title": "Rotwein Klassiker Weinseminar",
+  "date": "2026-11-29",
+  "time": "Nov 29, 7:30 PM",
+  "loc": "einfach geniessen - Champagner - und -Weinseminare in München, Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Rotwein%20Klassiker%20Weinseminar",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_wHlhtLKYUHC6KXPbIOTt0IHR_e1_6F7HEZVbo7-2UNuJUAzumOn5xuGxY7O3ZOdPLzjV45RhwuZs0A"
  },
  {
   "id": "tm-Z698xZC2Z16v-ObSGk",
@@ -1080,6 +1380,18 @@
   "img": "https://s1.ticketm.net/dam/a/908/970d3aef-5190-4b89-be04-15d032c0f908_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-c6d3dbd018",
+  "cat": "gastro",
+  "title": "Wine-Tasting mit dem Weingut Manfred Edelmann",
+  "date": "2026-12-03",
+  "time": "Dec 3, 7:00 PM",
+  "loc": "Galerie SOUL OF AFRIKA, Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine-Tasting%20mit%20dem%20Weingut%20Manfred%20Edelmann",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ2Zs_rSCUMQ7-CTNq1Nr8-9v7ck1BMiloNHWZLS4RqpGsdw7MSpMu8PtoI9wmD2UrdQSU64f6WOEETsA"
+ },
+ {
   "id": "tm-Z698xZC2Z1k3Fveos",
   "cat": "music",
   "title": "Noah Kahan - The Great Divide Tour",
@@ -1114,6 +1426,18 @@
   "igUrl": "https://www.ticketmaster.de/event/alex-stoldt-quasi-nichts-tickets/526682381?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/a93/30d54e2d-64c0-4ba4-8ed4-da8e9c2f1a93_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-d69a7f4173",
+  "cat": "popup",
+  "title": "Furmeet München",
+  "date": "2026-12-05",
+  "time": "Dec 5, 6:00 PM",
+  "loc": "BOB'S ROCK & BOWL München, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Furmeet%20M%C3%BCnchen",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKUUvuH13qnd_WnxVZ4AatdkKE7yChgK7aazFkCcWqFsBSTBGo9NzP9IdErCQ8RvhUHYEFiDGpDZMpzHk"
  },
  {
   "id": "tm-Z698xZC2Z16vO308vf",
@@ -1234,6 +1558,18 @@
   "igUrl": "https://www.ticketmaster.de/event/dayseeker-creature-in-the-black-night-tour-tickets/849559499?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8d6/4622f83a-a2e4-4c77-a7f0-058cd654c8d6_SOURCE"
+ },
+ {
+  "id": "se-dc38a01003",
+  "cat": "popup",
+  "title": "Edutainment | Meeresfrüchtesause",
+  "date": "2027-01-13",
+  "time": "Jan 13, 7:00 PM",
+  "loc": "FrischeParadies, Ludwigsvorstadt-Isarvorstadt",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Edutainment%20%7C%20Meeresfr%C3%BCchtesause",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWfBCE8ySycQ2qXVsZ20YCU9fN1X-mDffcDy-IsEFuNlW6T8IYb_lnNNjA6bahb8r2ywRKiUR4tLadozs"
  },
  {
   "id": "tm-Z698xZC2Z16v4JueZS",
@@ -1392,6 +1728,18 @@
   "img": "https://s1.ticketm.net/dam/a/7d8/1e6220d0-1108-4330-b3aa-4940d92067d8_SOURCE"
  },
  {
+  "id": "tm-Z698xZC2Z16v8kak8Y",
+  "cat": "music",
+  "title": "Comedy Tragedy Parody - Dominic Fike in Europe",
+  "date": "2027-02-16",
+  "time": "Di 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/comedy-tragedy-parody-dominic-fike-in-europe-tickets/1406246430?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/fd2/31ff92a8-a234-4215-8536-d50b9484cfd2_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z16vjF_7xp",
   "cat": "music",
   "title": "Cameron Whitcomb - The Kingdom Of Fear EU/UK Tour 2027",
@@ -1474,6 +1822,18 @@
   "igUrl": "https://www.ticketmaster.de/event/emeli-sande-celebrating-15-years-of-our-version-of-events-tickets/996441775?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/6e8/6cf188d4-5904-4956-827b-81546471a6e8_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-a08d19ad5c",
+  "cat": "gastro",
+  "title": "Wine Fair",
+  "date": "2027-03-06",
+  "time": "Mar 6",
+  "loc": "Zenith, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20Fair",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5TlBDazua_M-7_TqpyWayN9PfRsXGnsY9vzeY0ZGTBHxKoNK7QzEUbavjGRegFngO3Es7ZWpFc_VUVs"
  },
  {
   "id": "tm-Z698xZC2Z1k_ap30U",
@@ -1882,6 +2242,18 @@
   "igUrl": "https://www.ticketmaster.de/event/oasis-live-27-%7C-ticket--hotel-packages-tickets/1641747540?language=en-us",
   "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/19e/875424a1-1ace-4e57-a098-cc1baa60f19e_SOURCE"
+ },
+ {
+  "id": "tm-LvZ18Qc6jQVWNxc5DdWW2",
+  "cat": "music",
+  "title": "Nadja Benaissa - orangeblau Tour",
+  "date": "2027-09-09",
+  "time": "Do 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.universe.com/events/nadja-benaissa-orangeblau-tour-tickets-JN390T?ref=ticketmaster",
+  "desc": "Music · Pop in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/ba1/d4b9fe3b-a7ff-4f64-b42e-a5353d4e0ba1_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1k0F_aaz",
