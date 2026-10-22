@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-21T08:59:21.324Z",
+  "generatedAt": "2026-10-22T09:01:54.688Z",
   "curated": 106,
   "osm": 800,
   "total": 858
@@ -18129,7 +18129,7 @@
   {
    "id": "osm-n6502393704",
    "type": "restaurant",
-   "name": "Feinkost alla Famiglia",
+   "name": "Alla Famiglia",
    "neighborhood": "München",
    "cuisine": [
     "italian",
