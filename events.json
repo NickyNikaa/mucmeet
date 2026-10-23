@@ -1,65 +1,5 @@
 [
  {
-  "id": "se-5549032c1c",
-  "cat": "popup",
-  "title": "How Digitalisation and AI enable the Energy System of Tomorrow",
-  "date": "2026-10-22",
-  "time": "Oct 22, 6:00 PM",
-  "loc": "Netlight Consulting GmbH, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=How%20Digitalisation%20and%20AI%20enable%20the%20Energy%20System%20of%20Tomorrow",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWwvkT7fHE_MnTZYqDUCWbiaqYB717oBgAQZr_mnvaP0IiMJaqj7VQp-J35rCDIm1Hwa7X5rUu1sei-8A"
- },
- {
-  "id": "se-ade7de15b4",
-  "cat": "music",
-  "title": "Travelers and Locals Meetup",
-  "date": "2026-10-22",
-  "time": "Oct 22, 7:00 PM",
-  "loc": "Café le hygge, Glockenbachviertel",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Travelers%20and%20Locals%20Meetup",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkyW53wPjbWPDEIJSktz46Iylppi9QBdVlu3bUeIzjAnezBPlcvz0B6nAM1TYi7qqQPXcQB_IjLtTMbUU"
- },
- {
-  "id": "se-f5d92ae296",
-  "cat": "music",
-  "title": "Bräustüberl Musikanten",
-  "date": "2026-10-22",
-  "time": "Oct 22, 6:00 PM",
-  "loc": "Hofbräuhaus München, Old Town",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Br%C3%A4ust%C3%BCberl%20Musikanten",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROfjGBy49vBMP7_oKTvPewLa_xCagXZfj-H6Rq90DNOq3st7TRmSWr1-V-Stkec0ZIjptwJMj2ICxz2Ms"
- },
- {
-  "id": "pk-fc1de45972",
-  "cat": "popup",
-  "title": "Built to Last: DeepTech for Climate",
-  "date": "2026-10-22",
-  "time": "Do 18:00",
-  "loc": "Pacellistraße 2, München",
-  "ig": "",
-  "igUrl": "https://luma.com/mcw2026-98a0",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/o9/0d18f02b-9961-4f21-982d-9bf57e64eb7e.png"
- },
- {
-  "id": "pk-1392ad389b",
-  "cat": "popup",
-  "title": "appliedAI Developers Meetup #6/9: Observability: understanding what AI systems actually do",
-  "date": "2026-10-22",
-  "time": "Do 18:30",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/h1jfabf1",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/2f/767fd04c-a8b8-470f-ae54-070e0b804211.png"
- },
- {
   "id": "tm-Z698xZC2Z16v0JPskb",
   "cat": "music",
   "title": "Simple Plan - Bigger Than You Think! Europe Tour 2026",
@@ -77,7 +17,7 @@
   "title": "net4tec Dine & Connect",
   "date": "2026-10-23",
   "time": "Oct 23, 5:30 PM",
-  "loc": "Ristorante Café Roma - München, Old Town",
+  "loc": "Ristorante Café Roma - München, Munich, Germany",
   "ig": "",
   "igUrl": "https://www.google.com/search?q=net4tec%20Dine%20%26%20Connect",
   "desc": "Gefunden über Google Events.",
@@ -94,6 +34,30 @@
   "igUrl": "https://www.google.com/search?q=Improv%20Masterclass%20%22Object%20as%20Metaphor%22%20with%20Susan%20Messing%20%26%20John%20Lehr",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWsJn0z2aPef3m76R6lV8gldU89OH9BO2FLrLlpuxNDwDEoL8AazxPBeZ966IBgRYIxDmx2nxAFOWm9k"
+ },
+ {
+  "id": "se-a8df2a7d0e",
+  "cat": "popup",
+  "title": "Munich Expats @ Shamrock",
+  "date": "2026-10-23",
+  "time": "Oct 23, 7:00 PM",
+  "loc": "Shamrock Irish Pub, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Munich%20Expats%20%40%20Shamrock",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCx2xxMuT2BpmdDB1xQr9t3L9vnJkm7AIrAvoxCpDahM2qu0AuEE8Z3qVj7Om3tmixnqAyqJ9d_1CZsSM"
+ },
+ {
+  "id": "pk-36312070d8",
+  "cat": "popup",
+  "title": "Can We Eat Our Way to a Better Climate? Diet, Society and Tissue Engineering",
+  "date": "2026-10-23",
+  "time": "Fr 13:00",
+  "loc": "Boltzmannstraße 12, Garching bei München-Dietersheim",
+  "ig": "",
+  "igUrl": "https://luma.com/74byz78v",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/dr/ef7b1fea-c4e4-4d46-8fbb-c84de5689ee7.png"
  },
  {
   "id": "pk-2b65e96fbf",
@@ -192,6 +156,18 @@
   "img": "https://s1.ticketm.net/dam/a/572/cbfb4c88-a92a-4301-8fe6-0e603e9c1572_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-151ffbb4b6",
+  "cat": "popup",
+  "title": "beruf & bildung",
+  "date": "2026-10-24",
+  "time": "Oct 24, 10:00 AM",
+  "loc": "Kleine Olympiahalle München, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=beruf%20%26%20bildung",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlPnpQuewtz0gOMmKh4u49aQRn-UaiHnApT6VjfSxnBxCxp2JBVuaipA7zAffQumDX_kRzu0r3Xn3wiWo"
+ },
+ {
   "id": "se-de03ca1043",
   "cat": "popup",
   "title": "Großer Herbstflohmarkt",
@@ -276,6 +252,18 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYldqOHAtAGEGhc2woO9KcxWUFVnksnpFljsxEgTlffUbAQ-GnG-WEIA8ljT65gyNUPBi7ojO-_nDTrmY"
  },
  {
+  "id": "se-c0597b02eb",
+  "cat": "popup",
+  "title": "Schwimmen für TIN* + Wohlfühlpersonen",
+  "date": "2026-10-25",
+  "time": "Oct 25, 12:00 PM",
+  "loc": "Dantebad, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Schwimmen%20f%C3%BCr%20TIN%2A%20%2B%20Wohlf%C3%BChlpersonen",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAa3qDNTuBG1jkeK_NdtmBCyEQKLOj5qRZvKYAfVcdHXaCDLJk02OF1nFdJ8RN5yFdaNmBX_3kYZFNKR0"
+ },
+ {
   "id": "se-3a12942534",
   "cat": "popup",
   "title": "Terrably Funny! English Comedy Night",
@@ -324,12 +312,24 @@
   "img": "https://s1.ticketm.net/dam/a/e31/f113a678-a934-4a3a-bc0c-050832ca9e31_SOURCE"
  },
  {
+  "id": "se-263d005149",
+  "cat": "popup",
+  "title": "Do Work You Love Breakfast",
+  "date": "2026-10-26",
+  "time": "Oct 26, 7:30 AM",
+  "loc": "Velvet Space, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Do%20Work%20You%20Love%20Breakfast",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQL5h2UVKrgVnhLNNdW3qO-CFta8W8IkSKfwtqwlpoUR9Wt4CLEb1fwSQVTCVRjqamoiOPVDVB7p3knUs"
+ },
+ {
   "id": "se-ca79bd1ea6",
   "cat": "popup",
   "title": "webinale Web Week München",
   "date": "2026-10-26",
   "time": "Oct 26",
-  "loc": "Holiday Inn Munich - City Centre, an IHG Hotel, Au-Haidhausen",
+  "loc": "Holiday Inn Munich - City Centre, an IHG Hotel, Munich, Germany",
   "ig": "",
   "igUrl": "https://www.google.com/search?q=webinale%20Web%20Week%20M%C3%BCnchen",
   "desc": "Gefunden über Google Events.",
@@ -357,19 +357,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Oberm%C3%BCller%20Musikanten",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ad9d0ad2bcc24fc2c9f88fa/images/VSTN077Hzfctwn2YEPampA08ef5gLRwMOv6KTqk0m6M.jpeg"
- },
- {
-  "id": "se-610079a49b",
-  "cat": "popup",
-  "title": "Moon Mics: A Moonday Comedy show",
-  "date": "2026-10-26",
-  "time": "Oct 26, 7:00 PM",
-  "loc": "The Moon Bar, Altstadt-Lehel",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Moon%20Mics%3A%20A%20Moonday%20Comedy%20show",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuVH5V6mv7vpjWfhtfkBih3CqsZdbxVbNMIc9HkBDwstk8leGA-oLO53WckDEuTNPM7eHIu8qmEckw88"
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Kwlc0quGO2NqCkxyXu10RfELq0Yq-tNu-twjigA9hISoqMXL5x1gK8bv1TQ4_gSE1czcOUjsnoeGyMY"
  },
  {
   "id": "se-26dab4b84a",
@@ -396,16 +384,28 @@
   "img": "https://s1.ticketm.net/dam/a/9e3/57fb150f-8613-4b26-b4fd-6618d3ce69e3_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-c68359be6c",
-  "cat": "popup",
-  "title": "Munich Embedded",
+  "id": "se-e13242ec99",
+  "cat": "biz",
+  "title": "Female Founders Night | Businettes Apéritif",
   "date": "2026-10-27",
-  "time": "Oct 27, 4:00 PM",
-  "loc": "WERK1 - Tech-Startup Incubator, Berg am Laim",
+  "time": "Oct 27, 6:00 PM",
+  "loc": "1KOMMA5° Showroom München, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Munich%20Embedded",
+  "igUrl": "https://www.google.com/search?q=Female%20Founders%20Night%20%7C%20Businettes%20Ap%C3%A9ritif",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7yH3ewru1vEzVon1lU-8UVX5T5RWkgPQcaWLMEU6QWXP2k9JEYkOgnLpDoOmuUTY4IHXAWCVP_Kr2lDY"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDVcGcArLA6-PCwTSSusiBSGqn3tz4CH-vKhTzsboONkLclAiINm6ayArQVjFqp-dJuCiUY78Kj7R8VA"
+ },
+ {
+  "id": "se-c6fc7f8da6",
+  "cat": "popup",
+  "title": "Grusel am Lagerfeuer",
+  "date": "2026-10-27",
+  "time": "Oct 27, 3:15 PM",
+  "loc": "FestSpielHaus, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Grusel%20am%20Lagerfeuer",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjdGxAmceAEKIrHl_75oGQujcs2cQ_79-IVTSsC3pqBeRnRicvsgpV26HL5pTmYiXIP1P2C0fFUKi-gk"
  },
  {
   "id": "pk-d6a847707b",
@@ -432,6 +432,18 @@
   "img": "https://s1.ticketm.net/dam/a/4c9/d50cc2df-148c-4e11-8f33-a55eee4864c9_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-d528b40ce8",
+  "cat": "biz",
+  "title": "The Business Booster",
+  "date": "2026-10-28",
+  "time": "Oct 28, 12:00 AM",
+  "loc": "Messe München, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=The%20Business%20Booster",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu6dsnStrBm36zL8IJKAMATOiqvLdtydN5sep3eeLlz4oYgFrt0Lqv7MO2_7H4KtU2frlueDc7MU-za_E"
+ },
+ {
   "id": "pk-820710b59e",
   "cat": "popup",
   "title": "Munich Hardware Meetup",
@@ -456,16 +468,40 @@
   "img": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_SOURCE"
  },
  {
-  "id": "se-98625cb53d",
+  "id": "se-9b0215ba04",
   "cat": "popup",
-  "title": "Conversational AI & Customer Experience Summit",
+  "title": "Savant eCommerce Munich",
   "date": "2026-10-29",
-  "time": "Oct 29, 8:00 AM",
-  "loc": "H4 Hotel München Messe, Munich, Germany",
+  "time": "Oct 29",
+  "loc": "Hotel Vier Jahreszeiten Kempinski München, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Conversational%20AI%20%26%20Customer%20Experience%20Summit",
+  "igUrl": "https://www.google.com/search?q=Savant%20eCommerce%20Munich",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtU89CCf09nAhaDu2w2MULAdx-zHAw_E8n6eZlR2NhD6CycnBljYemhaSpn-_fHp_w4pWE8U5AMu3Uko"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREK_3Tbzg9LB5sCHpf06SNpx6PS7XoMcN0OlmSStlnF52gCILak7RBkaSUwHnmH5z6s_K_3jegM0yRdpI"
+ },
+ {
+  "id": "se-38a9bc3072",
+  "cat": "popup",
+  "title": "Performance Days",
+  "date": "2026-10-29",
+  "time": "Oct 29",
+  "loc": "Messe München, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Performance%20Days",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4vENBoN073jA8qHhNtOaCHHgMPdiiHPicJlSEmE4dgkeBYf4CZOLsFjzwq637Sb8KwMfYNb9bC2UCkqo"
+ },
+ {
+  "id": "se-c380165a0a",
+  "cat": "music",
+  "title": "Travelers and Locals Meetup",
+  "date": "2026-10-29",
+  "time": "Oct 29, 7:00 PM",
+  "loc": "Café le hygge, Glockenbachviertel",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Travelers%20and%20Locals%20Meetup",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkyW53wPjbWPDEIJSktz46Iylppi9QBdVlu3bUeIzjAnezBPlcvz0B6nAM1TYi7qqQPXcQB_IjLtTMbUU"
  },
  {
   "id": "se-027d9d9980",
@@ -477,7 +513,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Free%20dance%20workshops%20for%20M%C3%BCnchner%20Kathreintanz",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ad9d0ad2bcc24fc2c9f88fa/images/50eH9XqaVXTZKx-1wI2EMZKdOzJCYzO1npt8ztdg0JQ.jpeg"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6iX-vz263RweeA0sAbDFIeC_IjX6apEhlbt5oMfducMGAobs2Rvv4-rl_tXDv0rhUpTPjUH8sKfFadco"
  },
  {
   "id": "se-40d282c807",
@@ -502,6 +538,18 @@
   "igUrl": "https://www.google.com/search?q=Founders%20Breakfast",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtB6B3BYd_H4RRdyLA_bKUL66Dk235tjps9UyA-tUMGRsxlAID4brGnQ_4utRQb8cGvCOBWhneRQ3tr1Q"
+ },
+ {
+  "id": "se-147d1145ab",
+  "cat": "music",
+  "title": "ITCS Tech Conference - Job Fair - Festival",
+  "date": "2026-10-30",
+  "time": "Oct 30",
+  "loc": "MOC – Event Center Messe Munich, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=ITCS%20Tech%20Conference%20-%20Job%20Fair%20-%20Festival",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHw37udF8gYYOIi-s9Sy1KslehdQUgvuZsMGuhlvk64s0Ri9auCqa-hQ2o6s7s0UvL-o-uR0s9n9lt17w"
  },
  {
   "id": "se-51c83cccf2",
@@ -564,16 +612,16 @@
   "img": "https://images.lumacdn.com/uploads/ot/21bd5aa6-438a-437a-962c-2ee8863aff9d.png"
  },
  {
-  "id": "se-f15e7345b3",
+  "id": "pk-41ffb4ebc6",
   "cat": "popup",
-  "title": "Meetup Physical AI and Robotics",
-  "date": "2026-11-02",
-  "time": "Nov 2, 5:30 PM",
-  "loc": "Munich Urban Colab, Munich, Germany",
+  "title": "NymphenRuns x Oatly | Sunday Run & Shake",
+  "date": "2026-11-01",
+  "time": "So 10:00",
+  "loc": "Rumfordstraße 39, München-Altstadt-Lehel",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Meetup%20Physical%20AI%20and%20Robotics",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OOhJrZQghvKeODmDzSftldVJDZZ6KUaYyNJ14Q3mVf949U2_OeiMps-z0G8LwxABs97hAVT0dpH0QO4"
+  "igUrl": "https://luma.com/o1l3oybc",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/k3/d4cd8926-9ace-4746-bccc-b70c78630959.png"
  },
  {
   "id": "pk-0f4dfc782f",
@@ -612,16 +660,16 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAn3CHz9B3p3VcZwz25IWzrqm9-IbhcNvwzzCywJcnltc07tl2OqG7R04mtkg82cKhIAdoiq-nuCfP2_g"
  },
  {
-  "id": "se-b24f7d3f2b",
+  "id": "se-587eae9561",
   "cat": "popup",
-  "title": "Cecilia Amanda",
-  "date": "2026-11-05",
-  "time": "Nov 5, 8:00 PM",
-  "loc": "Theater Drehleier & Theatergaststatte \"scenery\", Au-Haidhausen",
+  "title": "Furmeet München",
+  "date": "2026-11-07",
+  "time": "Nov 7",
+  "loc": "BOB'S ROCK & BOWL München, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Cecilia%20Amanda",
+  "igUrl": "https://www.google.com/search?q=Furmeet%20M%C3%BCnchen",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO0HXxrX0c2hHerkMUDkoN29KHPvko_qQIRsKVRK-TxjZx5NGznYTP-Cpatf66fxmvB_h8J6GJbR4W8mU"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLq5VxoNn1uU-HyrxzQLTX1YP5QOUjp4uNibd0GmEHb_L76i_-250j-7PRP5tQ22iJQOIGbxg_wq8oHeY"
  },
  {
   "id": "se-dc5ed5db3c",
@@ -660,16 +708,16 @@
   "img": "https://s1.ticketm.net/dam/a/20f/4e6050d5-0e2b-4f32-9625-be5b8530820f_SOURCE"
  },
  {
-  "id": "se-f296bc2b37",
+  "id": "se-60319b72c9",
   "cat": "popup",
-  "title": "Electronica",
-  "date": "2026-11-10",
-  "time": "Nov 10",
-  "loc": "Gas station at the Munich Trade Fair Center, Munich, Germany",
+  "title": "Moon Mics: A Moonday Comedy show",
+  "date": "2026-11-09",
+  "time": "Nov 9, 7:00 PM",
+  "loc": "The Moon Bar, Altstadt-Lehel",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Electronica",
+  "igUrl": "https://www.google.com/search?q=Moon%20Mics%3A%20A%20Moonday%20Comedy%20show",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCnq0RIPLGuxySCVQDpyVQT-ez-I0MP5VLfVNhk7Wa19uOZVqsGxQ95PAzNdmzkBN1TUuY2vmoj9HW_dA"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuVH5V6mv7vpjWfhtfkBih3CqsZdbxVbNMIc9HkBDwstk8leGA-oLO53WckDEuTNPM7eHIu8qmEckw88"
  },
  {
   "id": "tm-Z698xZC2Z1kC970pZ",
@@ -768,18 +816,6 @@
   "img": "https://s1.ticketm.net/dam/a/492/744f8651-20a1-4b0e-a868-7f7ff5e9a492_SOURCE"
  },
  {
-  "id": "se-1377d6b9d7",
-  "cat": "popup",
-  "title": "Productronica",
-  "date": "2026-11-16",
-  "time": "Nov 16",
-  "loc": "Messe München, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Productronica",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0dy0Kcd1dResTFZh95m6ZPb2HeSsmXcO0V5kjbaW9j0x6faBjbmDkem-ss0cKrRgJWpX7A5MhfdiBSjU"
- },
- {
   "id": "tm-Z698xZC2Z16vG6GAuV",
   "cat": "music",
   "title": "GURRIERS - Nobody's Coming To Save You Tour 2026",
@@ -804,18 +840,6 @@
   "img": "https://s1.ticketm.net/dam/a/a78/0827453e-6fe6-426b-9703-830a86c6ca78_SOURCE"
  },
  {
-  "id": "se-2cafa8462b",
-  "cat": "popup",
-  "title": "Logistics Summit",
-  "date": "2026-11-19",
-  "time": "Nov 19, 12:00 PM",
-  "loc": "Motorworld Munich, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Logistics%20Summit",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ2X5maI1IKlFfa1hgSDVHGsyGLwmp_Njyyk1Ly1OB56C8I_gQNHQpEohy9HPEF5TuTGfrok_UQNM2F5s"
- },
- {
   "id": "pk-cead281417",
   "cat": "popup",
   "title": "Bumble x Plex Drip & Draw Vol. 2",
@@ -825,19 +849,19 @@
   "ig": "",
   "igUrl": "https://luma.com/qg72a8mc",
   "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/md/3ce79ea5-631a-4947-b8b2-d68b7c066b61.png"
+  "img": "https://images.lumacdn.com/uploads/dz/4f1709e2-95df-4f45-a479-d05902fd3f76.jpg"
  },
  {
-  "id": "se-e0700e3745",
-  "cat": "popup",
-  "title": "Münchner Kathreintanz",
-  "date": "2026-11-21",
-  "time": "Nov 21, 7:00 PM",
-  "loc": "Hofbräuhaus München, Old Town",
+  "id": "se-5b8d206896",
+  "cat": "biz",
+  "title": "Fleur. Female Business Brunch",
+  "date": "2026-11-22",
+  "time": "Nov 22, 10:00 AM",
+  "loc": "Cotidiano Pasing, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=M%C3%BCnchner%20Kathreintanz",
+  "igUrl": "https://www.google.com/search?q=Fleur.%20Female%20Business%20Brunch",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2nueb2o_UeoOgs4hlhZ91_RuEapAgoixONbKRLXkBkcgLYHJD2OoCcolM5osIUV1ZxYQukSB6gZK3K1k"
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWALuGqVFg8cuoCHb2Tw9o2e_vHDAM2pwIb-LDRZ99ansOtdmpsTkjKfZUNH8QlO_lzRBmDhPyvA-B0cM"
  },
  {
   "id": "tm-Z698xZC2Z1kfAjaGS",
@@ -953,7 +977,7 @@
   "title": "Sports Tech Nation",
   "date": "2026-12-01",
   "time": "Dec 1, 12:00 PM",
-  "loc": "SAP Garden, Olympiapark München",
+  "loc": "SAP Garden, Munich, Germany",
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Sports%20Tech%20Nation",
   "desc": "Gefunden über Google Events.",
@@ -1008,6 +1032,18 @@
   "img": "https://s1.ticketm.net/dam/a/0a3/ac7239d7-8312-4958-9819-ee04fefbc0a3_SOURCE"
  },
  {
+  "id": "se-5db727beb4",
+  "cat": "biz",
+  "title": "Unternehmer Netzwerk-Event",
+  "date": "2026-12-04",
+  "time": "Dec 4, 6:00 PM",
+  "loc": "MindMove München | Mietlocation & Studio, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Unternehmer%20Netzwerk-Event",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbYwLOushT-P1JfU59_m9VE4gSSFeokESKDjI-a750mn2pHL8oJH2xBaXpYGDw7UeYI5CIBd1vLkmGJXs"
+ },
+ {
   "id": "tm-Z698xZC2Z1kovGxfM",
   "cat": "music",
   "title": "CHLOE SLATER - riot youth tour",
@@ -1030,18 +1066,6 @@
   "igUrl": "https://www.ticketmaster.de/event/alex-stoldt-quasi-nichts-tickets/526682381?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/a93/30d54e2d-64c0-4ba4-8ed4-da8e9c2f1a93_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-d69a7f4173",
-  "cat": "popup",
-  "title": "Furmeet München",
-  "date": "2026-12-05",
-  "time": "Dec 5, 6:00 PM",
-  "loc": "BOB'S ROCK & BOWL München, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Furmeet%20M%C3%BCnchen",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKUUvuH13qnd_WnxVZ4AatdkKE7yChgK7aazFkCcWqFsBSTBGo9NzP9IdErCQ8RvhUHYEFiDGpDZMpzHk"
  },
  {
   "id": "tm-Z698xZC2Z16vO308vf",
@@ -1090,6 +1114,54 @@
   "igUrl": "https://www.ticketmaster.de/event/johno37-tour-2026-%7C-premium-upgrade-no-ticket-included--tickets/254285058?language=en-us",
   "desc": "Miscellaneous · Family in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/41e/a64ba47b-0f72-4484-ad89-f225aa34341e_SOURCE"
+ },
+ {
+  "id": "se-5cc1762888",
+  "cat": "biz",
+  "title": "Acting, Production & Business Networking | Elevating Your Potential",
+  "date": "2026-12-09",
+  "time": "Dec 9, 6:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Acting%2C%20Production%20%26%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5UNFozOwccg_8M3329j_Wd_2MCNKdsygE2uFpNgBRpS4Bl5XaTjFzx3Y5IoJGAL_10yYoC1jsZhNYwyM"
+ },
+ {
+  "id": "se-667eef9c67",
+  "cat": "biz",
+  "title": "Fashion and Business Networking | Elevating Your Potential",
+  "date": "2026-12-09",
+  "time": "Dec 9, 6:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Fashion%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6adb20ec93469553b4ccef9e/images/HI8Bux78S8NfsC2E4gmJnx5JO_9skX8QET4i0oPW_LI.jpeg"
+ },
+ {
+  "id": "se-d42ce07208",
+  "cat": "biz",
+  "title": "Blockchain and Business Networking | Elevating Your Potential",
+  "date": "2026-12-09",
+  "time": "Dec 9, 6:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Blockchain%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6adb20ec93469553b4ccef9e/images/lWYXeoVi3TYIQF-eiBWow5rx18T4PEm9dZb_-oIHr38.jpeg"
+ },
+ {
+  "id": "se-1bd420cc1b",
+  "cat": "biz",
+  "title": "Law and Business Networking | Elevating Your Potential",
+  "date": "2026-12-09",
+  "time": "Dec 9, 6:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Law%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6adb20ec93469553b4ccef9e/images/4gQsUnF5Nkih3lG479d88Fg8Z5wlAiEoc0zVBoXGdq4.jpeg"
  },
  {
   "id": "tm-Z698xZC2Z1krp1ka8",
@@ -1162,18 +1234,6 @@
   "igUrl": "https://www.ticketmaster.de/event/dayseeker-creature-in-the-black-night-tour-tickets/849559499?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8d6/4622f83a-a2e4-4c77-a7f0-058cd654c8d6_SOURCE"
- },
- {
-  "id": "se-aeea181aee",
-  "cat": "popup",
-  "title": "Deeptalk-Stammtisch: tiefgründiges Netzwerken auf hohem Niveau",
-  "date": "2027-01-06",
-  "time": "Jan 6, 6:30 PM",
-  "loc": "Hand aufs Herz, Glockenbachviertel",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Deeptalk-Stammtisch%3A%20tiefgr%C3%BCndiges%20Netzwerken%20auf%20hohem%20Niveau",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVmzO5XNRzuXFc2yFOEXcXoG4dldVcVwKTRr8whJHc3var6BJRzN03p4ce24Pxaa1ysv2Az6Q75-S2dOM"
  },
  {
   "id": "tm-Z698xZC2Z16v4JueZS",
@@ -1488,6 +1548,18 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4SHO_JCkCXbRBItej4K-plD99oPIST3vFVot2DOXqkRrI_pDa2sXmM0uY5n4e_8YSnUvTyf7pIRc6uNs"
  },
  {
+  "id": "se-9ce33e628a",
+  "cat": "popup",
+  "title": "Furry Stammtisch",
+  "date": "2027-03-20",
+  "time": "Mar 20, 6:00 PM",
+  "loc": "Bernis Nudelbrett, Old Town",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Furry%20Stammtisch",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeG6-VW2Zj9MsoLB5TsiHrLNr8wp3u8ywIjwF-XkimAFM0Xyj-IiX8Ha4Xzf2sUBSiNtQiGNLRLRDuxN8"
+ },
+ {
   "id": "tm-Z698xZC2Z16v1eCeGO",
   "cat": "music",
   "title": "Bonobo - Distance In Static - Live",
@@ -1680,6 +1752,18 @@
   "img": "https://s1.ticketm.net/dam/a/880/85553065-0c5c-41f3-9e33-03bff75c2880_SOURCE"
  },
  {
+  "id": "se-259f704c03",
+  "cat": "popup",
+  "title": "Venture Capital World Summit",
+  "date": "2027-04-22",
+  "time": "Apr 22, 8:00 AM",
+  "loc": "Regus - Munich Maximilianstrasse 35a, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Venture%20Capital%20World%20Summit",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqrLwNCg3ykfFPUMMydSS89l7UvF-fRA7mBq_QW3sh-phYXUdkSlJ4VbLjcY1oY5mx-a9q_g4YfqBcUQ"
+ },
+ {
   "id": "tm-Z698xZC2Z1ku-q-38",
   "cat": "popup",
   "title": "NIGHT of the JUMPs - Freestyle MX World Championship 2027",
@@ -1714,6 +1798,18 @@
   "igUrl": "https://www.ticketmaster.de/event/james-marriott-world-tour-2027-tickets/478238011?language=en-us",
   "desc": "Music · Rock in Nachtwerk. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d56/9c44f9f0-a060-494d-94c9-f0de64256d56_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16vaeobJ7",
+  "cat": "music",
+  "title": "Charlotte Cardin - Midnight, mon amour Tour",
+  "date": "2027-05-14",
+  "time": "Fr 19:30",
+  "loc": "Nachtwerk, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/charlotte-cardin-midnight-mon-amour-tour-tickets/1242458984?language=en-us",
+  "desc": "Music · Rock in Nachtwerk. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/bf4/2aa1940b-1c2c-48ca-8ef3-31a3ea17dbf4_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16v70efZ3",
@@ -1908,18 +2004,6 @@
   "img": "https://s1.ticketm.net/dam/a/9c3/4fd7c48d-b44c-472c-bd3c-f0a2fd70a9c3_SOURCE"
  },
  {
-  "id": "se-f0ef029800",
-  "cat": "popup",
-  "title": "EXPO REAL",
-  "date": "2027-10-04",
-  "time": "Oct 4",
-  "loc": "Messe München, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=EXPO%20REAL",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGAfG9Xam7jmueSYcg0O0BHp2S3_Wn-F4gGxFYIhvSnqbXJ0MK-kfBq9wClD24_YbuKAYsseSKkVqqYcM"
- },
- {
   "id": "tm-Z698xZC2Z16vAE1A-a",
   "cat": "music",
   "title": "Brit Floyd: ANIMALS 50",
@@ -1966,17 +2050,5 @@
   "igUrl": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/426094852?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/279/20bf25ff-788c-4fd9-b104-c601a6fdf279_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kFvC8u8",
-  "cat": "music",
-  "title": "Vanessa Mai Tour 2028",
-  "date": "2028-04-29",
-  "time": "Sa 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/vanessa-mai-tour-2028-tickets/201390350?language=en-us",
-  "desc": "Music · World in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/731/fc0f7fcf-1418-4e12-a4d6-a9ab90c07731_SOURCE"
  }
 ]
