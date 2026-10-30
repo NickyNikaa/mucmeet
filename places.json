@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29T10:34:31.315Z",
+  "generatedAt": "2026-10-30T10:33:59.257Z",
   "curated": 106,
   "osm": 800,
   "total": 859
@@ -11349,7 +11349,7 @@
     "terrace",
     "vegan"
    ],
-   "pitch": "Aus OpenStreetMap. chinese · Franziska-Bilek-Weg · geöffnet: Mo-Fr 11:00-23:00; Sa,Su,PH 12:00-23:00",
+   "pitch": "Aus OpenStreetMap. chinese · Franziska-Bilek-Weg · geöffnet: Mo,Tu 11:00-14:00; We-Su,PH 11:00-21:30",
    "bookingUrl": "https://frauli-muenchen.de/",
    "osm": true
   },
@@ -12513,7 +12513,7 @@
     "terrace",
     "vegan"
    ],
-   "pitch": "Aus OpenStreetMap. coffee shop salad · Theresienhöhe · geöffnet: Mo-Fr 07:30-17:00; Sa,Su,PH 10:00-16:00",
+   "pitch": "Aus OpenStreetMap. coffee shop salad · Theresienhöhe · geöffnet: Mo-Fr 08:00-17:00; Sa,Su,PH 10:00-16:00",
    "bookingUrl": "https://nottinghillcafe.de/",
    "osm": true
   },
