@@ -1,113 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1kaaofap",
-  "cat": "gastro",
-  "title": "Niall Horan: Dinner Party Live On Tour",
-  "date": "2026-10-31",
-  "time": "Sa 19:00",
-  "loc": "Olympiahalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-tickets/249454256?language=en-us",
-  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/5bb/da26c21d-b562-463a-bcd8-14187f97a5bb_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z16vvx78us",
-  "cat": "music",
-  "title": "Undeath",
-  "date": "2026-10-31",
-  "time": "Sa 20:00",
-  "loc": "Kranhalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/undeath-tickets/1062110371?language=en-us",
-  "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/b26/81339130-dcfe-4d56-a4a1-a87b6953fb26_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-31f6b2ffe2",
-  "cat": "popup",
-  "title": "Friending Around: Meet Locals & Expats",
-  "date": "2026-10-31",
-  "time": "Oct 31, 7:00 PM",
-  "loc": "KOOS Hotel & Apartments, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Friending%20Around%3A%20Meet%20Locals%20%26%20Expats",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7RrVSVBYGfItCVdFWjECsfoFSyyTP-IDh6d2z-8xFLlQx4BCl7K2z4DM4x7Enze0dee5GXjdAuBuCeJE"
- },
- {
-  "id": "se-1623ab6403",
-  "cat": "music",
-  "title": "Halloween Special | Meet New People | DJ | Happy Hours",
-  "date": "2026-10-31",
-  "time": "Oct 31, 7:00 PM",
-  "loc": "WomBar, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Halloween%20Special%20%7C%20Meet%20New%20People%20%7C%20DJ%20%7C%20Happy%20Hours",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvb2GeYJeSnof02G1SgmvKbuJZHedSgSt08PFlDjSADRLjZ3cp7YBtYYFIbNiBsfn9sUe6-8B0CNpIWfk"
- },
- {
-  "id": "se-e35c7b02b0",
-  "cat": "music",
-  "title": "Social Night Out - Bars & Club",
-  "date": "2026-10-31",
-  "time": "Oct 31, 8:45 PM",
-  "loc": "Brunnenbuberl, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Social%20Night%20Out%20-%20Bars%20%26%20Club",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv3JPEkUhcWL8NPsjHHyx09Ni8yhJR_t9JlUm7wPlHP0j0_aPBriLDM2jdetXOoC32PfpP_ebLNoFqK64"
- },
- {
-  "id": "se-b14b116cc7",
-  "cat": "gastro",
-  "title": "Longevity Munich Dinner",
-  "date": "2026-10-31",
-  "time": "Oct 31, 7:00 PM",
-  "loc": "Max Pett... Das vegane Restaurant, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Longevity%20Munich%20Dinner",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6p6wm7mKoxATBabebcV5kRGCDadczhNw-JEQyFfBfDXMUPFtRzDE29zn8LBE6nIjjdYIeoqpIIQDUNk"
- },
- {
-  "id": "se-2f2685ffd8",
-  "cat": "gastro",
-  "title": "WINE GAMES - Tasting Room",
-  "date": "2026-10-31",
-  "time": "Oct 31, 7:00 PM",
-  "loc": "Munich Wine Rebels, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=WINE%20GAMES%20-%20Tasting%20Room",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuyXmJfTk9p2dyFGMl4jC6vmJWj26_y2a9KWkdSqPufd8o18e0GBauM6Bk0fSeME-MxHzAtro-uB7MmZs"
- },
- {
-  "id": "se-136d5f2deb",
-  "cat": "gastro",
-  "title": "Wine Games",
-  "date": "2026-10-31",
-  "time": "Oct 31, 7:00 PM",
-  "loc": "Munich Wine Rebels, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Wine%20Games",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKIk_JgRmJuxFPWBUoWTUC2chQv9ldp7SEn3bPblJWtXyxn8jFGYRQGvwaYeXe8DwsWwf3cTizHxXK1vA"
- },
- {
-  "id": "pk-92afb3682c",
-  "cat": "music",
-  "title": "HALLOWEEN PRE PARTY",
-  "date": "2026-10-31",
-  "time": "Sa 18:00",
-  "loc": "Sendlinger Str. 46, München",
-  "ig": "",
-  "igUrl": "https://luma.com/gnr8hvr6",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/3o/6e04fcf6-5467-4b58-90b8-b980f1e78c53.jpg"
- },
- {
   "id": "se-36a02e6a41",
   "cat": "music",
   "title": "Obergiesing Games Club",
@@ -118,30 +10,6 @@
   "igUrl": "https://www.google.com/search?q=Obergiesing%20Games%20Club",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4p5pmsM8apG2v8dW9i_Wgf0lGLfOc24AOOZJTSSyyPV9ETt1weRV4gQ0XxAOW4uYxGLUm8mPUzqKuUmc"
- },
- {
-  "id": "se-c033628725",
-  "cat": "run",
-  "title": "The Female Run Club",
-  "date": "2026-11-01",
-  "time": "Nov 1, 10:00 AM",
-  "loc": "LAP COFFEE, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=The%20Female%20Run%20Club",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRRBUz2XgydwUjmvGbrMBAp8CBpu3VwwoycoZFxQo8b3H9InS-nM6oeSWs2NqPO8DPzo5OA367umqDYVU"
- },
- {
-  "id": "se-8f6996513a",
-  "cat": "walk",
-  "title": "Rundgang Jüdische Isarvorstadt Spaziergang mit Besichtigung der Synagoge Reichenbachstraße",
-  "date": "2026-11-01",
-  "time": "Nov 1, 11:00 AM",
-  "loc": "Jewish Museum, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Rundgang%20J%C3%BCdische%20Isarvorstadt%20Spaziergang%20mit%20Besichtigung%20der%20Synagoge%20Reichenbachstra%C3%9Fe",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjW2LlyCmMO-Ix-80sy0YEnZAwdxfvMPERLDH_jkiR2jXuueU05tI5H6_vnKURicfU-Tq1COsUx1aLx6M"
  },
  {
   "id": "pk-41ffb4ebc6",
@@ -156,16 +24,16 @@
   "img": "https://images.lumacdn.com/uploads/k3/d4cd8926-9ace-4746-bccc-b70c78630959.png"
  },
  {
-  "id": "se-f15e7345b3",
+  "id": "pk-bca8b207ab",
   "cat": "popup",
-  "title": "Meetup Physical AI and Robotics",
-  "date": "2026-11-02",
-  "time": "Nov 2, 5:30 PM",
-  "loc": "Munich Urban Colab, Munich, Germany",
+  "title": "YC W27 Deadline Eve: Founders Panel & Drinks",
+  "date": "2026-11-01",
+  "time": "So 18:45",
+  "loc": "Dachauer Str. 90, München",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Meetup%20Physical%20AI%20and%20Robotics",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OOhJrZQghvKeODmDzSftldVJDZZ6KUaYyNJ14Q3mVf949U2_OeiMps-z0G8LwxABs97hAVT0dpH0QO4"
+  "igUrl": "https://luma.com/ahuj0yoy",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/rf/f53ba96b-9952-48b4-8170-7a29bf506fe6.jpg"
  },
  {
   "id": "se-02bb8c9517",
@@ -177,7 +45,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Bellevue%20Infost%C3%BCberl",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVEV6gjRy5kIakh6LMXSXgN5XhZR7KP2oLseFyPu9ypuGKeYUCSApcaoX8XgEaIsz73-w_UUMrDG5k-8"
+  "img": "https://serpapi.com/searches/6ae71a13b747aa0436a208ae/images/Rs0j3ehLqRdiq8V9fzc-OV6xf-s4quEcxzb2pHWFTVk.jpeg"
  },
  {
   "id": "pk-0f4dfc782f",
@@ -228,6 +96,18 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkVpe7SXESzs6IgQEWU_mSdnZgzxtxufBztxFluYkLzs7BVtiAHW6eXfmpvpThKVmZQoq8jJ6azgNAZ0k"
  },
  {
+  "id": "se-7b6fee26c2",
+  "cat": "popup",
+  "title": "Deep Meditation Journey",
+  "date": "2026-11-03",
+  "time": "Nov 3, 8:15 PM",
+  "loc": "etisch., Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Deep%20Meditation%20Journey",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJyQdjPKB5dnE-iu4N3qT_JGrY2TON7_5_BrPuONW9h488KK7gcnZDx4ZGs-uiSdrTbe4B3MulQ1GpnaI"
+ },
+ {
   "id": "se-10630890cd",
   "cat": "popup",
   "title": "Meat it – Fleischeslust in der Genusswerkstatt",
@@ -237,7 +117,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Meat%20it%20%E2%80%93%20Fleischeslust%20in%20der%20Genusswerkstatt",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae5bc785e878b7f963190c9/images/sMncW6aj-r3E5pqnS-exXAREP06qTXzZ96sNW57yiEk.jpeg"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/-h6umskxjiKGubur1psnooFtq46NjXCZqhwp8_XmED8.jpeg"
+ },
+ {
+  "id": "pk-eff9d8aad2",
+  "cat": "popup",
+  "title": "Finance Padel Networking Event mit Embat & torq.partners",
+  "date": "2026-11-03",
+  "time": "Di 19:00",
+  "loc": "Paketposthalle, Alte, Arnulfstraße 195-199, München",
+  "ig": "",
+  "igUrl": "https://luma.com/m4mglzdh",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/sp/410af182-c5d6-468d-9811-a57daca7ae87.jpg"
  },
  {
   "id": "se-324b4de6f6",
@@ -297,7 +189,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Cucina%20italiana%20%E2%80%93%20die%20sonnenverw%C3%B6hnte%20K%C3%BCche%20Siziliens",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_AH0wP4gBm0Xugpk6AdPJ_62_C41SeavB2Tjs3_8IhouZUEbc9NtWnJ-2qwA2kOuXjeTdHkPQuaJMlCY"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXi9V3ue3MkhqYe_Tpmtv2qs.jpeg"
  },
  {
   "id": "se-535f5cf84c",
@@ -324,16 +216,16 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkeDVTP12_MVz2CgEUwap0mJH9ZoNRBMEp1POw7hlsLYvemJ58g0R_Tw25pz6AMkKr3OPtAbljBPMfFAY"
  },
  {
-  "id": "se-d84a5e8bdb",
+  "id": "pk-d8d01e0bf5",
   "cat": "popup",
-  "title": "Chef's Table",
+  "title": "CDTM Run & Mingle",
   "date": "2026-11-05",
-  "time": "Nov 5, 6:00 PM",
-  "loc": "Restaurant Pfistermühle, Munich, Germany",
+  "time": "Do 08:30",
+  "loc": "Veterinärstr, Im Englischen Garten 14, München",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Chef%27s%20Table",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTW0rhb9WS0faTEMCepvEQSVvRKa0LPj9Vc984VTLNtNby7JD2GQ51ey8sudO0Q7F9qiYu-K2X_TlivI"
+  "igUrl": "https://luma.com/qvzqgrl5",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/event-covers/ub/f6d1cfab-84aa-4b5a-beff-e68973bb965d.png"
  },
  {
   "id": "pk-3fb9c2527f",
@@ -360,16 +252,28 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxe9IDSLYE486MoqVtDum652aEltgbGBEAufRan0_HRHyh2eu8PDHAtYBAdfcfdAf7iPcsDzajQEBChY8"
  },
  {
-  "id": "se-8298e41b3b",
+  "id": "se-6b8d7f2efc",
   "cat": "popup",
-  "title": "Izakaya – die japanische Sake-Bar",
+  "title": "OFFLINESALON",
   "date": "2026-11-06",
-  "time": "Nov 6, 5:30 PM",
-  "loc": "Bildungszentrum, Munich, Germany",
+  "time": "Nov 6, 6:00 PM",
+  "loc": "Gartensalon/KuchenKiosk / München, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Izakaya%20%E2%80%93%20die%20japanische%20Sake-Bar",
+  "igUrl": "https://www.google.com/search?q=OFFLINESALON",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD2x0DGliRIx62JFq9T2aacxKhdW_iIxfU9A2uiWlpiPl9LjKd-dyzVykStu53LsCWXFnPDK_Dw3r5Ki8"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwBerFPYiYSD3Hg7ImW6GOPXlKZ7MOAbf2UDsY4FZDOLnbRQORwjmtqkc9lzolDwBvpojw_FZFFYTgaY"
+ },
+ {
+  "id": "se-c68061c78f",
+  "cat": "gastro",
+  "title": "WEIN mal EINS – Learning by drinking",
+  "date": "2026-11-06",
+  "time": "Nov 6, 7:00 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=WEIN%20mal%20EINS%20%E2%80%93%20Learning%20by%20drinking",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/MLICF6jn_a9mjyjTly3RQf1OYjWRE-9X7HVznq9J1T4.jpeg"
  },
  {
   "id": "se-e967fec64a",
@@ -396,6 +300,18 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaaFvzs-6o5nJcIABjPGJh_oosu-nqxHQmb5gNsh1eLKJKuDzOljhAnJ0uTUExd5PcAdMdgWc0Bhl-nFc"
  },
  {
+  "id": "se-ee82f03681",
+  "cat": "popup",
+  "title": "Friending Around: Meet Locals & Expats",
+  "date": "2026-11-07",
+  "time": "Nov 7, 7:00 PM",
+  "loc": "KOOS Hotel & Apartments, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Friending%20Around%3A%20Meet%20Locals%20%26%20Expats",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7RrVSVBYGfItCVdFWjECsfoFSyyTP-IDh6d2z-8xFLlQx4BCl7K2z4DM4x7Enze0dee5GXjdAuBuCeJE"
+ },
+ {
   "id": "se-570defe942",
   "cat": "popup",
   "title": "German Language Café",
@@ -408,28 +324,28 @@
   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFcXG0pzJD2u3nBK7gzrv1-PONpL-b4rg3620ICePCFZVYv_lliGj2lXKlFVPi3QuWSsZCcGN6j16kcwI"
  },
  {
-  "id": "se-2704298ef0",
-  "cat": "popup",
-  "title": "Meet New People & Make Real Connections | 21–40",
+  "id": "se-ab44ad8efe",
+  "cat": "music",
+  "title": "Sweet Club Munich Saturdays",
   "date": "2026-11-07",
-  "time": "Nov 7, 7:00 PM",
-  "loc": "AMANO Bar Munich, Munich, Germany",
+  "time": "Nov 7, 11:00 PM",
+  "loc": "Sweet Club, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Meet%20New%20People%20%26%20Make%20Real%20Connections%20%7C%2021%E2%80%9340",
+  "igUrl": "https://www.google.com/search?q=Sweet%20Club%20Munich%20Saturdays",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTclefZQKRHCg4WeltH-woSPuZqXzIliUoCun5QRy95Wy_faPidfi7HKLqeajAV2i1uyr7EBv49ByKcFB4"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTybJsN-EutT3PDv0GeAzb4SSWaisx1tNzp8Qy4HOtUBwgwQVF9NU_8TGqsQ6MTQkl90ewB3dZRfGLoYUE"
  },
  {
-  "id": "se-7878cbaa00",
-  "cat": "gastro",
-  "title": "Wine Casino: Zocken, Schlürfen, Siegen!",
+  "id": "pk-99c21f28e8",
+  "cat": "popup",
+  "title": "LongRun: Coucou Foodmarket × Results May Vary: Croissants et Crémants 🥐🍾",
   "date": "2026-11-07",
-  "time": "Nov 7, 7:00 PM",
-  "loc": "Munich Wine Rebels, Munich, Germany",
+  "time": "Sa 11:00",
+  "loc": "Viktualienmarkt, Abt. VI, Pavillon Nr. 1, München",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Wine%20Casino%3A%20Zocken%2C%20Schl%C3%BCrfen%2C%20Siegen%21",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnWZI4QyukrgqGI5iuL3kZfd9XH6xlprromoQCmiu1BlOiKudMyYCkdKMw3UUXQq7jCjVREb5zu1RMfY"
+  "igUrl": "https://luma.com/0oa63nck",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/4t/dd4c8f09-1e01-4f6c-bf28-f8b818a6fd28.png"
  },
  {
   "id": "se-24936e4911",
@@ -480,6 +396,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRePTbi_Y8JCiSsddRI6x0QqCFoExzwqdjx9p28YcEQ3pi-lxvRCDC0hxypfHcF3Ws3olfWwVa_qJ92xzE"
  },
  {
+  "id": "pk-b9c1ba1f37",
+  "cat": "music",
+  "title": "FOMO x EWOR x 10x Founders: Founder & Investor Running Club @Munich",
+  "date": "2026-11-10",
+  "time": "Di 07:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/fomomunichrunning",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/dz/68684600-5601-4e97-b6e0-562baa740089.png"
+ },
+ {
   "id": "tm-Z698xZC2Z1kC970pZ",
   "cat": "music",
   "title": "Good Charlotte - Motel Du Cap EU/UK Tour",
@@ -513,7 +441,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Thelema%20Wine%20Tasting",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBI9I_w9wb-DGTBEIX8LA-Mxr5F2BrqhIlCq1g2oTPD46JS0N49XcuOl-7qNwlbp5WQbD3z4XduhYcS6E"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/IPvrYeLY39AafN0iCwbYl6IxmckV_IzeGK-5TDsuNBA.jpeg"
  },
  {
   "id": "se-3517eb9c84",
@@ -540,6 +468,18 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROMfzxG7G2reQLvOOYLfV_W8T1AJJXDzeiunxPsY9raeCUWuTjSG8leKsX-LdZTxOk21uSTgUPt-89U64"
  },
  {
+  "id": "se-d07a4b9c4d",
+  "cat": "popup",
+  "title": "People Planet Pint™: Sustainability Meetup",
+  "date": "2026-11-12",
+  "time": "Nov 12, 6:00 PM",
+  "loc": "Boazn - Öffentliche Bedürfnisanstalt, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=People%20Planet%20Pint%E2%84%A2%3A%20Sustainability%20Meetup",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkS9roO-i_81_VnEqSq1tD1BToNcSbXunCuudqZ0RkS4xvZ2XmsulXTakr8CngJ3SDy2CC4gMHREtwiHY"
+ },
+ {
   "id": "se-5907dfa05f",
   "cat": "gastro",
   "title": "Eataly Vino Festival - Essen, Wein & Musik",
@@ -549,7 +489,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Eataly%20Vino%20Festival%20-%20Essen%2C%20Wein%20%26%20Musik",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfd70Uyccq_j6C1ybiMJwEDWcIZGchmqrBtuS0GPXdL3IuAh8VoQZNB3I8W6SFVlRvGbtSYnGx5cP2aJ8"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/6bRFSyc1sMRfpq8nvKyGax2P8nM_CobjsY06ahHXZkM.png"
+ },
+ {
+  "id": "pk-d025a861f6",
+  "cat": "popup",
+  "title": "Energy Stammtisch in Munich @ Proxima Fusion",
+  "date": "2026-11-12",
+  "time": "Do 18:30",
+  "loc": "Munich, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/e4rx0h72",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/qa/d0c17f85-5a6e-4055-8f53-8345b9047d80.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kutOPf6",
@@ -573,7 +525,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20SCHWABING%21%20%7C%20Munich%20Wine%20Rebels",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae5bc785e878b7f963190c9/images/Npqh912cECCXnlSfNwBBlS5rkBgM65FpCyAtUO-16E4.jpeg"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/5JeyEL5ezXa2YxEVs6gM8f_d6pZCh0oqWw3cEOEgNrY.jpeg"
  },
  {
   "id": "se-37f1154101",
@@ -598,18 +550,6 @@
   "igUrl": "https://www.google.com/search?q=Sushi%20und%20Wein",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrj3fgxKz8cs_ntTE0vmfwJXHdhA4xZhLxiuehxaMv-jiSfGnhPX5oJy_ZvhE5w116ZoCdqPztSVUoqaA"
- },
- {
-  "id": "se-b49efca252",
-  "cat": "popup",
-  "title": "Champagner Menü mit Bruno Paillard",
-  "date": "2026-11-13",
-  "time": "Nov 13, 5:00 PM",
-  "loc": "Restaurant Pfistermühle, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Champagner%20Men%C3%BC%20mit%20Bruno%20Paillard",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcorRq9e9wwTeO-MxjAsxBNTBHf-xBt_dO5o4gEDrRVIN9Yo5CK4BLiY1oXkHaQJx8ePSXBw3FN-IpRak"
  },
  {
   "id": "tm-Z698xZC2Z16vq440J7",
@@ -645,7 +585,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20Dating%20-%20Wine%20Tasting%20%26%20Gruppen-Speed%20Dating%20Event%21",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3V4VoVvBkUq3aN8UixOTvcUF5i1Bg17a4Y4q7I8c-GF5w4j9ERIBOx7O26texTB7nBqQQZ31RdaRdHhY"
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZykN88EECtIfQDCoi7fgDgArjdaHK7mJid1NraLcTtiD-7i1_oJg-9_wcNcya7AlkMlTHqSYRzI8mmkE"
  },
  {
   "id": "se-b8a52abcbc",
@@ -657,7 +597,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Premium%20Wein-Degustation%20%22Amarone%20trifft%20Barolo%22",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbW4chJSCTV80745sGQduc1k4SFe2RNZ4rD4bEd7oaX4ez1gett3mnkrlzb0tvuEScyq041HMBl5P4ILg"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXoZhhO72Tnj-L7J5yBfKYXg.jpeg"
  },
  {
   "id": "pk-c9e6f6ab28",
@@ -760,12 +700,12 @@
   "cat": "biz",
   "title": "Karrieretag Munich",
   "date": "2026-11-18",
-  "time": "Nov 18",
+  "time": "Nov 18, 10:00 AM",
   "loc": "Zenith, Munich, Germany",
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Karrieretag%20Munich",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFqo0Mn2RGpBqi4nkSmPeABlZLVJotJl3ZN-E1_m51fvNqp98_esPzPAwMpPGGvMrgm_wKDa_VQuB-ghk"
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtq4l0piL1m5H9HtDsWDRGyGjPrsId-lhG4B8mEF8OFjMITO9TpIMjbUeenU7AIdCsiiR3DO2Ncn_f8og"
  },
  {
   "id": "se-58c7f6f6bd",
@@ -828,6 +768,18 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhI3JkS390Mg5znA0Vp0RdSCADiU7RcAteiRs5T50KzjZbsXOOUsn5TcAOFMfF3wP2C_KwTNy_mpHDDTI"
  },
  {
+  "id": "se-ef59cf3dc2",
+  "cat": "gastro",
+  "title": "Wine-Tasting \"Grand Tour South Africa\"",
+  "date": "2026-11-19",
+  "time": "Nov 19, 7:00 PM",
+  "loc": "Galerie SOUL OF AFRIKA, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine-Tasting%20%22Grand%20Tour%20South%20Africa%22",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/qZSbwfXDKFBmnK8kFf6uue8m06vpeExQ0TWbK35r0UI.jpeg"
+ },
+ {
   "id": "pk-af0c9b2cce",
   "cat": "music",
   "title": "VALLONE x ANÍCE. AfterHours",
@@ -852,16 +804,28 @@
   "img": "https://images.lumacdn.com/uploads/dz/4f1709e2-95df-4f45-a479-d05902fd3f76.jpg"
  },
  {
-  "id": "se-45785c5ba2",
-  "cat": "gastro",
-  "title": "WEIN mal EINS – Learning by drinking",
-  "date": "2026-11-21",
-  "time": "Nov 21, 7:00 PM",
+  "id": "se-55af9b80c5",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour | Munich Wine Rebels",
+  "date": "2026-11-20",
+  "time": "Nov 20, 6:30 PM",
   "loc": "Munich Wine Rebels, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=WEIN%20mal%20EINS%20%E2%80%93%20Learning%20by%20drinking",
+  "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20%7C%20Munich%20Wine%20Rebels",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae5bc785e878b7f963190c9/images/fTOAnRS5wE0XgLiTpQnU9VGURVrJARjlRpSVSQfwtf0.jpeg"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXoYxRKijtQ23Dljf_R32sbs.jpeg"
+ },
+ {
+  "id": "se-a9d6d6917e",
+  "cat": "gastro",
+  "title": "WINE GAMES - Tasting Room",
+  "date": "2026-11-20",
+  "time": "Nov 20, 7:00 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=WINE%20GAMES%20-%20Tasting%20Room",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnACngo6C2PCNwmsVSskVFqe-b-lessw7wRQLWXutzWUbzx5rSRdj-eWN3tDg3Nflj9CppiDRIsbXspv4"
  },
  {
   "id": "se-e690fbca6e",
@@ -873,7 +837,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20Oides%20Giesing%21",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd15iusy_AdB65IRfcfZhruvyvCU3tnvEfXajRWm5zWkUfGynd8X8t-p-qdnzQzCntFa6a_TBe1MqyXxQ"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Hq3qWVEtqRWqtehyaIXRqlU84gsrUZKOArfksU4sdHPpBIjPFjgX_84tLpf0l8cMpd00gVNXHUSy5dI"
  },
  {
   "id": "pk-aa549d3832",
@@ -933,7 +897,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wein%20zu%20Weihnachten%20-%20Weinverkostung/Weintasting",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMD5VRUcpLeXTMc33cDF5lL50YxU_5rGRAYHSZuUkPG-HRzBT8yE3aKO7S3EeaakML0TfGvk_Rq4vNRsU"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvqeDtfsT_2ykuYAooz8Yl_l47yHH8k2SbSnO6-46AfIgxIn68jeLAnG_8XqXBkcjOrzjnE--RD8f1NTo"
  },
  {
   "id": "tm-LvZ18QQe5eKPq2OZw5XS2",
@@ -1041,7 +1005,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Jacaranda%20Wine%20Tasting",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQthvG4A4j-qySxThNg2UgJq9GJNHClVJ-xhiB7wmwZerJZQXpLbe6jiP81KCmgX8N8yzu5DA45vjeubUE"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXiCoy8-07pSVqSojRz0g57k.jpeg"
  },
  {
   "id": "tm-Z698xZC2Z1kbSGyA6",
@@ -1077,7 +1041,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine-Tasting%20mit%20dem%20Weingut%20Manfred%20Edelmann",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_0nT2Aaqs_-_Mn6eSxiyWbDn8SMmfcorZVed2OUNXBJqcyK9Sh6jvI_IeHEqKs3N9wdq_xY0kdQNgRbA"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXtpxBxQjqTpeaVX9oiF8SBM.jpeg"
  },
  {
   "id": "tm-Z698xZC2Z1k3Fveos",
@@ -1209,7 +1173,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Blockchain%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae5bc745fa7b763e6b3f33a/images/vW2SW29kr8eZgAJceWP5KwhxnTNNiPhlTTAtCfRpFQ8.jpeg"
+  "img": "https://serpapi.com/searches/6ae71a0edd703c9969e4dc4c/images/aNp_01rxVnK6c9o6_yBG7he9NQOt3qCLib6CAxj2h9I.jpeg"
  },
  {
   "id": "se-667eef9c67",
@@ -1221,7 +1185,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Fashion%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4MXp4vvDnharYXXW0HUXxTtIG7XT9lSmtyzyqgJZSAHFIYWsqoUvYKMvNw6Z1LX86JolcfGJD5BvKZf4"
+  "img": "https://serpapi.com/searches/6ae71a0edd703c9969e4dc4c/images/0JsoiUvrYit82kUbQzJXborUL9ReBQcrgbkra6kpF-E.jpeg"
+ },
+ {
+  "id": "se-1bd420cc1b",
+  "cat": "biz",
+  "title": "Law and Business Networking | Elevating Your Potential",
+  "date": "2026-12-09",
+  "time": "Dec 9, 6:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Law%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ae71a0edd703c9969e4dc4c/images/4bdYp0GGYb9l4NbEM5AnHZk-u1AJAPLojpW1n-oBp_U.jpeg"
  },
  {
   "id": "se-5a5411a3e5",
@@ -1234,6 +1210,18 @@
   "igUrl": "https://www.google.com/search?q=Juracon",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA-WZmH2cIi1FbQxcHa29XbT7GLrKbFsyw2Bi3wqjdLwYf1h5Rvf0Zi5NVSYwb641On5qQ1OiQR7z9BMM"
+ },
+ {
+  "id": "se-9cefef7d1a",
+  "cat": "walk",
+  "title": "Wine & Food Walking Tour",
+  "date": "2026-12-11",
+  "time": "Dec 11, 6:30 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWF1QMQqE2bSLB1IdSUcz10OzXAjkPTMVc0ph6NI9Ow0QGKTT4dIIfmY_BkC3WDRzbWLRU-1eNZvSVrXo"
  },
  {
   "id": "tm-Z698xZC2Z1krp1ka8",
@@ -1284,18 +1272,6 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN5kKRPLUBon507QBbZL5neRHJR3yUxdx0t0uRZuBwX8AmWBddb4kP34bicnBh8Bvt0PuKvfomBM1dTrQ"
  },
  {
-  "id": "se-032217c3f1",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour! | Munich Wine Rebels",
-  "date": "2026-12-12",
-  "time": "Dec 12, 6:30 PM",
-  "loc": "Münchner Freiheit, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%21%20%7C%20Munich%20Wine%20Rebels",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMKqIIuh-W-KCG4_m5I1-r3d-j2Qghqe5AO1Q8IgaAXX0nos7gwZg8Bbw-DV8YFCGgbgzqjTB6LFDZOh8"
- },
- {
   "id": "tm-Z698xZC2Z1kkbov--",
   "cat": "music",
   "title": "NIMO: Home Sweet Home Arena Tour 2026",
@@ -1332,18 +1308,6 @@
   "img": "https://s1.ticketm.net/dam/a/8d6/4622f83a-a2e4-4c77-a7f0-058cd654c8d6_SOURCE"
  },
  {
-  "id": "se-c4322c2852",
-  "cat": "walk",
-  "title": "Wine & Food Walking Tour",
-  "date": "2026-12-18",
-  "time": "Dec 18, 6:30 PM",
-  "loc": "Hotel Rotkreuzplatz, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7ESvc-uz3kgztIn0EqN0tcBeIrgzCnUMOJSb2C8ZVeDjSyEExCL7kgmPYzK6PIOJ3kx40Nba4bSX2QA8"
- },
- {
   "id": "se-96fee67061",
   "cat": "walk",
   "title": "Wine & Food Walking Tour GLOCKENBACH!",
@@ -1353,7 +1317,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20GLOCKENBACH%21",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQZb4lSNIQ1rE6zNhXAUXIFciVa3XshALWCXS4O5Zdgxb_sORtam7p_Te0G44Wmf1lSt_c-yT6qUgga4A"
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXmFNK-toa1t0xhGlAp_9EUA.jpeg"
+ },
+ {
+  "id": "se-5c7db87fd9",
+  "cat": "gastro",
+  "title": "Wine Casino: Zocken, Schlürfen, Siegen!",
+  "date": "2027-01-16",
+  "time": "Jan 16, 7:00 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20Casino%3A%20Zocken%2C%20Schl%C3%BCrfen%2C%20Siegen%21",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXmgbRr9jFlDxc28bRPF74QE.jpeg"
  },
  {
   "id": "tm-Z698xZC2Z16v4JueZS",
@@ -1389,7 +1365,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=M%C3%BCnchner%20Tech-Slam%3A%20Speed-Dating%20mit%20Technologie-Unternehmen",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPgf9GcrS_tqsNmWNd-b_mTcETT3lMVhh5dGse_QNjtf5j5gYTJUg1wqHGydM9CVpiGatVwrELL-vQ0kY"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqcSDZnU6LkbMV2QTZiX02Ib_TdB11dAu3LcS_0YUFeHr2LJsjSGT6ETttmWeUTUTfyXaWAWPOL_N4ef0"
+ },
+ {
+  "id": "se-ac92ca6431",
+  "cat": "popup",
+  "title": "Saucenlust und Saucenzauber",
+  "date": "2027-01-26",
+  "time": "Jan 26, 6:00 PM",
+  "loc": "Genusswerkstatt UG (haftungsbeschränkt), Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Saucenlust%20und%20Saucenzauber",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQToBaIfILiobKElZqWI6uURG5-VFsb5lnZhJ1IYqx3Fn59SGMEjEl9rAw8OEY9B5GfKzrgRqxAq_k1-vY"
  },
  {
   "id": "tm-Z698xZC2Z16vfkaxuV",
@@ -1665,7 +1653,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Vinessio%20Weinmesse",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAX9plLd5Zfa6XXBzY9ND0eoB2orknElaGuyosYr_EWoksvsN45D9kIzHaQzCGQeZRKFdksTQ5U_K15k"
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5TlBDazua_M-7_TqpyWayN9PfRsXGnsY9vzeY0ZGTBHxKoNK7QzEUbavjGRegFngO3Es7ZWpFc_VUVs"
  },
  {
   "id": "tm-Z698xZC2Z1kJk_xPs",
