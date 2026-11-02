@@ -1,41 +1,5 @@
 [
  {
-  "id": "se-36a02e6a41",
-  "cat": "music",
-  "title": "Obergiesing Games Club",
-  "date": "2026-11-01",
-  "time": "Nov 1, 2:00 PM",
-  "loc": "Kulturzentrum Giesinger Bahnhof, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Obergiesing%20Games%20Club",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4p5pmsM8apG2v8dW9i_Wgf0lGLfOc24AOOZJTSSyyPV9ETt1weRV4gQ0XxAOW4uYxGLUm8mPUzqKuUmc"
- },
- {
-  "id": "pk-41ffb4ebc6",
-  "cat": "popup",
-  "title": "NymphenRuns x Oatly | Sunday Run & Shake",
-  "date": "2026-11-01",
-  "time": "So 10:00",
-  "loc": "Rumfordstraße 39, München-Altstadt-Lehel",
-  "ig": "",
-  "igUrl": "https://luma.com/o1l3oybc",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/k3/d4cd8926-9ace-4746-bccc-b70c78630959.png"
- },
- {
-  "id": "pk-bca8b207ab",
-  "cat": "popup",
-  "title": "YC W27 Deadline Eve: Founders Panel & Drinks",
-  "date": "2026-11-01",
-  "time": "So 18:45",
-  "loc": "Dachauer Str. 90, München",
-  "ig": "",
-  "igUrl": "https://luma.com/ahuj0yoy",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/rf/f53ba96b-9952-48b4-8170-7a29bf506fe6.jpg"
- },
- {
   "id": "se-02bb8c9517",
   "cat": "popup",
   "title": "Bellevue Infostüberl",
@@ -45,7 +9,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Bellevue%20Infost%C3%BCberl",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a13b747aa0436a208ae/images/Rs0j3ehLqRdiq8V9fzc-OV6xf-s4quEcxzb2pHWFTVk.jpeg"
+  "img": "https://serpapi.com/searches/6ae878663c4006f82beeacee/images/hYXHc63D02YPY6LbYtiOGO0Dks8krXUopsRuAJ5D4ko.jpeg"
  },
  {
   "id": "pk-0f4dfc782f",
@@ -96,18 +60,6 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkVpe7SXESzs6IgQEWU_mSdnZgzxtxufBztxFluYkLzs7BVtiAHW6eXfmpvpThKVmZQoq8jJ6azgNAZ0k"
  },
  {
-  "id": "se-7b6fee26c2",
-  "cat": "popup",
-  "title": "Deep Meditation Journey",
-  "date": "2026-11-03",
-  "time": "Nov 3, 8:15 PM",
-  "loc": "etisch., Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Deep%20Meditation%20Journey",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJyQdjPKB5dnE-iu4N3qT_JGrY2TON7_5_BrPuONW9h488KK7gcnZDx4ZGs-uiSdrTbe4B3MulQ1GpnaI"
- },
- {
   "id": "se-10630890cd",
   "cat": "popup",
   "title": "Meat it – Fleischeslust in der Genusswerkstatt",
@@ -117,19 +69,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Meat%20it%20%E2%80%93%20Fleischeslust%20in%20der%20Genusswerkstatt",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/-h6umskxjiKGubur1psnooFtq46NjXCZqhwp8_XmED8.jpeg"
- },
- {
-  "id": "pk-eff9d8aad2",
-  "cat": "popup",
-  "title": "Finance Padel Networking Event mit Embat & torq.partners",
-  "date": "2026-11-03",
-  "time": "Di 19:00",
-  "loc": "Paketposthalle, Alte, Arnulfstraße 195-199, München",
-  "ig": "",
-  "igUrl": "https://luma.com/m4mglzdh",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/sp/410af182-c5d6-468d-9811-a57daca7ae87.jpg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/vsIbAjZv_ZaqTRx8HS7I0duKbSyAJ3nvjV4nVWvgAh8.jpeg"
  },
  {
   "id": "se-324b4de6f6",
@@ -165,7 +105,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Dialogcaf%C3%A9",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz7eXLLO-9xYOE_4MnU2_L05OKoPJWUGBRAeFD2e99DxjZwq6yBx7jtutaVSX-m_vWTHkqT1n2t7SNSvU"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRko7P55nmcfA3ZgrnLIIX5OrHzR85neuWhD8ybO1F65F0441OTg0-6eUSLKHvkrRLSHTrbJo2LO0uxFpE"
  },
  {
   "id": "se-802d403af4",
@@ -189,7 +129,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Cucina%20italiana%20%E2%80%93%20die%20sonnenverw%C3%B6hnte%20K%C3%BCche%20Siziliens",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXi9V3ue3MkhqYe_Tpmtv2qs.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/3EGsUEBgTkYorhBf5ICapqL8Tj7ZgoUKOMBj9fTmAdY.jpeg"
  },
  {
   "id": "se-535f5cf84c",
@@ -204,6 +144,18 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzeeu_-gMBYpo_QyRQacHwNrBIkYJY5PyVqMoypveMbxx8IHuTT07yNPh-wdIFgWOh1huGGCe6inNJyuY"
  },
  {
+  "id": "se-3d8e162696",
+  "cat": "popup",
+  "title": "Adala",
+  "date": "2026-11-05",
+  "time": "Nov 5, 7:00 PM",
+  "loc": "Graf Rumford Bar & Galerie, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Adala",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt43icNKXye3aVQLjI3LGHem8xBIFOtw9MOiczx18j1gyqRO4TiLn7KIVWAGpF7CVRRB3pUfTXjtXTlsk"
+ },
+ {
   "id": "se-65f18cae8a",
   "cat": "run",
   "title": "Bellevue Laufgruppe",
@@ -214,6 +166,30 @@
   "igUrl": "https://www.google.com/search?q=Bellevue%20Laufgruppe",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkeDVTP12_MVz2CgEUwap0mJH9ZoNRBMEp1POw7hlsLYvemJ58g0R_Tw25pz6AMkKr3OPtAbljBPMfFAY"
+ },
+ {
+  "id": "se-bb5ebae619",
+  "cat": "popup",
+  "title": "paint your bear",
+  "date": "2026-11-05",
+  "time": "Nov 5, 7:00 PM",
+  "loc": "lieberscholli - space for art, club and culture, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=paint%20your%20bear",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmP2TtK7r54D5XN6ctjbq1e0VHtsY_j7PzlSYqeWSw6r6Fs9ESJD3cJdH_0GpU5pV1l8a-eEYdfV7V1Y0"
+ },
+ {
+  "id": "se-d84a5e8bdb",
+  "cat": "popup",
+  "title": "Chef's Table",
+  "date": "2026-11-05",
+  "time": "Nov 5, 6:00 PM",
+  "loc": "Restaurant Pfistermühle, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Chef%27s%20Table",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTW0rhb9WS0faTEMCepvEQSVvRKa0LPj9Vc984VTLNtNby7JD2GQ51ey8sudO0Q7F9qiYu-K2X_TlivI"
  },
  {
   "id": "pk-d8d01e0bf5",
@@ -273,7 +249,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=WEIN%20mal%20EINS%20%E2%80%93%20Learning%20by%20drinking",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/MLICF6jn_a9mjyjTly3RQf1OYjWRE-9X7HVznq9J1T4.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/bLrWZLm4jcfNK4vq_K2LSxtazFJn4ti0zD4kdg6Zz9E.jpeg"
  },
  {
   "id": "se-e967fec64a",
@@ -334,6 +310,18 @@
   "igUrl": "https://www.google.com/search?q=Sweet%20Club%20Munich%20Saturdays",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTybJsN-EutT3PDv0GeAzb4SSWaisx1tNzp8Qy4HOtUBwgwQVF9NU_8TGqsQ6MTQkl90ewB3dZRfGLoYUE"
+ },
+ {
+  "id": "se-841cd4cd68",
+  "cat": "gastro",
+  "title": "Salarte: veganer Brunch",
+  "date": "2026-11-07",
+  "time": "Nov 7, 12:00 PM",
+  "loc": "salarte - Mittagessen, Brunch, Catering, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Salarte%3A%20veganer%20Brunch",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL3sDTQTvFFjpQ5cXD3Vdtc6NMgTzq95zY89ISZqMRmaR8WC8Uc_kC45j1DFezMgKr-tD0pMXpqXq2kS0"
  },
  {
   "id": "pk-99c21f28e8",
@@ -441,7 +429,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Thelema%20Wine%20Tasting",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/IPvrYeLY39AafN0iCwbYl6IxmckV_IzeGK-5TDsuNBA.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/DzaTVNr3R7ktG7Kr0JiFgOpU1LM7c1y_uGTb9PrtLOM.jpeg"
  },
  {
   "id": "se-3517eb9c84",
@@ -489,7 +477,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Eataly%20Vino%20Festival%20-%20Essen%2C%20Wein%20%26%20Musik",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/6bRFSyc1sMRfpq8nvKyGax2P8nM_CobjsY06ahHXZkM.png"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/bjsCbNwsW_1-fGGDiylwytmX6yCy7Bb1rsx9lJ_z0uQ.png"
  },
  {
   "id": "pk-d025a861f6",
@@ -525,7 +513,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20SCHWABING%21%20%7C%20Munich%20Wine%20Rebels",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/5JeyEL5ezXa2YxEVs6gM8f_d6pZCh0oqWw3cEOEgNrY.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/KfEpn1Fq7o0dEZOvFbfwqzEWaotVvWUNt3o5B37wQyQ.jpeg"
  },
  {
   "id": "se-37f1154101",
@@ -537,7 +525,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20%26%20Cheese%20%E2%80%93%20Das%20perfekte%20Duo%20im%20Tasting",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfPRVaB-LPQ0ur5dwF2txPihHecsbYp79oMfQbh4_88do0dY8d0Cjmx7PAG9FsybAwT33aDrZ13EoEMjU"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/3EGsUEBgTkYorhBf5ICapiemO2PdoHeABFcRYudLzMM.jpeg"
  },
  {
   "id": "se-3a646ad60b",
@@ -550,6 +538,18 @@
   "igUrl": "https://www.google.com/search?q=Sushi%20und%20Wein",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrj3fgxKz8cs_ntTE0vmfwJXHdhA4xZhLxiuehxaMv-jiSfGnhPX5oJy_ZvhE5w116ZoCdqPztSVUoqaA"
+ },
+ {
+  "id": "se-b49efca252",
+  "cat": "popup",
+  "title": "Champagner Menü mit Bruno Paillard",
+  "date": "2026-11-13",
+  "time": "Nov 13, 5:00 PM",
+  "loc": "Restaurant Pfistermühle, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Champagner%20Men%C3%BC%20mit%20Bruno%20Paillard",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72L_QjT0EHX0jFhTjLlJBVW4qkTo5GiNI87dgs7IFoURx7MMmra_5Ogl3IMwD-pLD0JVBxQTC4Ejgmgk"
  },
  {
   "id": "tm-Z698xZC2Z16vq440J7",
@@ -597,7 +597,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Premium%20Wein-Degustation%20%22Amarone%20trifft%20Barolo%22",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXoZhhO72Tnj-L7J5yBfKYXg.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/3EGsUEBgTkYorhBf5ICapvTQDA8zjm9zwDxE0cOylSc.jpeg"
  },
  {
   "id": "pk-c9e6f6ab28",
@@ -610,6 +610,18 @@
   "igUrl": "https://luma.com/rskh3jmr",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/9w/7da4ca45-87b3-4546-83e4-af9cb0b3db7f.jpg"
+ },
+ {
+  "id": "pk-a0eeab1313",
+  "cat": "popup",
+  "title": "SKETCH & COFFEE",
+  "date": "2026-11-14",
+  "time": "Sa 14:00",
+  "loc": "Franz-Joseph-Straße 30, München",
+  "ig": "",
+  "igUrl": "https://luma.com/cvd00vf2",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/j5/55c4dd91-a0a1-4b69-9564-23c7f1df5228.png"
  },
  {
   "id": "tm-Z698xZC2Z1kqt8Au9",
@@ -768,18 +780,6 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhI3JkS390Mg5znA0Vp0RdSCADiU7RcAteiRs5T50KzjZbsXOOUsn5TcAOFMfF3wP2C_KwTNy_mpHDDTI"
  },
  {
-  "id": "se-ef59cf3dc2",
-  "cat": "gastro",
-  "title": "Wine-Tasting \"Grand Tour South Africa\"",
-  "date": "2026-11-19",
-  "time": "Nov 19, 7:00 PM",
-  "loc": "Galerie SOUL OF AFRIKA, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Wine-Tasting%20%22Grand%20Tour%20South%20Africa%22",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/qZSbwfXDKFBmnK8kFf6uue8m06vpeExQ0TWbK35r0UI.jpeg"
- },
- {
   "id": "pk-af0c9b2cce",
   "cat": "music",
   "title": "VALLONE x ANÍCE. AfterHours",
@@ -813,7 +813,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20%7C%20Munich%20Wine%20Rebels",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXoYxRKijtQ23Dljf_R32sbs.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/3EGsUEBgTkYorhBf5ICapnYs9EWzRcPQcT9pIc9eYeA.jpeg"
  },
  {
   "id": "se-a9d6d6917e",
@@ -825,7 +825,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=WINE%20GAMES%20-%20Tasting%20Room",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnACngo6C2PCNwmsVSskVFqe-b-lessw7wRQLWXutzWUbzx5rSRdj-eWN3tDg3Nflj9CppiDRIsbXspv4"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/3EGsUEBgTkYorhBf5ICapsao4NWbswx-gk1h161TLmU.jpeg"
  },
  {
   "id": "se-e690fbca6e",
@@ -924,6 +924,18 @@
   "img": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE"
  },
  {
+  "id": "se-8f7aa713e6",
+  "cat": "gastro",
+  "title": "Wine Casino: Zocken, Schlürfen, Siegen!",
+  "date": "2026-11-27",
+  "time": "Nov 27, 7:00 PM",
+  "loc": "Munich Wine Rebels, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Wine%20Casino%3A%20Zocken%2C%20Schl%C3%BCrfen%2C%20Siegen%21",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnWZI4QyukrgqGI5iuL3kZfd9XH6xlprromoQCmiu1BlOiKudMyYCkdKMw3UUXQq7jCjVREb5zu1RMfY"
+ },
+ {
   "id": "pk-c81cdf95ba",
   "cat": "popup",
   "title": "🎾 MUNICH Cup Padel Challengers x Casa Padel",
@@ -1005,7 +1017,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Jacaranda%20Wine%20Tasting",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXiCoy8-07pSVqSojRz0g57k.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/kzKLS5FL1D_8udrc4aq2x3YoTHoIh7bqjs2OCR3cLIM.jpeg"
  },
  {
   "id": "tm-Z698xZC2Z1kbSGyA6",
@@ -1041,7 +1053,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine-Tasting%20mit%20dem%20Weingut%20Manfred%20Edelmann",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXtpxBxQjqTpeaVX9oiF8SBM.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/3EGsUEBgTkYorhBf5ICapuSynpAAv3WGhE6V7LTHEGc.jpeg"
  },
  {
   "id": "tm-Z698xZC2Z1k3Fveos",
@@ -1173,7 +1185,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Blockchain%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a0edd703c9969e4dc4c/images/aNp_01rxVnK6c9o6_yBG7he9NQOt3qCLib6CAxj2h9I.jpeg"
+  "img": "https://serpapi.com/searches/6ae878657ec0297c5a18c640/images/CNs6q1Mvw4Sg00p1XtWzoJBSlhAQ9VYC8yQ8yer-9q4.jpeg"
+ },
+ {
+  "id": "se-0739171028",
+  "cat": "biz",
+  "title": "Politics and Business Networking | Elevating Your Potential",
+  "date": "2026-12-09",
+  "time": "Dec 9, 6:00 PM",
+  "loc": "The Keg Bar, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Politics%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://serpapi.com/searches/6ae878657ec0297c5a18c640/images/g7VHzWePk-gcmXdLIKeVIaYHFTMjtbjQrqpYL9I4S7I.jpeg"
  },
  {
   "id": "se-667eef9c67",
@@ -1185,19 +1209,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Fashion%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a0edd703c9969e4dc4c/images/0JsoiUvrYit82kUbQzJXborUL9ReBQcrgbkra6kpF-E.jpeg"
- },
- {
-  "id": "se-1bd420cc1b",
-  "cat": "biz",
-  "title": "Law and Business Networking | Elevating Your Potential",
-  "date": "2026-12-09",
-  "time": "Dec 9, 6:00 PM",
-  "loc": "The Keg Bar, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Law%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a0edd703c9969e4dc4c/images/4bdYp0GGYb9l4NbEM5AnHZk-u1AJAPLojpW1n-oBp_U.jpeg"
+  "img": "https://serpapi.com/searches/6ae878657ec0297c5a18c640/images/2TYHRMYcAfYRt-NQWvO9V1B7dsobItLVMELlU-XUOcM.jpeg"
  },
  {
   "id": "se-5a5411a3e5",
@@ -1317,19 +1329,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Wine%20%26%20Food%20Walking%20Tour%20GLOCKENBACH%21",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXmFNK-toa1t0xhGlAp_9EUA.jpeg"
- },
- {
-  "id": "se-5c7db87fd9",
-  "cat": "gastro",
-  "title": "Wine Casino: Zocken, Schlürfen, Siegen!",
-  "date": "2027-01-16",
-  "time": "Jan 16, 7:00 PM",
-  "loc": "Munich Wine Rebels, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Wine%20Casino%3A%20Zocken%2C%20Schl%C3%BCrfen%2C%20Siegen%21",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6ae71a1b28703462e304acd2/images/I9ui2uGATBFqjTIlqykmXmgbRr9jFlDxc28bRPF74QE.jpeg"
+  "img": "https://serpapi.com/searches/6ae8786a078106026f1d0912/images/3EGsUEBgTkYorhBf5ICapsdL60FMkNhGyAqQD32Psuc.jpeg"
  },
  {
   "id": "tm-Z698xZC2Z16v4JueZS",
@@ -1390,6 +1390,18 @@
   "igUrl": "https://www.ticketmaster.de/event/cirque-du-soleil-ovo-tickets/1506262374?language=en-us",
   "desc": "Arts & Theatre · Spectacular in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/dd5/188d996a-b39d-4a01-a659-eb587e1afdd5_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16evJ7N0E",
+  "cat": "music",
+  "title": "Meltt",
+  "date": "2027-02-01",
+  "time": "Mo 20:00",
+  "loc": "Kranhalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/meltt-tickets/2066123927?language=en-us",
+  "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/033/f9018d64-3c39-4d9b-81f1-aa13bd6b5033_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z16vuoGE-a",
