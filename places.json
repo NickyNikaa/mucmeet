@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-02T11:49:09.644Z",
+  "generatedAt": "2026-11-03T11:29:05.258Z",
   "curated": 106,
   "osm": 800,
   "total": 859
@@ -16785,7 +16785,7 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. vietnamese · Thalkirchner Straße · geöffnet: Mo-Fr,Su 11:00-16:00, 17:00-22:00; Sa, PH off",
+   "pitch": "Aus OpenStreetMap. vietnamese · Thalkirchner Straße · geöffnet: Su-Fr 11:00-16:00, 17:00-22:00; PH off",
    "bookingUrl": "https://www.asiafood-mytom.de",
    "osm": true
   },
