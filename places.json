@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-03T11:29:05.258Z",
+  "generatedAt": "2026-11-04T11:45:05.294Z",
   "curated": 106,
   "osm": 800,
   "total": 859
@@ -13143,6 +13143,33 @@
    "osm": true
   },
   {
+   "id": "osm-n1788317239",
+   "type": "restaurant",
+   "name": "Florentinermann",
+   "neighborhood": "München",
+   "cuisine": [
+    "brunch"
+   ],
+   "price": 1,
+   "occasion": [
+    "casual",
+    "date",
+    "family"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "trendy"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace"
+   ],
+   "pitch": "Aus OpenStreetMap. cake · Isabellastraße · geöffnet: Mo-Fr 06:30-18:00; Sa 07:30-18:00; Su,PH 08:00-18:00",
+   "bookingUrl": "https://florentinermann.eu/",
+   "osm": true
+  },
+  {
    "id": "osm-n1788814868",
    "type": "restaurant",
    "name": "yā | The Mandarin Room",
@@ -24101,30 +24128,6 @@
    ],
    "pitch": "Aus OpenStreetMap. italian · Ursulastraße · geöffnet: Mo-Th 12:00-14:30,17:30-22:00; Fr-Sa 12:00-23:00; Su 12:00-2",
    "bookingUrl": "https://www.primo.restaurant",
-   "osm": true
-  },
-  {
-   "id": "osm-n338920695",
-   "type": "restaurant",
-   "name": "Tantris",
-   "neighborhood": "München",
-   "cuisine": [
-    "international"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family"
-   ],
-   "mood": [
-    "cozy",
-    "lively"
-   ],
-   "exclusivity": 1,
-   "features": [],
-   "pitch": "Aus OpenStreetMap. international · Johann-Fichte-Straße · geöffnet: We-Sa 12:00-16:00,19:00-24:00",
-   "bookingUrl": "https://tantris.de/",
    "osm": true
   }
  ]
