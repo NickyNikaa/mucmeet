@@ -1,29 +1,5 @@
 [
  {
-  "id": "pk-3f79378dd8",
-  "cat": "popup",
-  "title": "TRIFF DICH! zum Uno-Abend",
-  "date": "2026-11-04",
-  "time": "Mi 18:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/UNO-ABEND",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/6r/4af53a89-ec77-4752-8599-d245dc874145.png"
- },
- {
-  "id": "pk-d8d01e0bf5",
-  "cat": "popup",
-  "title": "CDTM Run & Mingle",
-  "date": "2026-11-05",
-  "time": "Do 08:30",
-  "loc": "Veterinärstr, Im Englischen Garten 14, München",
-  "ig": "",
-  "igUrl": "https://luma.com/qvzqgrl5",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/event-covers/ub/f6d1cfab-84aa-4b5a-beff-e68973bb965d.png"
- },
- {
   "id": "pk-3fb9c2527f",
   "cat": "popup",
   "title": "Ideation & Validation: Find an Idea Worth Building",
@@ -58,6 +34,18 @@
   "igUrl": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/20f/4e6050d5-0e2b-4f32-9625-be5b8530820f_SOURCE"
+ },
+ {
+  "id": "pk-25858b533f",
+  "cat": "popup",
+  "title": "BASE Drink & Draw",
+  "date": "2026-11-10",
+  "time": "Di 17:30",
+  "loc": "80799, Blütenstraße 15, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/bvqsr743",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/cd/4b094581-4831-4838-a327-9c97db109459.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kC970pZ",
