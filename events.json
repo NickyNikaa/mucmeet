@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-3fb9c2527f",
-  "cat": "popup",
-  "title": "Ideation & Validation: Find an Idea Worth Building",
-  "date": "2026-11-05",
-  "time": "Do 18:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/xxtp1pmm",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/ra/f4755bb5-5099-4409-a9aa-351501ce582d.png"
- },
- {
   "id": "pk-99c21f28e8",
   "cat": "popup",
   "title": "LongRun: Coucou Foodmarket × Results May Vary: Croissants et Crémants 🥐🍾",
@@ -1054,6 +1042,18 @@
   "igUrl": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/1243722340?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/e16/f71a0706-5aad-4021-9e5e-4574a144ee16_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kPA06jd",
+  "cat": "music",
+  "title": "IDER - Looking Gorgeous, Expecting Everything Tour",
+  "date": "2027-04-16",
+  "time": "Fr 19:30",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/ider-looking-gorgeous-expecting-everything-tour-tickets/945907703?language=en-us",
+  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/d8d/fa98d2d4-46d3-4c85-a908-c43a6023fd8d_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kCeFbqY",
