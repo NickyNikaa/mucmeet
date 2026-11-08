@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-99c21f28e8",
-  "cat": "popup",
-  "title": "LongRun: Coucou Foodmarket × Results May Vary: Croissants et Crémants 🥐🍾",
-  "date": "2026-11-07",
-  "time": "Sa 11:00",
-  "loc": "Viktualienmarkt, Abt. VI, Pavillon Nr. 1, München",
-  "ig": "",
-  "igUrl": "https://luma.com/0oa63nck",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/4t/dd4c8f09-1e01-4f6c-bf28-f8b818a6fd28.png"
- },
- {
   "id": "tm-Z698xZC2Z16vfJ8FuI",
   "cat": "music",
   "title": "Placebo - 30th Anniversary Tour",
@@ -286,6 +274,18 @@
   "igUrl": "https://www.ticketmaster.de/event/polyphia-be-not-afraid-world-tour-tickets/93131551?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE"
+ },
+ {
+  "id": "pk-0d7dc83a61",
+  "cat": "popup",
+  "title": "Film: Farewell My Concubine (OmU)",
+  "date": "2026-11-28",
+  "time": "Sa 12:00",
+  "loc": "Rottmannstraße 15, München-Maxvorstadt",
+  "ig": "",
+  "igUrl": "https://luma.com/qwzaz6zh",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/s0/0810e33d-53a6-4220-8141-3fede67aad3e.png"
  },
  {
   "id": "pk-c81cdf95ba",
