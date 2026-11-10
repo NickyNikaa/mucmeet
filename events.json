@@ -1,17 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vfJ8FuI",
-  "cat": "music",
-  "title": "Placebo - 30th Anniversary Tour",
-  "date": "2026-11-09",
-  "time": "Mo 20:00",
-  "loc": "Olympiahalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us",
-  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/20f/4e6050d5-0e2b-4f32-9625-be5b8530820f_SOURCE"
- },
- {
   "id": "pk-25858b533f",
   "cat": "popup",
   "title": "BASE Drink & Draw",
@@ -480,6 +468,30 @@
   "img": "https://s1.ticketm.net/dam/a/41e/a64ba47b-0f72-4484-ad89-f225aa34341e_SOURCE"
  },
  {
+  "id": "pk-50b0a471a8",
+  "cat": "popup",
+  "title": "Munich | Claude and Coffee",
+  "date": "2026-12-08",
+  "time": "Di 09:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/claude-qn3x",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/api-uploads/wu/f9507b28-0380-46ec-b15f-1bdf3a9dc80f.png"
+ },
+ {
+  "id": "pk-260f495f89",
+  "cat": "popup",
+  "title": "Munich | Claude Conversation",
+  "date": "2026-12-08",
+  "time": "Di 18:00",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/claude-5cc7",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/api-uploads/fo/7c90ef2a-561c-4f3a-ab59-11cefe3a20f5.png"
+ },
+ {
   "id": "tm-Z698xZC2Z1krp1ka8",
   "cat": "music",
   "title": "Rea Garvey’s Christmas Calling",
@@ -634,6 +646,18 @@
   "igUrl": "https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1?ref=ticketmaster",
   "desc": "Arts & Theatre · Theatre in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/fdd/06786171-bc08-4254-b729-64ad6e406fdd_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16v7z7yeZ",
+  "cat": "music",
+  "title": "Yungpalo - THE NEON TOUR",
+  "date": "2027-02-07",
+  "time": "So 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/yungpalo-the-neon-tour-tickets/1138139080?language=en-us",
+  "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/a73/32f25fbd-e065-4ac2-961b-41eeb1493a73_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kbg_ov0",
@@ -1332,6 +1356,18 @@
   "img": "https://s1.ticketm.net/dam/a/357/c890a2ba-f200-4baa-a9e7-673c73390357_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z1k7Zud83",
+  "cat": "music",
+  "title": "Sam Barber and Dylan Gossett - with support from The Jack Wharff Band",
+  "date": "2027-07-01",
+  "time": "Do 19:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/sam-barber-and-dylan-gossett-with-support-from-the-jack-wharff-band-tickets/100343412?language=en-us",
+  "desc": "Music · Country in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/e/50d/65677e9d-17b8-4a9a-a976-a5b97cae950d_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
   "id": "tm-Z698xZC2Z16vCA8yqU",
   "cat": "music",
   "title": "Oasis Live '27",
@@ -1354,6 +1390,18 @@
   "igUrl": "https://www.ticketmaster.de/event/oasis-live-27-%7C-ticket--hotel-packages-tickets/1641747540?language=en-us",
   "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/19e/875424a1-1ace-4e57-a098-cc1baa60f19e_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kaZayGz",
+  "cat": "run",
+  "title": "Stray Kids World Tour [RUN IT MUNICH]",
+  "date": "2027-07-17",
+  "time": "Sa 19:30",
+  "loc": "Allianz Arena, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/stray-kids-world-tour-run-it-munich-tickets/240279338?language=en-us",
+  "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/00a/83b98844-f154-4089-95bc-1e907a97300a_SOURCE"
  },
  {
   "id": "tm-LvZ18Qc6jQVWNxc5DdWW2",
@@ -1428,6 +1476,18 @@
   "img": "https://s1.ticketm.net/dam/a/30b/8f308930-3235-4e84-b280-12d4ef07830b_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "tm-Z698xZC2Z16vfJ8FuI",
+  "cat": "music",
+  "title": "Placebo - 30th Anniversary Tour",
+  "date": "2027-12-31",
+  "time": "Fr 23:59",
+  "loc": "Olympiahalle, Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us",
+  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/20f/4e6050d5-0e2b-4f32-9625-be5b8530820f_SOURCE"
+ },
+ {
   "id": "tm-Z698xZC2Z1k8Jef-3",
   "cat": "music",
   "title": "KITSCHKRIEG - KITSCHKRIEG LIVE",
@@ -1438,17 +1498,5 @@
   "igUrl": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/426094852?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/279/20bf25ff-788c-4fd9-b104-c601a6fdf279_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kFvC8u8",
-  "cat": "music",
-  "title": "Vanessa Mai Tour 2028",
-  "date": "2028-04-29",
-  "time": "Sa 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/vanessa-mai-tour-2028-tickets/201390350?language=en-us",
-  "desc": "Music · World in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/731/fc0f7fcf-1418-4e12-a4d6-a9ab90c07731_SOURCE"
  }
 ]
