@@ -1,17 +1,5 @@
 [
  {
-  "id": "pk-25858b533f",
-  "cat": "popup",
-  "title": "BASE Drink & Draw",
-  "date": "2026-11-10",
-  "time": "Di 17:30",
-  "loc": "80799, Blütenstraße 15, München-Maxvorstadt",
-  "ig": "",
-  "igUrl": "https://luma.com/bvqsr743",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/cd/4b094581-4831-4838-a327-9c97db109459.jpg"
- },
- {
   "id": "tm-Z698xZC2Z1kC970pZ",
   "cat": "music",
   "title": "Good Charlotte - Motel Du Cap EU/UK Tour",
@@ -58,6 +46,18 @@
   "igUrl": "https://www.ticketmaster.de/event/heylucas-tickets/369825507?language=en-us",
   "desc": "Music · Dance/Electronic in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/1a7/a16db916-973f-4ed1-90d4-e11e491971a7_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-092c92bd55",
+  "cat": "popup",
+  "title": "Frns of Frns - Hotel Art Tour & Afterwards @ The Dean Munich",
+  "date": "2026-11-13",
+  "time": "Fr 18:30",
+  "loc": "Bavaria, Landsberger Str. 68, München",
+  "ig": "",
+  "igUrl": "https://luma.com/tfshrcjw",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/ub/360220fc-1d54-4ea0-8ff0-2d7c37d2b064.png"
  },
  {
   "id": "tm-Z698xZC2Z16vq440J7",
@@ -274,6 +274,18 @@
   "igUrl": "https://www.ticketmaster.de/event/polyphia-be-not-afraid-world-tour-tickets/93131551?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE"
+ },
+ {
+  "id": "pk-90c3eb3204",
+  "cat": "popup",
+  "title": "LAGREE X RUN powered by On",
+  "date": "2026-11-28",
+  "time": "Sa 10:00",
+  "loc": "Salierstraße 16, München",
+  "ig": "",
+  "igUrl": "https://luma.com/4gp7gdz7",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/3w/933b71cd-a564-4993-8a0e-6160652d1ad3.png"
  },
  {
   "id": "pk-0d7dc83a61",
