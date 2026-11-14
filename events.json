@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1kutOPf6",
-  "cat": "music",
-  "title": "heylucas",
-  "date": "2026-11-13",
-  "time": "Fr 20:00",
-  "loc": "Kranhalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/heylucas-tickets/369825507?language=en-us",
-  "desc": "Music · Dance/Electronic in Kranhalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/1a7/a16db916-973f-4ed1-90d4-e11e491971a7_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "pk-092c92bd55",
-  "cat": "popup",
-  "title": "Frns of Frns - Hotel Art Tour & Afterwards @ The Dean Munich",
-  "date": "2026-11-13",
-  "time": "Fr 18:30",
-  "loc": "Bavaria, Landsberger Str. 68, München",
-  "ig": "",
-  "igUrl": "https://luma.com/tfshrcjw",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/ub/360220fc-1d54-4ea0-8ff0-2d7c37d2b064.png"
- },
- {
   "id": "tm-Z698xZC2Z16vq440J7",
   "cat": "music",
   "title": "Murda - UZAY TOUR",
@@ -34,6 +10,42 @@
   "igUrl": "https://www.ticketmaster.de/event/murda-uzay-tour-tickets/1755564984?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/826/8240ec8d-8c56-43db-8cc0-51a3f09f0826_SOURCE"
+ },
+ {
+  "id": "pk-9495d6e3a5",
+  "cat": "music",
+  "title": "SA 14.11 • HIGHLIFE Saturdays MENSA LIVE • Filmcasino",
+  "date": "2026-11-14",
+  "time": "Sa",
+  "loc": "Filmcasino München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/sa-1411-highlife-saturdays-mensa-live-filmcasino-tickets-2003682667797",
+  "desc": "HIGHLIFE SATURDAYS SPECIAL!  MENSA LIVE ON STAGE! Afrobeats, Amapiano  x HIP HOP & RnB. Pure Club Vibes am 14.11. im Filmcasino München!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196225323%2F2540273640331%2F1%2Foriginal.20261020-203638?crop=focalpoint&fit=crop&w=396&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=63bcff1db320595d1752cf0f27b5fc44"
+ },
+ {
+  "id": "pk-9e80a4ebb5",
+  "cat": "popup",
+  "title": "The Finest RnB Jamz | MÜNCHEN",
+  "date": "2026-11-14",
+  "time": "Sa",
+  "loc": "AMANO Bar Munich",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/the-finest-rnb-jamz-munchen-tickets-2002165126791",
+  "desc": "Erlebe mit uns eine Reise in die 90er & 2000er- wo Liebe durch Old School RnB noch klar definiert wurde - und das im Herzen von München!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194220736%2F2709100261681%2F1%2Foriginal.20260923-185626?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d3f74ccac6ab35284cda71ad2387708a"
+ },
+ {
+  "id": "pk-6a9a7ae1e5",
+  "cat": "popup",
+  "title": "Friending Around Munich: Meet Locals & Expats",
+  "date": "2026-11-14",
+  "time": "Sa",
+  "loc": "KOOS Hotel & Apartments",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/friending-around-munich-meet-locals-expats-tickets-2002971194762",
+  "desc": "Meet new people in Munich through short, relaxed conversations with everyone in the room. Come solo and leave knowing people by name.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195122820%2F2563515462151%2F1%2Foriginal.20261005-213851?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.681&s=7ae99ba983a10effdf99d4a816cd3744"
  },
  {
   "id": "pk-c9e6f6ab28",
@@ -70,6 +82,30 @@
   "igUrl": "https://www.ticketmaster.de/event/bob-dylan-tickets/769405357?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/352/feae62d0-316a-4b51-863c-96c198c43352_SOURCE"
+ },
+ {
+  "id": "pk-1e7350c677",
+  "cat": "popup",
+  "title": "Chefs Challenge Night - Newcomer des Jahres 2026",
+  "date": "2026-11-15",
+  "time": "So",
+  "loc": "Motorworld München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/chefs-challenge-night-newcomer-des-jahres-2026-tickets-1987976667728",
+  "desc": "Ein besonderes kulinarisches Erlebnis für alle Genussbegeisterte und Foodies!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182943631%2F2399543402513%2F1%2Foriginal.20260424-080236?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=99ac063e6efa7e109639d6880e9d8cd9"
+ },
+ {
+  "id": "pk-f503e8f26b",
+  "cat": "music",
+  "title": "PIANOBABYS - Das Babykonzert im Schloss Nymphenburg!",
+  "date": "2026-11-15",
+  "time": "So",
+  "loc": "Schloß Nymphenburg 19",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/pianobabys-das-babykonzert-im-schloss-nymphenburg-tickets-1991319624602",
+  "desc": "Musik live spüren und die Seele baumeln lassen – für Babys und ihre Eltern zugleich",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180657303%2F291974768064%2F1%2Foriginal.20260325-134824?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.539&fp-y=0.824&s=ece9afff2cf93e4bffef8b63bf66b8fe"
  },
  {
   "id": "pk-14ca0895bf",
@@ -120,6 +156,54 @@
   "img": "https://s1.ticketm.net/dam/a/492/744f8651-20a1-4b0e-a868-7f7ff5e9a492_SOURCE"
  },
  {
+  "id": "pk-a3176441b3",
+  "cat": "popup",
+  "title": "Koch des Jahres 2026 - Grand Finale",
+  "date": "2026-11-16",
+  "time": "Mo",
+  "loc": "Motorworld München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/koch-des-jahres-2026-grand-finale-tickets-1987976191303",
+  "desc": "Das bahnbrechendste  Event-Spektakel  des Jahres für Profis der Gastronomie & Hotellerie!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183309721%2F2399543402513%2F1%2Foriginal.20260429-084730?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e13eace3929499fcb1efd163722bd340"
+ },
+ {
+  "id": "pk-0bf3c3a27e",
+  "cat": "popup",
+  "title": "Besuch im Bayerischen Landtag – exklusive Führung mit MdL Kerstin Schreyer",
+  "date": "2026-11-17",
+  "time": "Di",
+  "loc": "Münchner Frauenforum",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/besuch-im-bayerischen-landtag-exklusive-fuhrung-mit-mdl-kerstin-schreyer-tickets-2001171564018",
+  "desc": "Wie arbeitet das bayerische Parlament? Was bewegt Politiker:innen hinter den Kulissen? Und wie können Frauen* Prozesse mitgestalten?",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193641167%2F501966493071%2F1%2Foriginal.20260916-110132?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.482&s=f1f611449506c4fc3973d67b386f05f7"
+ },
+ {
+  "id": "pk-b690113dd5",
+  "cat": "popup",
+  "title": "Big & Growing New Work Festival München I 17.11.2026",
+  "date": "2026-11-17",
+  "time": "Di",
+  "loc": "Ruby Leo Workspaces Munich",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/big-growing-new-work-festival-munchen-i-17112026-tickets-1991559542202",
+  "desc": "Big & Growing ist eine deutschlandweite Bewegung für Menschen, die die Zukunft der Arbeit gemeinsam gestalten wollen. Sei dabei in München!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186586273%2F279083469255%2F1%2Foriginal.20260610-124435?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c842fedccb5375996c173c902481c3f8"
+ },
+ {
+  "id": "pk-0ad7704943",
+  "cat": "popup",
+  "title": "Improv Sports Night",
+  "date": "2026-11-17",
+  "time": "Di",
+  "loc": "Bürgerhaus Glockenbachwerkstatt",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/improv-sports-night-tickets-2003590720781",
+  "desc": "Two Teams of improv comedians going head-to-head battling all night for your laugh and votes In various hilarious Improv games.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197037456%2F2539532941481%2F1%2Foriginal.20261101-205245?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9562796894bc01aee48149e29d2ec878"
+ },
+ {
   "id": "pk-efca8e015c",
   "cat": "popup",
   "title": "n8n Munich Meetup",
@@ -168,6 +252,30 @@
   "img": "https://images.lumacdn.com/uploads/yf/7d9a4e32-cf3d-4042-a217-9f41c54dd9c0.png"
  },
  {
+  "id": "pk-4266128f93",
+  "cat": "music",
+  "title": "Immersive Kirtan Experience – Munich, November 18th",
+  "date": "2026-11-18",
+  "time": "Mi",
+  "loc": "Mathildenstraße 4",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/immersive-kirtan-experience-munich-november-18th-tickets-2001525270965",
+  "desc": "A transformative evening filled with live music, mantra chanting & immersive visuals.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193825113%2F209674604595%2F1%2Foriginal.20260918-100340?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0b8e32bc4a54f13b3fb557e7efb77270"
+ },
+ {
+  "id": "pk-cdb715a45c",
+  "cat": "popup",
+  "title": "Mi, 18.11. | 10 –16 Uhr I Workshop: Adventskalender | Für 6- bis 10-Jährige",
+  "date": "2026-11-18",
+  "time": "Mi",
+  "loc": "MIXT Kinderkunsthaus gGmbH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/mi-1811-10-16-uhr-i-workshop-adventskalender-fur-6-bis-10-jahrige-tickets-1988002692569",
+  "desc": "Mi, 18.11. | 10 –16 Uhr I Workshop: Selbst gemachter Adventskalender | Für 6- bis 10-jährige Schulkinder",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F549474899%2F200674814992%2F1%2Foriginal.20221116-095425?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C511%2C4002%2C2001&s=e283c3ed15699b73926e7e3978180727"
+ },
+ {
   "id": "tm-Z698xZC2Z16vG6GAuV",
   "cat": "music",
   "title": "GURRIERS - Nobody's Coming To Save You Tour 2026",
@@ -192,6 +300,18 @@
   "img": "https://s1.ticketm.net/dam/a/a78/0827453e-6fe6-426b-9703-830a86c6ca78_SOURCE"
  },
  {
+  "id": "pk-aba46acfb0",
+  "cat": "music",
+  "title": "DriveAktiv goes MINI Pavillon",
+  "date": "2026-11-19",
+  "time": "Do",
+  "loc": "MINI Pavillon",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/driveaktiv-goes-mini-pavillon-tickets-2003495422742",
+  "desc": "Good music, good drinks, good people – let’s party together at the MINI Pavillon!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195925130%2F3017916426027%2F1%2Foriginal.20261016-073115?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.044&fp-y=0.179&s=0ae15a8187357e422bddceead835652d"
+ },
+ {
   "id": "pk-cead281417",
   "cat": "popup",
   "title": "Bumble x Plex Drip & Draw Vol. 2",
@@ -202,6 +322,102 @@
   "igUrl": "https://luma.com/qg72a8mc",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/dz/4f1709e2-95df-4f45-a479-d05902fd3f76.jpg"
+ },
+ {
+  "id": "pk-be2fa8990f",
+  "cat": "popup",
+  "title": "Bharat Diwali Mela 2026",
+  "date": "2026-11-20",
+  "time": "Fr",
+  "loc": "Bürgerhaus Garching",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/bharat-diwali-mela-2026-registrierung-2000901409980",
+  "desc": "3RD  Edition - An Indian Diaspora Event.....\nEnjoy Diwali at your Home on 8th Nov and Join us on 20th Nov to celebrate with us!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197927482%2F2901353116761%2F1%2Foriginal.20261113-162516?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a45d18c2213358445a705bb4f33d7d71"
+ },
+ {
+  "id": "pk-d12c9ca323",
+  "cat": "music",
+  "title": "KEITH MURRAY LIVE IN MÜNCHEN!   CLUB SHOW & PARTY – FREITAG, 20. NOV",
+  "date": "2026-11-20",
+  "time": "Fr",
+  "loc": "794 JIDAI",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/keith-murray-live-in-munchen-club-show-party-freitag-20-nov-tickets-2001160758699",
+  "desc": "FRESH TO DEATH × DECADE OF R&B präsentieren\n\n KEITH MURRAY LIVE IN MÜNCHEN! \n CLUB SHOW & PARTY – FREITAG, 20. NOVEMBER 2026",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193636880%2F262142919725%2F1%2Foriginal.20260916-094232?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b2518b8fa0a7facd98d8a3d1fc970112"
+ },
+ {
+  "id": "pk-b7729a6100",
+  "cat": "popup",
+  "title": "FIREWORK! München - Annabell Whitney",
+  "date": "2026-11-21",
+  "time": "Sa",
+  "loc": "Technikum",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/firework-munchen-annabell-whitney-tickets-1968659676086",
+  "desc": "Die musikalische Show für dein persönliches Wachstum",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174409225%2F256094838452%2F1%2Foriginal.20260109-140844?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0b3ec1f32557fa397f3c9a9285f0d216"
+ },
+ {
+  "id": "pk-4276e5a62c",
+  "cat": "popup",
+  "title": "Body Code®-Seminar",
+  "date": "2026-11-21",
+  "time": "Sa",
+  "loc": "Bauer Hotel & Restaurant",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/body-code-seminar-tickets-1984194663652",
+  "desc": "Autorisiertes Seminar zum Erlernen der erfolgreichen energiemedizinischen Selbsthilfe-Methode von Dr. Bradley Nelson",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178693934%2F40248303668%2F1%2Foriginal.20260228-201417?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.475&fp-y=0.344&s=e7e4c5bb6ba84fb668192e859ce917d7"
+ },
+ {
+  "id": "pk-eafa83c0fc",
+  "cat": "popup",
+  "title": "Offenes Programm | Für Kinder ab 2 Jahren  mit erwachsener Begleitung",
+  "date": "2026-11-21",
+  "time": "Sa",
+  "loc": "MIXT Kinderkunsthaus gGmbH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/offenes-programm-fur-kinder-ab-2-jahren-mit-erwachsener-begleitung-tickets-1996985948730",
+  "desc": "Offenes Programm | Für Kinder ab 2 Jahren  mit erwachsener Begleitung",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649349959%2F200674814992%2F1%2Foriginal.20231128-082651?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C538%2C269&s=549e0ba33eeb821b06b735eff317fbc9"
+ },
+ {
+  "id": "pk-8f7a93a525",
+  "cat": "music",
+  "title": "Bollywood Grand Diwali Party Munich",
+  "date": "2026-11-21",
+  "time": "Sa",
+  "loc": "YOU LOFT Eventlocation",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/bollywood-grand-diwali-party-munich-tickets-2000522549799",
+  "desc": "Feier mit uns die heißeste Bollywood-Party in München - eine Nacht voller indischer Musik, Tanz und Spaß.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194467269%2F1574633533033%2F1%2Foriginal.20260927-190719?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=765b8085ea28d4b8c1ed851a06dc51b4"
+ },
+ {
+  "id": "pk-2eececf5b6",
+  "cat": "music",
+  "title": "SA 21.11 • HIGHLIFE Saturdays • Filmcasino",
+  "date": "2026-11-21",
+  "time": "Sa",
+  "loc": "Filmcasino München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/sa-2111-highlife-saturdays-filmcasino-tickets-2003683856352",
+  "desc": "HIGHLIFE SATURDAYS! Münchens heißeste Party • Jeden Samstag im Filmcasino. Erlebe House, Afrohouse, Hip-Hop & RnB. Feel the HIGHLIFE!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196226975%2F2540273640331%2F1%2Foriginal.20261020-205527?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=98e1d1de9ad49a4dc279ba49453fc008"
+ },
+ {
+  "id": "pk-4a87c05505",
+  "cat": "popup",
+  "title": "Deeper Purple - Special Guest Clemens Beisch & Rory´s Heritage",
+  "date": "2026-11-21",
+  "time": "Sa",
+  "loc": "Marthabräuhalle",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/deeper-purple-special-guest-clemens-beisch-rory-s-heritage-tickets-1989235391605",
+  "desc": "Monsters of Rock - Fürstenfeldbruck - Marthabräuhalle -  Deeper Purple - Special Guest C´lemens Beisch & Rory´s Heritage",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184315634%2F2705692734801%2F1%2Foriginal.20260511-170659?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a606c866d7f7ed821c673d7807696c6b"
  },
  {
   "id": "pk-aa549d3832",
@@ -216,6 +432,18 @@
   "img": "https://images.lumacdn.com/uploads/vs/7ce869e7-47b0-44c9-a2b0-7c0c15a13035.jpg"
  },
  {
+  "id": "pk-4dba31a560",
+  "cat": "music",
+  "title": "Arta de a trăi cu sens",
+  "date": "2026-11-22",
+  "time": "So",
+  "loc": "Tagungszentrum Kolpinghaus München-Zentral GmbH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/arta-de-a-trai-cu-sens-tickets-1988712641044",
+  "desc": "Conferință inspirațională despre viață, familie și echilibru. Invitați speciali. Traducere live în germană.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192281998%2F2982513936262%2F1%2Foriginal.20260831-152251?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=00969184def1b696b1007cc3f55b8e4a"
+ },
+ {
   "id": "tm-Z698xZC2Z1kfAjaGS",
   "cat": "music",
   "title": "The Script - Man In The Arena Tour 2026",
@@ -226,6 +454,102 @@
   "igUrl": "https://www.ticketmaster.de/event/the-script-man-in-the-arena-tour-2026-tickets/505709333?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/3a5/ce7517c6-e784-465e-88c7-ea54c2c063a5_SOURCE"
+ },
+ {
+  "id": "pk-3bf3193904",
+  "cat": "music",
+  "title": "Matt Nash Live in Munich",
+  "date": "2026-11-23",
+  "time": "Mo",
+  "loc": "Feierwerk Orangehouse",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.nl/e/matt-nash-live-in-munich-tickets-1990698738515",
+  "desc": "Matt Nash makes his Munich debut with a brand new headline show as part of the Rebirth Live Tour.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185765703%2F2561184096031%2F1%2Foriginal.20260530-155319?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.284&fp-y=0.481&s=f9c62f5f23251c4381ea8b5acc675b56"
+ },
+ {
+  "id": "pk-7e50cb0810",
+  "cat": "popup",
+  "title": "Münih Açık Mikrofon - Türkçe Stand-up Komedi",
+  "date": "2026-11-24",
+  "time": "Di",
+  "loc": "Buena Vista Bar",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/munih-ack-mikrofon-turkce-stand-up-komedi-tickets-2003638136603",
+  "desc": "Türkçe Stand-up Komedi Münih",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F914172393%2F1815834392363%2F1%2Foriginal.20241209-155434?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=3d726632764334494eedd18771cf21e3"
+ },
+ {
+  "id": "pk-b3ec3e1a64",
+  "cat": "popup",
+  "title": "Intelligente Roboter als KI-Systeme: Deutschlands Zukunft!",
+  "date": "2026-11-25",
+  "time": "Mi",
+  "loc": "Siemens Technology Center Garching",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/intelligente-roboter-als-ki-systeme-deutschlands-zukunft-tickets-2002048436768",
+  "desc": "Fachkonferenz",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176650372%2F218797119302%2F1%2Foriginal.20260204-084208?w=396&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C6%2C396%2C198&s=29acb49e3a54094dfd94b369d4ed9a3c"
+ },
+ {
+  "id": "pk-245e809056",
+  "cat": "popup",
+  "title": "FitNation 2026 | München",
+  "date": "2026-11-25",
+  "time": "Mi",
+  "loc": "Hotel NH München Ost Conference Center",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.nl/e/fitnation-2026-munchen-tickets-2002614099681",
+  "desc": "Rund 100 Studiobetreiber, echte Praxisgeschichten, neue Impulse für die Fitnessbranche: Diesen Tag solltest du dir nicht entgehen lassen.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193645510%2F3013359452955%2F1%2Foriginal.20260916-122236?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f37ea164ee777aaf86803482dc38dd39"
+ },
+ {
+  "id": "pk-3bc7f87db3",
+  "cat": "popup",
+  "title": "Workshop | Adventskranz binden | 19 - 21 Uhr | Erw. und Jugendl. ab 16 J.",
+  "date": "2026-11-25",
+  "time": "Mi",
+  "loc": "MIXT Kinderkunsthaus gGmbH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/workshop-adventskranz-binden-19-21-uhr-erw-und-jugendl-ab-16-j-tickets-1998360689617",
+  "desc": "Workshop | Adventskranz binden | 19 - 21 Uhr | Für Erwachsene und Jugendliche ab 16 Jahren",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197411071%2F200674814992%2F1%2Foriginal.20261106-081237?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=43b4408e4231b0ea4222e916fe44f1f8"
+ },
+ {
+  "id": "pk-1f641e3207",
+  "cat": "popup",
+  "title": "YALLA CIAO",
+  "date": "2026-11-26",
+  "time": "Do",
+  "loc": "The Jungle Comedy Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/yalla-ciao-tickets-2003478077863",
+  "desc": "Yalla Ciao is coming to Jungle Comedy Munich! Come experience an over-expressive English standup comedy show, by a Lebanese and an Italian!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196834797%2F2779581218821%2F1%2Foriginal.20261029-075505?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=143%2C0%2C1672%2C836&s=5bc7ed988669851033d7b9464bb81033"
+ },
+ {
+  "id": "pk-7ea6d64c04",
+  "cat": "popup",
+  "title": "APEROL SPRITZ NIGHT",
+  "date": "2026-11-26",
+  "time": "Do",
+  "loc": "Eataly Muenchen",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/aperol-spritz-night-tickets-1997700849016",
+  "desc": "Es wird bunt bei Eataly, wir feiern den beliebten Drink Aperol Spritz!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F434767519%2F266025923809%2F1%2Foriginal.20230105-113725?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=44%2C22%2C2116%2C1058&s=ffc11c6ddafd99fe8535510a0adab5d6"
+ },
+ {
+  "id": "pk-d891629b53",
+  "cat": "popup",
+  "title": "BOXES - Art Show Opening Night",
+  "date": "2026-11-26",
+  "time": "Do 17:30",
+  "loc": "Clemensstraße 22, München-Schwabing-Freimann",
+  "ig": "",
+  "igUrl": "https://luma.com/qlxuk3aw",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/g9/7c0b2bbe-accf-4197-b6c3-21228b5f1186.jpg"
  },
  {
   "id": "tm-LvZ18QQe5eKPq2OZw5XS2",
@@ -250,6 +574,54 @@
   "igUrl": "https://www.ticketmaster.de/event/polyphia-be-not-afraid-world-tour-tickets/93131551?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE"
+ },
+ {
+  "id": "pk-2a4a88fe87",
+  "cat": "gastro",
+  "title": "Weinhopping DELUXE München, 27.11.2026",
+  "date": "2026-11-27",
+  "time": "Fr",
+  "loc": "München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/weinhopping-deluxe-munchen-27112026-tickets-1986534120029",
+  "desc": "Weinhopping DELUXE München, 27.11.2026",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F420651349%2F863035110013%2F1%2Foriginal.20220914-140837?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=99e39424b5e07f5b12ad57669c25cc56"
+ },
+ {
+  "id": "pk-1bd7613cbb",
+  "cat": "popup",
+  "title": "Kafanska Noć",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Löwenbräukeller - Das Original",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/kafanska-noc-tickets-2001546166464",
+  "desc": "Kafanska Noć",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193829100%2F229145853881%2F1%2Foriginal.20260918-112915?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3d13b8d3b8a326bf533be82e5bd8509b"
+ },
+ {
+  "id": "pk-7e0737fd83",
+  "cat": "music",
+  "title": "SA 28.11 ab 20h -  Die große OLDSCHOOL, HIP HOP & RnB Party am Odeonsplatz",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Filmcasino München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/sa-2811-ab-20h-die-groe-oldschool-hip-hop-rnb-party-am-odeonsplatz-tickets-2003600965423",
+  "desc": "OLDSCHOOL, HIP HOP & RnB Party mit DJ REMAKE! Erlebe einen unvergesslichen Abend im Filmcasino. Samstag 28.11 ab 20h",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196086430%2F2540273640331%2F1%2Foriginal.20261019-115821?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0014247da38830ea85bc87c91db4f168"
+ },
+ {
+  "id": "pk-ab7512c3bd",
+  "cat": "popup",
+  "title": "А NIGHT LIKE THIS • The Alternative 80s Party • Milla München",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Milla Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/night-like-this-the-alternative-80s-party-milla-munchen-tickets-1977407610393",
+  "desc": "A night filled with wave and synth classics - dark, danceable, timeless!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172631757%2F372859778321%2F1%2Foriginal.20251209-193005?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0a2c4e9b908c6ef9bdfc95f5af49f28f"
  },
  {
   "id": "pk-90c3eb3204",
@@ -324,6 +696,18 @@
   "img": "https://s1.ticketm.net/dam/a/8e5/9f05f338-d9a9-4d39-bb2e-5d2d24ba88e5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-bfc2317acc",
+  "cat": "popup",
+  "title": "20 Jahre Unternehmeredition",
+  "date": "2026-11-30",
+  "time": "Mo",
+  "loc": "Werk3Studio",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/20-jahre-unternehmeredition-tickets-2003335431203",
+  "desc": "Eigentum – Verantwortung – Zukunft",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196692524%2F894280537623%2F1%2Foriginal.20261027-155152?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.044&fp-y=0.413&s=04bb98d64ec83398cbfb49fca7f46f22"
+ },
+ {
   "id": "tm-Z698xZC2Z1k3b_k8E",
   "cat": "music",
   "title": "Pa Sheehy - The Magic We Found Tour",
@@ -334,6 +718,18 @@
   "igUrl": "https://www.ticketmaster.de/event/pa-sheehy-the-magic-we-found-tour-tickets/498646427?language=en-us",
   "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/fc4/4c22c3e3-4ec8-418a-8d76-c8da85487fc4_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-30c387e391",
+  "cat": "popup",
+  "title": "QUALITY SKI TIME FILM TOUR - MUNICH",
+  "date": "2026-12-02",
+  "time": "Mi",
+  "loc": "ASTOR Film Lounge im ARRI",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/quality-ski-time-film-tour-munich-tickets-1999678112063",
+  "desc": "Freut euch auf epische Freeride Movies, entspannte Vibes und eine Community voller Snow-Lovers – diese Tour solltet ihr nicht verpassen!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192948791%2F1861468983953%2F1%2Foriginal.20260908-091958?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.078&fp-y=0.521&s=8dc5dccade5389080638e4332b58c511"
  },
  {
   "id": "tm-Z698xZC2Z1kbSGyA6",
@@ -360,6 +756,18 @@
   "img": "https://s1.ticketm.net/dam/a/908/970d3aef-5190-4b89-be04-15d032c0f908_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-21198c56d9",
+  "cat": "gastro",
+  "title": "EATALY VINO FESTIVAL - Essen, Wein & Musik",
+  "date": "2026-12-03",
+  "time": "Do",
+  "loc": "Eataly München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/eataly-vino-festival-essen-wein-musik-tickets-1997701472882",
+  "desc": "Genieße zahlreiche Weine, köstliches italienisches Essen und Musik in der Eataly Enoteca.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188544598%2F1350960294163%2F1%2Foriginal.20260709-153251?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fe8f4788c3b0697430bf9df547d987b3"
+ },
+ {
   "id": "pk-777dc02958",
   "cat": "popup",
   "title": "Industrial AI Night Vol. 1",
@@ -384,6 +792,18 @@
   "img": "https://s1.ticketm.net/dam/a/b32/410e23ca-ee21-4238-bdfb-ca99edcd3b32_SOURCE"
  },
  {
+  "id": "pk-408370de7f",
+  "cat": "music",
+  "title": "DEVITO Live in Concert!",
+  "date": "2026-12-04",
+  "time": "Fr",
+  "loc": "Freiheitshalle",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/devito-live-in-concert-tickets-2001374273327",
+  "desc": "DEVITO Live in Concert! -  München 2026!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193739184%2F229145853881%2F1%2Foriginal.20260917-114249?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2486c65bdb0234d337c2473eddb60be5"
+ },
+ {
   "id": "tm-Z698xZC2Z1kovGxfM",
   "cat": "music",
   "title": "CHLOE SLATER - riot youth tour",
@@ -406,6 +826,30 @@
   "igUrl": "https://www.ticketmaster.de/event/alex-stoldt-quasi-nichts-tickets/526682381?language=en-us",
   "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/a93/30d54e2d-64c0-4ba4-8ed4-da8e9c2f1a93_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-43acd27e21",
+  "cat": "music",
+  "title": "A Cappella Company \"Lichterketten - ein A Cappella Adventskonzert\"",
+  "date": "2026-12-05",
+  "time": "Sa",
+  "loc": "Heilig Kreuz",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/a-cappella-company-lichterketten-ein-a-cappella-adventskonzert-tickets-2001619733505",
+  "desc": "Ein besonderer Klangmoment in der Adventszeit: Am 5. Dezember laden wir euch zu unserem festlichen Adventskonzert ein!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194014299%2F2820939655401%2F1%2Foriginal.20260921-151222?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d653d722b202d6641860c6911d67b969"
+ },
+ {
+  "id": "pk-2d95be5c36",
+  "cat": "popup",
+  "title": "MÜNCHEN - Asian Sensation Party - 05. DEZEMBER 2026",
+  "date": "2026-12-05",
+  "time": "Sa",
+  "loc": "Mint Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/munchen-asian-sensation-party-05-dezember-2026-tickets-2003938964387",
+  "desc": "Your new favorite Asian Party in Europe!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196632639%2F2054586278043%2F1%2Foriginal.20261026-204632?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9269d036e844dd433aa73ec4d6931077"
  },
  {
   "id": "tm-Z698xZC2Z16vO308vf",
@@ -564,6 +1008,66 @@
   "img": "https://s1.ticketm.net/dam/a/8d6/4622f83a-a2e4-4c77-a7f0-058cd654c8d6_SOURCE"
  },
  {
+  "id": "pk-5304b2146f",
+  "cat": "popup",
+  "title": "Fourth UPC User Forum",
+  "date": "2026-12-16",
+  "time": "Mi",
+  "loc": "Deutsches Patent- und Markenamt",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/fourth-upc-user-forum-tickets-2003928644520",
+  "desc": "Join us in person for the Fourth UPC User Forum! We bring together UPC judges and practitioners to exchange experiences and connect!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196613952%2F1625087344663%2F1%2Foriginal.20261026-172615?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=caf84cc3dcd8f69faaf7b1b312153324"
+ },
+ {
+  "id": "pk-37f885ff05",
+  "cat": "music",
+  "title": "\"Fürchtet Euch nicht\" (Montag)",
+  "date": "2026-12-21",
+  "time": "Mo",
+  "loc": "Herz Jesu",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/furchtet-euch-nicht-montag-tickets-2003761280931",
+  "desc": "Weihnachtskonzert der Freunde und Förderer der Münchner Philharmoniker",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196344427%2F144750851473%2F1%2Foriginal.20261022-081606?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aad78d5f4a072240588ffe66f133ff53"
+ },
+ {
+  "id": "pk-b67e6d55bd",
+  "cat": "music",
+  "title": "\"Fürchtet Euch nicht\" (Dienstag)",
+  "date": "2026-12-22",
+  "time": "Di",
+  "loc": "Herz Jesu",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/furchtet-euch-nicht-dienstag-tickets-2003759108433",
+  "desc": "Weihnachtskonzert der Freunde und Förderer der Münchner Philharmoniker",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196344427%2F144750851473%2F1%2Foriginal.20261022-081606?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aad78d5f4a072240588ffe66f133ff53"
+ },
+ {
+  "id": "pk-6b49200640",
+  "cat": "music",
+  "title": "Silvestergala im Löwenbräukeller - THE GRAND NEW YEAR'S EVE",
+  "date": "2026-12-31",
+  "time": "Do",
+  "loc": "Löwenbräukeller - Das Original",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/silvestergala-im-lowenbraukeller-the-grand-new-years-eve-tickets-2003170933185",
+  "desc": "Erlebt Bayerns größte Silvestergala 2026/27 im Löwenbräukeller mit festlichem Buffet, Live-Band, DJ und einer unvergesslichen Partynacht!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195397663%2F173180874245%2F1%2Foriginal.20261008-193737?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1fca4ac7b000dd801d63a412d9e18f58"
+ },
+ {
+  "id": "pk-6f628fe39c",
+  "cat": "music",
+  "title": "New Years Eve at AAHHH Penthouse",
+  "date": "2026-12-31",
+  "time": "Do",
+  "loc": "AAHHH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/new-years-eve-at-aahhh-penthouse-tickets-2003856460616",
+  "desc": "Feiert in der exklusivsten Location Münchens ins Jahr 2027 - Hoch über den Dächern der Stadt!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196504850%2F173180874245%2F1%2Foriginal.20261024-160546?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5edee645d7240c03271cc3e2e4ef91b"
+ },
+ {
   "id": "tm-Z698xZC2Z16v4JueZS",
   "cat": "music",
   "title": "LEVIN LIAM - PECH TOUR 2027",
@@ -574,6 +1078,18 @@
   "igUrl": "https://www.ticketmaster.de/event/levin-liam-pech-tour-2027-tickets/1566342033?language=en-us",
   "desc": "Music · Hip-Hop/Rap in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8d6/7f34a68f-04f6-4f13-bdaf-b43c84cb18d6_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "pk-30bad669d8",
+  "cat": "popup",
+  "title": "Fachkongress",
+  "date": "2027-01-22",
+  "time": "Fr",
+  "loc": "IU Internationale Hochschule – Campus München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/fachkongress-tickets-1998894089029",
+  "desc": "Systemische Strukturaufstellungen in Theorie und Praxis",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196274834%2F3009827575673%2F1%2Foriginal.20261021-132851?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=de0cb6db6b0ef7d090a2fb4e726c842b"
  },
  {
   "id": "tm-Z698xZC2Z16vAF8Z_v",
@@ -897,7 +1413,7 @@
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/delta-goodrem-pure-world-tour-tickets/649592936?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/340/343eb8e3-e2f7-42d7-abcb-53319f765340_SOURCE"
+  "img": "https://s1.ticketm.net/dam/a/2aa/d423f73e-e6fb-440e-b8ee-40b25b80c2aa_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1ka-ZPa_",
@@ -1152,6 +1668,18 @@
   "img": "https://s1.ticketm.net/dam/a/880/85553065-0c5c-41f3-9e33-03bff75c2880_SOURCE"
  },
  {
+  "id": "pk-a8f8df57d9",
+  "cat": "popup",
+  "title": "Munich Tech Job Fair Spring 2027 (München Tech Job Messe 2027)",
+  "date": "2027-04-22",
+  "time": "Do",
+  "loc": "meetinn Conference Center Munich Neuaubing",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/munich-tech-job-fair-spring-2027-munchen-tech-job-messe-2027-tickets-1988984302591",
+  "desc": "Willkommen zur München Tech Job Messe, einem exklusiven Abend, der dem Recruiting, Networking und der Gewinnung von Top-Talenten in der Tech",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F992999733%2F186680860246%2F1%2Foriginal.20241226-093233?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1103%2C0%2C5130%2C2565&s=e5d88dbca7bb268e138ce24405f882a5"
+ },
+ {
   "id": "tm-Z698xZC2Z1ku-q-38",
   "cat": "popup",
   "title": "NIGHT of the JUMPs - Freestyle MX World Championship 2027",
@@ -1174,6 +1702,18 @@
   "igUrl": "https://www.universe.com/events/masud-akbarzadeh-playlist-tickets-56VT3S?ref=ticketmaster",
   "desc": "Arts & Theatre · Comedy in Wirtshaus im Schlachthof // Saal. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/8bb/ec07ef3c-e4b3-414d-9eeb-6854c6bd88bb_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "tm-Z698xZC2Z1kuJje4P",
+  "cat": "music",
+  "title": "Noga Erez - Duck Season Tour 2027",
+  "date": "2027-05-05",
+  "time": "Mi 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/noga-erez-duck-season-tour-2027-tickets/366702565?language=en-us",
+  "desc": "Music · Dance/Electronic in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/394/d413b23a-3b34-4d4e-8fda-8eba9e414394_SOURCE"
  },
  {
   "id": "tm-Z698xZC2Z1kozFzZo",
@@ -1210,6 +1750,18 @@
   "igUrl": "https://www.ticketmaster.de/event/greta-van-fleet-into-the-beginning-tickets/1124094012?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d39/045f547d-bf0c-45fb-8b53-0723109d4d39_SOURCE"
+ },
+ {
+  "id": "pk-8b4cf36e1a",
+  "cat": "popup",
+  "title": "Megamarsch 100/24 München 2027",
+  "date": "2027-05-15",
+  "time": "Sa",
+  "loc": "Eichthalstraße",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/megamarsch-10024-munchen-2027-tickets-1989978590533",
+  "desc": "Sei dabei!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194006480%2F2993409100258%2F1%2Foriginal.20260921-134410?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f2f68b582688e1adfed1940cb2433316"
  },
  {
   "id": "tm-Z698xZC2Z16v8eJZr7",
