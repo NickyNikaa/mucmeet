@@ -1,29 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z1kqt8Au9",
-  "cat": "music",
-  "title": "Bob Dylan",
-  "date": "2026-11-15",
-  "time": "So 20:00",
-  "loc": "Olympiahalle, Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/bob-dylan-tickets/769405357?language=en-us",
-  "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/352/feae62d0-316a-4b51-863c-96c198c43352_SOURCE"
- },
- {
-  "id": "pk-14ca0895bf",
-  "cat": "gastro",
-  "title": "Rosi's Brunch",
-  "date": "2026-11-15",
-  "time": "So 10:00",
-  "loc": "Rosenheimer Str. 2, München-Au-Haidhausen",
-  "ig": "",
-  "igUrl": "https://luma.com/cb07qols",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/gallery-images/9o/38c1049f-338b-4e84-83b6-75b7d44af3b2.png"
- },
- {
   "id": "tm-Z698xZC2Z16vFO4tkp",
   "cat": "music",
   "title": "SON MIEUX - 24 Hours – EU Album Tour",
@@ -58,6 +34,18 @@
   "igUrl": "https://www.ticketmaster.de/event/arlo-parks-desire-tour-tickets/694985873?language=en-us",
   "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/492/744f8651-20a1-4b0e-a868-7f7ff5e9a492_SOURCE"
+ },
+ {
+  "id": "pk-a8f76ede90",
+  "cat": "popup",
+  "title": "Lunch & Learn: What comes after the podium with Alica Stuhlemmer",
+  "date": "2026-11-17",
+  "time": "Di 12:00",
+  "loc": "Sandstraße 33, München",
+  "ig": "",
+  "igUrl": "https://luma.com/tacto-wu5h",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/pt/e2b5ba2e-bcd2-4c9b-9ab0-06050a3bdd2c.png"
  },
  {
   "id": "pk-efca8e015c",
@@ -264,9 +252,9 @@
   "img": "https://images.lumacdn.com/uploads/zt/ce36d915-44e8-48af-925d-7d9549458b03.jpg"
  },
  {
-  "id": "pk-18807baa18",
+  "id": "pk-7e0caa9c78",
   "cat": "gastro",
-  "title": "Brunch & Workshop #3 🏋🏽‍♀️- Body, Mind & Empowerment",
+  "title": "Brunch & Workshop #3 🏋🏽‍♀️- Body, Mind & Empowerment for Black women",
   "date": "2026-11-29",
   "time": "So 11:30",
   "loc": "Barer Str. 40, München-Maxvorstadt",
@@ -1522,5 +1510,17 @@
   "igUrl": "https://www.ticketmaster.de/event/vanessa-mai-tour-2028-tickets/201390350?language=en-us",
   "desc": "Music · World in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/731/fc0f7fcf-1418-4e12-a4d6-a9ab90c07731_SOURCE"
+ },
+ {
+  "id": "tm-Z698xZC2Z16evw1dGP",
+  "cat": "popup",
+  "title": "Carolin Kebekus: Inferna",
+  "date": "2028-09-16",
+  "time": "Sa 20:00",
+  "loc": "Munich",
+  "ig": "",
+  "igUrl": "https://www.ticketmaster.de/event/carolin-kebekus-inferna-tickets/2072283325?language=en-us",
+  "desc": "Arts & Theatre · Comedy in . Tickets & Infos über Ticketmaster.",
+  "img": "https://s1.ticketm.net/dam/a/7f1/416aca18-0d8e-4125-8bf0-73635444c7f1_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  }
 ]
