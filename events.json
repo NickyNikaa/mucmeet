@@ -1,53 +1,5 @@
 [
  {
-  "id": "tm-Z698xZC2Z16vFO4tkp",
-  "cat": "music",
-  "title": "SON MIEUX - 24 Hours – EU Album Tour",
-  "date": "2026-11-16",
-  "time": "Mo 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/son-mieux-24-hours--eu-album-tour-tickets/1220569196?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/63f/d7434bb6-14cc-49dd-9c4e-67b4375be63f_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z16vZ4-J_g",
-  "cat": "music",
-  "title": "Andreas Gabalier - 10 Jahre Volks-Rock’n‘ Roller Unplugged",
-  "date": "2026-11-16",
-  "time": "Mo 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/andreas-gabalier-10-jahre-volks-rockn-roller-unplugged-tickets/1015866675?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/ba4/0d872dc2-1d26-45fc-9c11-97e0da3f1ba4_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "tm-Z698xZC2Z1kQfJA-S",
-  "cat": "music",
-  "title": "ARLO PARKS - DESIRE TOUR",
-  "date": "2026-11-16",
-  "time": "Mo 20:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/arlo-parks-desire-tour-tickets/694985873?language=en-us",
-  "desc": "Music · Alternative in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/492/744f8651-20a1-4b0e-a868-7f7ff5e9a492_SOURCE"
- },
- {
-  "id": "pk-a8f76ede90",
-  "cat": "popup",
-  "title": "Lunch & Learn: What comes after the podium with Alica Stuhlemmer",
-  "date": "2026-11-17",
-  "time": "Di 12:00",
-  "loc": "Sandstraße 33, München",
-  "ig": "",
-  "igUrl": "https://luma.com/tacto-wu5h",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/pt/e2b5ba2e-bcd2-4c9b-9ab0-06050a3bdd2c.png"
- },
- {
   "id": "pk-efca8e015c",
   "cat": "popup",
   "title": "n8n Munich Meetup",
@@ -58,6 +10,18 @@
   "igUrl": "https://luma.com/n8n-u20o",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/as/b6dc01d0-d994-4046-818f-d8b7b40c6724.png"
+ },
+ {
+  "id": "pk-b635f96aea",
+  "cat": "popup",
+  "title": "AAIF Community Munich #30 hosted by JetBrains",
+  "date": "2026-11-17",
+  "time": "Di 18:30",
+  "loc": "München, Germany",
+  "ig": "",
+  "igUrl": "https://luma.com/3a6opxrs",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/fq/251e70ad-5348-4c4d-9264-2e766456a078.jpg"
  },
  {
   "id": "pk-11169e8a93",
@@ -144,6 +108,18 @@
   "img": "https://images.lumacdn.com/uploads/vs/7ce869e7-47b0-44c9-a2b0-7c0c15a13035.jpg"
  },
  {
+  "id": "pk-ef2167a845",
+  "cat": "music",
+  "title": "💃 Coffee Rave: Fitness Party",
+  "date": "2026-11-21",
+  "time": "Sa 10:00",
+  "loc": "Occamstraße 24, München-Schwabing-Freimann",
+  "ig": "",
+  "igUrl": "https://luma.com/beatle-q1b7",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/gallery-images/image-gen/invites/campsite-2026-11-09-invite-11.png"
+ },
+ {
   "id": "tm-Z698xZC2Z1kfAjaGS",
   "cat": "music",
   "title": "The Script - Man In The Arena Tour 2026",
@@ -165,7 +141,7 @@
   "ig": "",
   "igUrl": "https://luma.com/ispbtuyl",
   "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/od/16811147-77f2-4f15-b0f0-312a6f6ec3f5.png"
+  "img": "https://images.lumacdn.com/uploads/ux/0919f701-ad82-4d59-b069-1155033f7dfa.png"
  },
  {
   "id": "pk-bd1982034c",
@@ -202,18 +178,6 @@
   "igUrl": "https://www.universe.com/events/empire-of-giants-live-in-munchen-tickets-S672XP?ref=ticketmaster",
   "desc": "Music · Metal in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/ac4/40904768-5ec8-4d66-8cea-2c94cf021ac4_SOURCE"
- },
- {
-  "id": "tm-Z698xZC2Z1keK7s4o",
-  "cat": "music",
-  "title": "Polyphia - BE NOT AFRAID World Tour",
-  "date": "2026-11-27",
-  "time": "Fr 19:30",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.ticketmaster.de/event/polyphia-be-not-afraid-world-tour-tickets/93131551?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE"
  },
  {
   "id": "pk-90c3eb3204",
@@ -468,18 +432,6 @@
   "img": "https://images.lumacdn.com/api-uploads/fo/7c90ef2a-561c-4f3a-ab59-11cefe3a20f5.png"
  },
  {
-  "id": "pk-72f0a4cd09",
-  "cat": "popup",
-  "title": "Munich | Claude Code Build Day",
-  "date": "2026-12-09",
-  "time": "Mi 09:00",
-  "loc": "München, Germany",
-  "ig": "",
-  "igUrl": "https://luma.com/claude-sl4m",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/3q/65e0a45f-db3a-4b33-9b1a-74ee5a810a00.png"
- },
- {
   "id": "tm-Z698xZC2Z1krp1ka8",
   "cat": "music",
   "title": "Rea Garvey’s Christmas Calling",
@@ -572,7 +524,7 @@
   "loc": "Munich",
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/mico-inbetween-tour-tickets/1148400641?language=en-us",
-  "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
+  "desc": "Music · R&B in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/987/d708119f-6026-422c-b7cd-240b00c8f987_SOURCE"
  },
  {
@@ -1173,7 +1125,7 @@
   "ig": "",
   "igUrl": "https://www.ticketmaster.de/event/noga-erez-duck-season-tour-2027-tickets/366702565?language=en-us",
   "desc": "Music · Dance/Electronic in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/394/d413b23a-3b34-4d4e-8fda-8eba9e414394_SOURCE"
+  "img": "https://s1.ticketm.net/dam/a/394/d413b23a-3b34-4d4e-8fda-8eba9e414394_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
   "id": "tm-Z698xZC2Z1kozFzZo",
