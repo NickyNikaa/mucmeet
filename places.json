@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-21T11:55:14.401Z",
+  "generatedAt": "2026-11-22T12:08:40.708Z",
   "curated": 106,
   "osm": 800,
   "total": 858
@@ -16437,7 +16437,7 @@
    "features": [
     "terrace"
    ],
-   "pitch": "Aus OpenStreetMap. bavarian · Pfeuferstraße · geöffnet: Mo-Su 12:00-20:00",
+   "pitch": "Aus OpenStreetMap. bavarian · Pfeuferstraße · geöffnet: Mo-Fr 16:00-23:00; Sa,Su 11:30-23:00",
    "bookingUrl": "https://www.tannengarten-sendling.de/wirtshaus-muenchen/",
    "osm": true
   },
@@ -20561,6 +20561,35 @@
    "osm": true
   },
   {
+   "id": "osm-w116555850",
+   "type": "restaurant",
+   "name": "Hofbräukeller",
+   "neighborhood": "München",
+   "cuisine": [
+    "european"
+   ],
+   "price": 2,
+   "occasion": [
+    "casual",
+    "date",
+    "family",
+    "group"
+   ],
+   "mood": [
+    "cozy",
+    "lively",
+    "traditional"
+   ],
+   "exclusivity": 1,
+   "features": [
+    "terrace",
+    "beer-garden"
+   ],
+   "pitch": "Aus OpenStreetMap. regional · Innere Wiener Straße · geöffnet: Mo-Su 10:00-23:00",
+   "bookingUrl": "https://www.hofbraeukeller.de",
+   "osm": true
+  },
+  {
    "id": "osm-w118941495",
    "type": "restaurant",
    "name": "Metzgerwirt",
@@ -24065,30 +24094,6 @@
    ],
    "pitch": "Aus OpenStreetMap. italian · Ursulastraße · geöffnet: Mo-Th 12:00-14:30,17:30-22:00; Fr-Sa 12:00-23:00; Su 12:00-2",
    "bookingUrl": "https://www.primo.restaurant",
-   "osm": true
-  },
-  {
-   "id": "osm-n338920695",
-   "type": "restaurant",
-   "name": "Tantris",
-   "neighborhood": "München",
-   "cuisine": [
-    "international"
-   ],
-   "price": 2,
-   "occasion": [
-    "casual",
-    "date",
-    "family"
-   ],
-   "mood": [
-    "cozy",
-    "lively"
-   ],
-   "exclusivity": 1,
-   "features": [],
-   "pitch": "Aus OpenStreetMap. international · Johann-Fichte-Straße · geöffnet: We-Sa 12:00-16:00,19:00-24:00",
-   "bookingUrl": "https://tantris.de/",
    "osm": true
   }
  ]
