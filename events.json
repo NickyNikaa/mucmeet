@@ -1,65 +1,5 @@
 [
  {
-  "id": "tm-LvZ18QQe5eKPq2OZw5XS2",
-  "cat": "music",
-  "title": "Empire of Giants Live in München",
-  "date": "2026-11-27",
-  "time": "Fr 19:00",
-  "loc": "Munich",
-  "ig": "",
-  "igUrl": "https://www.universe.com/events/empire-of-giants-live-in-munchen-tickets-S672XP?ref=ticketmaster",
-  "desc": "Music · Metal in . Tickets & Infos über Ticketmaster.",
-  "img": "https://s1.ticketm.net/dam/a/ac4/40904768-5ec8-4d66-8cea-2c94cf021ac4_SOURCE"
- },
- {
-  "id": "se-4fa3e3b93a",
-  "cat": "popup",
-  "title": "CommunityNight",
-  "date": "2026-11-27",
-  "time": "Nov 27, 11:00 PM",
-  "loc": "Rote Sonne, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=CommunityNight",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWdTmrjF1LoAYLw8BvNGpdCk8Vb_mY_6su5V7YW9NnTKJIPZvpjP58v4Zil-tzag4RYJmSVNNKpsUvdM"
- },
- {
-  "id": "se-af0c73f828",
-  "cat": "popup",
-  "title": "Social Hour: Drinks, Games & Good Vibes",
-  "date": "2026-11-27",
-  "time": "Nov 27, 7:00 PM",
-  "loc": "gehölz, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Social%20Hour%3A%20Drinks%2C%20Games%20%26%20Good%20Vibes",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROMfzxG7G2reQLvOOYLfV_W8T1AJJXDzeiunxPsY9raeCUWuTjSG8leKsX-LdZTxOk21uSTgUPt-89U64"
- },
- {
-  "id": "se-d429d8602a",
-  "cat": "popup",
-  "title": "Ideenwerkstatt Giesing",
-  "date": "2026-11-27",
-  "time": "Nov 27, 4:00 PM",
-  "loc": "Kulturzentrum Giesinger Bahnhof, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Ideenwerkstatt%20Giesing",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3k0V-EEg56qFs_-OBBwYNZ4n-up1Mz6xEYsw9YY3JOsX-u3Gqk4mDawuoTGDCox7akOmuEyJWxTeous"
- },
- {
-  "id": "pk-7d3d17814c",
-  "cat": "popup",
-  "title": "Founders Court München #1",
-  "date": "2026-11-27",
-  "time": "Fr 18:30",
-  "loc": "Paketposthalle, Alte, Arnulfstraße 195-199, München",
-  "ig": "",
-  "igUrl": "https://luma.com/founders-4pj5",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/5z/e8ab6139-5e94-4f2a-b87c-49e470de0886.png"
- },
- {
   "id": "se-b607c079fd",
   "cat": "popup",
   "title": "Speed Friending Munich: Meet Locals & Expats",
@@ -72,16 +12,184 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7RrVSVBYGfItCVdFWjECsfoFSyyTP-IDh6d2z-8xFLlQx4BCl7K2z4DM4x7Enze0dee5GXjdAuBuCeJE"
  },
  {
-  "id": "pk-90c3eb3204",
-  "cat": "popup",
-  "title": "LAGREE X RUN powered by On",
+  "id": "se-b2c66bc42a",
+  "cat": "gastro",
+  "title": "Longevity Dinner",
   "date": "2026-11-28",
-  "time": "Sa 10:00",
-  "loc": "Salierstraße 16, München",
+  "time": "Nov 28, 7:00 PM",
+  "loc": "Max Pett... Das vegane Restaurant, Munich, Germany",
   "ig": "",
-  "igUrl": "https://luma.com/4gp7gdz7",
-  "desc": "Über luma.com gefunden.",
-  "img": "https://images.lumacdn.com/uploads/3w/933b71cd-a564-4993-8a0e-6160652d1ad3.png"
+  "igUrl": "https://www.google.com/search?q=Longevity%20Dinner",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlzg7CKnQyEmqbx9YGtIcFbUEr2Zy0NFxycs2omPt5eziCf3TsLcqimHODSidSfkEK4-7N2LGR6-Pr4cU"
+ },
+ {
+  "id": "se-be0d274eba",
+  "cat": "music",
+  "title": "Social Night Out - Bars & Club",
+  "date": "2026-11-28",
+  "time": "Nov 28, 8:45 PM",
+  "loc": "Brunnenbuberl, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Social%20Night%20Out%20-%20Bars%20%26%20Club",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxQCMgilFQQT-cICnTaNNlEE9wtreOrRNsYEqNpJL-imgVE77S1BT59CUgL-e-ZhBFF3Z_UnSalplLm50"
+ },
+ {
+  "id": "pk-3eb05dca4a",
+  "cat": "popup",
+  "title": "SA 28.11 • boomIN Winterjam @ FILMCASINO",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Filmcasino",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/sa-2811-boomin-winterjam-filmcasino-tickets-2004320600872",
+  "desc": "boomIN Winterjam. Munich‘s biggest HIP HOP. RnB & AFRO Event. Samstag, den 28.11 im Filmcasino",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197200091%2F1051638315133%2F1%2Foriginal.20261103-193626?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a10c5e0dc09002fe2748573db23fd55c"
+ },
+ {
+  "id": "pk-1bd7613cbb",
+  "cat": "popup",
+  "title": "Kafanska Noć",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Löwenbräukeller - Das Original",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/kafanska-noc-tickets-2001546166464",
+  "desc": "Kafanska Noć",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193829100%2F229145853881%2F1%2Foriginal.20260918-112915?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3d13b8d3b8a326bf533be82e5bd8509b"
+ },
+ {
+  "id": "pk-1de7424da6",
+  "cat": "popup",
+  "title": "Offenes Programm | Für Kinder ab 2 Jahren  mit erwachsener Begleitung",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "MIXT Kinderkunsthaus gGmbH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/offenes-programm-fur-kinder-ab-2-jahren-mit-erwachsener-begleitung-tickets-1996985966784",
+  "desc": "Offenes Programm | Für Kinder ab 2 Jahren  mit erwachsener Begleitung",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F649349959%2F200674814992%2F1%2Foriginal.20231128-082651?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C538%2C269&s=549e0ba33eeb821b06b735eff317fbc9"
+ },
+ {
+  "id": "pk-ab7512c3bd",
+  "cat": "popup",
+  "title": "А NIGHT LIKE THIS • The Alternative 80s Party • Milla München",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Milla Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/night-like-this-the-alternative-80s-party-milla-munchen-tickets-1977407610393",
+  "desc": "A night filled with wave and synth classics - dark, danceable, timeless!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172631757%2F372859778321%2F1%2Foriginal.20251209-193005?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0a2c4e9b908c6ef9bdfc95f5af49f28f"
+ },
+ {
+  "id": "pk-7e0737fd83",
+  "cat": "music",
+  "title": "SA 28.11 ab 20h -  Die große OLDSCHOOL, HIP HOP & RnB Party am Odeonsplatz",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Filmcasino München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/sa-2811-ab-20h-die-groe-oldschool-hip-hop-rnb-party-am-odeonsplatz-tickets-2003600965423",
+  "desc": "OLDSCHOOL, HIP HOP & RnB Party mit DJ REMAKE! Erlebe einen unvergesslichen Abend im Filmcasino. Samstag 28.11 ab 20h",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196086430%2F2540273640331%2F1%2Foriginal.20261019-115821?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=49e456c6a92642a64558925e45301202"
+ },
+ {
+  "id": "pk-fef22dfa75",
+  "cat": "music",
+  "title": "INDIE CLASSICS • Club Night • München 2026",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Strom",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/indie-classics-club-night-munchen-2026-tickets-1990029137721",
+  "desc": "The Indie Classics Party Night",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185067609%2F539487482247%2F1%2Foriginal.20260520-185024?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c083f3d61e2570ba8bbb9e22ce1fb439"
+ },
+ {
+  "id": "pk-91d057293c",
+  "cat": "popup",
+  "title": "Bailatino – The Complete Latin Night",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "La Casita",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/bailatino-the-complete-latin-night-tickets-2004880373166",
+  "desc": "Bachata Class + Social Dance (Bachata & Salsa) + Reggaeton Party till 5AM",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179365676%2F2991577532406%2F1%2Foriginal.20260309-093636?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.436&fp-y=0.415&s=67638de2c0a969155cd6d4427d0b4fd1"
+ },
+ {
+  "id": "pk-968c5638dc",
+  "cat": "popup",
+  "title": "Pumpfoil-Kurse München",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Regatta Anlage Süd",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/pumpfoil-kurse-munchen-tickets-2004278170963",
+  "desc": "Pumpfoilen ausprobieren oder verbessern – für Einsteiger & Fortgeschrittene. Board, Weste & Helm gestellt. Jetzt Slot sichern!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193440018%2F3001368225851%2F1%2Foriginal.20260914-123849?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.886&fp-y=0.563&s=6b648c5585dc61f6257de0fa5a43a488"
+ },
+ {
+  "id": "pk-fc7b7f2596",
+  "cat": "gastro",
+  "title": "Salarte: veganer Brunch, immer Samstags",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "salarte - Mittagessen, Brunch, Catering",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/salarte-veganer-brunch-immer-samstags-tickets-2003120901539",
+  "desc": "Brunchbuffet mit Salaten, Dips, Scrambled Tofu, Quiche, warmem Porridge, Obst & Gemüse, süßem Gebäck, glutenfreie Auswahl und vielem mehr!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1023222153%2F2569277959231%2F1%2Foriginal.20250505-080637?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ec29d75bb2c2301cbc3f12c89cdb95c1"
+ },
+ {
+  "id": "pk-2b381d0074",
+  "cat": "music",
+  "title": "MATCHA Y PERREO - DAY DRINKING PARTY",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Lewis Bar Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/matcha-y-perreo-day-drinking-party-tickets-2004888398169",
+  "desc": "Prepárate para una mañana llena de matcha y ritmo para que el cuerpo no pare de moverse.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198067512%2F491280881747%2F1%2Foriginal.20261116-122005?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5cee8d4158f1ab8c0a19b753c400df15"
+ },
+ {
+  "id": "pk-15dd72e8b4",
+  "cat": "popup",
+  "title": "Meet New People in Munich | Enjoy €3.40 Beers & €4.90 cocktails | 21–40",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Senefelderstraße 5",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/meet-new-people-in-munich-enjoy-340-beers-490-cocktails-2140-tickets-2004110244691",
+  "desc": "Meet new people in Munich at Fast Friends! Enjoy hosted conversations, new connections and drinks from €3.40. Ages 21–40. Pre-booking only.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196912520%2F285552070707%2F1%2Foriginal.20261030-073824?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cbdbdcf78899ae1cc75fdbd49cd4002"
+ },
+ {
+  "id": "pk-a0c507367d",
+  "cat": "music",
+  "title": "Munich Nightlife Tour with 3 Bars, Shots & Club Entry",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "Social Night Out Meeting Point Munich – Brunnenbuberl fountain",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/munich-nightlife-tour-with-3-bars-shots-club-entry-tickets-2002115542483",
+  "desc": "Making friends in Munich? Welcome shot at the meeting point, 3 bars, 1 club, shots at every stop and club entry included.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195736654%2F3014815455122%2F1%2Foriginal.20261013-224707?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=04e4734ab82702be9e58b09610374a0f"
+ },
+ {
+  "id": "pk-7607b2913b",
+  "cat": "popup",
+  "title": "JUNGLE JAR:  Problem Solving Comedy - Therapy but funny!",
+  "date": "2026-11-28",
+  "time": "Sa",
+  "loc": "The Jungle Comedy Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/jungle-jar-problem-solving-comedy-therapy-but-funny-tickets-2002887884579",
+  "desc": "A tight English stand-up show with two comics doing their best material, then solving your anonymous problems.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175860181%2F2929601923841%2F1%2Foriginal.20260126-175023?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9ee9ad443b5430e9bdd1d2dfbdab07c0"
  },
  {
   "id": "pk-0d7dc83a61",
@@ -108,30 +216,6 @@
   "img": "https://images.lumacdn.com/uploads/zt/ce36d915-44e8-48af-925d-7d9549458b03.jpg"
  },
  {
-  "id": "se-fe8330755e",
-  "cat": "gastro",
-  "title": "Brunch & Workshop - Body, Mind & Empowerment for Black women",
-  "date": "2026-11-29",
-  "time": "Nov 29, 11:30 AM",
-  "loc": "Pinakothek der Moderne, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Brunch%20%26%20Workshop%20-%20Body%2C%20Mind%20%26%20Empowerment%20for%20Black%20women",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBPlF8ApDl-yYIjAJtBIMMRUWA5kiLQXPmIgYzY2L2IaOVEr0AHa6F5z71boYumc0_98AgKSqQ1Al_Srw"
- },
- {
-  "id": "se-fbb412d39d",
-  "cat": "walk",
-  "title": "Christmas Market Single Walk",
-  "date": "2026-11-29",
-  "time": "Nov 29, 3:00 PM",
-  "loc": "Starbucks, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Christmas%20Market%20Single%20Walk",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDSyTd33MD_QFMwZaw4Y-V7QsnmdLJtD7JcvQA3PCo7dOY9zR2mQDkxw4eZo2825lqEpmf_YOp6iCmaL8"
- },
- {
   "id": "se-ff2df52f10",
   "cat": "popup",
   "title": "Salon Cubano",
@@ -141,7 +225,67 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Salon%20Cubano",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5rj4Cmk-CXJlDvr2Xgf35vFnasCJ2fxOKUpi9lggT-Gbsq_A63T3VDp6Z9aOAdf9uW3XB-cHTtQ1G5zo"
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr7vznsoz1b-e41g6m-cLLmmafV3tdspzXFdkxvInAoPJnUQH1pvlfOsa9GwUDJeyQtb4H-wRZQDmxYDU"
+ },
+ {
+  "id": "se-e7d4c6f573",
+  "cat": "walk",
+  "title": "München – Christmas Market Single Walk",
+  "date": "2026-11-29",
+  "time": "Nov 29, 3:00 PM",
+  "loc": "Starbucks, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=M%C3%BCnchen%20%E2%80%93%20Christmas%20Market%20Single%20Walk",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDSyTd33MD_QFMwZaw4Y-V7QsnmdLJtD7JcvQA3PCo7dOY9zR2mQDkxw4eZo2825lqEpmf_YOp6iCmaL8"
+ },
+ {
+  "id": "se-4e5462ad8b",
+  "cat": "yoga",
+  "title": "Tanz & Yoga - Charity Event am 1. Advent",
+  "date": "2026-11-29",
+  "time": "Nov 29, 1:30 PM",
+  "loc": "VELVET HOUSE, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Tanz%20%26%20Yoga%20-%20Charity%20Event%20am%201.%20Advent",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQst-9eM1yC_AJTEX-Q170w9XbEHGp9endZMl74VXi9BnkhpAIvgyNWN-4a6f2N9BDHQKqRYHMxZ70gxes"
+ },
+ {
+  "id": "se-bf70d26a6d",
+  "cat": "gastro",
+  "title": "Brunch & Workshop - Body, Mind & Empowerment",
+  "date": "2026-11-29",
+  "time": "Nov 29, 11:30 AM",
+  "loc": "Pinakothek der Moderne, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Brunch%20%26%20Workshop%20-%20Body%2C%20Mind%20%26%20Empowerment",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN2KkITqRk_Fe89zALfU3bc3CMaD7tph6sLzGfnGPjuCWdNQeSUMcuk39NnvOepkcPkbttheq5qqVo2Ps"
+ },
+ {
+  "id": "pk-6a4b7e7536",
+  "cat": "music",
+  "title": "Comedy Royale! A Classy English Standup Comedy Show",
+  "date": "2026-11-29",
+  "time": "So",
+  "loc": "ELI Schwabing",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/comedy-royale-a-classy-english-standup-comedy-show-tickets-2005202394340",
+  "desc": "An English Open-Mic night in one of the cosiest venues in the heart of Munich.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198815027%2F2308292224493%2F1%2Foriginal.20261128-032123?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.524&s=a586c78da585bc6b9b2c21cedfff97aa"
+ },
+ {
+  "id": "pk-6051e92bc4",
+  "cat": "music",
+  "title": "The Female Run Club - München (Charity Run)",
+  "date": "2026-11-29",
+  "time": "So",
+  "loc": "LAP COFFEE Occamstraße 1, 80802 München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/the-female-run-club-munchen-charity-run-tickets-2004646313086",
+  "desc": "CHARITY RUN TO END VIOLENCE AGAINST WOMEN",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197764907%2F2578476793461%2F1%2Foriginal.20261111-134605?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=49891b7843f68f64390f229615385601"
  },
  {
   "id": "pk-7e0caa9c78",
@@ -180,28 +324,28 @@
   "img": "https://s1.ticketm.net/dam/a/8e5/9f05f338-d9a9-4d39-bb2e-5d2d24ba88e5_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-6b5eb35322",
+  "id": "pk-bfc2317acc",
   "cat": "popup",
-  "title": "DevOpsCon Munich",
+  "title": "20 Jahre Unternehmeredition",
   "date": "2026-11-30",
-  "time": "Nov 30",
-  "loc": "Holiday Inn Munich - City Centre, an IHG Hotel, Munich, Germany",
+  "time": "Mo",
+  "loc": "Werk3Studio",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=DevOpsCon%20Munich",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVL0EJ2qYuQci3Cj--MIoUpKtTQpR3ULH9hiwXKA0aOTg610jfHo4OHtKHfATbeSU49UOi7VJUJMX7uvY"
+  "igUrl": "https://www.eventbrite.de/e/20-jahre-unternehmeredition-tickets-2003335431203",
+  "desc": "Eigentum – Verantwortung – Zukunft",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196692524%2F894280537623%2F1%2Foriginal.20261027-155152?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.044&fp-y=0.413&s=04bb98d64ec83398cbfb49fca7f46f22"
  },
  {
-  "id": "se-c12e44cbe6",
+  "id": "pk-b322f61097",
   "cat": "popup",
-  "title": "Depression Unplugged",
+  "title": "Moon Mics: A Moonday Comedy show",
   "date": "2026-11-30",
-  "time": "Nov 30, 6:00 PM",
-  "loc": "Kulturzentrum Giesinger Bahnhof, Munich, Germany",
+  "time": "Mo",
+  "loc": "The Moon Bar",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Depression%20Unplugged",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJ6TJ1KUiGJDdT6WoyZj-GFEgR5Dfgdla1Op3teF8mDdeX6CZG99V9LpqI2fWe1ZUuD0GqgT4E7OBIjvM"
+  "igUrl": "https://www.eventbrite.de/e/moon-mics-a-moonday-comedy-show-tickets-1995158061470",
+  "desc": "Get ready to laugh under the moonlight at Moon Mics: A Comedy Show - a weekly free comedy show every Monday, or as we call it Moonday!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1031944723%2F2222652815793%2F1%2Foriginal.20250515-192454?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b2eaed11306c15cc0a263101b7f7ee31"
  },
  {
   "id": "se-1fc7db7c86",
@@ -216,6 +360,18 @@
   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS308MNwcZ2ioNO8T9bBVeSBEnUnCMgodBXmGRxQQpcwC9AmJttbhEq5QL1QGfuDwySOlGjtPw9azJPQoY"
  },
  {
+  "id": "pk-9b5ae27597",
+  "cat": "music",
+  "title": "THE VOICE TRIBE Night - 'Christmas' Edition MÜNCHEN",
+  "date": "2026-12-01",
+  "time": "Di",
+  "loc": "Passionskirche (Obersendling)",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.at/e/the-voice-tribe-night-christmas-edition-munchen-tickets-2003956963222",
+  "desc": "Let's sing some of the most beautiful Christmas Songs and experience the Power of Music in an old church with magical acoustics!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196663470%2F2045868004353%2F1%2Foriginal.20261027-082224?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dd8c351c1495e983633e31151365e5c2"
+ },
+ {
   "id": "tm-Z698xZC2Z1k3b_k8E",
   "cat": "music",
   "title": "Pa Sheehy - The Magic We Found Tour",
@@ -226,18 +382,6 @@
   "igUrl": "https://www.ticketmaster.de/event/pa-sheehy-the-magic-we-found-tour-tickets/498646427?language=en-us",
   "desc": "Music · Rock in Kranhalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/fc4/4c22c3e3-4ec8-418a-8d76-c8da85487fc4_TABLET_LANDSCAPE_LARGE_16_9.jpg"
- },
- {
-  "id": "se-87871b6631",
-  "cat": "biz",
-  "title": "Female Business Breakfast",
-  "date": "2026-12-02",
-  "time": "Dec 2, 10:00 AM",
-  "loc": "Botanista Café Club, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Female%20Business%20Breakfast",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSFb-6zcyaFysnXzJ1aTnTVGyLw4vKFEMfQlVyRwOKcKkJvPayXWlsm7HqDAlXMa2jZq446U57Qa3EJsA"
  },
  {
   "id": "se-c655d98400",
@@ -348,6 +492,30 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_n68JxQbX4fqlPWLNWxd7OkQmJlSYhjIkhZ9yqTnctJQq28pQjKFCv5mhxHNBs8fHH0j1Tp5-foVDCHg"
  },
  {
+  "id": "se-5ffde04e34",
+  "cat": "popup",
+  "title": "Latin Night",
+  "date": "2026-12-03",
+  "time": "Dec 3, 8:00 PM",
+  "loc": "Cohibar City, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Latin%20Night",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOZ-wCv9dzxFtfIKsdXCecvchU96qMtFSTqxkIhXxB4Pf2YV33v5jCKYY37PXDoIVUrS5ipSBSZXKyiI"
+ },
+ {
+  "id": "se-bcbaec5e2e",
+  "cat": "music",
+  "title": "Travelers and Locals Meetup",
+  "date": "2026-12-03",
+  "time": "Dec 3, 7:00 PM",
+  "loc": "Café le hygge, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Travelers%20and%20Locals%20Meetup",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkyW53wPjbWPDEIJSktz46Iylppi9QBdVlu3bUeIzjAnezBPlcvz0B6nAM1TYi7qqQPXcQB_IjLtTMbUU"
+ },
+ {
   "id": "se-717716ea49",
   "cat": "popup",
   "title": "Social Hour: Drinks, Games & Good Vibes Social Circle x Tinder",
@@ -358,30 +526,6 @@
   "igUrl": "https://www.google.com/search?q=Social%20Hour%3A%20Drinks%2C%20Games%20%26%20Good%20Vibes%20Social%20Circle%20x%20Tinder",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeIxFZh3S4Yudf3XO0iUhTqosTGgmD0EZx5_48eNrLnrCaEYHf4IZiB92sCUZUzf_H8jxAY6l4SwYEyQw"
- },
- {
-  "id": "se-fa9c15c76d",
-  "cat": "popup",
-  "title": "Munique Dança Forró",
-  "date": "2026-12-03",
-  "time": "Dec 3, 7:00 PM",
-  "loc": "Kulturzentrum Giesinger Bahnhof, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Munique%20Dan%C3%A7a%20Forr%C3%B3",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9YhsK_MjZgxmkyvFMUc2tvA6w5oFtkntS3JwiudOHlz0q9NNaArx7lLe_7gTphwtgdeFEUOC8urxed9s"
- },
- {
-  "id": "se-3ca6954b8a",
-  "cat": "popup",
-  "title": "paint your bear",
-  "date": "2026-12-03",
-  "time": "Dec 3, 7:00 PM",
-  "loc": "lieberscholli - space for art, club and culture, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=paint%20your%20bear",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmP2TtK7r54D5XN6ctjbq1e0VHtsY_j7PzlSYqeWSw6r6Fs9ESJD3cJdH_0GpU5pV1l8a-eEYdfV7V1Y0"
  },
  {
   "id": "se-eead192efb",
@@ -396,16 +540,52 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEn1f7c-Q0C_quxgqXM_r0n6PGnow1acT3AIVDBJGyEbphmplOxw-mc8408OIQkyorBmrqYLu5cqffDV0"
  },
  {
-  "id": "se-93a9fbb4ea",
+  "id": "se-818170a401",
   "cat": "popup",
-  "title": "Queeramnesty",
+  "title": "MUNIQUE DANÇA FORRÓ",
   "date": "2026-12-03",
-  "time": "Dec 3, 7:15 PM",
-  "loc": "Sub - Queer/Gay Communication- and Culture Centre, Munich, Germany",
+  "time": "Dec 3, 7:00 PM",
+  "loc": "Kulturzentrum Giesinger Bahnhof, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Queeramnesty",
+  "igUrl": "https://www.google.com/search?q=MUNIQUE%20DAN%C3%87A%20FORR%C3%93",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWaqSYELI9XXEPeh9R22xRuUceIIOoXx0IEHqUVbaLEUoCGlkvHAR6jBPLybaT5D7gUPtCW1kUZr3APLM"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9UTZlVXj53sZXFruO6Lg5q8j588hVcIzsKLEm2f68YfHc9E00usb2SoG3tsLEKyAunYPagOnF7VA1fIM"
+ },
+ {
+  "id": "pk-21198c56d9",
+  "cat": "gastro",
+  "title": "EATALY VINO FESTIVAL - Essen, Wein & Musik",
+  "date": "2026-12-03",
+  "time": "Do",
+  "loc": "Eataly München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/eataly-vino-festival-essen-wein-musik-tickets-1997701472882",
+  "desc": "Genieße zahlreiche Weine, köstliches italienisches Essen und Musik in der Eataly Enoteca.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188544598%2F1350960294163%2F1%2Foriginal.20260709-153251?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fe8f4788c3b0697430bf9df547d987b3"
+ },
+ {
+  "id": "pk-92941c88e7",
+  "cat": "music",
+  "title": "Travelers and Locals Meetup in Munich!",
+  "date": "2026-12-03",
+  "time": "Do",
+  "loc": "Café le hygge",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/travelers-and-locals-meetup-in-munich-registration-2005218365109",
+  "desc": "An event to mix, enjoy food/drinks, chat, practice languages, and expand networks for locals and travellers.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F710347479%2F253337362296%2F1%2Foriginal.20240303-192209?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C21%2C652%2C326&s=c00477bd68df8587cb9e865f4835a660"
+ },
+ {
+  "id": "pk-14daafcbd2",
+  "cat": "music",
+  "title": "VYNE GOES AFTER WORK",
+  "date": "2026-12-03",
+  "time": "Do",
+  "loc": "Graf Rumford Bar & Galerie",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/vyne-goes-after-work-tickets-2004504519979",
+  "desc": "VYNE – MATCH & VIBE  | Paint, Connect & Afro House",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197840400%2F3002267391256%2F1%2Foriginal.20261112-124425?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=79505b5a178aade53bd924acc41f4938"
  },
  {
   "id": "pk-01d7307618",
@@ -492,6 +672,90 @@
   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo3JBJTx1UsHQ7XAvlwjF0xWw6z_oAGvcnUbyufwUL3HNNkk89L1T7GDJBLAgaHafC6ob8nq2IKFScWAc"
  },
  {
+  "id": "se-96e1c48277",
+  "cat": "popup",
+  "title": "Bühne frei für Ideen",
+  "date": "2026-12-04",
+  "time": "Dec 4, 3:00 PM",
+  "loc": "Stadtteilkultur 2411 e.V., Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=B%C3%BChne%20frei%20f%C3%BCr%20Ideen",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK-wGCR1gDqyfBekmwKkbh9hAzp0n5V9K04kAW1Vizk7B7z6_elCJa2BzsIGFq7umVzitcVhyZ02RyeeE"
+ },
+ {
+  "id": "pk-408370de7f",
+  "cat": "music",
+  "title": "DEVITO Live in Concert!",
+  "date": "2026-12-04",
+  "time": "Fr",
+  "loc": "Freiheitshalle",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/devito-live-in-concert-tickets-2001374273327",
+  "desc": "DEVITO Live in Concert! -  München 2026!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193739184%2F229145853881%2F1%2Foriginal.20260917-114249?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2486c65bdb0234d337c2473eddb60be5"
+ },
+ {
+  "id": "pk-2b74ae0d79",
+  "cat": "popup",
+  "title": "CABAres CABArei - Zijah Sokolović",
+  "date": "2026-12-04",
+  "time": "Fr",
+  "loc": "Kulturhaus Milbertshofen",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/cabares-cabarei-zijah-sokolovic-tickets-2003873892756",
+  "desc": "Zijah Sokolović donosi CABAres CABArei u Minhen! Večer smijeha i vrhunske glume, 4.12.2026. u 20 h, Kulturhaus Milbertshofen.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196533706%2F564276857639%2F1%2Foriginal.20261025-103514?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.023&fp-y=0.515&s=b855a434aba8c75d07e4b242a5120319"
+ },
+ {
+  "id": "pk-3c1986af82",
+  "cat": "music",
+  "title": "FR 04.12 • Tropical Escape @ FILMCASINO",
+  "date": "2026-12-04",
+  "time": "Fr",
+  "loc": "Filmcasino",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/fr-0412-tropical-escape-filmcasino-tickets-2004859054401",
+  "desc": "Münchens heißeste Afro & Latino Party! Tropical Vibes, Afrobeats, Reggaeton & Hip Hop – Freitag, den 04.12 im Filmcasino.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198013384%2F1051638315133%2F1%2Foriginal.20261115-125516?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=16d7aef9985587e337a7793436257bc7"
+ },
+ {
+  "id": "pk-9d123099f3",
+  "cat": "popup",
+  "title": "King Kong Kicks • Milla •  München",
+  "date": "2026-12-04",
+  "time": "Fr",
+  "loc": "Milla Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/king-kong-kicks-milla-munchen-tickets-1998874970846",
+  "desc": "Deine Playlist im Eskalationsmodus! This Sh*t hits different!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190644992%2F1755796095713%2F1%2Foriginal.20260809-123313?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aac2e18938bda9bf0f97d2543cadfb18"
+ },
+ {
+  "id": "pk-093b74114f",
+  "cat": "music",
+  "title": "Mahrina & Aleksandra Live!",
+  "date": "2026-12-04",
+  "time": "Fr",
+  "loc": "Der Balkon",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/mahrina-aleksandra-live-tickets-2004764052247",
+  "desc": "Uživajte u nezaboravnoj noći uz Mahrinu & Aleksandru Mladenovic  Uzivo, predstavlja vam Milligram Events!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197840600%2F229145853881%2F1%2Foriginal.20261112-124748?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d32c113c0c1cbf06bcf6a18224669850"
+ },
+ {
+  "id": "pk-299ab32b2f",
+  "cat": "music",
+  "title": "Jungle Comedy Showcase: Live English Standup",
+  "date": "2026-12-04",
+  "time": "Fr",
+  "loc": "The Jungle Comedy Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/jungle-comedy-showcase-live-english-standup-tickets-2003877792420",
+  "desc": "Discover the best of local and international comedians every Friday at Germany's first International Comedy Club.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189877486%2F2929601923841%2F1%2Foriginal.20260729-141819?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f3850a0c3021f630c1c03870a297640c"
+ },
+ {
   "id": "pk-c6f1be647a",
   "cat": "popup",
   "title": "YFN Stammtisch München",
@@ -540,6 +804,66 @@
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgGze-NNwsbdsAaaP5JpfojScMdw4mOe0T3t95fEEATkg7jlzzfwn8isDzx8U-gkIG7culdOw1ft3qks"
  },
  {
+  "id": "se-a0621fe8ea",
+  "cat": "music",
+  "title": "Munich Pub Crawl – Nightlife Tour with 4 Bars & Club Entry",
+  "date": "2026-12-05",
+  "time": "Dec 5, 8:45 PM",
+  "loc": "Brunnenbuberl, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Munich%20Pub%20Crawl%20%E2%80%93%20Nightlife%20Tour%20with%204%20Bars%20%26%20Club%20Entry",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqD_GjaOSEo32muG4aEyRkQOpHo7gN2pwSGvtIJLfXKdnAcfT5A6_ln9gUl_u-KBeov7VRkAhUsuo0y4I"
+ },
+ {
+  "id": "se-fd688fc6d6",
+  "cat": "popup",
+  "title": "Munich Pub Crawl: Meet New People & Explore the Nightlife",
+  "date": "2026-12-05",
+  "time": "Dec 5, 9:00 PM",
+  "loc": "La Fiesta Muenchen Cantina y Bar Mexicano, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Munich%20Pub%20Crawl%3A%20Meet%20New%20People%20%26%20Explore%20the%20Nightlife",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUYb71X0ugJ0Lw_ZfaQSKI934LyeJrkXV7STVVTqzvZmO8TLHbHlv6cTyKU4a7thY7_TKbOxR03pLa5QA"
+ },
+ {
+  "id": "pk-2d95be5c36",
+  "cat": "popup",
+  "title": "MÜNCHEN - Asian Sensation Party - 05. DEZEMBER 2026",
+  "date": "2026-12-05",
+  "time": "Sa",
+  "loc": "Mint Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/munchen-asian-sensation-party-05-dezember-2026-tickets-2003938964387",
+  "desc": "Your new favorite Asian Party in Europe!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196632639%2F2054586278043%2F1%2Foriginal.20261026-204632?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9269d036e844dd433aa73ec4d6931077"
+ },
+ {
+  "id": "pk-43acd27e21",
+  "cat": "music",
+  "title": "A Cappella Company \"Lichterketten - ein A Cappella Adventskonzert\"",
+  "date": "2026-12-05",
+  "time": "Sa",
+  "loc": "Heilig Kreuz",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/a-cappella-company-lichterketten-ein-a-cappella-adventskonzert-tickets-2001619733505",
+  "desc": "Ein besonderer Klangmoment in der Adventszeit: Am 5. Dezember laden wir euch zu unserem festlichen Adventskonzert ein!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194014299%2F2820939655401%2F1%2Foriginal.20260921-151222?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d653d722b202d6641860c6911d67b969"
+ },
+ {
+  "id": "pk-1c3ab1f149",
+  "cat": "popup",
+  "title": "MÜNCHEN - Asian Sensation Party - 05. DEZEMBER 2026 anzeigen",
+  "date": "2026-12-05",
+  "time": "Sa",
+  "loc": "München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/munchen-asian-sensation-party-05-dezember-2026-tickets-2003938964387?aff=ebdssbcategorybrowse",
+  "desc": "Über eventbrite.de gefunden.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196632639%2F2054586278043%2F1%2Foriginal.20261026-204632?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=754b9da0701fb2f0b02c90a92052fdee"
+ },
+ {
   "id": "pk-152a75be4e",
   "cat": "music",
   "title": "💃 Coffee Rave: Fitness Party",
@@ -562,6 +886,30 @@
   "igUrl": "https://www.google.com/search?q=Salsa%20Night",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEy9N1AjgdAeG3h6ld8mkKrErhVEwNDCZ70gB_sf9vGcH0LbS7183oUxp9VI2EmcDTW-dgW6MfIH6FTXg"
+ },
+ {
+  "id": "pk-e3debf139c",
+  "cat": "music",
+  "title": "Soundtrack einer Yugend Stand-up-Musical von und mit Danko Rabrenović",
+  "date": "2026-12-06",
+  "time": "So",
+  "loc": "Seidlvilla, Kulturzentrum",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/soundtrack-einer-yugend-stand-up-musical-von-und-mit-danko-rabrenovic-tickets-2003957403539",
+  "desc": "Soundtrack einer Yugend mit Danko Rabrenovic. Musik und Geschichten aus dem ehemaligen Jugoslawien. 06.12., Seidlvilla München. 20Uhr Start.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196663555%2F253995701637%2F1%2Foriginal.20261027-082446?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=53594c2de7da6e2c9f0440d274995594"
+ },
+ {
+  "id": "pk-0023b4218f",
+  "cat": "popup",
+  "title": "Advent, Advent, mein Nervensystem brennt❣️",
+  "date": "2026-12-06",
+  "time": "So",
+  "loc": "Langhaarmädchen Salon",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/advent-advent-mein-nervensystem-brennt-tickets-2004655161552",
+  "desc": "Entspannter durch die Weihnachtszeit. Wie du zwischen Weihnachtsstress, Erwartungen und alten Mustern wieder bei dir ankommst.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197682511%2F2015540346473%2F1%2Foriginal.20261110-143509?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.598&fp-y=0.45&s=176a3f5907ff0065140df777dd8ba48f"
  },
  {
   "id": "tm-Z698xZC2Z16vO308vf",
@@ -624,6 +972,30 @@
   "img": "https://s1.ticketm.net/dam/a/41e/a64ba47b-0f72-4484-ad89-f225aa34341e_SOURCE"
  },
  {
+  "id": "se-57de6d6ffa",
+  "cat": "biz",
+  "title": "BVMID Unternehmer:DIALOG München",
+  "date": "2026-12-08",
+  "time": "Dec 8, 6:30 PM",
+  "loc": "Munich Marriott Hotel City West, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=BVMID%20Unternehmer%3ADIALOG%20M%C3%BCnchen",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHh3IogZAVgEeo6CbVBbkwltl87uxzMHul_cPbstlHXNxHH7BNkst0qDS48lvY5M_WnNFPxrzeOb6pY9M"
+ },
+ {
+  "id": "pk-d819a7278e",
+  "cat": "music",
+  "title": "Frauenabend live in München",
+  "date": "2026-12-08",
+  "time": "Di",
+  "loc": "Brienner Str. 39",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/frauenabend-live-in-munchen-tickets-1999786023830",
+  "desc": "Frauenabend live in München- Netzwerkabend  mit  Impulsvortrag und geführten Netzwerkrunden für Businessfrauen",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197439269%2F766799604233%2F1%2Foriginal.20261106-163910?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3f7a19b2761b9213b2647144956d45c0"
+ },
+ {
   "id": "se-f367f65515",
   "cat": "biz",
   "title": "Engineering and Business Networking | Elevating Your Potential",
@@ -645,7 +1017,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Politics%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6b09830e9b21517c216181a5/images/TJv8QLK_bFsxHAp61Ybirl5EhLWYg4gAXXmbKtq2qBA.jpg"
+  "img": "https://serpapi.com/searches/6b0ac9fb12ba36e9d4284176/images/hr_HaFJFLCdghoNWgmrS_ZgE6Mf90dH4omWX--00Aug.jpg"
  },
  {
   "id": "se-1bd420cc1b",
@@ -657,7 +1029,7 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Law%20and%20Business%20Networking%20%7C%20Elevating%20Your%20Potential",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6b09830e9b21517c216181a5/images/MZemPDb53sIxJP7oyQnciqsvNbJk61HC47supU14sT0.jpg"
+  "img": "https://serpapi.com/searches/6b0ac9fb12ba36e9d4284176/images/Zw40OigknV5Tt4zg9yEi3XFLa0YadgdZnU9Julkp1K8.jpg"
  },
  {
   "id": "se-86c9cccb9c",
@@ -672,16 +1044,16 @@
   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn6NM1oyXP8P1CgPGU0AikFCqjlMND0A1wQ5fyJwg_4z3aA0i5Bs5VtXP6pgOPKGXQU-BDXaEsUxDUOJI"
  },
  {
-  "id": "se-3153eb90e0",
-  "cat": "biz",
-  "title": "Female Business Meetup",
+  "id": "pk-b844e5d3dc",
+  "cat": "popup",
+  "title": "ANÍCE. x 17:59 present: THE CHARITY PUNSCH STANDL 2026",
   "date": "2026-12-10",
-  "time": "Dec 10, 7:00 PM",
-  "loc": "60 seconds to napoli München Schwabing, Munich, Germany",
+  "time": "Do 17:00",
+  "loc": "Theresienstraße 13, München",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Female%20Business%20Meetup",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYWmf98L_q-NUIwTnExODX1z48ER_4uaZuKzxVvLdrCnyS_kl1RZp90Shyo37fkRzaGEwmofHgxldUh10"
+  "igUrl": "https://luma.com/hc4uo69v",
+  "desc": "Über luma.com gefunden.",
+  "img": "https://images.lumacdn.com/uploads/cv/400617f7-83dd-46ad-a97d-b041a61768e9.jpg"
  },
  {
   "id": "pk-e4184b4984",
@@ -694,18 +1066,6 @@
   "igUrl": "https://luma.com/mm3rfgcg",
   "desc": "Über luma.com gefunden.",
   "img": "https://images.lumacdn.com/uploads/wu/b6fd513d-fc65-42be-b09c-43dd852108e0.jpg"
- },
- {
-  "id": "se-2038cf062f",
-  "cat": "music",
-  "title": "Munich Pub Crawl – Nightlife Tour with 4 Bars & Club Entry",
-  "date": "2026-12-11",
-  "time": "Dec 11, 8:45 PM",
-  "loc": "Brunnenbuberl, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Munich%20Pub%20Crawl%20%E2%80%93%20Nightlife%20Tour%20with%204%20Bars%20%26%20Club%20Entry",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqD_GjaOSEo32muG4aEyRkQOpHo7gN2pwSGvtIJLfXKdnAcfT5A6_ln9gUl_u-KBeov7VRkAhUsuo0y4I"
  },
  {
   "id": "tm-Z698xZC2Z1krp1ka8",
@@ -753,7 +1113,19 @@
   "ig": "",
   "igUrl": "https://www.google.com/search?q=Friending%20Around%20Munich%3A%20Meet%20Locals%20%26%20Expats",
   "desc": "Gefunden über Google Events.",
-  "img": "https://serpapi.com/searches/6b0983171a9d503e2f836224/images/4eKXCFy5_fJai_UTrjhzAv5w_paqpmR762iWMK3C0rc.jpg"
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN5kKRPLUBon507QBbZL5neRHJR3yUxdx0t0uRZuBwX8AmWBddb4kP34bicnBh8Bvt0PuKvfomBM1dTrQ"
+ },
+ {
+  "id": "se-bec998875f",
+  "cat": "popup",
+  "title": "Do Work You Love Breakfast",
+  "date": "2026-12-14",
+  "time": "Dec 14, 7:30 AM",
+  "loc": "Velvet Space, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Do%20Work%20You%20Love%20Breakfast",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkYY8CCJGEMPbJdyOIaK9RSW4Zn9LxjwjJxd128c5DhtbXD9NIAC53dNnV_8RaCLux0AMvJm838b0BIAg"
  },
  {
   "id": "tm-Z698xZC2Z1k34og3K",
@@ -768,6 +1140,18 @@
   "img": "https://s1.ticketm.net/dam/a/e12/89bdcacc-2237-4412-9b62-721f64594e12_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-7755ffef7e",
+  "cat": "biz",
+  "title": "Unternehmer-Lunch | Neue Geschäftskontakte in kleiner Runde",
+  "date": "2026-12-15",
+  "time": "Dec 15, 11:45 AM",
+  "loc": "Ristorante ROMANS, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Unternehmer-Lunch%20%7C%20Neue%20Gesch%C3%A4ftskontakte%20in%20kleiner%20Runde",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbeePvack_FaRCfhFhBLIvzuXEsACfkVm5lF6D_Cm0DPp9fYfbBavd27r093qLWthErAfozc_yL9GAdig"
+ },
+ {
   "id": "tm-Z698xZC2Z1k-a4_3_",
   "cat": "music",
   "title": "Dayseeker - Creature In The Black Night Tour",
@@ -780,16 +1164,64 @@
   "img": "https://s1.ticketm.net/dam/a/8d6/4622f83a-a2e4-4c77-a7f0-058cd654c8d6_SOURCE"
  },
  {
-  "id": "se-e0a52e4854",
+  "id": "pk-5304b2146f",
   "cat": "popup",
-  "title": "Munich Pub Crawl: Meet New People & Explore the Nightlife",
-  "date": "2026-12-26",
-  "time": "Dec 26, 9:00 PM",
-  "loc": "La Fiesta Muenchen Cantina y Bar Mexicano, Munich, Germany",
+  "title": "Fourth UPC User Forum",
+  "date": "2026-12-16",
+  "time": "Mi",
+  "loc": "Deutsches Patent- und Markenamt",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Munich%20Pub%20Crawl%3A%20Meet%20New%20People%20%26%20Explore%20the%20Nightlife",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUYb71X0ugJ0Lw_ZfaQSKI934LyeJrkXV7STVVTqzvZmO8TLHbHlv6cTyKU4a7thY7_TKbOxR03pLa5QA"
+  "igUrl": "https://www.eventbrite.de/e/fourth-upc-user-forum-tickets-2003928644520",
+  "desc": "Join us in person for the Fourth UPC User Forum! We bring together UPC judges and practitioners to exchange experiences and connect!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196613952%2F1625087344663%2F1%2Foriginal.20261026-172615?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=caf84cc3dcd8f69faaf7b1b312153324"
+ },
+ {
+  "id": "pk-2ef369d02e",
+  "cat": "popup",
+  "title": "bratty  • w/ charli xcx & other brat coded artists • münchen",
+  "date": "2026-12-19",
+  "time": "Sa",
+  "loc": "Milla Club",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/bratty-w-charli-xcx-other-brat-coded-artists-munchen-tickets-1976653916073",
+  "desc": "the party night with songs from charli xcx and other brat coded artists",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197913946%2F3000885310945%2F1%2Foriginal.20261113-123943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.017&fp-y=0.549&s=8a15b4e77973f9a734cce85bb1b7eff8"
+ },
+ {
+  "id": "pk-37f885ff05",
+  "cat": "music",
+  "title": "\"Fürchtet Euch nicht\" (Montag)",
+  "date": "2026-12-21",
+  "time": "Mo",
+  "loc": "Herz Jesu",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/furchtet-euch-nicht-montag-tickets-2003761280931",
+  "desc": "Weihnachtskonzert der Freunde und Förderer der Münchner Philharmoniker",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198778047%2F144750851473%2F1%2Foriginal.20261127-102242?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.22&s=a8bc851db22b9e7ea228d623d8be87b1"
+ },
+ {
+  "id": "pk-b67e6d55bd",
+  "cat": "music",
+  "title": "\"Fürchtet Euch nicht\" (Dienstag)",
+  "date": "2026-12-22",
+  "time": "Di",
+  "loc": "Herz Jesu",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/furchtet-euch-nicht-dienstag-tickets-2003759108433",
+  "desc": "Weihnachtskonzert der Freunde und Förderer der Münchner Philharmoniker",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198778111%2F144750851473%2F1%2Foriginal.20261127-102414?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.205&s=8f0e63c2221fefba2393fbba99f67768"
+ },
+ {
+  "id": "pk-ce8436afc8",
+  "cat": "music",
+  "title": "HIP HOP AM MAXIMILIANSPLATZ • FR. 25.12.26 • PACHA MUNICH",
+  "date": "2026-12-25",
+  "time": "Fr",
+  "loc": "Pacha",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/hip-hop-am-maximiliansplatz-fr-251226-pacha-munich-tickets-2002383961331",
+  "desc": "Das große Hip Hop SPECIAL EVENT im PACHA MUNICH am 1. Weihnachtsfeiertag . JETZT TICKETS SICHERN",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194456571%2F1051638315133%2F1%2Foriginal.20260927-143813?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1ba3091e18a93c81424b1166b585bb52"
  },
  {
   "id": "tm-Z698xZC2Z16vFwqyFs",
@@ -804,28 +1236,100 @@
   "img": "https://s1.ticketm.net/dam/a/15a/198676be-bed2-4a71-a985-a87a1234815a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
-  "id": "se-0927832e1e",
-  "cat": "popup",
-  "title": "BAU",
-  "date": "2027-01-11",
-  "time": "Jan 11",
-  "loc": "Messe München, Munich, Germany",
+  "id": "pk-6b49200640",
+  "cat": "music",
+  "title": "Silvestergala im Löwenbräukeller - THE GRAND NEW YEAR'S EVE",
+  "date": "2026-12-31",
+  "time": "Do",
+  "loc": "Löwenbräukeller - Das Original",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=BAU",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB6BOLCq6F2Dne9w4KsVvpWxBzUaKogoFa0u99Bj00QJkPu91-TovFWJvj1n2Zp0z7StqO8aI_KFmduWg"
+  "igUrl": "https://www.eventbrite.de/e/silvestergala-im-lowenbraukeller-the-grand-new-years-eve-tickets-2003170933185",
+  "desc": "Erlebt Bayerns größte Silvestergala 2026/27 im Löwenbräukeller mit festlichem Buffet, Live-Band, DJ und einer unvergesslichen Partynacht!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195397663%2F173180874245%2F1%2Foriginal.20261008-193737?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1fca4ac7b000dd801d63a412d9e18f58"
  },
  {
-  "id": "se-f7678919a3",
+  "id": "pk-6f628fe39c",
+  "cat": "music",
+  "title": "New Years Eve at AAHHH Penthouse",
+  "date": "2026-12-31",
+  "time": "Do",
+  "loc": "AAHHH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/new-years-eve-at-aahhh-penthouse-tickets-2003856460616",
+  "desc": "Feiert in der exklusivsten Location Münchens ins Jahr 2027 - Hoch über den Dächern der Stadt!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196504850%2F173180874245%2F1%2Foriginal.20261024-160546?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5edee645d7240c03271cc3e2e4ef91b"
+ },
+ {
+  "id": "pk-6a381c6213",
+  "cat": "popup",
+  "title": "Dance With Somebody! • Indie, 80s, Pop • Silvester 26/27 • Strom München",
+  "date": "2026-12-31",
+  "time": "Do",
+  "loc": "Strom",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/dance-with-somebody-indie-80s-pop-silvester-2627-strom-munchen-tickets-1999483533072",
+  "desc": "INDE vs. 80s vs. POP - Hits!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192455083%2F539487482247%2F1%2Foriginal.20260902-094734?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=332927f3d2f3ce171308b32bade77912"
+ },
+ {
+  "id": "pk-80baff02ca",
+  "cat": "popup",
+  "title": "Silvester 089 Bar",
+  "date": "2026-12-31",
+  "time": "Do",
+  "loc": "089 Bar",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/silvester-089-bar-tickets-2003959684361",
+  "desc": "Das Jahr ist doch tatsächlich schon fast wieder vorbei! Und wie heißt es so schön? In München daheim, in der Welt zuhause.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196670827%2F1847642813533%2F1%2Foriginal.20261027-104839?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4f872dbb2a278f495a615300e60ae47b"
+ },
+ {
+  "id": "pk-213cfb6900",
+  "cat": "music",
+  "title": "Terrably Funny! English Comedy Night @Terra",
+  "date": "2027-01-03",
+  "time": "So",
+  "loc": "Terra",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/terrably-funny-english-comedy-night-terra-tickets-1989764760963",
+  "desc": "An English Comedy Open-Mic every Sunday featuring Munich's funniest, wittiest and baddest comedians",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187277158%2F2308292224493%2F1%2Foriginal.20260619-155752?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.487&fp-y=0.483&s=fa455aaf54cc752978b2bc6c5aead1f9"
+ },
+ {
+  "id": "pk-d6f7706a9c",
+  "cat": "gastro",
+  "title": "Faschingsauftakt der Kirnarra",
+  "date": "2027-01-05",
+  "time": "Di",
+  "loc": "Feststadl Aschheim",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/faschingsauftakt-der-kirnarra-tickets-2003908083020",
+  "desc": "Inthronisation der Kinder- und Erwachsenenprinzenpaare für die Faschingssaison 2027. Premiere des Showprogramms und klassischer Gardetänze.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F635260949%2F1760144835283%2F1%2Foriginal.20231104-233357?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=49d69884c49d6ec2bde68e88c4c7a760"
+ },
+ {
+  "id": "se-6d19221068",
   "cat": "biz",
-  "title": "BVMID Unternehmer:DIALOG München",
+  "title": "BVMID Unternehmer:DIALOG München | Netzwerken. Austausch. Neue Kontakte.",
   "date": "2027-01-12",
   "time": "Jan 12, 6:30 PM",
   "loc": "Munich Marriott Hotel City West, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=BVMID%20Unternehmer%3ADIALOG%20M%C3%BCnchen",
+  "igUrl": "https://www.google.com/search?q=BVMID%20Unternehmer%3ADIALOG%20M%C3%BCnchen%20%7C%20Netzwerken.%20Austausch.%20Neue%20Kontakte.",
   "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRhYAKVKOg2oNBJpsCP9biZjVHdWYcANAXiythKvhtxwOGbSsnRUkAiMIMTklzAhGj96yzIzyk-y10I7o"
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw6JBc_cPvHEv1IpXq8O5yllgJxJdLVdPPtANoXff9K58FlGNp0lY9tzSAcRMFn0A33ZBg3JaBpoX3GxM"
+ },
+ {
+  "id": "pk-480359de7e",
+  "cat": "gastro",
+  "title": "EATALY VINO FESTIVAL - Essen, Wein & Musik",
+  "date": "2027-01-14",
+  "time": "Do",
+  "loc": "Eataly München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/eataly-vino-festival-essen-wein-musik-tickets-2004377850106",
+  "desc": "Genieße zahlreiche Weine, köstliches italienisches Essen und Musik in der Eataly Enoteca.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188544598%2F1350960294163%2F1%2Foriginal.20260709-153251?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=30a62c700315ac1abefbaa4d4f060b20"
  },
  {
   "id": "tm-Z698xZC2Z16v4JueZS",
@@ -840,6 +1344,18 @@
   "img": "https://s1.ticketm.net/dam/a/8d6/7f34a68f-04f6-4f13-bdaf-b43c84cb18d6_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-30bad669d8",
+  "cat": "popup",
+  "title": "Fachkongress",
+  "date": "2027-01-22",
+  "time": "Fr",
+  "loc": "IU Internationale Hochschule – Campus München",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/fachkongress-tickets-1998894089029",
+  "desc": "Systemische Strukturaufstellungen in Theorie und Praxis",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196274834%2F3009827575673%2F1%2Foriginal.20261021-132851?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=de0cb6db6b0ef7d090a2fb4e726c842b"
+ },
+ {
   "id": "tm-Z698xZC2Z16vAF8Z_v",
   "cat": "music",
   "title": "MICO - IN:BETWEEN TOUR",
@@ -852,18 +1368,6 @@
   "img": "https://s1.ticketm.net/dam/a/987/d708119f-6026-422c-b7cd-240b00c8f987_SOURCE"
  },
  {
-  "id": "se-40f42d3a18",
-  "cat": "popup",
-  "title": "Do Work You Love Breakfast",
-  "date": "2027-01-25",
-  "time": "Jan 25, 7:30 AM",
-  "loc": "Bar Centrale, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Do%20Work%20You%20Love%20Breakfast",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSAmQkILivX2wRWmiLfduJUrI13nCYpVjBSAs-lCyB6j6XqMIInJ1XWYyJXei5n2_hkga6sZ1WvN4Vlic"
- },
- {
   "id": "tm-Z698xZC2Z16vfkaxuV",
   "cat": "popup",
   "title": "Cirque du Soleil - OVO",
@@ -874,6 +1378,30 @@
   "igUrl": "https://www.ticketmaster.de/event/cirque-du-soleil-ovo-tickets/1506262374?language=en-us",
   "desc": "Arts & Theatre · Spectacular in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/dd5/188d996a-b39d-4a01-a659-eb587e1afdd5_SOURCE"
+ },
+ {
+  "id": "se-316a44f189",
+  "cat": "biz",
+  "title": "Business mit Weitblick - Frauenabend meets Xpert Connect",
+  "date": "2027-01-29",
+  "time": "Jan 29, 2:00 PM",
+  "loc": "O2 Towers Munich, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Business%20mit%20Weitblick%20-%20Frauenabend%20meets%20Xpert%20Connect",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiW_byFC0v5Kl-V9VkHZ_y2Zc80UhHW800Vhc9E6l5IH7Qbit0cmn1PlekeSjRu1PcKpmlUUGKsWvjM7c"
+ },
+ {
+  "id": "pk-b31901d60e",
+  "cat": "music",
+  "title": "THE WINTERFEST 2027 – Sounds to Fall in Love With | Muffatwerk München",
+  "date": "2027-01-30",
+  "time": "Sa",
+  "loc": "Ampere",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/the-winterfest-2027-sounds-to-fall-in-love-with-muffatwerk-munchen-tickets-2004530772501",
+  "desc": "THE WINTERFEST 2027 im Muffatwerk München. LOVESICK × GOATS präsentieren fünf DJs, feinste Club Sounds und eine unvergessliche Nacht.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197510069%2F660092003353%2F1%2Foriginal.20261107-222844?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1976811bb23a28a00e1a7d65cd9531c0"
  },
  {
   "id": "tm-Z698xZC2Z16evJ7N0E",
@@ -960,6 +1488,18 @@
   "img": "https://s1.ticketm.net/dam/a/1a1/2305696e-33df-4028-9813-29f719e831a1_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "pk-a129243a19",
+  "cat": "music",
+  "title": "Westside Gunn Live in Munich",
+  "date": "2027-02-10",
+  "time": "Mi",
+  "loc": "Backstage Kulturzentrum",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.com/e/westside-gunn-live-in-munich-tickets-2003435828494",
+  "desc": "Westside Gunn is set to perform live in Munich feat. Smoke DZA, Brother Tom Sos, Feed The Family & DJ Relly Rell on february 10th 2027.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195856565%2F234361575136%2F1%2Foriginal.20261015-112339?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b243ca6ec8c345af06793a49cea64dba"
+ },
+ {
   "id": "tm-Z698xZC2Z16eeZAo8o",
   "cat": "music",
   "title": "DAGNY - Europe 2027",
@@ -970,6 +1510,18 @@
   "igUrl": "https://www.ticketmaster.de/event/dagny-europe-2027-tickets/2080151411?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/56b/fd3e26df-9a3e-4fc9-889b-2443a790656b_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-316fd33733",
+  "cat": "biz",
+  "title": "Lunchtime with Siemens for Startups",
+  "date": "2027-02-11",
+  "time": "Feb 11, 11:20 AM",
+  "loc": "Munich Urban Colab, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=Lunchtime%20with%20Siemens%20for%20Startups",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuQulICqkwiUhdOk2DXOPUzkh1UPShez-6dv36KaRoL2snMj34Qwb8yPYnLdvRQrxK70Vq1xESTn-iyyI"
  },
  {
   "id": "tm-Z698xZC2Z1kvoGzqw",
@@ -1032,18 +1584,6 @@
   "img": "https://s1.ticketm.net/dam/a/fd2/31ff92a8-a234-4215-8536-d50b9484cfd2_SOURCE"
  },
  {
-  "id": "se-c478bdb910",
-  "cat": "biz",
-  "title": "Unternehmer-Lunch | Neue Geschäftskontakte in kleiner Runde",
-  "date": "2027-02-16",
-  "time": "Feb 16, 11:45 AM",
-  "loc": "Ristorante ROMANS, Munich, Germany",
-  "ig": "",
-  "igUrl": "https://www.google.com/search?q=Unternehmer-Lunch%20%7C%20Neue%20Gesch%C3%A4ftskontakte%20in%20kleiner%20Runde",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV_GWi_JpUU_AApgzjP755_1xVkpHz_htVJITlBIxgTDPM8BY-cIa83CCng63-axPL63xPIecf6WKXcUc"
- },
- {
   "id": "tm-Z698xZC2Z16vjF_7xp",
   "cat": "music",
   "title": "Cameron Whitcomb - The Kingdom Of Fear EU/UK Tour 2027",
@@ -1080,16 +1620,16 @@
   "img": "https://s1.ticketm.net/dam/a/3b8/68508f11-f20d-4ac5-8053-4fa37f6563b8_SOURCE"
  },
  {
-  "id": "se-c2b7ba56ff",
-  "cat": "popup",
-  "title": "Community Dance",
-  "date": "2027-02-21",
-  "time": "Feb 21, 11:00 AM",
-  "loc": "Halle E, Munich, Germany",
+  "id": "pk-936af7e890",
+  "cat": "music",
+  "title": "Ü60 PARTY– LEGENDEN UNTER SICH - Sa, 20.2. von 19-23 Uhr Filmcasino",
+  "date": "2027-02-20",
+  "time": "Sa",
+  "loc": "Filmcasino",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Community%20Dance",
-  "desc": "Gefunden über Google Events.",
-  "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRLcA5YNqWDzOKAhW5vOk_vUvboD2WNld5aG-ZGf49HqpO46t87gsAGZ64EdOfOqQtyLKpfZzyqMYED_Y"
+  "igUrl": "https://www.eventbrite.de/e/u60-party-legenden-unter-sich-sa-202-von-19-23-uhr-filmcasino-tickets-2003943169966",
+  "desc": "München bekommt ein Event für die Generation, die Ausgehen noch richtig gelernt hat: Die Ü60 PARTY – Legenden unter sich.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196641178%2F327467203069%2F1%2Foriginal.20261026-224921?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=533a0842749e9256cfa27466976fc0ba"
  },
  {
   "id": "tm-Z698xZC2Z16v0zA740",
@@ -1126,6 +1666,18 @@
   "igUrl": "https://www.ticketmaster.de/event/blue-man-group-world-tour-tickets/577345454?language=en-us",
   "desc": "Arts & Theatre · Spectacular in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/a30/855bbdbe-7466-447b-a847-6c731c3e4a30_SOURCE"
+ },
+ {
+  "id": "pk-5443fad33a",
+  "cat": "popup",
+  "title": "Familienzeit-Workshop: Gipsfiguren | Für 3- bis 6-Jährige mit Begleitung",
+  "date": "2027-02-26",
+  "time": "Fr",
+  "loc": "MIXT Kinderkunsthaus gGmbH",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/familienzeit-workshop-gipsfiguren-fur-3-bis-6-jahrige-mit-begleitung-tickets-2004279644370",
+  "desc": "Familienzeit-Workshop: Gipsfiguren | Für 3- bis 6-Jährige mit erwachsener Begleitung",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1115394613%2F200674814992%2F1%2Foriginal.20250905-145030?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=3d15eba5263fa273468705d228d015df"
  },
  {
   "id": "tm-Z698xZC2Z16vOSGsfv",
@@ -1260,6 +1812,18 @@
   "img": "https://s1.ticketm.net/dam/a/964/f73491ac-00d6-4c09-9063-e5637083b964_SOURCE"
  },
  {
+  "id": "pk-7a53c8b23e",
+  "cat": "popup",
+  "title": "FabLabKids: 3D-scribbeln - kreatives Arbeiten mit dem 3D-Stift",
+  "date": "2027-03-20",
+  "time": "Sa",
+  "loc": "FabLab München e.V.",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/fablabkids-3d-scribbeln-kreatives-arbeiten-mit-dem-3d-stift-tickets-2005365299594",
+  "desc": "3D-scribbeln - kreatives Arbeiten mit dem 3D-Stift. Für Kids von 8-12 Jahren.",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F272351569%2F120138891355%2F1%2Foriginal.20220425-072920?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e5833f198e332b261f87a4cd56cc0348"
+ },
+ {
   "id": "tm-Z698xZC2Z16v1eCeGO",
   "cat": "music",
   "title": "Bonobo - Distance In Static - Live",
@@ -1306,6 +1870,18 @@
   "igUrl": "https://www.ticketmaster.de/event/loreena-mckennitt-the-mask-and-mirror-30th-anniversary-tour-tickets/912971431?language=en-us",
   "desc": "Music · Rock in . Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/f2a/b470aee2-b906-4d1a-a3c4-2e1a0779ef2a_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+ },
+ {
+  "id": "se-4b1a4f26f1",
+  "cat": "popup",
+  "title": "MunichTech EXPO Conference",
+  "date": "2027-03-22",
+  "time": "Mar 22, 9:00 AM",
+  "loc": "Alte Kongresshalle, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=MunichTech%20EXPO%20Conference",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDVhE_c__XUr157MVxa5lro8JyLpuPZl89hgXZ5tTs3eNLR15wn5TWfhiZf_C1xPbEPbZirbfW60rqbqQ"
  },
  {
   "id": "tm-Z698xZC2Z1kqopoP0",
@@ -1500,16 +2076,28 @@
   "img": "https://s1.ticketm.net/dam/a/880/85553065-0c5c-41f3-9e33-03bff75c2880_SOURCE"
  },
  {
-  "id": "se-2d134c1eab",
+  "id": "se-ee6de44f31",
   "cat": "popup",
-  "title": "Munich Tech Job Fair Spring (München Tech Job Messe)",
+  "title": "Munich Tech Job Fair Spring",
   "date": "2027-04-22",
   "time": "Apr 22, 6:00 PM",
   "loc": "Sirius Konferenzzentrum, Munich, Germany",
   "ig": "",
-  "igUrl": "https://www.google.com/search?q=Munich%20Tech%20Job%20Fair%20Spring%20%28M%C3%BCnchen%20Tech%20Job%20Messe%29",
+  "igUrl": "https://www.google.com/search?q=Munich%20Tech%20Job%20Fair%20Spring",
   "desc": "Gefunden über Google Events.",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eBDRsfo2Ck0U1Zl0OoUB1y0VmY3WiP8tKQ07rzP_CKj2Zx22AyBkdTJxW_6slgrqkLcoMh9wfzUTrzg"
+ },
+ {
+  "id": "pk-a8f8df57d9",
+  "cat": "popup",
+  "title": "Munich Tech Job Fair Spring 2027 (München Tech Job Messe 2027)",
+  "date": "2027-04-22",
+  "time": "Do",
+  "loc": "meetinn Conference Center Munich Neuaubing",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.co.uk/e/munich-tech-job-fair-spring-2027-munchen-tech-job-messe-2027-tickets-1988984302591",
+  "desc": "Willkommen zur München Tech Job Messe, einem exklusiven Abend, der dem Recruiting, Networking und der Gewinnung von Top-Talenten in der Tech",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F992999733%2F186680860246%2F1%2Foriginal.20241226-093233?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1103%2C0%2C5130%2C2565&s=e5d88dbca7bb268e138ce24405f882a5"
  },
  {
   "id": "tm-Z698xZC2Z1ku-q-38",
@@ -1582,6 +2170,18 @@
   "igUrl": "https://www.ticketmaster.de/event/greta-van-fleet-into-the-beginning-tickets/1124094012?language=en-us",
   "desc": "Music · Rock in Olympiahalle. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/d39/045f547d-bf0c-45fb-8b53-0723109d4d39_SOURCE"
+ },
+ {
+  "id": "pk-8b4cf36e1a",
+  "cat": "popup",
+  "title": "Megamarsch 100/24 München 2027",
+  "date": "2027-05-15",
+  "time": "Sa",
+  "loc": "Eichthalstraße",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/megamarsch-10024-munchen-2027-tickets-1989978590533",
+  "desc": "Sei dabei!",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194006480%2F2993409100258%2F1%2Foriginal.20260921-134410?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=09fc79c8e9cf03f9edc00e1d3431f308"
  },
  {
   "id": "tm-Z698xZC2Z16v8eJZr7",
@@ -1728,6 +2328,18 @@
   "img": "https://s1.ticketm.net/dam/a/442/3e0f9858-c178-4af9-906b-8e04f3ff0442_TABLET_LANDSCAPE_LARGE_16_9.jpg"
  },
  {
+  "id": "se-2b8ebd0c1f",
+  "cat": "biz",
+  "title": "HAPPY STARTUP™ – Connecting Startups, Investors & Universities",
+  "date": "2027-06-18",
+  "time": "Jun 18, 9:00 AM",
+  "loc": "The Westin Grand Munich, Munich, Germany",
+  "ig": "",
+  "igUrl": "https://www.google.com/search?q=HAPPY%20STARTUP%E2%84%A2%20%E2%80%93%20Connecting%20Startups%2C%20Investors%20%26%20Universities",
+  "desc": "Gefunden über Google Events.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3wYkbmobEXJv77IMCCWcKs0UgBCWZr-PUdqevRHmSxe5_4-tHiE_whGQjRw1S2RtArQg8VDmYwjzyvg"
+ },
+ {
   "id": "tm-Z698xZC2Z1k-Kk3-_",
   "cat": "music",
   "title": "Nickelback: Everything Under The Sun Tour",
@@ -1798,6 +2410,18 @@
   "igUrl": "https://www.ticketmaster.de/event/oasis-live-27-%7C-ticket--hotel-packages-tickets/1641747540?language=en-us",
   "desc": "Music · Rock in Allianz Arena. Tickets & Infos über Ticketmaster.",
   "img": "https://s1.ticketm.net/dam/a/19e/875424a1-1ace-4e57-a098-cc1baa60f19e_SOURCE"
+ },
+ {
+  "id": "pk-2033ae4540",
+  "cat": "music",
+  "title": "RAVE AM SEE 2027",
+  "date": "2027-07-03",
+  "time": "Sa",
+  "loc": "Andys Seehäusl",
+  "ig": "",
+  "igUrl": "https://www.eventbrite.de/e/rave-am-see-2027-tickets-1993264407500",
+  "desc": "DER EINZIGE RAVE AM SEE IN MÜNCHEN",
+  "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188233438%2F2368647695933%2F1%2Foriginal.20260705-150628?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=05ca633b8c26734dc4ecda5f72f2d980"
  },
  {
   "id": "tm-Z698xZC2Z1kaZayGz",
